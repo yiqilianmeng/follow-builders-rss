@@ -5,403 +5,55 @@
     <link>https://github.com/zarazhangrui/follow-builders</link>
     <description>聚合 AI 领域建设者的 X、播客和博客内容。</description>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 30 Mar 2026 12:52:17 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 30 Mar 2026 18:44:44 +0000</lastBuildDate>
     <item>
-      <title>the most delightful AIs of our time  shelved to do koding and enterprise saas https://t.co/OtrYwwp12k</title>
-      <link>https://x.com/swyx/status/2038509566800118021</link>
-      <description>作者：Swyx
-账号：@swyx
-简介：achieve ambition with intentionality, intensity, integrity &amp; insanity.
+      <title>Computer use is now in Claude Code.  Claude can open your apps, click through your UI, and test what it built, right from the CLI.  Now in research preview on Pro and Max plans. https://t.co/s2FDQaDmr1</title>
+      <link>https://x.com/claudeai/status/2038663014098899416</link>
+      <description>作者：Claude
+账号：@claudeai
+简介：Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Talk to Claude on https://t.co/ZhTwG8d1e5 or download the app.
 
-affiliations:
-- @dxtipshq 
-- @cognition
-- @temporalio
-- @aidotengineer
-- @latentspacepod
+Computer use is now in Claude Code.
 
-the most delightful AIs of our time
+Claude can open your apps, click through your UI, and test what it built, right from the CLI.
 
-shelved to do koding and enterprise saas https://t.co/OtrYwwp12k</description>
-      <pubDate>Mon, 30 Mar 2026 06:52:09 +0000</pubDate>
-      <guid isPermaLink="false">2038509566800118021</guid>
+Now in research preview on Pro and Max plans. https://t.co/s2FDQaDmr1</description>
+      <pubDate>Mon, 30 Mar 2026 17:01:53 +0000</pubDate>
+      <guid isPermaLink="false">2038663014098899416</guid>
     </item>
     <item>
-      <title>OK, I heard people are running into my &quot;You should apply to YC&quot; message dozens of times, so I decided to make them more interesting every time. https://t.co/zFuy2XYfor</title>
-      <link>https://x.com/garrytan/status/2038505281504833579</link>
-      <description>作者：Garry Tan
-账号：@garrytan
-简介：President &amp; CEO @ycombinator —Founder @garryslist—Creator of GStack—designer/engineer who helps founders—SF Dem accelerating the boom loop
-
-OK, I heard people are running into my &quot;You should apply to YC&quot; message dozens of times, so I decided to make them more interesting every time. https://t.co/zFuy2XYfor</description>
-      <pubDate>Mon, 30 Mar 2026 06:35:07 +0000</pubDate>
-      <guid isPermaLink="false">2038505281504833579</guid>
-    </item>
-    <item>
-      <title>This is the simplest optimization when you have a big boil-the-ocean PR but it's so useful.   Whatever can be parallelized as agents, /plan-ceo-review will figure it out and make a plan that clearly states what you can do side-by-side and when to merge https://t.co/rB2Hji25fV</title>
-      <link>https://x.com/garrytan/status/2038493235862253676</link>
-      <description>作者：Garry Tan
-账号：@garrytan
-简介：President &amp; CEO @ycombinator —Founder @garryslist—Creator of GStack—designer/engineer who helps founders—SF Dem accelerating the boom loop
-
-This is the simplest optimization when you have a big boil-the-ocean PR but it's so useful. 
-
-Whatever can be parallelized as agents, /plan-ceo-review will figure it out and make a plan that clearly states what you can do side-by-side and when to merge https://t.co/rB2Hji25fV</description>
-      <pubDate>Mon, 30 Mar 2026 05:47:15 +0000</pubDate>
-      <guid isPermaLink="false">2038493235862253676</guid>
-    </item>
-    <item>
-      <title>morluto was my first outside GStack contributor https://t.co/Z89uqLBWky https://t.co/N3ZO14Gacr</title>
-      <link>https://x.com/garrytan/status/2038490850507084252</link>
-      <description>作者：Garry Tan
-账号：@garrytan
-简介：President &amp; CEO @ycombinator —Founder @garryslist—Creator of GStack—designer/engineer who helps founders—SF Dem accelerating the boom loop
-
-morluto was my first outside GStack contributor https://t.co/Z89uqLBWky https://t.co/N3ZO14Gacr</description>
-      <pubDate>Mon, 30 Mar 2026 05:37:46 +0000</pubDate>
-      <guid isPermaLink="false">2038490850507084252</guid>
-    </item>
-    <item>
-      <title>It’s wild to think about what types of infrastructure and services must change in a world where agents can process information a hundred or a thousand times faster than humans.  Even the tools that were built for machine speed before, generally were still in service of end-users making a request som...</title>
-      <link>https://x.com/levie/status/2038468564500537416</link>
-      <description>作者：Aaron Levie
-账号：@levie
-简介：ceo @box - your business lives in content. unleash it with AI
-
-It’s wild to think about what types of infrastructure and services must change in a world where agents can process information a hundred or a thousand times faster than humans.
-
-Even the tools that were built for machine speed before, generally were still in service of end-users making a request somewhere in the system. Agents running 24/7 and in parallel modify these requirements meaningfully. Here are just a few examples:
-
-* Sandboxes. Agents need sandboxes to operate in that have to be insanely low latency because they can boot up these environments for coding at any moment.
-
-* Search (both publicly and within an enterprise). Agents can parallelize searches hundreds or thousands of times so they need to be able to work with fast indexes of information. 
-
-* Payments. Agents can now pay in micro transactions, and aren’t bothered by the friction of paying $0.01 for a resource that a human would be. 
-
-* File systems. Agents need to be able to work with files at a scale that humans never had to worry about. You’ll have all new complexity around version control, permissions, and having agents reading/writing from data at insane speeds.
-
-And there are tons more. We’re going from a word where software was built for people to a world where it’s built for agents. Lots of changes downstream as a result.</description>
-      <pubDate>Mon, 30 Mar 2026 04:09:13 +0000</pubDate>
-      <guid isPermaLink="false">2038468564500537416</guid>
-    </item>
-    <item>
-      <title>Can't tell if my plane WiFi sucks or if Claude's down again - at least X is working</title>
-      <link>https://x.com/petergyang/status/2038461555713732620</link>
-      <description>作者：Peter Yang
-账号：@petergyang
-简介：I share extremely practical AI tutorials and interviews | Join 140K+ readers at https://t.co/XYKTmGVH14 | Product at Roblox
-
-Can't tell if my plane WiFi sucks or if Claude's down again - at least X is working</description>
-      <pubDate>Mon, 30 Mar 2026 03:41:22 +0000</pubDate>
-      <guid isPermaLink="false">2038461555713732620</guid>
-    </item>
-    <item>
-      <title>If you enjoyed this, sign up for free to my newsletter to get my best AI and product guides.  Join 110,000+ subscribers here: https://t.co/yz9xcsfrhF</title>
-      <link>https://x.com/petergyang/status/2038453706493243698</link>
-      <description>作者：Peter Yang
-账号：@petergyang
-简介：I share extremely practical AI tutorials and interviews | Join 140K+ readers at https://t.co/XYKTmGVH14 | Product at Roblox
-
-If you enjoyed this, sign up for free to my newsletter to get my best AI and product guides.
-
-Join 110,000+ subscribers here:
-https://t.co/yz9xcsfrhF</description>
-      <pubDate>Mon, 30 Mar 2026 03:10:10 +0000</pubDate>
-      <guid isPermaLink="false">2038453706493243698</guid>
-    </item>
-    <item>
-      <title>redpoint literally just published a ranked list of saas businesses to redo from scratch with ai.   you can flip the 54% and the number 46% of enterprise CIOs *open to new ainative startups* over incumbents is a stunning market opportunity. if you’d asked me prior to seeing this survey i’d have said ...</title>
-      <link>https://x.com/swyx/status/2038431061575979027</link>
-      <description>作者：Swyx
-账号：@swyx
-简介：achieve ambition with intentionality, intensity, integrity &amp; insanity.
-
-affiliations:
-- @dxtipshq 
-- @cognition
-- @temporalio
-- @aidotengineer
-- @latentspacepod
-
-redpoint literally just published a ranked list of saas businesses to redo from scratch with ai. 
-
-you can flip the 54% and the number 46% of enterprise CIOs *open to new ainative startups* over incumbents is a stunning market opportunity. if you’d asked me prior to seeing this survey i’d have said like 20%. CIOs are more hungry than conservative right now (vs my priors) and that will not last.</description>
-      <pubDate>Mon, 30 Mar 2026 01:40:11 +0000</pubDate>
-      <guid isPermaLink="false">2038431061575979027</guid>
-    </item>
-    <item>
-      <title>I am incredibly bullish on @meetgranola for a few reasons:  1. Meeting notes are by far the most useful context in a company  2. They know how to build for agents first with great APIs and MCPs  3. @cjpedregal is a stand-up human  Love how they started with a wedge in meeting notes and are expanding...</title>
-      <link>https://x.com/petergyang/status/2038420980494909637</link>
-      <description>作者：Peter Yang
-账号：@petergyang
-简介：I share extremely practical AI tutorials and interviews | Join 140K+ readers at https://t.co/XYKTmGVH14 | Product at Roblox
-
-I am incredibly bullish on @meetgranola for a few reasons:
-
-1. Meeting notes are by far the most useful context in a company
-
-2. They know how to build for agents first with great APIs and MCPs
-
-3. @cjpedregal is a stand-up human
-
-Love how they started with a wedge in meeting notes and are expanding into much more.</description>
-      <pubDate>Mon, 30 Mar 2026 01:00:08 +0000</pubDate>
-      <guid isPermaLink="false">2038420980494909637</guid>
-    </item>
-    <item>
-      <title>Everybody says Spain, but, I mean… https://t.co/S95ePKpsb6</title>
-      <link>https://x.com/mattturck/status/2038420259179213266</link>
-      <description>作者：Matt Turck
-账号：@mattturck
-简介：VC at @FirstMarkCap.  Host: MAD Podcast; Organizer: Data Driven NYC, Author: MAD Landscape.
-
-Everybody says Spain, but, I mean… https://t.co/S95ePKpsb6</description>
-      <pubDate>Mon, 30 Mar 2026 00:57:16 +0000</pubDate>
-      <guid isPermaLink="false">2038420259179213266</guid>
-    </item>
-    <item>
-      <title>them: openclaw is dead me: *keeps scrolling* https://t.co/t52IGtWSCj  今夜、東京で会いましょう!🇯🇵</title>
-      <link>https://x.com/steipete/status/2038403837493702918</link>
-      <description>作者：Peter Steinberger
-账号：@steipete
-简介：Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world @openclaw🦞
-
-them: openclaw is dead
-me: *keeps scrolling* https://t.co/t52IGtWSCj
-
-今夜、東京で会いましょう!🇯🇵</description>
-      <pubDate>Sun, 29 Mar 2026 23:52:01 +0000</pubDate>
-      <guid isPermaLink="false">2038403837493702918</guid>
-    </item>
-    <item>
-      <title>Some people have been contemplating an idea for years, maybe decades. Obsessing, attempting, discarding, agonizing, retrying.  Some of these ideas are unpopular, niche, impractical. Not obviously capitalizable. They live on in the inventor's mind.  In 2026, millions of these ideas will come to life ...</title>
-      <link>https://x.com/rauchg/status/2038396313566605720</link>
-      <description>作者：Guillermo Rauch
-账号：@rauchg
-简介：@vercel CEO
-
-Some people have been contemplating an idea for years, maybe decades. Obsessing, attempting, discarding, agonizing, retrying.
-
-Some of these ideas are unpopular, niche, impractical. Not obviously capitalizable. They live on in the inventor's mind.
-
-In 2026, millions of these ideas will come to life thanks to superintelligent coding agents. 
-
-AI doesn't get tired. It amplifies the individual, and for better and sometimes for worse, it always takes you seriously. &quot;Great idea. Splendid. Wow. You're absolutely right.&quot; 
-
-A world of digital wonders awaits us. This world will disproportionally favor the boldest ideas. Software that once seemed impossible will be one hyperlink away. I can't wait to see it.</description>
-      <pubDate>Sun, 29 Mar 2026 23:22:07 +0000</pubDate>
-      <guid isPermaLink="false">2038396313566605720</guid>
-    </item>
-    <item>
-      <title>good call for everything in life https://t.co/r9y7SfI7XT</title>
-      <link>https://x.com/steipete/status/2038389167793795302</link>
-      <description>作者：Peter Steinberger
-账号：@steipete
-简介：Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world @openclaw🦞
-
-good call for everything in life https://t.co/r9y7SfI7XT</description>
-      <pubDate>Sun, 29 Mar 2026 22:53:43 +0000</pubDate>
-      <guid isPermaLink="false">2038389167793795302</guid>
-    </item>
-    <item>
-      <title>Ok San Francisco this weekend is popping in a way that I haven’t seen in like 7-8 years.  Obviously this means two things: 1/ AI will create untold happiness  2/ AI will be responsible for amazing weather.  Sign me up.</title>
-      <link>https://x.com/adityaag/status/2038381148972437900</link>
-      <description>作者：Aditya Agarwal
-账号：@adityaag
-简介：General Partner @SouthPkCommons, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @Dropbox, Board @Flipkart | Optimist, Builder, Dad
-
-Ok San Francisco this weekend is popping in a way that I haven’t seen in like 7-8 years.
-
-Obviously this means two things:
-1/ AI will create untold happiness
-
-2/ AI will be responsible for amazing weather.
-
-Sign me up.</description>
-      <pubDate>Sun, 29 Mar 2026 22:21:51 +0000</pubDate>
-      <guid isPermaLink="false">2038381148972437900</guid>
-    </item>
-    <item>
-      <title>Wow — $8m ARR.   Jon (@cheneypiano), one of the earliest Replit vibecoding success stories, is on his way to making millions in recurring revenue.  Started the business in a week and $400 barely a year ago. https://t.co/R2tsULNJoy</title>
-      <link>https://x.com/amasad/status/2038374343953035514</link>
-      <description>作者：Amjad Masad
-账号：@amasad
-简介：ceo @replit. civilizationist
-
-Wow — $8m ARR. 
-
-Jon (@cheneypiano), one of the earliest Replit vibecoding success stories, is on his way to making millions in recurring revenue.
-
-Started the business in a week and $400 barely a year ago. https://t.co/R2tsULNJoy</description>
-      <pubDate>Sun, 29 Mar 2026 21:54:49 +0000</pubDate>
-      <guid isPermaLink="false">2038374343953035514</guid>
-    </item>
-    <item>
-      <title>these are the components it added that I might want to add to the mockup https://t.co/JW6Hiz6XGS</title>
-      <link>https://x.com/trq212/status/2038354323722351049</link>
-      <description>作者：Thariq
-账号：@trq212
-简介：Claude Code @anthropicai.   prev YC W20, mit media lab. 
-
-towards machines of loving grace
-
-these are the components it added that I might want to add to the mockup https://t.co/JW6Hiz6XGS</description>
-      <pubDate>Sun, 29 Mar 2026 20:35:16 +0000</pubDate>
-      <guid isPermaLink="false">2038354323722351049</guid>
-    </item>
-    <item>
-      <title>my specific flow was: 1. sketch in Figma 2. prompt: &quot;In my figma file &amp;lt;link&amp;gt;, I've made a sketch of a new grocery list feature, can you turn that mock up into something that matches the style of this app, also add a bunch of extra components that I might want to add&quot;</title>
-      <link>https://x.com/trq212/status/2038353920473608309</link>
-      <description>作者：Thariq
-账号：@trq212
-简介：Claude Code @anthropicai.   prev YC W20, mit media lab. 
-
-towards machines of loving grace
-
-my specific flow was:
-1. sketch in Figma
-2. prompt: &quot;In my figma file &amp;lt;link&amp;gt;, I've made a sketch of a new grocery list feature, can you turn that mock up into something that matches the style of this app, also add a bunch of extra components that I might want to add&quot;</description>
-      <pubDate>Sun, 29 Mar 2026 20:33:40 +0000</pubDate>
-      <guid isPermaLink="false">2038353920473608309</guid>
-    </item>
-    <item>
-      <title>&quot;An open source workflow for producing a personalized mRNA cancer vaccine&quot; https://t.co/Ji6dlqsVHN</title>
-      <link>https://x.com/kevinweil/status/2038352979158536256</link>
-      <description>作者：Kevin Weil
-账号：@kevinweil
-简介：VP Science @OpenAI, BoD @Cisco @nature_org, LTC @USArmyReserve
-Ex: Pres @Planet, Head of Product @Instagram @Twitter
-❤️ @elizabeth ultramarathons kids cats math
-
-&quot;An open source workflow for producing a personalized mRNA cancer vaccine&quot; https://t.co/Ji6dlqsVHN</description>
-      <pubDate>Sun, 29 Mar 2026 20:29:55 +0000</pubDate>
-      <guid isPermaLink="false">2038352979158536256</guid>
-    </item>
-    <item>
-      <title>the more I've been digging into the new Figma MCP, the more excited I am about it  something new I'm trying is starting with a very ugly sketch in Figma, and then having Claude Code flesh it out in Figma so I can tweak and edit before sending the final back to Claude Code https://t.co/6IylfCwhgb htt...</title>
-      <link>https://x.com/trq212/status/2038352023633228183</link>
-      <description>作者：Thariq
-账号：@trq212
-简介：Claude Code @anthropicai.   prev YC W20, mit media lab. 
-
-towards machines of loving grace
-
-the more I've been digging into the new Figma MCP, the more excited I am about it
-
-something new I'm trying is starting with a very ugly sketch in Figma, and then having Claude Code flesh it out in Figma so I can tweak and edit before sending the final back to Claude Code https://t.co/6IylfCwhgb https://t.co/mQXbMaEGkt</description>
-      <pubDate>Sun, 29 Mar 2026 20:26:07 +0000</pubDate>
-      <guid isPermaLink="false">2038352023633228183</guid>
-    </item>
-    <item>
-      <title>Many such cases  https://t.co/0GfbrSpmpK</title>
-      <link>https://x.com/thenanyu/status/2038339285519085845</link>
+      <title>You hate (love?) to see it  https://t.co/73ytWuZOK2</title>
+      <link>https://x.com/thenanyu/status/2038602288957202941</link>
       <description>作者：Nan Yu
 账号：@thenanyu
 简介：head of product @linear
 
-Many such cases
+You hate (love?) to see it
 
-https://t.co/0GfbrSpmpK</description>
-      <pubDate>Sun, 29 Mar 2026 19:35:30 +0000</pubDate>
-      <guid isPermaLink="false">2038339285519085845</guid>
+https://t.co/73ytWuZOK2</description>
+      <pubDate>Mon, 30 Mar 2026 13:00:35 +0000</pubDate>
+      <guid isPermaLink="false">2038602288957202941</guid>
     </item>
     <item>
-      <title>As a 40 year old, you go to 10x more kids birthday parties than your own friends birthday parties.</title>
-      <link>https://x.com/adityaag/status/2038330283523760613</link>
-      <description>作者：Aditya Agarwal
-账号：@adityaag
-简介：General Partner @SouthPkCommons, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @Dropbox, Board @Flipkart | Optimist, Builder, Dad
-
-As a 40 year old, you go to 10x more kids birthday parties than your own friends birthday parties.</description>
-      <pubDate>Sun, 29 Mar 2026 18:59:44 +0000</pubDate>
-      <guid isPermaLink="false">2038330283523760613</guid>
-    </item>
-    <item>
-      <title>pirates, architects, hot people, grown ups https://t.co/XiP1dHYC4u</title>
-      <link>https://x.com/danshipper/status/2038328780154958315</link>
-      <description>作者：Dan Shipper
-账号：@danshipper
-简介：ceo @every | the only subscription you need to stay at the edge of AI
-
-pirates, architects, hot people, grown ups https://t.co/XiP1dHYC4u</description>
-      <pubDate>Sun, 29 Mar 2026 18:53:46 +0000</pubDate>
-      <guid isPermaLink="false">2038328780154958315</guid>
-    </item>
-    <item>
-      <title>Jevons paradox https://t.co/yIHD6f5WLa</title>
-      <link>https://x.com/thenanyu/status/2038323524092207468</link>
+      <title>Trillion dollars https://t.co/QH8qupv3ew</title>
+      <link>https://x.com/thenanyu/status/2038599289081872893</link>
       <description>作者：Nan Yu
 账号：@thenanyu
 简介：head of product @linear
 
-Jevons paradox https://t.co/yIHD6f5WLa</description>
-      <pubDate>Sun, 29 Mar 2026 18:32:53 +0000</pubDate>
-      <guid isPermaLink="false">2038323524092207468</guid>
+Trillion dollars https://t.co/QH8qupv3ew</description>
+      <pubDate>Mon, 30 Mar 2026 12:48:40 +0000</pubDate>
+      <guid isPermaLink="false">2038599289081872893</guid>
     </item>
     <item>
-      <title>ok responsible disclosure i was misinformed about the fiber thing. it’s just 1/3 daily fiber.  i recently started popping fiber pills as well - put them next to where you get your water, its super easy, barely an inconvenience https://t.co/RZAkCS1gzk</title>
-      <link>https://x.com/swyx/status/2038289712029552641</link>
-      <description>作者：Swyx
-账号：@swyx
-简介：achieve ambition with intentionality, intensity, integrity &amp; insanity.
+      <title>Building Is the Easy Part Now | Mike Krieger on What AI Changed</title>
+      <link>https://youtube.com/watch?v=KRv9GpJYrUA</link>
+      <description>播客：AI &amp; I by Every
+视频 ID：KRv9GpJYrUA
 
-affiliations:
-- @dxtipshq 
-- @cognition
-- @temporalio
-- @aidotengineer
-- @latentspacepod
-
-ok responsible disclosure i was misinformed about the fiber thing. it’s just 1/3 daily fiber.
-
-i recently started popping fiber pills as well - put them next to where you get your water, its super easy, barely an inconvenience https://t.co/RZAkCS1gzk</description>
-      <pubDate>Sun, 29 Mar 2026 16:18:31 +0000</pubDate>
-      <guid isPermaLink="false">2038289712029552641</guid>
-    </item>
-    <item>
-      <title>Hiring engineers with 5 years of experience in @𝚌𝚑𝚎𝚗𝚐𝚕𝚘𝚞/𝚙𝚛𝚎𝚝𝚎𝚡𝚝 to create the web rendering toolkit of the future</title>
-      <link>https://x.com/rauchg/status/2038274722988003489</link>
-      <description>作者：Guillermo Rauch
-账号：@rauchg
-简介：@vercel CEO
-
-Hiring engineers with 5 years of experience in @𝚌𝚑𝚎𝚗𝚐𝚕𝚘𝚞/𝚙𝚛𝚎𝚝𝚎𝚡𝚝 to create the web rendering toolkit of the future</description>
-      <pubDate>Sun, 29 Mar 2026 15:18:57 +0000</pubDate>
-      <guid isPermaLink="false">2038274722988003489</guid>
-    </item>
-    <item>
-      <title>X Chat app is seriously well done. Performant and buttery smooth.   Please ship the requests tab and that’s all I need to move all my communication over.   Major kudos to the team.</title>
-      <link>https://x.com/nikunj/status/2038273722826854675</link>
-      <description>作者：Nikunj Kothari
-账号：@nikunj
-简介：partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian &amp; others. love @shimoleejhaveri + 👦👧
-
-X Chat app is seriously well done. Performant and buttery smooth. 
-
-Please ship the requests tab and that’s all I need to move all my communication over. 
-
-Major kudos to the team.</description>
-      <pubDate>Sun, 29 Mar 2026 15:14:59 +0000</pubDate>
-      <guid isPermaLink="false">2038273722826854675</guid>
-    </item>
-    <item>
-      <title>The thing that most people miss initially with agents is that the scope of what we will produce will go up commensurate with what the tools can now automate, which basically means we’ll working the same or even more.  Everyone thinks that we will use AI to do what we already do but cheaper and faste...</title>
-      <link>https://x.com/levie/status/2038263457125142742</link>
-      <description>作者：Aaron Levie
-账号：@levie
-简介：ceo @box - your business lives in content. unleash it with AI
-
-The thing that most people miss initially with agents is that the scope of what we will produce will go up commensurate with what the tools can now automate, which basically means we’ll working the same or even more.
-
-Everyone thinks that we will use AI to do what we already do but cheaper and faster, which would lead to fewer people or getting more time back. In fact it will just mean we’re doing more things.
-
-Once we figured out that we can automate a particular task, you then expand the size of work to do many more of those or other tasks in a project. The result is that you’re actually combining many other previously hard to combine tasks into a single workflow, causing even more work. 
-
-The software project scope now multiplies because you know you can build far more. The customer insights project now balloons because you know you can reasonably aggregate far more data. The marketing campaign has even more creative production because it’s cheaper and easier. 
-
-This is going to happen in almost every field of work.</description>
-      <pubDate>Sun, 29 Mar 2026 14:34:11 +0000</pubDate>
-      <guid isPermaLink="false">2038263457125142742</guid>
+The models today are good at adding features. They're not necessarily good about figuring out what to cut out of the product. You can get it to go zero, not just zero to one, but zero to end pretty quickly over the matter of hours. It's made a lot of decisions along the way. And some of the sort of intuitions you build about what are the right things to to put in there. I think you build over time. I feel like that is the art and science of software design in in 2026. [music] Work moves fast. [music] And in the age of AI, the pressure isn't just to move faster. It's to make sure that what you send actually sounds like you. From emails [music] to proposals to stakeholder updates, generic and rush just doesn't cut it. If you've ever stared at a blank page, knowing exactly what you want to say, but not how to start, Grammarly fixes that. Grammarly gives you one place to think, write, and finish your work. Write where you already write. Most AI tools either take over or stay out of the way. Grammarly does neither. It helps you break the blank page, adjust your tone so a message lands right [music] for the specific person reading it, and works seamlessly across more than 500,000 apps and sites that you're already using. It's loaded with agents built [music] for every step of your process. And 90% of professionals say it saved them time. 93% say it helps them get more done. This is AI that works with you, not over you. [music] In a world of generic AI, don't sound like everyone else. With Grammarly, you never will. Download Grammarly for free at grammarly.com. That's grammarly.com. Mike, welcome to the show. &gt;&gt; Great to be here. Thanks for having me on. &gt;&gt; Great to have you. Um, I I'm super excited. For people who don't know, you are the co-founder of Instagram and now you are at Anthropic Antropic Labs. Um, I'm, you know, I've admired your work from afar both at Anthropic and Instagram for a really long time and you're obviously at the forefront of building products and AI. So, thank you for coming on. &gt;&gt; Absolutely. &gt;&gt; Where should we start? Like what we were talking about just now in the in the pre-production is um what has gotten easier and what has gotten harder or stayed maybe stayed the same in product building as we've com as as the underlying substrate or the process by which we build products has changed completely. Um so like tell me about your experience now versus you know earlier in anthropic versus Instagram and how you think things are changing. Yeah, I was doing the thought exercise a couple weeks ago of, you know, we know the Instagram story. We had another product called Bourbon. We worked on that for almost a year. Uh, it wasn't working. We pivoted. We basically spent 3 months building what became Instagram, launched it, and then scaled it. And asking the question like what is now trivial um and what was actually inherent in that building process that doesn't get easier, right? And that year we probably could have hit some of the dead ends we had eventually hit sooner, but there was value in getting there too, right? like we over complicated the product so that we then had to simplify it. I find even the models today are good at adding features. They're not necessarily good about figuring out what to cut out of the of the product and that took a lot of just uh sort of you know hitting actual actual real world usage. Um and there was something about the process of incrementally adding things right now. I mean today, especially some of the stuff we're building in labs, like you can get it to go zero, not just zero to one, but zero to end pretty quickly over the matter of hours, but it's made a lot of decisions along the way and yeah, you can ask it to follow up with you and and and do input, but some of the sort of intuitions you build about what are the right things to to put in there, I think you build over time. And so I I've been reflecting like there haven't been a lot of breakout consumer products even in the age of accelerated AI building. And I think part of it is because it just still takes time to sort of hone your view of what sort of intervention you want to make on the world and then build from there. Now the actual building part once you know what to build is of course so much easier. I I had uh Claude basically rebuild Bourbon. It took about two hours. It was feature complete. It added filters which Bourbon didn't have. We added those for Instagram but I think it knew you know uh it knew the eventual future of the product so it decided to build that in. Um so I think that that part feels feels really different. But I think there's also, you know, uh I remember there was a week where Kevin went off uh and built all the filters for Instagram v1. I went off and built like sort of the rest of the app. And you know, sitting there was I would stay up till 4:00 a.m. and then sleep till noon. That's like my natural dayight cycle. And like in that process, you're making so many decisions like how should location work? how and you know it's we got to find a way of accelerating building while still sort of helping people build intuition of those decisions along the way because otherwise I think you either get just get very generic products that are unlikely to break out or ones that just don't reflect some deeper intuition that you come to about your space or your product. &gt;&gt; This is great. I love this. Um it's making me think of two things. One is um I have this like little thing in my head that if you grow a tree without it like with it [clears throat] being indoors, without being exposed to wind, it doesn't get as strong as because as it's growing, it needs all these forces pushing it like back and forth in order to like make a a real tree. And so if you if you have it indoors without wind, it you're going to grow a tree, but it like leans and it gets all and it's not as strong and it's not it's not the same thing. And I think there's something that you're saying here where because we've accelerated the pace of development so drastically um what what would normally be this sort of incremental thing where you're you're doing things one at a time and then you're exposing it to users. You can actually kind of grow an entire tree indoors and then you have this like whole thing that you're just like it doesn't have the same um level of intuition and exposure to experience at each step that that creates a a great product. Is that is that is that &gt;&gt; I love that. I I I um I love that metaphor too. We, you know, when we were starting Instagram, we had this, we were very into like Eric Reese and lean startup and the whole like Yagne like you ain't going to need it principle and um I have found and actually even one of the things I was working on in labs recently, we way overbuilt for V1 before we even got to early access because you can. You're like, oh well, we have this option. Why not add this one as well? That's like that's a PR of work. And if you get a really good flow in cloud code, you know, you're firing things off, you're going to lunch, you're coming back, the thing is done, you're like, great, we added it. And the thing we realized was we' created this sort of matrix of functionality that was actually quite hard to test and and keep up with right before launch or even to explain to people like they're arriving. The metaphor somebody else gave me which I really like is the difference between sort of getting episode by episode getting to know characters in a TV show versus imagine like you're thrown into the final episode. You're like wait what are all these things and who are all these people and like I already you know am expected to have all of this context. I think there's the same uh kind of feeling around like developing something over time. But the tree metaphor I think sticks too as well. And so like showing somebody the fully formed tree is also kind of a lot um all at once. And I I think there's there there's definitely...</description>
+      <pubDate>Wed, 25 Mar 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">KRv9GpJYrUA</guid>
     </item>
   </channel>
 </rss>
