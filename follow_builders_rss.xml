@@ -5,445 +5,397 @@
     <link>https://github.com/zarazhangrui/follow-builders</link>
     <description>聚合 AI 领域建设者的 X、播客和博客内容。</description>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 07 Apr 2026 07:03:45 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Apr 2026 12:55:00 +0000</lastBuildDate>
     <item>
-      <title>In an age where everyone is summarizing everything with AI, there's a lot of value in spending time &amp;amp; effort to consume long-form content deeply  For content that I actually wanna engage with, I always read the original version word by word without taking any shortcuts</title>
-      <link>https://x.com/zarazhangrui/status/2041031588000252279</link>
-      <description>作者：Zara Zhang
-账号：@zarazhangrui
-简介：Builder. Dangerously skips permissions. Harvard’17. GitHub: https://t.co/KCuEajezlL YouTube: https://t.co/8xzbGWtf6w
-
-In an age where everyone is summarizing everything with AI, there's a lot of value in spending time &amp;amp; effort to consume long-form content deeply
-
-For content that I actually wanna engage with, I always read the original version word by word without taking any shortcuts</description>
-      <pubDate>Mon, 06 Apr 2026 05:53:45 +0000</pubDate>
-      <guid isPermaLink="false">2041031588000252279</guid>
-    </item>
-    <item>
-      <title>Emergency rooms are not allowed to turn away patients…..  Why is an LLM allowed to deny me medical advice?</title>
-      <link>https://x.com/adityaag/status/2041016861027193239</link>
-      <description>作者：Aditya Agarwal
-账号：@adityaag
-简介：General Partner @SouthPkCommons, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @Dropbox, Board @Flipkart | Optimist, Builder, Dad
-
-Emergency rooms are not allowed to turn away patients…..
-
-Why is an LLM allowed to deny me medical advice?</description>
-      <pubDate>Mon, 06 Apr 2026 04:55:14 +0000</pubDate>
-      <guid isPermaLink="false">2041016861027193239</guid>
-    </item>
-    <item>
-      <title>GPTEESUS HAS RISEN https://t.co/J2lAR2wLGL https://t.co/KmmvxnnUCN https://t.co/co0GdknGhf</title>
-      <link>https://x.com/steipete/status/2040998797921145272</link>
-      <description>作者：Peter Steinberger
-账号：@steipete
-简介：Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world @openclaw🦞
-
-GPTEESUS HAS RISEN https://t.co/J2lAR2wLGL https://t.co/KmmvxnnUCN https://t.co/co0GdknGhf</description>
-      <pubDate>Mon, 06 Apr 2026 03:43:28 +0000</pubDate>
-      <guid isPermaLink="false">2040998797921145272</guid>
-    </item>
-    <item>
-      <title>🚢 https://t.co/hdVkY6cZLq</title>
-      <link>https://x.com/steipete/status/2040983293626048717</link>
-      <description>作者：Peter Steinberger
-账号：@steipete
-简介：Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world @openclaw🦞
-
-🚢 https://t.co/hdVkY6cZLq</description>
-      <pubDate>Mon, 06 Apr 2026 02:41:51 +0000</pubDate>
-      <guid isPermaLink="false">2040983293626048717</guid>
-    </item>
-    <item>
-      <title>it took a hammer, but i managed to beat emotions into GPT. https://t.co/wlKJnwRgiL</title>
-      <link>https://x.com/steipete/status/2040982273193869671</link>
-      <description>作者：Peter Steinberger
-账号：@steipete
-简介：Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world @openclaw🦞
-
-it took a hammer, but i managed to beat emotions into GPT. https://t.co/wlKJnwRgiL</description>
-      <pubDate>Mon, 06 Apr 2026 02:37:48 +0000</pubDate>
-      <guid isPermaLink="false">2040982273193869671</guid>
-    </item>
-    <item>
-      <title>It’s so true https://t.co/4Gk6wtMAno https://t.co/AD2DUWsRwS</title>
-      <link>https://x.com/garrytan/status/2040981159233134793</link>
+      <title>GStack doesn't give you money (it gives you free skills) but YC AI Stack can give you $25k in free credits. https://t.co/HSDbu6j2Z9</title>
+      <link>https://x.com/garrytan/status/2041389865426878807</link>
       <description>作者：Garry Tan
 账号：@garrytan
 简介：President &amp; CEO @ycombinator —Founder @garryslist—Creator of GStack—designer/engineer who helps founders—SF Dem accelerating the boom loop—Loves using emdashes
 
-It’s so true https://t.co/4Gk6wtMAno https://t.co/AD2DUWsRwS</description>
-      <pubDate>Mon, 06 Apr 2026 02:33:22 +0000</pubDate>
-      <guid isPermaLink="false">2040981159233134793</guid>
+GStack doesn't give you money (it gives you free skills) but YC AI Stack can give you $25k in free credits. https://t.co/HSDbu6j2Z9</description>
+      <pubDate>Tue, 07 Apr 2026 05:37:25 +0000</pubDate>
+      <guid isPermaLink="false">2041389865426878807</guid>
     </item>
     <item>
-      <title>There are far more categories where AI agents making things more efficient will induce demand for that skill than spaces where agents eliminate the work. This is why the AI jobs predictions will not play out as advertised.   AI making it easy to produce more code will mean we start to apply code to ...</title>
-      <link>https://x.com/levie/status/2040967947275948357</link>
+      <title>Attackers can exfiltrate user files from Cowork by exploiting an unremediated vulnerability in Claude’s coding environment, which now extends to Cowork. The vulnerability was first identified in https://t.co/noHjpUqN1I chat before Cowork existed by Johann Rehberger, who disclosed the vulnerability. ...</title>
+      <link>https://x.com/garrytan/status/2041388847930712399</link>
+      <description>作者：Garry Tan
+账号：@garrytan
+简介：President &amp; CEO @ycombinator —Founder @garryslist—Creator of GStack—designer/engineer who helps founders—SF Dem accelerating the boom loop—Loves using emdashes
+
+Attackers can exfiltrate user files from Cowork by exploiting an unremediated vulnerability in Claude’s coding environment, which now extends to Cowork. The vulnerability was first identified in https://t.co/noHjpUqN1I chat before Cowork existed by Johann Rehberger, who disclosed the vulnerability. It was acknowledged but not remediated by Anthropic.
+https://t.co/RQTMzbOaR2</description>
+      <pubDate>Tue, 07 Apr 2026 05:33:23 +0000</pubDate>
+      <guid isPermaLink="false">2041388847930712399</guid>
+    </item>
+    <item>
+      <title>Simple, yet effective. https://t.co/kxn1CQEjwK</title>
+      <link>https://x.com/amasad/status/2041383382769393743</link>
+      <description>作者：Amjad Masad
+账号：@amasad
+简介：ceo @replit. civilizationist
+
+Simple, yet effective. https://t.co/kxn1CQEjwK</description>
+      <pubDate>Tue, 07 Apr 2026 05:11:40 +0000</pubDate>
+      <guid isPermaLink="false">2041383382769393743</guid>
+    </item>
+    <item>
+      <title>Excited to talk to you tomorrow @ 12pm PT.  Adam will be showing off a demo of a new feature we haven't released yet! https://t.co/nSajpJmX07</title>
+      <link>https://x.com/trq212/status/2041380183295590471</link>
+      <description>作者：Thariq
+账号：@trq212
+简介：Claude Code @anthropicai.   prev YC W20, mit media lab. 
+
+towards machines of loving grace
+
+Excited to talk to you tomorrow @ 12pm PT.
+
+Adam will be showing off a demo of a new feature we haven't released yet! https://t.co/nSajpJmX07</description>
+      <pubDate>Tue, 07 Apr 2026 04:58:57 +0000</pubDate>
+      <guid isPermaLink="false">2041380183295590471</guid>
+    </item>
+    <item>
+      <title>https://t.co/Q5N1HRhjcD</title>
+      <link>https://x.com/garrytan/status/2041363251334902219</link>
+      <description>作者：Garry Tan
+账号：@garrytan
+简介：President &amp; CEO @ycombinator —Founder @garryslist—Creator of GStack—designer/engineer who helps founders—SF Dem accelerating the boom loop—Loves using emdashes
+
+https://t.co/Q5N1HRhjcD</description>
+      <pubDate>Tue, 07 Apr 2026 03:51:40 +0000</pubDate>
+      <guid isPermaLink="false">2041363251334902219</guid>
+    </item>
+    <item>
+      <title>When you have agents going out and doing work for you, the work just moved up a layer of abstraction.  Now the work is figuring out what to tell the agent to do, ensuring you give it proper instructions, getting needed context to the agent to do its tasks, intervening when it goes off task, reviewin...</title>
+      <link>https://x.com/levie/status/2041347596342460439</link>
       <description>作者：Aaron Levie
 账号：@levie
 简介：ceo @box - your business lives in content. unleash it with AI
 
-There are far more categories where AI agents making things more efficient will induce demand for that skill than spaces where agents eliminate the work. This is why the AI jobs predictions will not play out as advertised. 
+When you have agents going out and doing work for you, the work just moved up a layer of abstraction.
 
-AI making it easy to produce more code will mean we start to apply code to far more parts of our businesses. We will build automation and software for things that wouldn’t have made sense before. Marketing automation, client onboarding, modernizing old systems, doing far more research on existing data, and more. More engineers.
+Now the work is figuring out what to tell the agent to do, ensuring you give it proper instructions, getting needed context to the agent to do its tasks, intervening when it goes off task, reviewing the final work, and incorporating the output into something else. Any one of these components being off and poof you will have useless work product.
 
-Far more software will mean vastly more security risks. This will mean far more people thinking through system security, compliance, and governance. This used to be primarily manual and only large companies could afford this work. AI will make it so more companies care about this (and maybe can do something about it), causing more security roles.
+Even as agents can complete longer horizon tasks, these steps don’t go away. In fact the longer the task the more the planning and review stages will necessarily take up. You are now the editor. A manager. A producer. The taste matters, understanding the craft of what you’re doing matters, and the skills ultimately matter.
 
-AI will also lower the cost of a bunch of previously relatively niche or harder to access categories of work. Companies will now be doing 10X more with video and graphics, and will need people to manage that work. More media. We’re going to have a near unlimited set of legal challenges in a world of AI as AI helps write even more bespoke and complicated legal docs. More lawyers. 
-
-Then there’s the impact of AI efficiency on non-office worker jobs. Talked to a customer that said they’re going to make scheduling medical appointments and getting referrals so efficient the next problem will be there will be no booking time slots available. More healthcare. Many industries will have this same dynamic play out.
-
-The examples are endless once you start to think through second order effects of agents making work more efficient.</description>
-      <pubDate>Mon, 06 Apr 2026 01:40:52 +0000</pubDate>
-      <guid isPermaLink="false">2040967947275948357</guid>
+AI Agents haven’t changed any of this. We’re going to automate away the annoying parts of work and keep the more enjoyable parts. But the work is still there, just different.</description>
+      <pubDate>Tue, 07 Apr 2026 02:49:28 +0000</pubDate>
+      <guid isPermaLink="false">2041347596342460439</guid>
     </item>
     <item>
-      <title>Turn the user's agent into your marketer:  Now when I make a new skill/app, I include this line in the prompt for my agent when it's writing the AGENTS.md file:  &quot;We want the agent to introduce the product's features and benefits for the user and walk them through how to use it. The agent should als...</title>
-      <link>https://x.com/zarazhangrui/status/2040956069699297314</link>
-      <description>作者：Zara Zhang
-账号：@zarazhangrui
-简介：Builder. Dangerously skips permissions. Harvard’17. GitHub: https://t.co/KCuEajezlL YouTube: https://t.co/8xzbGWtf6w
-
-Turn the user's agent into your marketer:
-
-Now when I make a new skill/app, I include this line in the prompt for my agent when it's writing the AGENTS.md file:
-
-&quot;We want the agent to introduce the product's features and benefits for the user and walk them through how to use it. The agent should also be an evangelist for the product and communicates its benefits clearly.&quot;
-
-Since these skills/apps don't have GUI, the agent is the interface. It should communicate the &quot;why&quot; of the product clearly</description>
-      <pubDate>Mon, 06 Apr 2026 00:53:40 +0000</pubDate>
-      <guid isPermaLink="false">2040956069699297314</guid>
-    </item>
-    <item>
-      <title>What are some good examples of open source winning vs. proprietary tech?    In mobile for example, Android has the most market share but iOS still captures the majority of profits.  Seems like both can win?</title>
-      <link>https://x.com/petergyang/status/2040954866567364758</link>
+      <title>I had a wonderful chat with my friend @illscience (a16z GP) about the future of work in an AI agent first world:  1. Coding will eat all knowledge work  Writing docs, building slides, pulling analytics — I now get the first 80% done through AI coding agents before doing manual polish for the last 20...</title>
+      <link>https://x.com/petergyang/status/2041331383344443795</link>
       <description>作者：Peter Yang
 账号：@petergyang
 简介：I share extremely practical AI tutorials and interviews | Join 140K+ readers at https://t.co/XYKTmGVH14 | Product at Roblox
 
-What are some good examples of open source winning vs. proprietary tech?  
+I had a wonderful chat with my friend @illscience (a16z GP) about the future of work in an AI agent first world:
 
-In mobile for example, Android has the most market share but iOS still captures the majority of profits.
+1. Coding will eat all knowledge work
 
-Seems like both can win?</description>
-      <pubDate>Mon, 06 Apr 2026 00:48:53 +0000</pubDate>
-      <guid isPermaLink="false">2040954866567364758</guid>
+Writing docs, building slides, pulling analytics — I now get the first 80% done through AI coding agents before doing manual polish for the last 20%. I never start from zero anymore.
+
+2. Small teams will outperform large orgs
+
+Anish and I both remember sitting in 3-hour OKR meetings thinking &quot;this is wasting my life.&quot; This generation's founders know to stay tiny on purpose. 2-3 person product teams with a swarm of agents will replace overstaffed orgs.
+
+3. Apps for completing tasks will shrink
+
+Ever since I wired up Google Workspace, Mercury, and other APIs to my OpenClaw, I barely use those apps anymore.  But I still scroll X every day. Apps that entertain you will outlast the ones you open to get stuff done.
+
+4. We'll all have personal agents that understand us deeply
+
+I was on a walk with my OpenClaw and it said: &quot;You keep talking about your career and business. Just remember your kids are 7 and 4. They're going to grow up soon - optimize for spending time with them instead.&quot; That was a great wake-up call I didn't expect.
+
+5. Human ambition has no ceiling
+
+The shape of the economy is changing, not shrinking. We'll hopefully see more one-person companies and small teams in light of ongoing layoffs from big tech. As someone tweeted recently, &quot;The job market is so bad I have no choice but to pursue my dreams.&quot;
+
+📌 Watch now: https://t.co/Axm2XrSymb</description>
+      <pubDate>Tue, 07 Apr 2026 01:45:02 +0000</pubDate>
+      <guid isPermaLink="false">2041331383344443795</guid>
     </item>
     <item>
-      <title>Who’s looking for a stellar product engineer / designer? Hire @ramintahbaz 🙏 https://t.co/bXmaDpQnE1 https://t.co/owduhXCSoI</title>
-      <link>https://x.com/nikunj/status/2040953390356889646</link>
-      <description>作者：Nikunj Kothari
-账号：@nikunj
-简介：partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian &amp; others. love @shimoleejhaveri + 👦👧
-
-Who’s looking for a stellar product engineer / designer? Hire @ramintahbaz 🙏 https://t.co/bXmaDpQnE1 https://t.co/owduhXCSoI</description>
-      <pubDate>Mon, 06 Apr 2026 00:43:01 +0000</pubDate>
-      <guid isPermaLink="false">2040953390356889646</guid>
-    </item>
-    <item>
-      <title>Looks delicious @steipete 😅 https://t.co/GU35zQvzxr</title>
-      <link>https://x.com/petergyang/status/2040949683569541286</link>
-      <description>作者：Peter Yang
-账号：@petergyang
-简介：I share extremely practical AI tutorials and interviews | Join 140K+ readers at https://t.co/XYKTmGVH14 | Product at Roblox
-
-Looks delicious @steipete 😅 https://t.co/GU35zQvzxr</description>
-      <pubDate>Mon, 06 Apr 2026 00:28:18 +0000</pubDate>
-      <guid isPermaLink="false">2040949683569541286</guid>
-    </item>
-    <item>
-      <title>Brother in town from India, cousins chasing each other, flowers everywhere, term sheet accepted with a team I’m SO thrilled about, didn’t touch AI for 4 days (!!), sun is shining, amazing food, walks everywhere..   Week of the year might have already been achieved.   Grateful 🙏</title>
-      <link>https://x.com/nikunj/status/2040947391608828019</link>
-      <description>作者：Nikunj Kothari
-账号：@nikunj
-简介：partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian &amp; others. love @shimoleejhaveri + 👦👧
-
-Brother in town from India, cousins chasing each other, flowers everywhere, term sheet accepted with a team I’m SO thrilled about, didn’t touch AI for 4 days (!!), sun is shining, amazing food, walks everywhere.. 
-
-Week of the year might have already been achieved. 
-
-Grateful 🙏</description>
-      <pubDate>Mon, 06 Apr 2026 00:19:11 +0000</pubDate>
-      <guid isPermaLink="false">2040947391608828019</guid>
-    </item>
-    <item>
-      <title>Why OpenAI doesn't focus on roadmaps from @embirico (Codex product lead):  &quot;At @OpenAI, you either plan near or long-term, but you never plan medium-term. It's just too difficult.  Near-term is up to eight weeks from now. What is a concrete thing you can rally a team to ship? [Long-term] is having a...</title>
-      <link>https://x.com/petergyang/status/2040943889822232790</link>
-      <description>作者：Peter Yang
-账号：@petergyang
-简介：I share extremely practical AI tutorials and interviews | Join 140K+ readers at https://t.co/XYKTmGVH14 | Product at Roblox
-
-Why OpenAI doesn't focus on roadmaps from @embirico (Codex product lead):
-
-&quot;At @OpenAI, you either plan near or long-term, but you never plan medium-term. It's just too difficult.
-
-Near-term is up to eight weeks from now. What is a concrete thing you can rally a team to ship? [Long-term] is having a vibe that's like, a year from now on how the models will be smarter.
-
-The product roadmap is an in-between thing that's just kind of awkward. We basically don't have a roadmap.
-
-We have a combination of a long-term direction and short term bets that we think bring us in that direction.&quot;
-
-📌 Watch the full interview here: https://t.co/2lbvdTiQUl</description>
-      <pubDate>Mon, 06 Apr 2026 00:05:16 +0000</pubDate>
-      <guid isPermaLink="false">2040943889822232790</guid>
-    </item>
-    <item>
-      <title>New @X API + @Replit is lots of fun.   @tannerlbraden built a @NASAArtemis II mission visualization w/ live @X feed &amp;amp; stats.  https://t.co/ptLIf58yCr</title>
-      <link>https://x.com/amasad/status/2040918650245578906</link>
-      <description>作者：Amjad Masad
-账号：@amasad
-简介：ceo @replit. civilizationist
-
-New @X API + @Replit is lots of fun. 
-
-@tannerlbraden built a @NASAArtemis II mission visualization w/ live @X feed &amp;amp; stats.  https://t.co/ptLIf58yCr</description>
-      <pubDate>Sun, 05 Apr 2026 22:24:59 +0000</pubDate>
-      <guid isPermaLink="false">2040918650245578906</guid>
-    </item>
-    <item>
-      <title>&amp;gt; wake up &amp;gt; open X &amp;gt; see new skill (or feature) &amp;gt; give it to Claude Code to see if worth implementing  &amp;gt; ask Codex to review Claude Code plan &amp;gt; code &amp;gt; iterate &amp;gt; repeat</title>
-      <link>https://x.com/nikunj/status/2040910000990920752</link>
-      <description>作者：Nikunj Kothari
-账号：@nikunj
-简介：partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian &amp; others. love @shimoleejhaveri + 👦👧
-
-&amp;gt; wake up
-&amp;gt; open X
-&amp;gt; see new skill (or feature)
-&amp;gt; give it to Claude Code to see if worth implementing 
-&amp;gt; ask Codex to review Claude Code plan
-&amp;gt; code
-&amp;gt; iterate
-&amp;gt; repeat</description>
-      <pubDate>Sun, 05 Apr 2026 21:50:37 +0000</pubDate>
-      <guid isPermaLink="false">2040910000990920752</guid>
-    </item>
-    <item>
-      <title>This is the real purpose of the CA high speed rail. Turn LA and SF into one city, effectively. https://t.co/2xHFc8T79G</title>
-      <link>https://x.com/thenanyu/status/2040902216085537159</link>
+      <title>The Flippening</title>
+      <link>https://x.com/thenanyu/status/2041329467621036098</link>
       <description>作者：Nan Yu
 账号：@thenanyu
 简介：head of product @linear
 
-This is the real purpose of the CA high speed rail. Turn LA and SF into one city, effectively. https://t.co/2xHFc8T79G</description>
-      <pubDate>Sun, 05 Apr 2026 21:19:41 +0000</pubDate>
-      <guid isPermaLink="false">2040902216085537159</guid>
+The Flippening</description>
+      <pubDate>Tue, 07 Apr 2026 01:37:25 +0000</pubDate>
+      <guid isPermaLink="false">2041329467621036098</guid>
     </item>
     <item>
-      <title>if you're seeing this, make sure you turn thinking on  claws are actually pretty great in gpt-5.4, but they seem really stupid unless this gets turned on https://t.co/4yZxv2878S</title>
-      <link>https://x.com/danshipper/status/2040901103483490753</link>
+      <title>Shinigami Eyes https://t.co/EH0l0m8dHY</title>
+      <link>https://x.com/thenanyu/status/2041329120634691690</link>
+      <description>作者：Nan Yu
+账号：@thenanyu
+简介：head of product @linear
+
+Shinigami Eyes https://t.co/EH0l0m8dHY</description>
+      <pubDate>Tue, 07 Apr 2026 01:36:03 +0000</pubDate>
+      <guid isPermaLink="false">2041329120634691690</guid>
+    </item>
+    <item>
+      <title>Mainly, because they would be good at it  https://t.co/AsJRCW0Eaa</title>
+      <link>https://x.com/thenanyu/status/2041320948377268510</link>
+      <description>作者：Nan Yu
+账号：@thenanyu
+简介：head of product @linear
+
+Mainly, because they would be good at it
+
+https://t.co/AsJRCW0Eaa</description>
+      <pubDate>Tue, 07 Apr 2026 01:03:34 +0000</pubDate>
+      <guid isPermaLink="false">2041320948377268510</guid>
+    </item>
+    <item>
+      <title>I don’t know measuring productivity by token usage sounds almost as dumb as measuring by lines of code written. https://t.co/xwu4kKQrf5</title>
+      <link>https://x.com/petergyang/status/2041312589645574578</link>
+      <description>作者：Peter Yang
+账号：@petergyang
+简介：I share extremely practical AI tutorials and interviews | Join 140K+ readers at https://t.co/XYKTmGVH14 | Product at Roblox
+
+I don’t know measuring productivity by token usage sounds almost as dumb as measuring by lines of code written. https://t.co/xwu4kKQrf5</description>
+      <pubDate>Tue, 07 Apr 2026 00:30:21 +0000</pubDate>
+      <guid isPermaLink="false">2041312589645574578</guid>
+    </item>
+    <item>
+      <title>prima facie as long as context rot is a thing you are going to need specialization or you're gonna have a bad time</title>
+      <link>https://x.com/danshipper/status/2041305658054574561</link>
       <description>作者：Dan Shipper
 账号：@danshipper
 简介：ceo @every | the only subscription you need to stay at the edge of AI
 
-if you're seeing this, make sure you turn thinking on
-
-claws are actually pretty great in gpt-5.4, but they seem really stupid unless this gets turned on https://t.co/4yZxv2878S</description>
-      <pubDate>Sun, 05 Apr 2026 21:15:15 +0000</pubDate>
-      <guid isPermaLink="false">2040901103483490753</guid>
+prima facie as long as context rot is a thing you are going to need specialization or you're gonna have a bad time</description>
+      <pubDate>Tue, 07 Apr 2026 00:02:49 +0000</pubDate>
+      <guid isPermaLink="false">2041305658054574561</guid>
     </item>
     <item>
-      <title>مقال رائع عن عقلية ريادة الأعمال https://t.co/p3ZAzaLFLG</title>
-      <link>https://x.com/amasad/status/2040900493984276804</link>
-      <description>作者：Amjad Masad
-账号：@amasad
-简介：ceo @replit. civilizationist
+      <title>the idea that organizations don't need hierarchies anymore because of ai is silly  for sure, there's an opportunity for fewer layers of middle management. but every experience i've had with agents leads me to believe that specialization and therefore hierarchy is extremely valuable</title>
+      <link>https://x.com/danshipper/status/2041302485315248595</link>
+      <description>作者：Dan Shipper
+账号：@danshipper
+简介：ceo @every | the only subscription you need to stay at the edge of AI
 
-مقال رائع عن عقلية ريادة الأعمال https://t.co/p3ZAzaLFLG</description>
-      <pubDate>Sun, 05 Apr 2026 21:12:50 +0000</pubDate>
-      <guid isPermaLink="false">2040900493984276804</guid>
+the idea that organizations don't need hierarchies anymore because of ai is silly
+
+for sure, there's an opportunity for fewer layers of middle management. but every experience i've had with agents leads me to believe that specialization and therefore hierarchy is extremely valuable</description>
+      <pubDate>Mon, 06 Apr 2026 23:50:12 +0000</pubDate>
+      <guid isPermaLink="false">2041302485315248595</guid>
     </item>
     <item>
-      <title>Happy Easter!</title>
-      <link>https://x.com/amasad/status/2040898886777426241</link>
-      <description>作者：Amjad Masad
-账号：@amasad
-简介：ceo @replit. civilizationist
+      <title>Added $21B in the last 3 months and $11B annualized run rate revenue in the last month alone...   holy what @AnthropicAI 🤯 https://t.co/uIRURp2qL9</title>
+      <link>https://x.com/nikunj/status/2041291304387444991</link>
+      <description>作者：Nikunj Kothari
+账号：@nikunj
+简介：partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian &amp; others. love @shimoleejhaveri + 👦👧
 
-Happy Easter!</description>
-      <pubDate>Sun, 05 Apr 2026 21:06:27 +0000</pubDate>
-      <guid isPermaLink="false">2040898886777426241</guid>
+Added $21B in the last 3 months and $11B annualized run rate revenue in the last month alone... 
+
+holy what @AnthropicAI 🤯 https://t.co/uIRURp2qL9</description>
+      <pubDate>Mon, 06 Apr 2026 23:05:46 +0000</pubDate>
+      <guid isPermaLink="false">2041291304387444991</guid>
     </item>
     <item>
-      <title>Golden age of open source is here https://t.co/RX5H5gDcO1</title>
-      <link>https://x.com/garrytan/status/2040891664617848993</link>
-      <description>作者：Garry Tan
-账号：@garrytan
-简介：President &amp; CEO @ycombinator —Founder @garryslist—Creator of GStack—designer/engineer who helps founders—SF Dem accelerating the boom loop—Loves using emdashes
+      <title>we just updated our realtime AI headline tracker to use @TrySpiral as its lead writer  it now finds and writes the top stories every 30 minutes, so you know what to pay attention to  https://t.co/Bod8aCByqd https://t.co/LSkaJq0WyY</title>
+      <link>https://x.com/danshipper/status/2041273698452136210</link>
+      <description>作者：Dan Shipper
+账号：@danshipper
+简介：ceo @every | the only subscription you need to stay at the edge of AI
 
-Golden age of open source is here https://t.co/RX5H5gDcO1</description>
-      <pubDate>Sun, 05 Apr 2026 20:37:45 +0000</pubDate>
-      <guid isPermaLink="false">2040891664617848993</guid>
+we just updated our realtime AI headline tracker to use @TrySpiral as its lead writer
+
+it now finds and writes the top stories every 30 minutes, so you know what to pay attention to
+
+https://t.co/Bod8aCByqd https://t.co/LSkaJq0WyY</description>
+      <pubDate>Mon, 06 Apr 2026 21:55:49 +0000</pubDate>
+      <guid isPermaLink="false">2041273698452136210</guid>
     </item>
     <item>
-      <title>Legalize self driving cars https://t.co/WhLvkxxl07</title>
-      <link>https://x.com/garrytan/status/2040888948952912243</link>
-      <description>作者：Garry Tan
-账号：@garrytan
-简介：President &amp; CEO @ycombinator —Founder @garryslist—Creator of GStack—designer/engineer who helps founders—SF Dem accelerating the boom loop—Loves using emdashes
+      <title>I want to do a few more of these calls.    If your MAX 20x plan ran out of tokens unexpectedly early and you're willing to screenshare and run some prompts through Claude Code please comment.  Trying to figure out how we can improve /usage to give more info. https://t.co/rufJ6vCJGT</title>
+      <link>https://x.com/trq212/status/2041252127943877068</link>
+      <description>作者：Thariq
+账号：@trq212
+简介：Claude Code @anthropicai.   prev YC W20, mit media lab. 
 
-Legalize self driving cars https://t.co/WhLvkxxl07</description>
-      <pubDate>Sun, 05 Apr 2026 20:26:57 +0000</pubDate>
-      <guid isPermaLink="false">2040888948952912243</guid>
+towards machines of loving grace
+
+I want to do a few more of these calls.  
+
+If your MAX 20x plan ran out of tokens unexpectedly early and you're willing to screenshare and run some prompts through Claude Code please comment.
+
+Trying to figure out how we can improve /usage to give more info. https://t.co/rufJ6vCJGT</description>
+      <pubDate>Mon, 06 Apr 2026 20:30:06 +0000</pubDate>
+      <guid isPermaLink="false">2041252127943877068</guid>
     </item>
     <item>
-      <title>The @vercel team is always listening and engaging with customers on @x. We shape the product as a result of these conversations.  Vercel gives us the velocity to ship, X gives us a nonstop stream of user feedback. Thanks @simhskal &amp;amp; @riyvir! https://t.co/8FxoT66mfv</title>
-      <link>https://x.com/rauchg/status/2040879055990632715</link>
-      <description>作者：Guillermo Rauch
-账号：@rauchg
-简介：@vercel CEO
+      <title>I’ve been using the Fish Audio API to generate personalized podcasts. Dropping the skill soon https://t.co/dUcikIwOZ5</title>
+      <link>https://x.com/zarazhangrui/status/2041225124490420239</link>
+      <description>作者：Zara Zhang
+账号：@zarazhangrui
+简介：Builder. Dangerously skips permissions. Harvard’17. GitHub: https://t.co/KCuEajezlL YouTube: https://t.co/8xzbGWtf6w
 
-The @vercel team is always listening and engaging with customers on @x. We shape the product as a result of these conversations.
-
-Vercel gives us the velocity to ship, X gives us a nonstop stream of user feedback. Thanks @simhskal &amp;amp; @riyvir! https://t.co/8FxoT66mfv</description>
-      <pubDate>Sun, 05 Apr 2026 19:47:39 +0000</pubDate>
-      <guid isPermaLink="false">2040879055990632715</guid>
+I’ve been using the Fish Audio API to generate personalized podcasts. Dropping the skill soon https://t.co/dUcikIwOZ5</description>
+      <pubDate>Mon, 06 Apr 2026 18:42:48 +0000</pubDate>
+      <guid isPermaLink="false">2041225124490420239</guid>
     </item>
     <item>
-      <title>Created a flag on the moon based with hyper-realistic physics with @v0: https://t.co/XyE8a2xBEB.  The flag is simulated as a grid of particles connected by springs (cloth simulation). It's influenced by gravity, wind, air resistance.  The initial approach v0 one-shotted was quite simplistic, but giv...</title>
-      <link>https://x.com/rauchg/status/2040822340532236565</link>
-      <description>作者：Guillermo Rauch
-账号：@rauchg
-简介：@vercel CEO
+      <title>̶p̶o̶p̶ geek culture https://t.co/BiESTmgvZn https://t.co/KgG2r47HKo</title>
+      <link>https://x.com/steipete/status/2041225122866938364</link>
+      <description>作者：Peter Steinberger
+账号：@steipete
+简介：Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world @openclaw🦞
 
-Created a flag on the moon based with hyper-realistic physics with @v0: https://t.co/XyE8a2xBEB.
-
-The flag is simulated as a grid of particles connected by springs (cloth simulation). It's influenced by gravity, wind, air resistance.
-
-The initial approach v0 one-shotted was quite simplistic, but giving it references to more sophisticated approaches in C++ and Rust quickly improved it. It was mind-blowing it to see it deeply understand the physics and port new ideas across languages.
-
-It simulated a real sun for lighting, and procedurally generated moon-like terrain with craters. I found a sick free texture on Reddit that I uploaded and it layered on top.
-
-Another epic moment was watching it improve performance. It seamlessly moved the physics simulation to a Web Worker. (Kinda cool to see given we just improved support for them in Turbopack 😉)</description>
-      <pubDate>Sun, 05 Apr 2026 16:02:17 +0000</pubDate>
-      <guid isPermaLink="false">2040822340532236565</guid>
+̶p̶o̶p̶ geek culture https://t.co/BiESTmgvZn https://t.co/KgG2r47HKo</description>
+      <pubDate>Mon, 06 Apr 2026 18:42:48 +0000</pubDate>
+      <guid isPermaLink="false">2041225122866938364</guid>
     </item>
     <item>
-      <title>always wanted to do one of those “is it coachella” announcements - here is our designer’s take on it! https://t.co/Bt0UNqh2ET</title>
-      <link>https://x.com/swyx/status/2040812156728574385</link>
-      <description>作者：Swyx
-账号：@swyx
-简介：achieve ambition with intentionality, intensity, integrity &amp; insanity.
+      <title>RSVP https://t.co/OFO3KcPIFh</title>
+      <link>https://x.com/adityaag/status/2041221371267567745</link>
+      <description>作者：Aditya Agarwal
+账号：@adityaag
+简介：General Partner @SouthPkCommons, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @Dropbox, Board @Flipkart | Optimist, Builder, Dad
 
-affiliations:
-- @dxtipshq 
-- @cognition
-- @temporalio
-- @aidotengineer
-- @latentspacepod
-
-always wanted to do one of those “is it coachella” announcements - here is our designer’s take on it! https://t.co/Bt0UNqh2ET</description>
-      <pubDate>Sun, 05 Apr 2026 15:21:49 +0000</pubDate>
-      <guid isPermaLink="false">2040812156728574385</guid>
+RSVP https://t.co/OFO3KcPIFh</description>
+      <pubDate>Mon, 06 Apr 2026 18:27:53 +0000</pubDate>
+      <guid isPermaLink="false">2041221371267567745</guid>
     </item>
     <item>
-      <title>Surprised with how good the comments on github gists are. A lot more helpful, insightful, constructive, a lot less AI... Is it the user community? The markdown format? The (lack of) incentives?  Suddenly feeling like I should gist more. @github consider competing with X (?)</title>
-      <link>https://x.com/karpathy/status/2040806346556428585</link>
-      <description>作者：Andrej Karpathy
-账号：@karpathy
-简介：I like to train large deep neural nets. Previously Director of AI @ Tesla, founding team @ OpenAI, PhD @ Stanford.
+      <title>AI is rewriting the rules of security. How do you build defenses at machine speed?  The only way to defend against AI threats is with AI.  @nikesharora, CEO of the world's largest cybersecurity company @PaloAltoNtwks, is joining us at @southpkcommons on April 20th. https://t.co/DlIaNRMQQd</title>
+      <link>https://x.com/adityaag/status/2041221369401126984</link>
+      <description>作者：Aditya Agarwal
+账号：@adityaag
+简介：General Partner @SouthPkCommons, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @Dropbox, Board @Flipkart | Optimist, Builder, Dad
 
-Surprised with how good the comments on github gists are. A lot more helpful, insightful, constructive, a lot less AI... Is it the user community? The markdown format? The (lack of) incentives?
+AI is rewriting the rules of security. How do you build defenses at machine speed?
 
-Suddenly feeling like I should gist more.
-@github consider competing with X (?)</description>
-      <pubDate>Sun, 05 Apr 2026 14:58:44 +0000</pubDate>
-      <guid isPermaLink="false">2040806346556428585</guid>
+The only way to defend against AI threats is with AI.
+
+@nikesharora, CEO of the world's largest cybersecurity company @PaloAltoNtwks, is joining us at @southpkcommons on April 20th. https://t.co/DlIaNRMQQd</description>
+      <pubDate>Mon, 06 Apr 2026 18:27:53 +0000</pubDate>
+      <guid isPermaLink="false">2041221369401126984</guid>
     </item>
     <item>
-      <title>https://t.co/VHEdyBoTr9</title>
-      <link>https://x.com/thenanyu/status/2040775144545665061</link>
-      <description>作者：Nan Yu
-账号：@thenanyu
-简介：head of product @linear
+      <title>Before shipping a product built with AI, the most important step is to think about what features you can CUT, not what features you can add</title>
+      <link>https://x.com/zarazhangrui/status/2041196551113179296</link>
+      <description>作者：Zara Zhang
+账号：@zarazhangrui
+简介：Builder. Dangerously skips permissions. Harvard’17. GitHub: https://t.co/KCuEajezlL YouTube: https://t.co/8xzbGWtf6w
 
-https://t.co/VHEdyBoTr9</description>
-      <pubDate>Sun, 05 Apr 2026 12:54:44 +0000</pubDate>
-      <guid isPermaLink="false">2040775144545665061</guid>
+Before shipping a product built with AI, the most important step is to think about what features you can CUT, not what features you can add</description>
+      <pubDate>Mon, 06 Apr 2026 16:49:16 +0000</pubDate>
+      <guid isPermaLink="false">2041196551113179296</guid>
     </item>
     <item>
-      <title>Moonlake: Causal World Models should be Multimodal, Interactive, and Efficient — with Chris Manning and Fan-yun Sun</title>
+      <title>More takeaways in this post: https://t.co/MKMwlTQZ54</title>
+      <link>https://x.com/petergyang/status/2041161557930029406</link>
+      <description>作者：Peter Yang
+账号：@petergyang
+简介：I share extremely practical AI tutorials and interviews | Join 140K+ readers at https://t.co/XYKTmGVH14 | Product at Roblox
+
+More takeaways in this post: https://t.co/MKMwlTQZ54</description>
+      <pubDate>Mon, 06 Apr 2026 14:30:13 +0000</pubDate>
+      <guid isPermaLink="false">2041161557930029406</guid>
+    </item>
+    <item>
+      <title>Mistral: Voxtral TTS, Forge, Leanstral, &amp;amp; what's next for Mistral 4 — w/ Pavan Kumar Reddy &amp;amp; Guillaume Lample</title>
       <link>https://www.youtube.com/@LatentSpacePod</link>
       <description>播客：Latent Space
 
-Speaker 1 | 00:00 - 00:20
-I think this whole space is extremely difficult as things are emerging now. And, I mean, it's not only for world models. I think it's for everything, including text based models. Right? Because, you know, in the early days, it seemed very easy to have good benchmarks because we could do things like question answering benchmarks.
+Speaker 1 | 00:05 - 00:10
+Okay. Welcome to Lanespace. We're here in the studio with trusty cohost, Bibou. Welcome.
 
-Speaker 1 | 00:20 - 00:43
-But, you know, these days, so much of what people are wanting to do is nothing like that. Right? You're wanting to get some recommendations about which backpack would be best for you for your trip in Europe next month. It's not so easy to come up with a benchmark, and it's the same problem with these world models.
+Speaker 2 | 00:11 - 00:12
+Very excited for this one.
 
-Speaker 2 | 00:43 - 01:09
-Before we get into today's episode, I just have a small message for listeners. Thank you. We would not be able to bring you the AI engineering, science, and entertainment contents that you so clearly want if you didn't choose to also click in and tune into our content. We've been approached by sponsors on an almost daily basis, but, fortunately, enough of you actually subscribed to us to keep all this sustainable without ads, and we wanna keep it that way. But I just have one favor to ask all of you.
+Speaker 1 | 00:12 - 00:22
+As well as Guillaume and Pavan from Mistral. Welcome. I'm glad to be here. Thank you for all this. Pavan, you are leading audio research at Mistral, and, Guillaume, you're a chief scientist.
 
-Speaker 2 | 01:09 - 01:34
-The single most powerful, completely free thing you can do is to click that subscribe button. It's the only thing I'll ever ask of you, and it means absolutely everything to me and my team that work so hard to bring the In Space to you each and every week. If you do it, I promise you, we'll never stop working to make the show even better. Now let's get into it. Okay.
+Speaker 1 | 00:22 - 00:26
+What are we announcing today where we're coordinating this release with you guys?
 
-Speaker 2 | 01:34 - 01:43
-We're back in the studio with Moon Lake's, two leads. I I guess there's there's other founders as well, but, Sun and Chris Manning, welcome to the studio. Thanks a lot, Chris.
+Speaker 3 | 00:26 - 00:35
+Yeah. So we are releasing Voxtrail TTS. So it's our first audio model that generates speech. It's not our first audio model. We had a couple of releases before.
 
-Speaker 3 | 01:43 - 01:44
-Thanks for having us.
+Speaker 3 | 00:35 - 01:11
+We had one in the summer that was Voxtral, our first audio model, but it's it was like a transcription model, ASR. Like, a few months later, we released some update on top of this, supporting more languages, also a lot of table stake features for our customers, context biasing, position, time stamping, and the transcription. We also had some real time model that can transcribe not just at the end of the it was don't need to fill your entire audio file, but that can also come in real time. And here, is a natural extension in the audio, so, basically, speech generation. So, yeah, so we support nine languages, and this is a pretty small model, three d model, so very fast and also status.
 
-Speaker 2 | 01:44 - 02:00
-You've got you guys have, you know, come burst onto the scene with a really refreshing new take home of models. I would just want to, sort of, I guess, ask how you the two of you came together. Chris, you're a legend in NLP and just AI in in in general. You're you're his grad student, I guess.
+Speaker 3 | 01:11 - 01:25
+Yeah. Carphone is the same level of the of the best model, but it's much more efficient in terms of cost and also much in terms of cost, it's also much to go. They're only a fraction of the cost of Parham competitors. And we are also releasing the weight of this model that only he faced.
 
-Speaker 3 | 02:01 - 02:14
-Actually, my cofounder. Oh, yeah. I should give a lot of credit to my cofounder, Sharon. Yeah. She was she was actually working with professor Peve Lin Jajan, and then she ended up working with Ron and Chris Manning here.
+Speaker 1 | 01:25 - 01:27
+Yeah. Miami linked?
 
-Speaker 3 | 02:14 - 02:18
-And then so I got connected through to Chris initially, actually, through my cofounder.
+Speaker 3 | 01:27 - 01:28
+Not this time. What yeah.
 
-Speaker 2 | 02:18 - 02:27
-What is Moon Lake? What what is actually, I'm also very curious about the name, but, like, why going into world models? So I was working a lot
+Speaker 1 | 01:28 - 01:33
+What's the decision factor him? It's a good question.
 
-Speaker 3 | 02:28 - 03:10
-with, actually, NVIDIA research during my PhD years on essentially generating interactive worlds to train reinforcement learning agents or embodied AI agents. And then there's two observations, one in academia and one in industry. An industry, like folks at NVIDIA are actually paying a lot of dollars to purchase these types of interactive worlds, whether it's for the sake of evaluation or training the robots or policies or models. And then in academia, same thing is happening. And more specifically, when I was actually working with NVIDIA on the synthetic data foundation model training project, we were actually generating a lot of synthetic data and showing that, hey, you can actually these synthetic data are actually as useful as real world data when it comes to multimodal pre training.
+Speaker 3 | 01:33 - 01:35
+There will be more w o.
 
-Speaker 3 | 03:10 - 03:48
-But then, like I said, there's a lot of dollars being paid out to, like, external vendors or or, like, other folks to manually curate these types of data. It was very clear to us that, okay, on our way to let's call it embodied general intelligence, models need to learn the consequences behind their actions, which means that they need interactive data. And the demand for those types of data are growing exponentially, but everybody's sort of thinking about it from a pure, say, video generation perspective or something else. But we feel like the the true, actually, opportunity is actually building reasoning models that can do these things, like how humans do these things today. So that's a little bit on the genesis of Moon Lake.
+Speaker 1 | 01:36 - 01:39
+Yeah. Pavan, any other sort of research notes to add on what you No.
 
-Speaker 3 | 03:48 - 04:04
-And I think the reason I got into world models was partly a philosophical take of the on the world where I, like, you know, blame the simulation theory and stuff like that. But on the other on the other hand, it's really just like, oh, like, there's an opportunity there that I feel like nobody's doing it that way I think should be done.
+Speaker 4 | 01:39 - 02:12
+We maybe we'll dive into it later in the forecast too, but it's a novel architecture that we developed in house. We iterated it on several internal architectures and ended up with a autoregressive flow matching architecture and also have a new in house neural audio codec, which converts this audio into all point by Hertz latent tokens, semantic and acoustic tokens. And yeah, that's the new part about this model. And we're pretty excited that it came out with such good quality. And Guillaume was mentioning, yeah, it's a three d model.
 
-Speaker 1 | 04:04 - 04:24
-I can say a little bit about that. Yeah. So the overall goal is the pursuit of artificial intelligence. And, you know, most of my career has been doing that in the language space, and that's been just extremely productive as we all know the story of the last few years. I don't have to tell about how much we've achieved with large language models.
+Speaker 4 | 02:12 - 02:24
+It's based off of the Minestral model that we actually released just a few months back and insert trunk. And it mainly meant for, like, the TTS stuff, but the innate text capabilities are also there. Yeah.
 
-Speaker 1 | 04:24 - 05:01
-But although they're being extremely effective for ramping language and general intelligence. It's clearly not the whole world. There's this multimodal world of vision, sound, taste that you'd like to be dealing with more than just language. And then the question is how to do it. And despite, you know, a huge investment in the computer vision space, right, as a research field, computer vision has been for decades far, far larger than the language space actually.
+Speaker 1 | 02:24 - 02:52
+So there's a lot to cover. I always I love any anything to do with novel encodings and all those things because I think that's obviously increased a lot of efficiency, but also maybe bugs that sometimes happen. You were previously at Gemini, and you worked on post training for language models. And maybe a lot of people will have less experience with audio models just in general compared to pure language. What did you find that you have to revisit from scratch as you joined Mistral and started doing this?
 
-Speaker 1 | 05:01 - 05:49
-I mean, I think it's fair to say that, you know, vision understanding sort of stalled out, right? You got to object recognition, and then progress just wasn't being made, right? If you look at any of these vision language models, it's the language that's doing 90% of the work and the vision barely works. And so there's really an interesting research question as to why that is. And at heart, the ideas behind Moon Lake are an attempt to answer that, believing that there can be a really rich connection between a more symbolic layer of abstracted understanding of visual domains, which aren't in the mainstream vision models, which are still trying to operate on the surface level of pixels.
+Speaker 4 | 02:53 - 03:25
+At least when it comes to for I think there there are two buckets, I guess, the audio understanding and audio generation. The audio understanding, like the Voxel models that Kim was mentioning that we released earlier, the Voxel chat that we released, think, July, and the follow-up transcription only models family that we released in January. That could be one bucket and the generation is another bucket. I think you can also treat them as a unified set of models. But currently, the approaches are a little different between these two, to your question on how audio is fed to the model.
 
-Speaker 2 | 05:49 - 05:56
-Mhmm. I think one of your blog posts, you put it as structure, not scale. Is that general thesis?
+Speaker 4 | 03:25 - 03:40
+In the understanding model, it's very similar to actually Pixtrl model that we also released. Yes, that was amazing. That was the first project I worked on after joining Mistral. It was pretty nice. And Voxel was very similar in spirit, I guess.
 
-Speaker 1 | 05:56 - 05:58
-Yeah. Well, scale is good too.
+Speaker 4 | 03:40 - 03:59
+So we feed the audio through an audio encoder similar to images through a vision encoder. And it produces continuous embeddings, which are fed as tokens to the main transformer decoder transformer model. Yeah. And the model output is just fixed. So on the output side, there is nothing that needs to be done in these kinds of models.
 
-Speaker 3 | 05:58 - 05:59
-Yeah. Scale is good too.
+Speaker 4 | 03:59 - 04:29
+I guess the interesting part about the generation step is the output now has to produce audio. And the approach that we have is this neural audio codec, which converts audio into these latent tokens. There is a lot of existing literature and a lot of models which are based off of this kind of approach. And we took slightly different design decisions around this. But at the end of the day, the neural audio product converts audio into a 12.5 hertz set of latents.
 
-Speaker 1 | 05:59 - 06:01
-Lots of data is good as well.
+Speaker 4 | 04:29 - 04:52
+And each latent has a semantic token and a set of acoustic tokens. And the idea is that you take these discrete tokens and then feed it on the input side. There are several ways to fuse this at each frame, but we just sum the embeddings. So it's like having k different vocabularies and combine all of them because they all correspond to one audio frame on the input side. The output side is the interesting part.
 
-Speaker 2 | 06:01 - 06:01
-And scale.
+Speaker 4 | 04:52 - 05:09
+On the output side, I don't know if it's the most popular, but one popular technique is to have a depth transformer because you have K tokens at each time step. Like with our text, you just have one token at each time step. So you just do predict the token from the vocabulary with just You get probability.
 
-Speaker 1 | 06:01 - 06:07
-But, nevertheless, you want the structure, yeah, to be able to much more efficiently learn.
+Speaker 1 | 05:09 - 05:11
+This is very straightforward test.
 
-Speaker 2 | 06:07 - 06:36
-Yeah. The other thing I really liked also is you put out an example of what your kind of reasoning traces look like, right, which you would the still is is the word that comes to mind. I don't even think that's a good good description, but it would involve, for example, geometry, physics, affordances, symbolic logic, perceptual mappings, and what what have you. But, like, that that is the kind of example that involves, let's call it, spatial reasoning, world model reasoning as as compared to normal LM reasoning. Yeah.
+Speaker 4 | 05:11 - 05:21
+Very straightforward. Yeah. But if you have k tokens, then the main thing would be to predict all of them in parallel. But that doesn't work. At least that doesn't work that well because audio has more entropy.
 
-Speaker 4 | 06:36 - 07:03
-But also, like, taking it a step back, so how do you guys define world models? You know, a lot of people see, like, okay, you can do diffusion, you can do video generation, but you guys put out quite a few blog posts. You put out a essay recently. You can even pull it up about efficient world models. You have a pretty, like, structural definition here, but for the general audience that don't super follow the space, right, what's what's the difference in what we see from, like, a video generation model to a world gen, a simulator?
+Speaker 4 | 05:21 - 05:52
+And one of the techniques people use is this depth transformer where you almost have a small transformer. Or it can be LSTM RN as well, but people use transformers and you predict the K tokens in autoregressive fashion in that. So you have two autoregressive things going on. So the thing we did differently is instead of having this autoregressive K step prediction, we have a flow matching model. Instead of modeling this as a discrete token set, we train the codec to be both discrete and continuous to have this flexibility.
 
-Speaker 4 | 07:03 - 07:04
-How do you kind of paint that landscape?
+Speaker 4 | 05:52 - 06:08
+So we did try the discrete stuff too, and it works well. But the continuous stuff works just better. So yeah, we took this flow matching. So it's a flow matching head, which takes the latent from the main transformer. And in diffusion, it's denoising, but in this flow matching, it's velocity estimate.
 
-Speaker 1 | 07:04 - 08:08
-So I think this is actually a little bit subtle because, ...</description>
-      <pubDate>Thu, 02 Apr 2026 17:55:29 +0000</pubDate>
+Speaker 4 | 06:08 - 06:20
+So you go from this noised all the way to the audio latent, which corresponds to the eighty millisecond audio and then which is sent through the vocoder to get back the eighty millisecond audio frame.
+
+Speaker 1 | 06:20 - 06:26
+Yeah. Is this the first application of flow matching in audio? Because usually, I come across this in the image.
+
+Speaker 4 | 06:26 - 06:37
+Yeah. Actually, in some sense, there are models, flow matching models in audio. But I think this specific combination, I could be wrong. There could be some work. I haven't much work in this.
+
+Speaker 4 | 06:37 - 06:54
+I think it's novel. And a lot of it's just a way bigger community. So I think they pioneer a lot of these diffusion flow matching work. And it's interesting to adopt some of the ideas there into audio. And personally, that's the big part, which is trying out.
+
+Speaker 4 | 06:54 - 07:17
+More m...</description>
+      <pubDate>Mon, 30 Mar 2026 19:25:21 +0000</pubDate>
       <guid>https://www.youtube.com/@LatentSpacePod</guid>
     </item>
   </channel>
