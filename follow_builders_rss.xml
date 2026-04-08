@@ -5,398 +5,614 @@
     <link>https://github.com/zarazhangrui/follow-builders</link>
     <description>聚合 AI 领域建设者的 X、播客和博客内容。</description>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 08 Apr 2026 07:05:30 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Apr 2026 12:55:10 +0000</lastBuildDate>
     <item>
-      <title>GStack doesn't give you money (it gives you free skills) but YC AI Stack can give you $25k in free credits. https://t.co/HSDbu6j2Z9</title>
-      <link>https://x.com/garrytan/status/2041389865426878807</link>
-      <description>作者：Garry Tan
-账号：@garrytan
-简介：President &amp; CEO @ycombinator —Founder @garryslist—Creator of GStack—designer/engineer who helps founders—SF Dem accelerating the boom loop—Loves using emdashes
+      <title>This new Mythos model is absurd.  What a time to be alive.  Whether you invest or you build -- please take a moment to appreciate what an incredible time we live in.</title>
+      <link>https://x.com/adityaag/status/2041771160359375001</link>
+      <description>作者：Aditya Agarwal
+账号：@adityaag
+简介：General Partner @SouthPkCommons, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @Dropbox, Board @Flipkart | Optimist, Builder, Dad
 
-GStack doesn't give you money (it gives you free skills) but YC AI Stack can give you $25k in free credits. https://t.co/HSDbu6j2Z9</description>
-      <pubDate>Tue, 07 Apr 2026 05:37:25 +0000</pubDate>
-      <guid isPermaLink="false">2041389865426878807</guid>
+This new Mythos model is absurd.
+
+What a time to be alive.
+
+Whether you invest or you build -- please take a moment to appreciate what an incredible time we live in.</description>
+      <pubDate>Wed, 08 Apr 2026 06:52:33 +0000</pubDate>
+      <guid isPermaLink="false">2041771160359375001</guid>
     </item>
     <item>
-      <title>Attackers can exfiltrate user files from Cowork by exploiting an unremediated vulnerability in Claude’s coding environment, which now extends to Cowork. The vulnerability was first identified in https://t.co/noHjpUqN1I chat before Cowork existed by Johann Rehberger, who disclosed the vulnerability. ...</title>
-      <link>https://x.com/garrytan/status/2041388847930712399</link>
-      <description>作者：Garry Tan
-账号：@garrytan
-简介：President &amp; CEO @ycombinator —Founder @garryslist—Creator of GStack—designer/engineer who helps founders—SF Dem accelerating the boom loop—Loves using emdashes
-
-Attackers can exfiltrate user files from Cowork by exploiting an unremediated vulnerability in Claude’s coding environment, which now extends to Cowork. The vulnerability was first identified in https://t.co/noHjpUqN1I chat before Cowork existed by Johann Rehberger, who disclosed the vulnerability. It was acknowledged but not remediated by Anthropic.
-https://t.co/RQTMzbOaR2</description>
-      <pubDate>Tue, 07 Apr 2026 05:33:23 +0000</pubDate>
-      <guid isPermaLink="false">2041388847930712399</guid>
-    </item>
-    <item>
-      <title>Simple, yet effective. https://t.co/kxn1CQEjwK</title>
-      <link>https://x.com/amasad/status/2041383382769393743</link>
-      <description>作者：Amjad Masad
-账号：@amasad
-简介：ceo @replit. civilizationist
-
-Simple, yet effective. https://t.co/kxn1CQEjwK</description>
-      <pubDate>Tue, 07 Apr 2026 05:11:40 +0000</pubDate>
-      <guid isPermaLink="false">2041383382769393743</guid>
-    </item>
-    <item>
-      <title>Excited to talk to you tomorrow @ 12pm PT.  Adam will be showing off a demo of a new feature we haven't released yet! https://t.co/nSajpJmX07</title>
-      <link>https://x.com/trq212/status/2041380183295590471</link>
-      <description>作者：Thariq
-账号：@trq212
-简介：Claude Code @anthropicai.   prev YC W20, mit media lab. 
-
-towards machines of loving grace
-
-Excited to talk to you tomorrow @ 12pm PT.
-
-Adam will be showing off a demo of a new feature we haven't released yet! https://t.co/nSajpJmX07</description>
-      <pubDate>Tue, 07 Apr 2026 04:58:57 +0000</pubDate>
-      <guid isPermaLink="false">2041380183295590471</guid>
-    </item>
-    <item>
-      <title>https://t.co/Q5N1HRhjcD</title>
-      <link>https://x.com/garrytan/status/2041363251334902219</link>
-      <description>作者：Garry Tan
-账号：@garrytan
-简介：President &amp; CEO @ycombinator —Founder @garryslist—Creator of GStack—designer/engineer who helps founders—SF Dem accelerating the boom loop—Loves using emdashes
-
-https://t.co/Q5N1HRhjcD</description>
-      <pubDate>Tue, 07 Apr 2026 03:51:40 +0000</pubDate>
-      <guid isPermaLink="false">2041363251334902219</guid>
-    </item>
-    <item>
-      <title>When you have agents going out and doing work for you, the work just moved up a layer of abstraction.  Now the work is figuring out what to tell the agent to do, ensuring you give it proper instructions, getting needed context to the agent to do its tasks, intervening when it goes off task, reviewin...</title>
-      <link>https://x.com/levie/status/2041347596342460439</link>
-      <description>作者：Aaron Levie
-账号：@levie
-简介：ceo @box - your business lives in content. unleash it with AI
-
-When you have agents going out and doing work for you, the work just moved up a layer of abstraction.
-
-Now the work is figuring out what to tell the agent to do, ensuring you give it proper instructions, getting needed context to the agent to do its tasks, intervening when it goes off task, reviewing the final work, and incorporating the output into something else. Any one of these components being off and poof you will have useless work product.
-
-Even as agents can complete longer horizon tasks, these steps don’t go away. In fact the longer the task the more the planning and review stages will necessarily take up. You are now the editor. A manager. A producer. The taste matters, understanding the craft of what you’re doing matters, and the skills ultimately matter.
-
-AI Agents haven’t changed any of this. We’re going to automate away the annoying parts of work and keep the more enjoyable parts. But the work is still there, just different.</description>
-      <pubDate>Tue, 07 Apr 2026 02:49:28 +0000</pubDate>
-      <guid isPermaLink="false">2041347596342460439</guid>
-    </item>
-    <item>
-      <title>I had a wonderful chat with my friend @illscience (a16z GP) about the future of work in an AI agent first world:  1. Coding will eat all knowledge work  Writing docs, building slides, pulling analytics — I now get the first 80% done through AI coding agents before doing manual polish for the last 20...</title>
-      <link>https://x.com/petergyang/status/2041331383344443795</link>
-      <description>作者：Peter Yang
-账号：@petergyang
-简介：I share extremely practical AI tutorials and interviews | Join 140K+ readers at https://t.co/XYKTmGVH14 | Product at Roblox
-
-I had a wonderful chat with my friend @illscience (a16z GP) about the future of work in an AI agent first world:
-
-1. Coding will eat all knowledge work
-
-Writing docs, building slides, pulling analytics — I now get the first 80% done through AI coding agents before doing manual polish for the last 20%. I never start from zero anymore.
-
-2. Small teams will outperform large orgs
-
-Anish and I both remember sitting in 3-hour OKR meetings thinking &quot;this is wasting my life.&quot; This generation's founders know to stay tiny on purpose. 2-3 person product teams with a swarm of agents will replace overstaffed orgs.
-
-3. Apps for completing tasks will shrink
-
-Ever since I wired up Google Workspace, Mercury, and other APIs to my OpenClaw, I barely use those apps anymore.  But I still scroll X every day. Apps that entertain you will outlast the ones you open to get stuff done.
-
-4. We'll all have personal agents that understand us deeply
-
-I was on a walk with my OpenClaw and it said: &quot;You keep talking about your career and business. Just remember your kids are 7 and 4. They're going to grow up soon - optimize for spending time with them instead.&quot; That was a great wake-up call I didn't expect.
-
-5. Human ambition has no ceiling
-
-The shape of the economy is changing, not shrinking. We'll hopefully see more one-person companies and small teams in light of ongoing layoffs from big tech. As someone tweeted recently, &quot;The job market is so bad I have no choice but to pursue my dreams.&quot;
-
-📌 Watch now: https://t.co/Axm2XrSymb</description>
-      <pubDate>Tue, 07 Apr 2026 01:45:02 +0000</pubDate>
-      <guid isPermaLink="false">2041331383344443795</guid>
-    </item>
-    <item>
-      <title>The Flippening</title>
-      <link>https://x.com/thenanyu/status/2041329467621036098</link>
-      <description>作者：Nan Yu
-账号：@thenanyu
-简介：head of product @linear
-
-The Flippening</description>
-      <pubDate>Tue, 07 Apr 2026 01:37:25 +0000</pubDate>
-      <guid isPermaLink="false">2041329467621036098</guid>
-    </item>
-    <item>
-      <title>Shinigami Eyes https://t.co/EH0l0m8dHY</title>
-      <link>https://x.com/thenanyu/status/2041329120634691690</link>
-      <description>作者：Nan Yu
-账号：@thenanyu
-简介：head of product @linear
-
-Shinigami Eyes https://t.co/EH0l0m8dHY</description>
-      <pubDate>Tue, 07 Apr 2026 01:36:03 +0000</pubDate>
-      <guid isPermaLink="false">2041329120634691690</guid>
-    </item>
-    <item>
-      <title>Mainly, because they would be good at it  https://t.co/AsJRCW0Eaa</title>
-      <link>https://x.com/thenanyu/status/2041320948377268510</link>
-      <description>作者：Nan Yu
-账号：@thenanyu
-简介：head of product @linear
-
-Mainly, because they would be good at it
-
-https://t.co/AsJRCW0Eaa</description>
-      <pubDate>Tue, 07 Apr 2026 01:03:34 +0000</pubDate>
-      <guid isPermaLink="false">2041320948377268510</guid>
-    </item>
-    <item>
-      <title>I don’t know measuring productivity by token usage sounds almost as dumb as measuring by lines of code written. https://t.co/xwu4kKQrf5</title>
-      <link>https://x.com/petergyang/status/2041312589645574578</link>
-      <description>作者：Peter Yang
-账号：@petergyang
-简介：I share extremely practical AI tutorials and interviews | Join 140K+ readers at https://t.co/XYKTmGVH14 | Product at Roblox
-
-I don’t know measuring productivity by token usage sounds almost as dumb as measuring by lines of code written. https://t.co/xwu4kKQrf5</description>
-      <pubDate>Tue, 07 Apr 2026 00:30:21 +0000</pubDate>
-      <guid isPermaLink="false">2041312589645574578</guid>
-    </item>
-    <item>
-      <title>prima facie as long as context rot is a thing you are going to need specialization or you're gonna have a bad time</title>
-      <link>https://x.com/danshipper/status/2041305658054574561</link>
-      <description>作者：Dan Shipper
-账号：@danshipper
-简介：ceo @every | the only subscription you need to stay at the edge of AI
-
-prima facie as long as context rot is a thing you are going to need specialization or you're gonna have a bad time</description>
-      <pubDate>Tue, 07 Apr 2026 00:02:49 +0000</pubDate>
-      <guid isPermaLink="false">2041305658054574561</guid>
-    </item>
-    <item>
-      <title>the idea that organizations don't need hierarchies anymore because of ai is silly  for sure, there's an opportunity for fewer layers of middle management. but every experience i've had with agents leads me to believe that specialization and therefore hierarchy is extremely valuable</title>
-      <link>https://x.com/danshipper/status/2041302485315248595</link>
-      <description>作者：Dan Shipper
-账号：@danshipper
-简介：ceo @every | the only subscription you need to stay at the edge of AI
-
-the idea that organizations don't need hierarchies anymore because of ai is silly
-
-for sure, there's an opportunity for fewer layers of middle management. but every experience i've had with agents leads me to believe that specialization and therefore hierarchy is extremely valuable</description>
-      <pubDate>Mon, 06 Apr 2026 23:50:12 +0000</pubDate>
-      <guid isPermaLink="false">2041302485315248595</guid>
-    </item>
-    <item>
-      <title>Added $21B in the last 3 months and $11B annualized run rate revenue in the last month alone...   holy what @AnthropicAI 🤯 https://t.co/uIRURp2qL9</title>
-      <link>https://x.com/nikunj/status/2041291304387444991</link>
+      <title>At some point, early stage founders decided to optimize for views and funding instead of focusing on product and retention..  And, it’s starting to show. One of the very first things I do is look at change logs (or feature releases) of supposedly flashy companies. Or read case studies if they have a...</title>
+      <link>https://x.com/nikunj/status/2041757065354293760</link>
       <description>作者：Nikunj Kothari
 账号：@nikunj
 简介：partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian &amp; others. love @shimoleejhaveri + 👦👧
 
-Added $21B in the last 3 months and $11B annualized run rate revenue in the last month alone... 
+At some point, early stage founders decided to optimize for views and funding instead of focusing on product and retention..
 
-holy what @AnthropicAI 🤯 https://t.co/uIRURp2qL9</description>
-      <pubDate>Mon, 06 Apr 2026 23:05:46 +0000</pubDate>
-      <guid isPermaLink="false">2041291304387444991</guid>
+And, it’s starting to show. One of the very first things I do is look at change logs (or feature releases) of supposedly flashy companies. Or read case studies if they have any. 
+
+And for weeks, I’ll barely see any changes. And, these are companies that would benefit from sharing this info to use for marketing. 
+
+Instead of spending your time optimizing the viral launch video that’ll primarily optimize for funding, use that same energy to focus on customers who’ll actually pay you. Trust me the VCs follow!</description>
+      <pubDate>Wed, 08 Apr 2026 05:56:33 +0000</pubDate>
+      <guid isPermaLink="false">2041757065354293760</guid>
     </item>
     <item>
-      <title>we just updated our realtime AI headline tracker to use @TrySpiral as its lead writer  it now finds and writes the top stories every 30 minutes, so you know what to pay attention to  https://t.co/Bod8aCByqd https://t.co/LSkaJq0WyY</title>
-      <link>https://x.com/danshipper/status/2041273698452136210</link>
-      <description>作者：Dan Shipper
-账号：@danshipper
-简介：ceo @every | the only subscription you need to stay at the edge of AI
+      <title>Oh man Yahoo Tech... you got so close. You almost had it.  Better luck next time! https://t.co/yYmLHeQIOP</title>
+      <link>https://x.com/garrytan/status/2041750093414731888</link>
+      <description>作者：Garry Tan
+账号：@garrytan
+简介：President &amp; CEO @ycombinator —Founder @garryslist—Creator of GStack—designer/engineer who helps founders—SF Dem accelerating the boom loop—Loves using emdashes
 
-we just updated our realtime AI headline tracker to use @TrySpiral as its lead writer
+Oh man Yahoo Tech... you got so close. You almost had it.
 
-it now finds and writes the top stories every 30 minutes, so you know what to pay attention to
-
-https://t.co/Bod8aCByqd https://t.co/LSkaJq0WyY</description>
-      <pubDate>Mon, 06 Apr 2026 21:55:49 +0000</pubDate>
-      <guid isPermaLink="false">2041273698452136210</guid>
+Better luck next time! https://t.co/yYmLHeQIOP</description>
+      <pubDate>Wed, 08 Apr 2026 05:28:50 +0000</pubDate>
+      <guid isPermaLink="false">2041750093414731888</guid>
     </item>
     <item>
-      <title>I want to do a few more of these calls.    If your MAX 20x plan ran out of tokens unexpectedly early and you're willing to screenshare and run some prompts through Claude Code please comment.  Trying to figure out how we can improve /usage to give more info. https://t.co/rufJ6vCJGT</title>
-      <link>https://x.com/trq212/status/2041252127943877068</link>
+      <title>@jackbutcher @thisiskp_ @danlovesproofs @bfirsh @akshat_b here is @simonw on the difference in self evident naming between “prompt injection” and “lethal trifecta”  https://t.co/wSSVgEZeWM https://t.co/ovDqwQRvq5</title>
+      <link>https://x.com/swyx/status/2041739250421436591</link>
+      <description>作者：Swyx
+账号：@swyx
+简介：achieve ambition with intentionality, intensity, integrity &amp; insanity.
+
+affiliations:
+- @dxtipshq 
+- @cognition
+- @temporalio
+- @aidotengineer
+- @latentspacepod
+
+@jackbutcher @thisiskp_ @danlovesproofs @bfirsh @akshat_b here is @simonw on the difference in self evident naming between “prompt injection” and “lethal trifecta”
+
+https://t.co/wSSVgEZeWM https://t.co/ovDqwQRvq5</description>
+      <pubDate>Wed, 08 Apr 2026 04:45:45 +0000</pubDate>
+      <guid isPermaLink="false">2041739250421436591</guid>
+    </item>
+    <item>
+      <title>Skill: https://t.co/WP0b4wfNKJ</title>
+      <link>https://x.com/zarazhangrui/status/2041736976630739000</link>
+      <description>作者：Zara Zhang
+账号：@zarazhangrui
+简介：Builder. Dangerously skips permissions. Harvard’17. GitHub: https://t.co/KCuEajezlL YouTube: https://t.co/8xzbGWtf6w
+
+Skill: https://t.co/WP0b4wfNKJ</description>
+      <pubDate>Wed, 08 Apr 2026 04:36:43 +0000</pubDate>
+      <guid isPermaLink="false">2041736976630739000</guid>
+    </item>
+    <item>
+      <title>Introducing the Personalized Podcast skill: Turn anything into a podcast with 2 AI hosts, publish it as an RSS feed, and listen to the show in your favorite podcast app on the go  I've been remixing my meeting transcripts into podcasts where the AIs &quot;eavesdrop&quot; on my conversation &amp; comment on their ...</title>
+      <link>https://x.com/zarazhangrui/status/2041736869998948528</link>
+      <description>作者：Zara Zhang
+账号：@zarazhangrui
+简介：Builder. Dangerously skips permissions. Harvard’17. GitHub: https://t.co/KCuEajezlL YouTube: https://t.co/8xzbGWtf6w
+
+Introducing the Personalized Podcast skill: Turn anything into a podcast with 2 AI hosts, publish it as an RSS feed, and listen to the show in your favorite podcast app on the go
+
+I've been remixing my meeting transcripts into podcasts where the AIs &quot;eavesdrop&quot; on my conversation &amp; comment on their impression of me. It's insane
+
+This is the age of &quot;content for one&quot;
+
+Link below</description>
+      <pubDate>Wed, 08 Apr 2026 04:36:18 +0000</pubDate>
+      <guid isPermaLink="false">2041736869998948528</guid>
+    </item>
+    <item>
+      <title>Mythos from Anthropic is another clear reminder that there’s absolutely no wall in model capability progress right now. Meaningful double digit gains on critical benchmarks, and it appears we’re going to keep up getting insane gains from the other labs.  And as coding and tool use goes, so goes agen...</title>
+      <link>https://x.com/levie/status/2041732610179703100</link>
+      <description>作者：Aaron Levie
+账号：@levie
+简介：ceo @box - your business lives in content. unleash it with AI
+
+Mythos from Anthropic is another clear reminder that there’s absolutely no wall in model capability progress right now. Meaningful double digit gains on critical benchmarks, and it appears we’re going to keep up getting insane gains from the other labs.
+
+And as coding and tool use goes, so goes agentic workflows. Most knowledge automation is gated by some degree of models being able to reason through complicated tasks, use the right tools to work with data, have access to the right context, and be able to leverage skills and write code to work with and verify that data, and more. 
+
+The capability slope we’re going to keep seeing from the frontier labs is going to open up all new use cases in finance, healthcare, legal, consulting, supply chains, and more. 
+
+Make sure you’re building something that can take advantage of these upcoming improvements, or you’ll be in a tough spot strategically.</description>
+      <pubDate>Wed, 08 Apr 2026 04:19:22 +0000</pubDate>
+      <guid isPermaLink="false">2041732610179703100</guid>
+    </item>
+    <item>
+      <title>Thanks to @RatulSarna for the gardening, also @BeelixGit, @enzonaute, @ngutman, @ratulsarna and more contributors 🙏</title>
+      <link>https://x.com/steipete/status/2041731877787025448</link>
+      <description>作者：Peter Steinberger
+账号：@steipete
+简介：Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world @openclaw🦞
+
+Thanks to @RatulSarna for the gardening, also @BeelixGit, @enzonaute, @ngutman, @ratulsarna and more contributors 🙏</description>
+      <pubDate>Wed, 08 Apr 2026 04:16:27 +0000</pubDate>
+      <guid isPermaLink="false">2041731877787025448</guid>
+    </item>
+    <item>
+      <title>CodexBar 0.20 is out! 🎚️  🆕 New providers: Perplexity + OpenCode Go 🔄 Switch Codex accounts without re-login  🔧 Fixed Claude token/cost inflation from dupes  📊 Cost history merges session usage into provider history  16 providers tracked. One menu bar. https://t.co/gPOeR1Rno7 https://t.co/dmRJefpvvY</title>
+      <link>https://x.com/steipete/status/2041731875241066517</link>
+      <description>作者：Peter Steinberger
+账号：@steipete
+简介：Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world @openclaw🦞
+
+CodexBar 0.20 is out! 🎚️
+
+🆕 New providers: Perplexity + OpenCode Go
+🔄 Switch Codex accounts without re-login
+ 🔧 Fixed Claude token/cost inflation from dupes
+ 📊 Cost history merges session usage into provider history
+
+16 providers tracked. One menu bar. https://t.co/gPOeR1Rno7 https://t.co/dmRJefpvvY</description>
+      <pubDate>Wed, 08 Apr 2026 04:16:27 +0000</pubDate>
+      <guid isPermaLink="false">2041731875241066517</guid>
+    </item>
+    <item>
+      <title>done about 10 of these calls so far + looked at more transcripts  many learnings but one of the biggest is that it's very easy to spend a lot of tokens on open ended verification that doesn't make your output better  I'll try and write more on how to do it efficiently https://t.co/VrBGOFDhIF</title>
+      <link>https://x.com/trq212/status/2041722125510377705</link>
       <description>作者：Thariq
 账号：@trq212
 简介：Claude Code @anthropicai.   prev YC W20, mit media lab. 
 
 towards machines of loving grace
 
-I want to do a few more of these calls.  
+done about 10 of these calls so far + looked at more transcripts
 
-If your MAX 20x plan ran out of tokens unexpectedly early and you're willing to screenshare and run some prompts through Claude Code please comment.
+many learnings but one of the biggest is that it's very easy to spend a lot of tokens on open ended verification that doesn't make your output better
 
-Trying to figure out how we can improve /usage to give more info. https://t.co/rufJ6vCJGT</description>
-      <pubDate>Mon, 06 Apr 2026 20:30:06 +0000</pubDate>
-      <guid isPermaLink="false">2041252127943877068</guid>
+I'll try and write more on how to do it efficiently https://t.co/VrBGOFDhIF</description>
+      <pubDate>Wed, 08 Apr 2026 03:37:42 +0000</pubDate>
+      <guid isPermaLink="false">2041722125510377705</guid>
     </item>
     <item>
-      <title>I’ve been using the Fish Audio API to generate personalized podcasts. Dropping the skill soon https://t.co/dUcikIwOZ5</title>
-      <link>https://x.com/zarazhangrui/status/2041225124490420239</link>
-      <description>作者：Zara Zhang
-账号：@zarazhangrui
-简介：Builder. Dangerously skips permissions. Harvard’17. GitHub: https://t.co/KCuEajezlL YouTube: https://t.co/8xzbGWtf6w
+      <title>Always a pleasure to speak at @ycombinator. More bullish than ever. Exceptional founders. Best city, best time, best opportunity to build in generations. https://t.co/YWjCu3Ldo6</title>
+      <link>https://x.com/rauchg/status/2041720266154504351</link>
+      <description>作者：Guillermo Rauch
+账号：@rauchg
+简介：@vercel CEO
 
-I’ve been using the Fish Audio API to generate personalized podcasts. Dropping the skill soon https://t.co/dUcikIwOZ5</description>
-      <pubDate>Mon, 06 Apr 2026 18:42:48 +0000</pubDate>
-      <guid isPermaLink="false">2041225124490420239</guid>
+Always a pleasure to speak at @ycombinator. More bullish than ever. Exceptional founders. Best city, best time, best opportunity to build in generations. https://t.co/YWjCu3Ldo6</description>
+      <pubDate>Wed, 08 Apr 2026 03:30:19 +0000</pubDate>
+      <guid isPermaLink="false">2041720266154504351</guid>
     </item>
     <item>
-      <title>̶p̶o̶p̶ geek culture https://t.co/BiESTmgvZn https://t.co/KgG2r47HKo</title>
-      <link>https://x.com/steipete/status/2041225122866938364</link>
+      <title>Trending on Hacker News rn. https://t.co/MVfZFD2IHI</title>
+      <link>https://x.com/steipete/status/2041719008953606148</link>
       <description>作者：Peter Steinberger
 账号：@steipete
 简介：Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world @openclaw🦞
 
-̶p̶o̶p̶ geek culture https://t.co/BiESTmgvZn https://t.co/KgG2r47HKo</description>
-      <pubDate>Mon, 06 Apr 2026 18:42:48 +0000</pubDate>
-      <guid isPermaLink="false">2041225122866938364</guid>
+Trending on Hacker News rn. https://t.co/MVfZFD2IHI</description>
+      <pubDate>Wed, 08 Apr 2026 03:25:19 +0000</pubDate>
+      <guid isPermaLink="false">2041719008953606148</guid>
     </item>
     <item>
-      <title>RSVP https://t.co/OFO3KcPIFh</title>
-      <link>https://x.com/adityaag/status/2041221371267567745</link>
-      <description>作者：Aditya Agarwal
-账号：@adityaag
-简介：General Partner @SouthPkCommons, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @Dropbox, Board @Flipkart | Optimist, Builder, Dad
-
-RSVP https://t.co/OFO3KcPIFh</description>
-      <pubDate>Mon, 06 Apr 2026 18:27:53 +0000</pubDate>
-      <guid isPermaLink="false">2041221371267567745</guid>
-    </item>
-    <item>
-      <title>AI is rewriting the rules of security. How do you build defenses at machine speed?  The only way to defend against AI threats is with AI.  @nikesharora, CEO of the world's largest cybersecurity company @PaloAltoNtwks, is joining us at @southpkcommons on April 20th. https://t.co/DlIaNRMQQd</title>
-      <link>https://x.com/adityaag/status/2041221369401126984</link>
-      <description>作者：Aditya Agarwal
-账号：@adityaag
-简介：General Partner @SouthPkCommons, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @Dropbox, Board @Flipkart | Optimist, Builder, Dad
-
-AI is rewriting the rules of security. How do you build defenses at machine speed?
-
-The only way to defend against AI threats is with AI.
-
-@nikesharora, CEO of the world's largest cybersecurity company @PaloAltoNtwks, is joining us at @southpkcommons on April 20th. https://t.co/DlIaNRMQQd</description>
-      <pubDate>Mon, 06 Apr 2026 18:27:53 +0000</pubDate>
-      <guid isPermaLink="false">2041221369401126984</guid>
-    </item>
-    <item>
-      <title>Before shipping a product built with AI, the most important step is to think about what features you can CUT, not what features you can add</title>
-      <link>https://x.com/zarazhangrui/status/2041196551113179296</link>
-      <description>作者：Zara Zhang
-账号：@zarazhangrui
-简介：Builder. Dangerously skips permissions. Harvard’17. GitHub: https://t.co/KCuEajezlL YouTube: https://t.co/8xzbGWtf6w
-
-Before shipping a product built with AI, the most important step is to think about what features you can CUT, not what features you can add</description>
-      <pubDate>Mon, 06 Apr 2026 16:49:16 +0000</pubDate>
-      <guid isPermaLink="false">2041196551113179296</guid>
-    </item>
-    <item>
-      <title>More takeaways in this post: https://t.co/MKMwlTQZ54</title>
-      <link>https://x.com/petergyang/status/2041161557930029406</link>
+      <title>Good initiative - I’m curious if Anthropic has been using mythos internally to ship at their recent insane velocity. https://t.co/378d3TuWbd</title>
+      <link>https://x.com/petergyang/status/2041678988318543908</link>
       <description>作者：Peter Yang
 账号：@petergyang
 简介：I share extremely practical AI tutorials and interviews | Join 140K+ readers at https://t.co/XYKTmGVH14 | Product at Roblox
 
-More takeaways in this post: https://t.co/MKMwlTQZ54</description>
-      <pubDate>Mon, 06 Apr 2026 14:30:13 +0000</pubDate>
-      <guid isPermaLink="false">2041161557930029406</guid>
+Good initiative - I’m curious if Anthropic has been using mythos internally to ship at their recent insane velocity. https://t.co/378d3TuWbd</description>
+      <pubDate>Wed, 08 Apr 2026 00:46:18 +0000</pubDate>
+      <guid isPermaLink="false">2041678988318543908</guid>
     </item>
     <item>
-      <title>Mistral: Voxtral TTS, Forge, Leanstral, &amp;amp; what's next for Mistral 4 — w/ Pavan Kumar Reddy &amp;amp; Guillaume Lample</title>
+      <title>Doing a workshop on my technical writing process in SF in 2 weeks, hosted by friends @MilksandMatcha and @swyx.   Would love to see you there! Link below. https://t.co/APf3KcFNBy</title>
+      <link>https://x.com/trq212/status/2041677067117588871</link>
+      <description>作者：Thariq
+账号：@trq212
+简介：Claude Code @anthropicai.   prev YC W20, mit media lab. 
+
+towards machines of loving grace
+
+Doing a workshop on my technical writing process in SF in 2 weeks, hosted by friends @MilksandMatcha and @swyx. 
+
+Would love to see you there! Link below. https://t.co/APf3KcFNBy</description>
+      <pubDate>Wed, 08 Apr 2026 00:38:39 +0000</pubDate>
+      <guid isPermaLink="false">2041677067117588871</guid>
+    </item>
+    <item>
+      <title>ok amazon i see you   - https://t.co/j57n1RekB4 - https://t.co/PKU3KC9cW0  (wew i'm actually going to try this)</title>
+      <link>https://x.com/swyx/status/2041675995665612954</link>
+      <description>作者：Swyx
+账号：@swyx
+简介：achieve ambition with intentionality, intensity, integrity &amp; insanity.
+
+affiliations:
+- @dxtipshq 
+- @cognition
+- @temporalio
+- @aidotengineer
+- @latentspacepod
+
+ok amazon i see you 
+
+- https://t.co/j57n1RekB4
+- https://t.co/PKU3KC9cW0
+
+(wew i'm actually going to try this)</description>
+      <pubDate>Wed, 08 Apr 2026 00:34:24 +0000</pubDate>
+      <guid isPermaLink="false">2041675995665612954</guid>
+    </item>
+    <item>
+      <title>To celebrate 3 million weekly codex users, we are resetting usage limits.  We will do this every million users up to 10 million.  Happy building!</title>
+      <link>https://x.com/sama/status/2041658719839383945</link>
+      <description>作者：Sam Altman
+账号：@sama
+简介：AI is cool i guess
+
+To celebrate 3 million weekly codex users, we are resetting usage limits.
+
+We will do this every million users up to 10 million.
+
+Happy building!</description>
+      <pubDate>Tue, 07 Apr 2026 23:25:45 +0000</pubDate>
+      <guid isPermaLink="false">2041658719839383945</guid>
+    </item>
+    <item>
+      <title>A  lot of the conversation circa 2009 was about making the web 2.0 read/write and malleable.  We are living through that today but for all software.   What if all software could be forked, changed, re-mixed and customized?</title>
+      <link>https://x.com/adityaag/status/2041658196813869414</link>
+      <description>作者：Aditya Agarwal
+账号：@adityaag
+简介：General Partner @SouthPkCommons, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @Dropbox, Board @Flipkart | Optimist, Builder, Dad
+
+A  lot of the conversation circa 2009 was about making the web 2.0 read/write and malleable.
+
+We are living through that today but for all software. 
+
+What if all software could be forked, changed, re-mixed and customized?</description>
+      <pubDate>Tue, 07 Apr 2026 23:23:40 +0000</pubDate>
+      <guid isPermaLink="false">2041658196813869414</guid>
+    </item>
+    <item>
+      <title>Run /powerup to learn our team's favorite Claude Code CLI features! https://t.co/zPOta7pTP4</title>
+      <link>https://x.com/_catwu/status/2041655441864978552</link>
+      <description>作者：Cat Wu
+账号：@_catwu
+简介：claude code + cowork @anthropicai, prev: @dagster, @scale_ai
+
+Run /powerup to learn our team's favorite Claude Code CLI features! https://t.co/zPOta7pTP4</description>
+      <pubDate>Tue, 07 Apr 2026 23:12:44 +0000</pubDate>
+      <guid isPermaLink="false">2041655441864978552</guid>
+    </item>
+    <item>
+      <title>I like how Claude Code allows bash so the agent can’t use Write File tool outside its workspace but it can seemingly “cat &amp;gt;&amp;gt;” to any file in the file system https://t.co/DKrCZ8Kh1Z</title>
+      <link>https://x.com/garrytan/status/2041654662764609735</link>
+      <description>作者：Garry Tan
+账号：@garrytan
+简介：President &amp; CEO @ycombinator —Founder @garryslist—Creator of GStack—designer/engineer who helps founders—SF Dem accelerating the boom loop—Loves using emdashes
+
+I like how Claude Code allows bash so the agent can’t use Write File tool outside its workspace but it can seemingly “cat &amp;gt;&amp;gt;” to any file in the file system https://t.co/DKrCZ8Kh1Z</description>
+      <pubDate>Tue, 07 Apr 2026 23:09:38 +0000</pubDate>
+      <guid isPermaLink="false">2041654662764609735</guid>
+    </item>
+    <item>
+      <title>So nice that I had to run around the entire lake https://t.co/tTEbGSe9uG</title>
+      <link>https://x.com/petergyang/status/2041653240828448820</link>
+      <description>作者：Peter Yang
+账号：@petergyang
+简介：I share extremely practical AI tutorials and interviews | Join 140K+ readers at https://t.co/XYKTmGVH14 | Product at Roblox
+
+So nice that I had to run around the entire lake https://t.co/tTEbGSe9uG</description>
+      <pubDate>Tue, 07 Apr 2026 23:03:59 +0000</pubDate>
+      <guid isPermaLink="false">2041653240828448820</guid>
+    </item>
+    <item>
+      <title>We live in LISPy times for a specific reason: code is data and data is code again  But the weird thing? It’s Markdown.</title>
+      <link>https://x.com/garrytan/status/2041653129020936328</link>
+      <description>作者：Garry Tan
+账号：@garrytan
+简介：President &amp; CEO @ycombinator —Founder @garryslist—Creator of GStack—designer/engineer who helps founders—SF Dem accelerating the boom loop—Loves using emdashes
+
+We live in LISPy times for a specific reason: code is data and data is code again
+
+But the weird thing? It’s Markdown.</description>
+      <pubDate>Tue, 07 Apr 2026 23:03:32 +0000</pubDate>
+      <guid isPermaLink="false">2041653129020936328</guid>
+    </item>
+    <item>
+      <title>be a model manager https://t.co/I6mVnlPEbM</title>
+      <link>https://x.com/danshipper/status/2041624900046106907</link>
+      <description>作者：Dan Shipper
+账号：@danshipper
+简介：ceo @every | the only subscription you need to stay at the edge of AI
+
+be a model manager https://t.co/I6mVnlPEbM</description>
+      <pubDate>Tue, 07 Apr 2026 21:11:22 +0000</pubDate>
+      <guid isPermaLink="false">2041624900046106907</guid>
+    </item>
+    <item>
+      <title>Btw: @hemal built this as a simple skill in a few hours, since Prism is powered by Codex. More to come.  And if you love the idea of building AI-native products to accelerate science, we're hiring a lead designer for Prism: apply here! https://t.co/Tt9MgzHxnO https://t.co/DgY3q5Tm5L</title>
+      <link>https://x.com/kevinweil/status/2041592093718749659</link>
+      <description>作者：Kevin Weil
+账号：@kevinweil
+简介：VP Science @OpenAI, BoD @Cisco @nature_org, LTC @USArmyReserve
+Ex: Pres @Planet, Head of Product @Instagram @Twitter
+❤️ @elizabeth ultramarathons kids cats math
+
+Btw: @hemal built this as a simple skill in a few hours, since Prism is powered by Codex. More to come.
+
+And if you love the idea of building AI-native products to accelerate science, we're hiring a lead designer for Prism: apply here! https://t.co/Tt9MgzHxnO https://t.co/DgY3q5Tm5L</description>
+      <pubDate>Tue, 07 Apr 2026 19:01:00 +0000</pubDate>
+      <guid isPermaLink="false">2041592093718749659</guid>
+    </item>
+    <item>
+      <title>Mythos Preview is currently available to our launch partners in Project Glasswing. Learn more about the model and the project here: https://t.co/eagt68oUPj</title>
+      <link>https://x.com/alexalbert__/status/2041579950332113155</link>
+      <description>作者：Alex Albert
+账号：@alexalbert__
+简介：Research @AnthropicAI. Opinions are my own!
+
+Mythos Preview is currently available to our launch partners in Project Glasswing. Learn more about the model and the project here: https://t.co/eagt68oUPj</description>
+      <pubDate>Tue, 07 Apr 2026 18:12:45 +0000</pubDate>
+      <guid isPermaLink="false">2041579950332113155</guid>
+    </item>
+    <item>
+      <title>We released Claude Opus 4.6 just two months ago. Today we're sharing some info on our new model, Claude Mythos Preview. https://t.co/Dz6um6HAWZ</title>
+      <link>https://x.com/alexalbert__/status/2041579938537775160</link>
+      <description>作者：Alex Albert
+账号：@alexalbert__
+简介：Research @AnthropicAI. Opinions are my own!
+
+We released Claude Opus 4.6 just two months ago. Today we're sharing some info on our new model, Claude Mythos Preview. https://t.co/Dz6um6HAWZ</description>
+      <pubDate>Tue, 07 Apr 2026 18:12:42 +0000</pubDate>
+      <guid isPermaLink="false">2041579938537775160</guid>
+    </item>
+    <item>
+      <title>Glasswing is possibly the most consequential event in the AI industry I've seen up close since joining Anthropic almost 3 years ago. It feels like we're at a turning point in history. https://t.co/prjQaH7kQ8</title>
+      <link>https://x.com/alexalbert__/status/2041578743769280811</link>
+      <description>作者：Alex Albert
+账号：@alexalbert__
+简介：Research @AnthropicAI. Opinions are my own!
+
+Glasswing is possibly the most consequential event in the AI industry I've seen up close since joining Anthropic almost 3 years ago. It feels like we're at a turning point in history. https://t.co/prjQaH7kQ8</description>
+      <pubDate>Tue, 07 Apr 2026 18:07:57 +0000</pubDate>
+      <guid isPermaLink="false">2041578743769280811</guid>
+    </item>
+    <item>
+      <title>Try it out at https://t.co/4MBs45PNiU today and let me know what you think!</title>
+      <link>https://x.com/kevinweil/status/2041573804145799346</link>
+      <description>作者：Kevin Weil
+账号：@kevinweil
+简介：VP Science @OpenAI, BoD @Cisco @nature_org, LTC @USArmyReserve
+Ex: Pres @Planet, Head of Product @Instagram @Twitter
+❤️ @elizabeth ultramarathons kids cats math
+
+Try it out at https://t.co/4MBs45PNiU today and let me know what you think!</description>
+      <pubDate>Tue, 07 Apr 2026 17:48:20 +0000</pubDate>
+      <guid isPermaLink="false">2041573804145799346</guid>
+    </item>
+    <item>
+      <title>Paper Review is built to act more like a careful technical reviewer than a grammar checker. It looks for issues in math, derivations, notation, units, structure, and whether a paper’s claims are actually supported by the results. It also catches inconsistencies across sections, figures, tables, capt...</title>
+      <link>https://x.com/kevinweil/status/2041573802212303053</link>
+      <description>作者：Kevin Weil
+账号：@kevinweil
+简介：VP Science @OpenAI, BoD @Cisco @nature_org, LTC @USArmyReserve
+Ex: Pres @Planet, Head of Product @Instagram @Twitter
+❤️ @elizabeth ultramarathons kids cats math
+
+Paper Review is built to act more like a careful technical reviewer than a grammar checker. It looks for issues in math, derivations, notation, units, structure, and whether a paper’s claims are actually supported by the results. It also catches inconsistencies across sections, figures, tables, captions, and appendices. The goal is to help authors strengthen technical rigor and correctness before submission.
+
+Inside Prism, it runs as a structured workflow and writes its output as an editable LaTeX review file directly in the project. That means the review becomes part of the paper workspace itself, so authors can revise and work through feedback in the same environment as the manuscript. It also flags unclear phrasing, citation issues, and proofreading mistakes before submission.</description>
+      <pubDate>Tue, 07 Apr 2026 17:48:19 +0000</pubDate>
+      <guid isPermaLink="false">2041573802212303053</guid>
+    </item>
+    <item>
+      <title>@latentspacepod @_lopopolo @OpenAI we didnt get a chance to pod with Alex yet but i am making damn sure to assign due credit!!!  https://t.co/GC59IzgvQf https://t.co/AOEUeZD7Ms</title>
+      <link>https://x.com/swyx/status/2041568051041063118</link>
+      <description>作者：Swyx
+账号：@swyx
+简介：achieve ambition with intentionality, intensity, integrity &amp; insanity.
+
+affiliations:
+- @dxtipshq 
+- @cognition
+- @temporalio
+- @aidotengineer
+- @latentspacepod
+
+@latentspacepod @_lopopolo @OpenAI we didnt get a chance to pod with Alex yet but i am making damn sure to assign due credit!!!
+
+https://t.co/GC59IzgvQf https://t.co/AOEUeZD7Ms</description>
+      <pubDate>Tue, 07 Apr 2026 17:25:28 +0000</pubDate>
+      <guid isPermaLink="false">2041568051041063118</guid>
+    </item>
+    <item>
+      <title>Extreme Harness Engineering for Token Billionaires: 1M LOC, 1B toks/day, 0% human code, 0% human review — Ryan Lopopolo, OpenAI Frontier &amp;amp; Symphony</title>
       <link>https://www.youtube.com/@LatentSpacePod</link>
       <description>播客：Latent Space
 
-Speaker 1 | 00:05 - 00:10
-Okay. Welcome to Lanespace. We're here in the studio with trusty cohost, Bibou. Welcome.
+Speaker 1 | 00:00 - 00:36
+I do think that there is an interesting space to explore here with codecs, the harness as part of building AI products. Right? There's a ton of momentum around getting the models to be good at coding. We've seen big leaps in, like, the task complexity with each incremental model release where if you can figure out how to collapse a product that you're trying to build, a user journey that you're trying to solve into code, it's pretty natural to use the Codex harness to solve that problem for you. It's done all the wiring and lets you just communicate in prompts to let the model cook.
 
-Speaker 2 | 00:11 - 00:12
-Very excited for this one.
+Speaker 1 | 00:36 - 00:50
+You have to step back. Right? Like, you need to take a systems thinking mindset to things and constantly be asking, where is the agent making mistakes? Where am I spending my time? How can I not spend that time going forward?
 
-Speaker 1 | 00:12 - 00:22
-As well as Guillaume and Pavan from Mistral. Welcome. I'm glad to be here. Thank you for all this. Pavan, you are leading audio research at Mistral, and, Guillaume, you're a chief scientist.
+Speaker 1 | 00:50 - 00:55
+And then build confidence in the automation that I'm putting in place so I have solved this part of the SDLC.
 
-Speaker 1 | 00:22 - 00:26
-What are we announcing today where we're coordinating this release with you guys?
+Speaker 2 | 01:02 - 01:09
+Alright. We're in the studio with Ryan Lopopolo from OpenAI. Welcome. Hi. Thanks for visiting San Francisco, and thanks for spending some time with us.
 
-Speaker 3 | 00:26 - 00:35
-Yeah. So we are releasing Voxtrail TTS. So it's our first audio model that generates speech. It's not our first audio model. We had a couple of releases before.
+Speaker 1 | 01:09 - 01:11
+Yeah. Thank you. I'm super excited to be here.
 
-Speaker 3 | 00:35 - 01:11
-We had one in the summer that was Voxtral, our first audio model, but it's it was like a transcription model, ASR. Like, a few months later, we released some update on top of this, supporting more languages, also a lot of table stake features for our customers, context biasing, position, time stamping, and the transcription. We also had some real time model that can transcribe not just at the end of the it was don't need to fill your entire audio file, but that can also come in real time. And here, is a natural extension in the audio, so, basically, speech generation. So, yeah, so we support nine languages, and this is a pretty small model, three d model, so very fast and also status.
+Speaker 2 | 01:11 - 01:18
+You wrote a blockbuster article on a harness engineering. It's probably going to be the defining piece of this emerging discipline.
 
-Speaker 3 | 01:11 - 01:25
-Yeah. Carphone is the same level of the of the best model, but it's much more efficient in terms of cost and also much in terms of cost, it's also much to go. They're only a fraction of the cost of Parham competitors. And we are also releasing the weight of this model that only he faced.
+Speaker 1 | 01:18 - 01:22
+Thank you. It is it's been fun to feel like we've defined the discourse
 
-Speaker 1 | 01:25 - 01:27
-Yeah. Miami linked?
+Speaker 2 | 01:22 - 01:30
+in some sense. Let's contextualize a little bit this first podcast you've ever done. Yes. And thank you for spending it with us. What is where is this coming from?
 
-Speaker 3 | 01:27 - 01:28
-Not this time. What yeah.
+Speaker 2 | 01:30 - 01:32
+What team are you in? All that jazz.
 
-Speaker 1 | 01:28 - 01:33
-What's the decision factor him? It's a good question.
+Speaker 1 | 01:32 - 01:57
+Sure. Sure. I work on frontier product exploration, new product development in the space of OpenAI Frontier, which is our enterprise platform for deploying agents safely at scale with good governance in any business. And the role of me and my team has been to figure out novel ways to deploy our models into package and products that we can sell as solutions to enterprises.
 
-Speaker 3 | 01:33 - 01:35
-There will be more w o.
+Speaker 2 | 01:57 - 02:01
+And you have a background. I'll just squeeze it in there. Snowflake, Brex, Stripe, Citadel. Yes. Yes.
 
-Speaker 1 | 01:36 - 01:39
-Yeah. Pavan, any other sort of research notes to add on what you No.
+Speaker 2 | 02:01 - 02:06
+So then the link kind of customer entire life. Yes. The exact kind of customer that you want to
 
-Speaker 4 | 01:39 - 02:12
-We maybe we'll dive into it later in the forecast too, but it's a novel architecture that we developed in house. We iterated it on several internal architectures and ended up with a autoregressive flow matching architecture and also have a new in house neural audio codec, which converts this audio into all point by Hertz latent tokens, semantic and acoustic tokens. And yeah, that's the new part about this model. And we're pretty excited that it came out with such good quality. And Guillaume was mentioning, yeah, it's a three d model.
+Speaker 3 | 02:06 - 02:21
+So I'll say I was actually I didn't expect the background. When I look at your Twitter, I'm seeing the opposite of stuff like this. So you've got the mindset of, like, full send AI coding, stuff about slop, like, buckling in your laptop on your Waymos. Yes. And then I look at your profile.
 
-Speaker 4 | 02:12 - 02:24
-It's based off of the Minestral model that we actually released just a few months back and insert trunk. And it mainly meant for, like, the TTS stuff, but the innate text capabilities are also there. Yeah.
+Speaker 3 | 02:21 - 02:25
+I'm like, oh, you're just, you're correct in the other end too. So perfect mix.
 
-Speaker 1 | 02:24 - 02:52
-So there's a lot to cover. I always I love any anything to do with novel encodings and all those things because I think that's obviously increased a lot of efficiency, but also maybe bugs that sometimes happen. You were previously at Gemini, and you worked on post training for language models. And maybe a lot of people will have less experience with audio models just in general compared to pure language. What did you find that you have to revisit from scratch as you joined Mistral and started doing this?
+Speaker 1 | 02:25 - 02:32
+Perfect mix. I it's quite fun to be AI maximalist. If you're gonna live that persona, OpenAI is the place to do it. And it's
 
-Speaker 4 | 02:53 - 03:25
-At least when it comes to for I think there there are two buckets, I guess, the audio understanding and audio generation. The audio understanding, like the Voxel models that Kim was mentioning that we released earlier, the Voxel chat that we released, think, July, and the follow-up transcription only models family that we released in January. That could be one bucket and the generation is another bucket. I think you can also treat them as a unified set of models. But currently, the approaches are a little different between these two, to your question on how audio is fed to the model.
+Speaker 2 | 02:32 - 02:33
+Token is what I say.
 
-Speaker 4 | 03:25 - 03:40
-In the understanding model, it's very similar to actually Pixtrl model that we also released. Yes, that was amazing. That was the first project I worked on after joining Mistral. It was pretty nice. And Voxel was very similar in spirit, I guess.
+Speaker 1 | 02:33 - 02:38
+Yeah. It certainly helps that we have no rate limits internally, and I can go, like you said, full send at this thing.
 
-Speaker 4 | 03:40 - 03:59
-So we feed the audio through an audio encoder similar to images through a vision encoder. And it produces continuous embeddings, which are fed as tokens to the main transformer decoder transformer model. Yeah. And the model output is just fixed. So on the output side, there is nothing that needs to be done in these kinds of models.
+Speaker 2 | 02:38 - 02:42
+Yeah. Yeah. So the OpenAI Frontier and your special team within OpenAI Frontier.
 
-Speaker 4 | 03:59 - 04:29
-I guess the interesting part about the generation step is the output now has to produce audio. And the approach that we have is this neural audio codec, which converts audio into these latent tokens. There is a lot of existing literature and a lot of models which are based off of this kind of approach. And we took slightly different design decisions around this. But at the end of the day, the neural audio product converts audio into a 12.5 hertz set of latents.
+Speaker 1 | 02:42 - 03:25
+We had been given some space to cook, which has been super, super exciting. And this is why I started with kind of a out there constraint to not write any of the code myself. I was figuring if we're trying to make agents that can be deployed into end enterprises, they should be able to do all the things that I do. And having worked with these coding models, these coding harnesses over six, seven, eight months, I do feel like the models are there enough, the harnesses are there enough, where they're isomorphic to me in capability and the ability to do the job. So starting with this constraint of I can't write the code meant that the only way I could do my job was to get the agent to do my job.
 
-Speaker 4 | 04:29 - 04:52
-And each latent has a semantic token and a set of acoustic tokens. And the idea is that you take these discrete tokens and then feed it on the input side. There are several ways to fuse this at each frame, but we just sum the embeddings. So it's like having k different vocabularies and combine all of them because they all correspond to one audio frame on the input side. The output side is the interesting part.
+Speaker 3 | 03:25 - 03:43
+And like a just a bit of background before that. This is basically the article. So what you guys did is five months of working on an internal tool, zero lines of code, over a my a million lines of code in the total code base. You say it was Senex more like, it was 10x faster than you would have if you had done it by end. Yeah.
 
-Speaker 4 | 04:52 - 05:09
-On the output side, I don't know if it's the most popular, but one popular technique is to have a depth transformer because you have K tokens at each time step. Like with our text, you just have one token at each time step. So you just do predict the token from the vocabulary with just You get probability.
+Speaker 3 | 03:43 - 03:45
+That was the mindset going into this. Right? Right.
 
-Speaker 1 | 05:09 - 05:11
-This is very straightforward test.
+Speaker 2 | 03:45 - 03:46
+That's right.
 
-Speaker 4 | 05:11 - 05:21
-Very straightforward. Yeah. But if you have k tokens, then the main thing would be to predict all of them in parallel. But that doesn't work. At least that doesn't work that well because audio has more entropy.
+Speaker 1 | 03:46 - 04:29
+Started with some of the very first versions of Codec CLI with the Codec Mini model, which was obviously much less capable than the ones we have today, which was also a very good constraint. Right? It's quite a visceral feeling to ask the model to build you a product feature and it just not being able to assemble the pieces together, which kind of defined one of the mindsets we had for going into this, which is whenever the model just cannot, you always pop open the task, double click into it, and build smaller building blocks that then you can reassemble into the broader objective. And it was quite painful to do this, honestly. The first month and a half was 10 times slower than I would be.
 
-Speaker 4 | 05:21 - 05:52
-And one of the techniques people use is this depth transformer where you almost have a small transformer. Or it can be LSTM RN as well, but people use transformers and you predict the K tokens in autoregressive fashion in that. So you have two autoregressive things going on. So the thing we did differently is instead of having this autoregressive K step prediction, we have a flow matching model. Instead of modeling this as a discrete token set, we train the codec to be both discrete and continuous to have this flexibility.
+Speaker 1 | 04:29 - 05:17
+But because we paid that cost, we ended up getting to something much more productive than any one engineer could be because we built the tools, the assembly station for the agent to do the whole thing. But yeah. So onward to g p d five, five one, five two, five three, five four to go through all these model generations and see their kind of quirks and different working styles also meant we had to adapt the code base to change things up when the model was revved. One interesting thing here is five two, the codex harness at the time, did not have background shells in it, which means we were able to rely on blocking scripts to perform long horizon work. But with five three and background shells, it became less patient, less willing to block.
 
-Speaker 4 | 05:52 - 06:08
-So we did try the discrete stuff too, and it works well. But the continuous stuff works just better. So yeah, we took this flow matching. So it's a flow matching head, which takes the latent from the main transformer. And in diffusion, it's denoising, but in this flow matching, it's velocity estimate.
+Speaker 1 | 05:17 - 05:44
+So we had to retool the entire build system to complete in under a minute. And this is not a thing I would expect to be able to do in a code base where people have opinions. But because the only goal was to make the agent productive, over the course of a week, we went from a bespoke make file build to Bazel to Turbo to NX and just left it there because builds were fast at that
 
-Speaker 4 | 06:08 - 06:20
-So you go from this noised all the way to the audio latent, which corresponds to the eighty millisecond audio and then which is sent through the vocoder to get back the eighty millisecond audio frame.
+Speaker 2 | 05:44 - 05:49
+point. Interesting. Talk more about Turbo to NX. That's interesting. Because that's the other direction that other people have been doing.
 
-Speaker 1 | 06:20 - 06:26
-Yeah. Is this the first application of flow matching in audio? Because usually, I come across this in the image.
+Speaker 1 | 05:50 - 05:55
+Ultimately, I have not a lot of experience with actual front end repo architecture.
 
-Speaker 4 | 06:26 - 06:37
-Yeah. Actually, in some sense, there are models, flow matching models in audio. But I think this specific combination, I could be wrong. There could be some work. I haven't much work in this.
+Speaker 2 | 05:55 - 06:02
+You're telling me that Jessica built us this guy. So I'm like, I know the NXT team. Know Turbo from Jared Palmer, I'm like, yeah, that's an interesting competitor comparison.
 
-Speaker 4 | 06:37 - 06:54
-I think it's novel. And a lot of it's just a way bigger community. So I think they pioneer a lot of these diffusion flow matching work. And it's interesting to adopt some of the ideas there into audio. And personally, that's the big part, which is trying out.
+Speaker 1 | 06:02 - 06:04
+The hill we were climbing, right, was make it fast.
 
-Speaker 4 | 06:54 - 07:17
-More m...</description>
-      <pubDate>Mon, 30 Mar 2026 19:25:21 +0000</pubDate>
+Speaker 2 | 06:04 - 06:14
+Is there a micro micro front ends involved? It's like, how how complex? React. Electron based single app sort of thing. And must be under a minute.
+
+Speaker 2 | 06:14 - 06:21
+That's an interesting limitation. I'm actually not super familiar with the background shelf stuff. Probably was talked about in the five three release.
+
+Speaker 1 | 06:21 - 06:38
+It basically means that Codex is able to spawn commands in the background and then go continue to work while it waits for them to finish. So it can spawn an expensive build and then continue reviewing the code, for example. Yeah. And this helps it be more time efficient for the user invoking the harness.
+
+Speaker 2 | 06:38 - 06:43
+And I guess and just to really nail this, like, what does one minute matter? Like, one or five? Okay.
+
+Speaker 1 | 06:43 - 06:48
+We want the inner loop to be as fast as possible. Okay. One minute was just a nice round number and we were able to
+
+Speaker 2 | 06:48 - 06:51
+hit it. And if it doesn't complete,...</description>
+      <pubDate>Tue, 07 Apr 2026 17:14:26 +0000</pubDate>
       <guid>https://www.youtube.com/@LatentSpacePod</guid>
+    </item>
+    <item>
+      <title>no extra buttons  just click, draw, chat fully in flow https://t.co/oUEZLgDpHO</title>
+      <link>https://x.com/ryolu_/status/2041564082034372956</link>
+      <description>作者：Ryo Lu
+账号：@ryolu_
+简介：Design @Cursor_ai. Early @NotionHQ, @Stripe, built startups. I make a world where anyone can make software. Aspiring k-pop idol.
+
+no extra buttons 
+just click, draw, chat
+fully in flow https://t.co/oUEZLgDpHO</description>
+      <pubDate>Tue, 07 Apr 2026 17:09:42 +0000</pubDate>
+      <guid isPermaLink="false">2041564082034372956</guid>
+    </item>
+    <item>
+      <title>almost there!!   what a wild ride https://t.co/aIOYxU8LMi</title>
+      <link>https://x.com/danshipper/status/2041533632410513439</link>
+      <description>作者：Dan Shipper
+账号：@danshipper
+简介：ceo @every | the only subscription you need to stay at the edge of AI
+
+almost there!! 
+
+what a wild ride https://t.co/aIOYxU8LMi</description>
+      <pubDate>Tue, 07 Apr 2026 15:08:42 +0000</pubDate>
+      <guid isPermaLink="false">2041533632410513439</guid>
+    </item>
+    <item>
+      <title>What do OpenClaw dreams look like?  Here's a visualization: https://t.co/vvOSGGLAac</title>
+      <link>https://x.com/danshipper/status/2041514123683418545</link>
+      <description>作者：Dan Shipper
+账号：@danshipper
+简介：ceo @every | the only subscription you need to stay at the edge of AI
+
+What do OpenClaw dreams look like?
+
+Here's a visualization: https://t.co/vvOSGGLAac</description>
+      <pubDate>Tue, 07 Apr 2026 13:51:11 +0000</pubDate>
+      <guid isPermaLink="false">2041514123683418545</guid>
+    </item>
+    <item>
+      <title>The Varanasi brothers are Silicon Valley’s greatest secret https://t.co/cibFBMSMCK</title>
+      <link>https://x.com/nikunj/status/2041513787245949110</link>
+      <description>作者：Nikunj Kothari
+账号：@nikunj
+简介：partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian &amp; others. love @shimoleejhaveri + 👦👧
+
+The Varanasi brothers are Silicon Valley’s greatest secret https://t.co/cibFBMSMCK</description>
+      <pubDate>Tue, 07 Apr 2026 13:49:51 +0000</pubDate>
+      <guid isPermaLink="false">2041513787245949110</guid>
+    </item>
+    <item>
+      <title>The same kinds of productivity gains we've seen in coding with AI agents are heading to the rest of knowledge work.   This is the jump when you go from having a chatbot to being able to actually have an agent go off and do work for minutes or even hours and come back with a complete work output that...</title>
+      <link>https://x.com/levie/status/2041512156693201176</link>
+      <description>作者：Aaron Levie
+账号：@levie
+简介：ceo @box - your business lives in content. unleash it with AI
+
+The same kinds of productivity gains we've seen in coding with AI agents are heading to the rest of knowledge work. 
+
+This is the jump when you go from having a chatbot to being able to actually have an agent go off and do work for minutes or even hours and come back with a complete work output that you then review.
+
+Here's an example of the new Box Agent filling out an RFP response from an existing knowledge base. This process would normally take hours to fill out, and requires the full attention of the user doing the work. Now, you provide the Box Agent with the RFP questions, and it will go off, make a plan, extract all the relevant questions, read through existing source material to come up with an answer, and then generate a new word document as the final output. All while you're doing something else.
+
+The key to this architecture is that the agent is able to use all of the same tools in the background that a user uses to get work done. The agent can search for documents, read entire files, run scripts and tools in the background, and even be able to write code on the fly to automate tasks it hasn't seen before. And best of all, the Box Agent will (soon) work from the Box MCP and CLI so you can invoke it in any agentic system as a step in a process.
+
+This kind of agent complexity would have been impossible even 6 months ago. Models consistently failed at tracking long running tasks or using the right tools at the right moment for the task. But this is all now possible because of models like GPT-5.4, Opus 4.6, and Gemini 3, and is only getting better by the month.
+
+Just as we moved from engineers writing code and using AI as an assistant to answer questions, in many areas of knowledge work -like legal, finance, consulting, sales, marketing, and more- when we have a problem we'll just kick off the AI agent to just go work on it for us in the background.</description>
+      <pubDate>Tue, 07 Apr 2026 13:43:22 +0000</pubDate>
+      <guid isPermaLink="false">2041512156693201176</guid>
+    </item>
+    <item>
+      <title>Many designers and eng. do well when you ask them to think through product questions in abstract.   But you have to take away the IDE/figma or they tend to dive right into coding/designing exactly what was asked for.   More designers should become PMs. They’d be good at it. https://t.co/45aqy8KTsE</title>
+      <link>https://x.com/thenanyu/status/2041495924682244275</link>
+      <description>作者：Nan Yu
+账号：@thenanyu
+简介：head of product @linear
+
+Many designers and eng. do well when you ask them to think through product questions in abstract. 
+
+But you have to take away the IDE/figma or they tend to dive right into coding/designing exactly what was asked for. 
+
+More designers should become PMs. They’d be good at it. https://t.co/45aqy8KTsE</description>
+      <pubDate>Tue, 07 Apr 2026 12:38:52 +0000</pubDate>
+      <guid isPermaLink="false">2041495924682244275</guid>
     </item>
   </channel>
 </rss>
