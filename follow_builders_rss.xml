@@ -5,244 +5,159 @@
     <link>https://github.com/zarazhangrui/follow-builders</link>
     <description>聚合 AI 领域建设者的 X、播客和博客内容。</description>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 21 Apr 2026 07:20:41 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Apr 2026 12:57:59 +0000</lastBuildDate>
     <item>
-      <title>GStack works great inside your OpenClaw/Hermes... and where it was designed to be used, inside Claude Code too.  https://t.co/VPvWDzV5c0</title>
-      <link>https://x.com/garrytan/status/2046097200292511968</link>
-      <description>作者：Garry Tan
-账号：@garrytan
-简介：President &amp; CEO @ycombinator —Founder @garryslist—Creator of GStack &amp; GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop
-
-GStack works great inside your OpenClaw/Hermes... and where it was designed to be used, inside Claude Code too.
-
-https://t.co/VPvWDzV5c0</description>
-      <pubDate>Mon, 20 Apr 2026 05:22:41 +0000</pubDate>
-      <guid isPermaLink="false">2046097200292511968</guid>
-    </item>
-    <item>
-      <title>When I run across needs inside my OpenClaw or in my regular usage, I just have Claude Code make it, and then I release it open source  This is GStack v1.4 - with a new /make-pdf skill   It works great with OpenClaw/Hermes as a tool. https://t.co/XgPejzWpoS</title>
-      <link>https://x.com/garrytan/status/2046097059057651941</link>
-      <description>作者：Garry Tan
-账号：@garrytan
-简介：President &amp; CEO @ycombinator —Founder @garryslist—Creator of GStack &amp; GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop
-
-When I run across needs inside my OpenClaw or in my regular usage, I just have Claude Code make it, and then I release it open source
-
-This is GStack v1.4 - with a new /make-pdf skill 
-
-It works great with OpenClaw/Hermes as a tool. https://t.co/XgPejzWpoS</description>
-      <pubDate>Mon, 20 Apr 2026 05:22:08 +0000</pubDate>
-      <guid isPermaLink="false">2046097059057651941</guid>
-    </item>
-    <item>
-      <title>What gets missed with AI productivity gains is that by and large, most roles will continue to be as sophisticated as the tools allow.   This is why also thinking through “today’s jobs will be replaced with AI” is a fallacy. Everyone thinks the market is static, but it’s not.  As a result of everyone...</title>
-      <link>https://x.com/levie/status/2046067263326028108</link>
-      <description>作者：Aaron Levie
-账号：@levie
-简介：ceo @box - your business lives in content. unleash it with AI
-
-What gets missed with AI productivity gains is that by and large, most roles will continue to be as sophisticated as the tools allow. 
-
-This is why also thinking through “today’s jobs will be replaced with AI” is a fallacy. Everyone thinks the market is static, but it’s not.
-
-As a result of everyone having access to the same technology which augments our work, then users of the tools will increasingly raise their level of output to the point where the prior definition of the job is no longer relevant. Thus, those that understand their particular field and grow in their skills will continue to be differentiated vs. others.
-
-If you can do far more, then you start to tackle bigger and harder problems. If you do that, then the expertise still is required to get the job done fully. 
-
-The engineer with AI is going to be far more productive and capable with AI than the non-engineer trying to build the same piece of software. Building a lightweight app is no longer the definition of getting by in software development. Reviewing a contract will no longer be the definition of a paralegal. Splicing a video won’t be the definition of a video editor. Providing basic financial research won’t be the job of the financial analyst in the future.
-
-Simply put, AI will naturally cause most roles to actually grow in complexity rather than reduce in complexity, because we can do far more with the tools.</description>
-      <pubDate>Mon, 20 Apr 2026 03:23:44 +0000</pubDate>
-      <guid isPermaLink="false">2046067263326028108</guid>
-    </item>
-    <item>
-      <title>You've got to tell your OpenClaw to implement it to replace crons and subgents to the extent it can. That's the best hack I am using myself for now, but hopefully can get this fixed with better plugin APIs soon</title>
-      <link>https://x.com/garrytan/status/2046062819322610009</link>
-      <description>作者：Garry Tan
-账号：@garrytan
-简介：President &amp; CEO @ycombinator —Founder @garryslist—Creator of GStack &amp; GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop
-
-You've got to tell your OpenClaw to implement it to replace crons and subgents to the extent it can. That's the best hack I am using myself for now, but hopefully can get this fixed with better plugin APIs soon</description>
-      <pubDate>Mon, 20 Apr 2026 03:06:04 +0000</pubDate>
-      <guid isPermaLink="false">2046062819322610009</guid>
-    </item>
-    <item>
-      <title>I spent an hour plus this afternoon trying to get OpenClaw to work with GPT.   I asked it to do a simple task to send me a weekly stats recap email that Opus had no trouble with.   Here's how the conversation went:  &quot;You completely messed up the previous template&quot;  &quot;Sigh you made a mess. Why don’t y...</title>
-      <link>https://x.com/petergyang/status/2046036593199497615</link>
-      <description>作者：Peter Yang
-账号：@petergyang
-简介：Practical AI tutorials and interviews for busy people | Join 140K+ readers at https://t.co/XYKTmGVH14 | Product at Roblox
-
-I spent an hour plus this afternoon trying to get OpenClaw to work with GPT. 
-
-I asked it to do a simple task to send me a weekly stats recap email that Opus had no trouble with. 
-
-Here's how the conversation went:
-
-&quot;You completely messed up the previous template&quot;
-
-&quot;Sigh you made a mess. Why don’t you open the email template and I can edit manually&quot;
-
-&quot;no you totally screwed it up tbh. let's switch the model to sonnet&quot;
-
-Again, big fan of OpenClaw (+ Codex) but this model simply doesn't seem to work with following through on agentic tasks (or just simple cron jobs).
-
-Maybe it's a skill issue on my part - although the AI builder groups I'm part of say similar things.
-
-Hopefully, Spud / GPT 5.5 will solve this.</description>
-      <pubDate>Mon, 20 Apr 2026 01:21:51 +0000</pubDate>
-      <guid isPermaLink="false">2046036593199497615</guid>
-    </item>
-    <item>
-      <title>Cybersecurity companies are going to be worth a lot.. the pace of attacks is only going to increase as model capabilities improve.   Humans will continue to be the primary vector of attack - and we haven’t seen anything yet.  Hugops to all the infra providers 🫡</title>
-      <link>https://x.com/nikunj/status/2046007615512256624</link>
+      <title>This is easily the best podcast episode I’ve heard this year..  Genuine, kind, authentic. Absolutely incredible storytelling.  I aspire to have the range of stories that @JaredBWeinstein shared on the pod.   @jacksondahl &amp;amp; @DialecticPod always crush but this was special 👏 https://t.co/EGzdrhzwKE</title>
+      <link>https://x.com/nikunj/status/2046465709438582945</link>
       <description>作者：Nikunj Kothari
 账号：@nikunj
 简介：partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian &amp; others. love @shimoleejhaveri + 👦👧
 
-Cybersecurity companies are going to be worth a lot.. the pace of attacks is only going to increase as model capabilities improve. 
+This is easily the best podcast episode I’ve heard this year..
 
-Humans will continue to be the primary vector of attack - and we haven’t seen anything yet.
+Genuine, kind, authentic. Absolutely incredible storytelling.
 
-Hugops to all the infra providers 🫡</description>
-      <pubDate>Sun, 19 Apr 2026 23:26:43 +0000</pubDate>
-      <guid isPermaLink="false">2046007615512256624</guid>
+I aspire to have the range of stories that @JaredBWeinstein shared on the pod. 
+
+@jacksondahl &amp;amp; @DialecticPod always crush but this was special 👏 https://t.co/EGzdrhzwKE</description>
+      <pubDate>Tue, 21 Apr 2026 05:47:01 +0000</pubDate>
+      <guid isPermaLink="false">2046465709438582945</guid>
     </item>
     <item>
-      <title>Here's my update to the broader community about the ongoing incident investigation. I want to give you the rundown of the situation directly.  A Vercel employee got compromised via the breach of an AI platform customer called https://t.co/7PY6gGtzgI that he was using. The details are being fully inv...</title>
-      <link>https://x.com/rauchg/status/2045995362499076169</link>
+      <title>All of these people need to start startups at Y Combinator https://t.co/RY70TxT5US</title>
+      <link>https://x.com/garrytan/status/2046465101759500767</link>
+      <description>作者：Garry Tan
+账号：@garrytan
+简介：President &amp; CEO @ycombinator —Founder @garryslist—Creator of GStack &amp; GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop
+
+All of these people need to start startups at Y Combinator https://t.co/RY70TxT5US</description>
+      <pubDate>Tue, 21 Apr 2026 05:44:36 +0000</pubDate>
+      <guid isPermaLink="false">2046465101759500767</guid>
+    </item>
+    <item>
+      <title>I wrote my friend @chrysb a quick note on how to implement GBrain style migrations for people who upgrade to new GBrain versions and want their setups to stay in sync as the core setup changes  This is for Alphaclaw but I think could be for any plugin or layer in the OpenClaw/Hermes ecosystem   http...</title>
+      <link>https://x.com/garrytan/status/2046464315918864385</link>
+      <description>作者：Garry Tan
+账号：@garrytan
+简介：President &amp; CEO @ycombinator —Founder @garryslist—Creator of GStack &amp; GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop
+
+I wrote my friend @chrysb a quick note on how to implement GBrain style migrations for people who upgrade to new GBrain versions and want their setups to stay in sync as the core setup changes
+
+This is for Alphaclaw but I think could be for any plugin or layer in the OpenClaw/Hermes ecosystem 
+
+https://t.co/5GrG5RWfCH</description>
+      <pubDate>Tue, 21 Apr 2026 05:41:29 +0000</pubDate>
+      <guid isPermaLink="false">2046464315918864385</guid>
+    </item>
+    <item>
+      <title>Someone figured out my secret 👀 https://t.co/jWLX6F30GQ</title>
+      <link>https://x.com/garrytan/status/2046459740210036938</link>
+      <description>作者：Garry Tan
+账号：@garrytan
+简介：President &amp; CEO @ycombinator —Founder @garryslist—Creator of GStack &amp; GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop
+
+Someone figured out my secret 👀 https://t.co/jWLX6F30GQ</description>
+      <pubDate>Tue, 21 Apr 2026 05:23:18 +0000</pubDate>
+      <guid isPermaLink="false">2046459740210036938</guid>
+    </item>
+    <item>
+      <title>Agents speak HTML as their native language  Let agents express themselves in their native language  (for similar reasons, agents produce much better looking slides in HTML than in XML) https://t.co/vGAPawGNgu</title>
+      <link>https://x.com/zarazhangrui/status/2046454622852657264</link>
+      <description>作者：Zara Zhang
+账号：@zarazhangrui
+简介：Builder. Dangerously skips permissions. Harvard’17. GitHub: https://t.co/KCuEajezlL YouTube: https://t.co/8xzbGWtf6w
+
+Agents speak HTML as their native language
+
+Let agents express themselves in their native language
+
+(for similar reasons, agents produce much better looking slides in HTML than in XML) https://t.co/vGAPawGNgu</description>
+      <pubDate>Tue, 21 Apr 2026 05:02:58 +0000</pubDate>
+      <guid isPermaLink="false">2046454622852657264</guid>
+    </item>
+    <item>
+      <title>Fairuz is the star of Kanye’s new album https://t.co/u8oIL4wEG3</title>
+      <link>https://x.com/amasad/status/2046443294104883693</link>
+      <description>作者：Amjad Masad
+账号：@amasad
+简介：ceo @replit. civilizationist
+
+Fairuz is the star of Kanye’s new album https://t.co/u8oIL4wEG3</description>
+      <pubDate>Tue, 21 Apr 2026 04:17:57 +0000</pubDate>
+      <guid isPermaLink="false">2046443294104883693</guid>
+    </item>
+    <item>
+      <title>The only thing more fun than coding with agents is designing with agents</title>
+      <link>https://x.com/petergyang/status/2046434474603446535</link>
+      <description>作者：Peter Yang
+账号：@petergyang
+简介：Practical AI tutorials and interviews for busy people | Join 140K+ readers at https://t.co/XYKTmGVH14 | Product at Roblox
+
+The only thing more fun than coding with agents is designing with agents</description>
+      <pubDate>Tue, 21 Apr 2026 03:42:54 +0000</pubDate>
+      <guid isPermaLink="false">2046434474603446535</guid>
+    </item>
+    <item>
+      <title>I feel like Codex's gap in frontend design skills can be easily made up if you use an AI design tool.  My favorite is @tomkrcha's Pencil</title>
+      <link>https://x.com/petergyang/status/2046434019307561342</link>
+      <description>作者：Peter Yang
+账号：@petergyang
+简介：Practical AI tutorials and interviews for busy people | Join 140K+ readers at https://t.co/XYKTmGVH14 | Product at Roblox
+
+I feel like Codex's gap in frontend design skills can be easily made up if you use an AI design tool.
+
+My favorite is @tomkrcha's Pencil</description>
+      <pubDate>Tue, 21 Apr 2026 03:41:05 +0000</pubDate>
+      <guid isPermaLink="false">2046434019307561342</guid>
+    </item>
+    <item>
+      <title>The more innovative the company the less of a &quot;2026 roadmap&quot; it actually has. https://t.co/LR4ObKvt97</title>
+      <link>https://x.com/petergyang/status/2046433025337315651</link>
+      <description>作者：Peter Yang
+账号：@petergyang
+简介：Practical AI tutorials and interviews for busy people | Join 140K+ readers at https://t.co/XYKTmGVH14 | Product at Roblox
+
+The more innovative the company the less of a &quot;2026 roadmap&quot; it actually has. https://t.co/LR4ObKvt97</description>
+      <pubDate>Tue, 21 Apr 2026 03:37:08 +0000</pubDate>
+      <guid isPermaLink="false">2046433025337315651</guid>
+    </item>
+    <item>
+      <title>I’m so encouraged by the way our team and industry peers have shown up to protect the internet.  We’ve now shipped over 20 product improvements across Dashboard and CLI to help your security posture.  Easier to set up MFA, audit your Environment Variables, Activity logs and more https://t.co/5Qi2NEv...</title>
+      <link>https://x.com/rauchg/status/2046406894269747668</link>
       <description>作者：Guillermo Rauch
 账号：@rauchg
 简介：@vercel CEO
 
-Here's my update to the broader community about the ongoing incident investigation. I want to give you the rundown of the situation directly.
+I’m so encouraged by the way our team and industry peers have shown up to protect the internet.
 
-A Vercel employee got compromised via the breach of an AI platform customer called https://t.co/7PY6gGtzgI that he was using. The details are being fully investigated.
+We’ve now shipped over 20 product improvements across Dashboard and CLI to help your security posture.
 
-Through a series of maneuvers that escalated from our colleague’s compromised Vercel Google Workspace account, the attacker got further access to Vercel environments.
-
-Vercel stores all customer environment variables fully encrypted at rest. We have numerous defense-in-depth mechanisms to protect core systems and customer data. We do have a capability however to designate environment variables as “non-sensitive”. Unfortunately, the attacker got further access through their enumeration.
-
-We believe the attacking group to be highly sophisticated and, I strongly suspect, significantly accelerated by AI. They moved with surprising velocity and in-depth understanding of Vercel.
-
-At the moment, we believe the number of customers with security impact to be quite limited. We’ve reached out with utmost priority to the ones we have concerns about. All of our focus right now is on investigation, communication to customers, enhancement of security measures, and sanitization of our environments. We’ve deployed extensive protection measures and monitoring. We’ve analyzed our supply chain, ensuring Next.js, Turbopack, and our many open source projects remain safe for our community.
-
-The recommendation for all Vercel customers is to follow the Security Bulletin closely (https://t.co/BLVnic9fJC). My advice to everyone is to follow the best practices of security response: secret rotation, monitoring access to your Vercel environments and linked services, and ensuring the proper use of the sensitive env variables feature.
-
-In response to this, and to aid in the improvement of all of our customers’ security postures, we’ve already rolled out new capabilities in the dashboard, including an overview page of environment variables, and a better user interface for sensitive env var creation and management. As always, I’m totally open to your feedback.
-
-We’re working with elite cybersecurity firms, industry peers, and law enforcement. We’ve reached out to Context to assist in understanding the full scale of the incident, in an effort to protect other organizations and the broader internet. I also want to thank the Google Mandiant team for their active engagement and assistance.
-
-It’s my mission to turn this attack into the most formidable security response imaginable. It’s always been a top priority for me. Vercel employs some of the most dedicated security researchers and security-minded engineers in the world. I commit to keeping you updated and rolling out extensive improvements and defenses so you, our customers and community, can have the peace of mind that Vercel always has your back.</description>
-      <pubDate>Sun, 19 Apr 2026 22:38:01 +0000</pubDate>
-      <guid isPermaLink="false">2045995362499076169</guid>
+Easier to set up MFA, audit your Environment Variables, Activity logs and more https://t.co/5Qi2NEvUhw</description>
+      <pubDate>Tue, 21 Apr 2026 01:53:18 +0000</pubDate>
+      <guid isPermaLink="false">2046406894269747668</guid>
     </item>
     <item>
-      <title>Yes VCs should do more due diligence but first software went serverless and now it’s becoming headless so there’s not much left to look at, really</title>
-      <link>https://x.com/mattturck/status/2045987462409826604</link>
-      <description>作者：Matt Turck
-账号：@mattturck
-简介：VC at @FirstMarkCap.  Host: MAD Podcast; Organizer: Data Driven NYC, Author: MAD Landscape.
+      <title>The jump from working with a chatbot to having an agent that actually helps automate a process requires a real amount of work.   Most companies will need to have dedicated people that are responsible for bringing automation to their teams, instead of leaving this up to every individual employee. Par...</title>
+      <link>https://x.com/levie/status/2046397816755634340</link>
+      <description>作者：Aaron Levie
+账号：@levie
+简介：ceo @box - your business lives in content. unleash it with AI
 
-Yes VCs should do more due diligence but first software went serverless and now it’s becoming headless so there’s not much left to look at, really</description>
-      <pubDate>Sun, 19 Apr 2026 22:06:38 +0000</pubDate>
-      <guid isPermaLink="false">2045987462409826604</guid>
+The jump from working with a chatbot to having an agent that actually helps automate a process requires a real amount of work. 
+
+Most companies will need to have dedicated people that are responsible for bringing automation to their teams, instead of leaving this up to every individual employee. Partly because the work is more technical than we imagine today, and partly because it’s just hard to do this as a side project.
+
+The job spec is to map out new workflows with agents, implement new systems to deploy agents, make sure the agent has all the right (up to date) context to work with, wiring up internal systems to connect to the agents, creating evals for the agents, figuring out where the human is in the loop, managing the system when there are new upgrades, helping with the change management of the existing business process, and so on.
+
+These jobs may come from IT or engineering, or live directly in the business function itself. They’ll be called different things depending on the company, and in some sense it’s the future of software engineering that you’ll see a huge growth of in non-tech companies.
+
+Most companies will have to be hiring for this now or in the future, and it’s another example of the kind of new jobs that will be created in AI.</description>
+      <pubDate>Tue, 21 Apr 2026 01:17:14 +0000</pubDate>
+      <guid isPermaLink="false">2046397816755634340</guid>
     </item>
     <item>
-      <title>I switched my openclaw to gpt finally and it’s…not going to well.  Any tips to optimize it for this model? https://t.co/eKvtNUunc9</title>
-      <link>https://x.com/petergyang/status/2045980068921684151</link>
-      <description>作者：Peter Yang
-账号：@petergyang
-简介：Practical AI tutorials and interviews for busy people | Join 140K+ readers at https://t.co/XYKTmGVH14 | Product at Roblox
-
-I switched my openclaw to gpt finally and it’s…not going to well.
-
-Any tips to optimize it for this model? https://t.co/eKvtNUunc9</description>
-      <pubDate>Sun, 19 Apr 2026 21:37:15 +0000</pubDate>
-      <guid isPermaLink="false">2045980068921684151</guid>
-    </item>
-    <item>
-      <title>If a press release comes out from each of the major labs, which one do you feel would have the shortest distance between what they said and what they believe?</title>
-      <link>https://x.com/thenanyu/status/2045910980597530836</link>
-      <description>作者：Nan Yu
-账号：@thenanyu
-简介：head of product @linear
-
-If a press release comes out from each of the major labs, which one do you feel would have the shortest distance between what they said and what they believe?</description>
-      <pubDate>Sun, 19 Apr 2026 17:02:43 +0000</pubDate>
-      <guid isPermaLink="false">2045910980597530836</guid>
-    </item>
-    <item>
-      <title>I’ve always felt this as well, but I couldn’t put it to words until I read this.   It’s like asking “should I get a red Lambo or a green Lambo?” expecting the correct answer to be “you shouldn’t buy a Lambo because that’s a poor financial decision.” https://t.co/LZVOnNZ47Y</title>
-      <link>https://x.com/thenanyu/status/2045910308611326166</link>
-      <description>作者：Nan Yu
-账号：@thenanyu
-简介：head of product @linear
-
-I’ve always felt this as well, but I couldn’t put it to words until I read this. 
-
-It’s like asking “should I get a red Lambo or a green Lambo?” expecting the correct answer to be “you shouldn’t buy a Lambo because that’s a poor financial decision.” https://t.co/LZVOnNZ47Y</description>
-      <pubDate>Sun, 19 Apr 2026 17:00:03 +0000</pubDate>
-      <guid isPermaLink="false">2045910308611326166</guid>
-    </item>
-    <item>
-      <title>To all my future incoming DMs - yes this a subtweet of myself. And yes, I’m going to stop using it 😆</title>
-      <link>https://x.com/nikunj/status/2045910252760285615</link>
-      <description>作者：Nikunj Kothari
-账号：@nikunj
-简介：partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian &amp; others. love @shimoleejhaveri + 👦👧
-
-To all my future incoming DMs - yes this a subtweet of myself. And yes, I’m going to stop using it 😆</description>
-      <pubDate>Sun, 19 Apr 2026 16:59:50 +0000</pubDate>
-      <guid isPermaLink="false">2045910252760285615</guid>
-    </item>
-    <item>
-      <title>Find someone who loves you as much as a VC who loves the word “fiduciary duty”</title>
-      <link>https://x.com/nikunj/status/2045909979228762426</link>
-      <description>作者：Nikunj Kothari
-账号：@nikunj
-简介：partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian &amp; others. love @shimoleejhaveri + 👦👧
-
-Find someone who loves you as much as a VC who loves the word “fiduciary duty”</description>
-      <pubDate>Sun, 19 Apr 2026 16:58:44 +0000</pubDate>
-      <guid isPermaLink="false">2045909979228762426</guid>
-    </item>
-    <item>
-      <title>Went from having multiple terminals open to just two apps open :) https://t.co/Wv8LXhRbnP</title>
-      <link>https://x.com/petergyang/status/2045909612315172936</link>
-      <description>作者：Peter Yang
-账号：@petergyang
-简介：Practical AI tutorials and interviews for busy people | Join 140K+ readers at https://t.co/XYKTmGVH14 | Product at Roblox
-
-Went from having multiple terminals open to just two apps open :) https://t.co/Wv8LXhRbnP</description>
-      <pubDate>Sun, 19 Apr 2026 16:57:17 +0000</pubDate>
-      <guid isPermaLink="false">2045909612315172936</guid>
-    </item>
-    <item>
-      <title>When you ask Claude to evaluate a potential investment and it replies “cute, just not as good as me” lol https://t.co/HL1aByBAoj</title>
-      <link>https://x.com/mattturck/status/2045909221997224000</link>
-      <description>作者：Matt Turck
-账号：@mattturck
-简介：VC at @FirstMarkCap.  Host: MAD Podcast; Organizer: Data Driven NYC, Author: MAD Landscape.
-
-When you ask Claude to evaluate a potential investment and it replies “cute, just not as good as me” lol https://t.co/HL1aByBAoj</description>
-      <pubDate>Sun, 19 Apr 2026 16:55:44 +0000</pubDate>
-      <guid isPermaLink="false">2045909221997224000</guid>
-    </item>
-    <item>
-      <title>If people think you’re bad at PR then they tend to believe you’re not lying to them, which, if you think about it, makes you good at PR. https://t.co/AWvcydiIDW</title>
-      <link>https://x.com/thenanyu/status/2045903644298465422</link>
-      <description>作者：Nan Yu
-账号：@thenanyu
-简介：head of product @linear
-
-If people think you’re bad at PR then they tend to believe you’re not lying to them, which, if you think about it, makes you good at PR. https://t.co/AWvcydiIDW</description>
-      <pubDate>Sun, 19 Apr 2026 16:33:34 +0000</pubDate>
-      <guid isPermaLink="false">2045903644298465422</guid>
-    </item>
-    <item>
-      <title>https://t.co/RbLQSGze1v my guide</title>
-      <link>https://x.com/swyx/status/2045831117199102276</link>
+      <title>give us back Sky  https://t.co/YIjHaa0jMR</title>
+      <link>https://x.com/swyx/status/2046388765820661939</link>
       <description>作者：Swyx
 账号：@swyx
 简介：achieve ambition with intentionality, intensity, integrity &amp; insanity.
@@ -254,105 +169,354 @@ affiliations:
 - @aidotengineer
 - @latentspacepod
 
-https://t.co/RbLQSGze1v my guide</description>
-      <pubDate>Sun, 19 Apr 2026 11:45:22 +0000</pubDate>
-      <guid isPermaLink="false">2045831117199102276</guid>
+give us back Sky
+
+https://t.co/YIjHaa0jMR</description>
+      <pubDate>Tue, 21 Apr 2026 00:41:16 +0000</pubDate>
+      <guid isPermaLink="false">2046388765820661939</guid>
     </item>
     <item>
-      <title>As AI gets more capable, product teams should spend more time on external communication (talking to users, customers, etc) than internal communication  1. Figuring out “what” to build will be a lot more important than building it. Getting this right requires sparks of inspiration that strike when yo...</title>
-      <link>https://x.com/zarazhangrui/status/2045810170245386713</link>
-      <description>作者：Zara Zhang
-账号：@zarazhangrui
-简介：Builder. Dangerously skips permissions. Harvard’17. GitHub: https://t.co/KCuEajezlL YouTube: https://t.co/8xzbGWtf6w
+      <title>🗃️ wacli 0.6.0 is out!  Big security + reliability sweep for WhatsApp CLI.    Hardens SQLite/store path handling, sanitizes search queries, recovers sync/media panics, adds WACLI_STORE_DIR, and improves SIGINT exits. https://t.co/VabuMQgps5   props @sdinakar7 for doing the work!</title>
+      <link>https://x.com/steipete/status/2046375922031321401</link>
+      <description>作者：Peter Steinberger
+账号：@steipete
+简介：Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world.
+@OpenClaw🦞 + @OpenAI
 
-As AI gets more capable, product teams should spend more time on external communication (talking to users, customers, etc) than internal communication
+🗃️ wacli 0.6.0 is out!
 
-1. Figuring out “what” to build will be a lot more important than building it. Getting this right requires sparks of inspiration that strike when you talk to external people, esp those who are every different from you. Since AI is very good at implementing solutions, humans should focus on understanding the PROBLEM
+Big security + reliability sweep for WhatsApp CLI.    Hardens SQLite/store path handling, sanitizes search queries, recovers sync/media panics, adds WACLI_STORE_DIR, and improves SIGINT exits. https://t.co/VabuMQgps5
 
-2. Teams will be a lot smaller, so internal communication overhead will decrease dramatically. Teams that work extensively with agents are already seeing a huge decrease in the number of internal meetings &amp; coordination work 
-
-3. I’m seeing a more dramatic version of this with some of my indie entrepreneur friends: they spend all day talking to customers, and then just dump the recordings at their agents who will figure out what to do and handle the execution</description>
-      <pubDate>Sun, 19 Apr 2026 10:22:08 +0000</pubDate>
-      <guid isPermaLink="false">2045810170245386713</guid>
+ props @sdinakar7 for doing the work!</description>
+      <pubDate>Mon, 20 Apr 2026 23:50:14 +0000</pubDate>
+      <guid isPermaLink="false">2046375922031321401</guid>
     </item>
     <item>
-      <title>Ep 84: OpenAI’s Chief Scientist on Continual Learning Hype, RL Beyond Code, &amp;amp; Future Alignment Directions</title>
-      <link>https://www.youtube.com/watch?v=vK1qEF3a3WM</link>
-      <description>播客：Unsupervised Learning
+      <title>Every Indian in the US is T-3 hours away from their parents waking up, reading the news and messaging them “why are you not the ceo of Apple huh”</title>
+      <link>https://x.com/nikunj/status/2046373243070939360</link>
+      <description>作者：Nikunj Kothari
+账号：@nikunj
+简介：partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian &amp; others. love @shimoleejhaveri + 👦👧
 
-Speaker 1 | 00:00 - 00:09
-I definitely agree that continual learning is really the thing. It's really the thing that we're building, but I don't really think this is like a problem that's ignored and and off the path of what we're doing currently. Think it it is what we're working towards.
+Every Indian in the US is T-3 hours away from their parents waking up, reading the news and messaging them “why are you not the ceo of Apple huh”</description>
+      <pubDate>Mon, 20 Apr 2026 23:39:35 +0000</pubDate>
+      <guid isPermaLink="false">2046373243070939360</guid>
+    </item>
+    <item>
+      <title>the Codex x @skybysoftware acquisition may have been one of the best @openai deals made in the last year.  I've been waiting for &quot;real&quot; computer use since @romainhuet demoed the ChatGPT App with 4o Vision at AIEWF 2024... and only now it's really, actually rolling out in a usable fashion.</title>
+      <link>https://x.com/swyx/status/2046362691606855700</link>
+      <description>作者：Swyx
+账号：@swyx
+简介：achieve ambition with intentionality, intensity, integrity &amp; insanity.
 
-Speaker 2 | 00:09 - 00:13
-What are like the other research areas within alignment that you're paying attention to or that you think are promising?
+affiliations:
+- @dxtipshq 
+- @cognition
+- @temporalio
+- @aidotengineer
+- @latentspacepod
 
-Speaker 1 | 00:13 - 00:19
-A lot of the, like, longer term challenge with alignment is about generalization. What are the values that the model falls
+the Codex x @skybysoftware acquisition may have been one of the best @openai deals made in the last year.
 
-Speaker 2 | 00:19 - 00:25
-back on? What are the things that you need to figure out to be able to really make models work well in some of these other spaces?
+I've been waiting for &quot;real&quot; computer use since @romainhuet demoed the ChatGPT App with 4o Vision at AIEWF 2024... and only now it's really, actually rolling out in a usable fashion.</description>
+      <pubDate>Mon, 20 Apr 2026 22:57:39 +0000</pubDate>
+      <guid isPermaLink="false">2046362691606855700</guid>
+    </item>
+    <item>
+      <title>Welcome back Ben! Can’t wait to see what you build! https://t.co/qWkdBgrksp</title>
+      <link>https://x.com/joshwoodward/status/2046361644029378731</link>
+      <description>作者：Josh Woodward
+账号：@joshwoodward
+简介：VP, @Google @GoogleLabs @GeminiApp @GoogleAIStudio
 
-Speaker 1 | 00:25 - 00:26
-I come back to this while I'll tell
+Welcome back Ben! Can’t wait to see what you build! https://t.co/qWkdBgrksp</description>
+      <pubDate>Mon, 20 Apr 2026 22:53:30 +0000</pubDate>
+      <guid isPermaLink="false">2046361644029378731</guid>
+    </item>
+    <item>
+      <title>🧭 gog 0.13 is out!  Gmail forwarding with notes + attachments, autoreplies, full-body search, Markdown uploads to Google Docs, rendered Slides thumbnails, Sheets chart editing, secondary calendars, commenter-only Drive shares, and safer no-send controls. https://t.co/7nQoJaa0Ti</title>
+      <link>https://x.com/steipete/status/2046356596683411924</link>
+      <description>作者：Peter Steinberger
+账号：@steipete
+简介：Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world.
+@OpenClaw🦞 + @OpenAI
 
-Speaker 2 | 00:26 - 00:59
-Ako Paioki is the chief scientist of OpenAI. I think literally one of the most important people on the planet. And today on unsupervised learning, I got to ask him literally everything that I've been thinking about, and I know a bunch of people in the ecosystem have too. We talked a lot about model progress, what's required to make long running agents work, as well as the really interesting work OpenAI has done in the AI for science world and the progress he sees in that over the next years. We talked a lot about how companies should be thinking about model building in this moment, when they should be doing reinforcement learning, how they should be thinking about the evolution of harnesses and the impact that will have.
+🧭 gog 0.13 is out!
 
-Speaker 2 | 00:59 - 01:32
-We hit on a lot of his really interesting research, including the work he's done around alignment, the work that OpenAI broadly has done around math competitions. And we also talked about this focusing moment at OpenAI and what it means for the research organization and how he runs his team. Literally, just such an awesome opportunity to talk to someone who is driving so much of the change that has revolutionized this space in the world. I hope folks enjoy this wide ranging conversation as much as I did. I feel like you are the perfect person to talk to you about all the questions everyone has in the ecosystem.
+Gmail forwarding with notes + attachments, autoreplies, full-body search, Markdown uploads to Google Docs, rendered Slides thumbnails, Sheets chart editing, secondary calendars, commenter-only Drive shares, and safer no-send controls. https://t.co/7nQoJaa0Ti</description>
+      <pubDate>Mon, 20 Apr 2026 22:33:26 +0000</pubDate>
+      <guid isPermaLink="false">2046356596683411924</guid>
+    </item>
+    <item>
+      <title>Tim Cook is a legend.  I am very thankful for everything he has done and I am very thankful for Apple.</title>
+      <link>https://x.com/sama/status/2046330825265086712</link>
+      <description>作者：Sam Altman
+账号：@sama
+简介：AI is cool i guess
 
-Speaker 2 | 01:32 - 02:05
-What's, you know, happening with model progress? A lot of companies are thinking about how they should be building things based on what's happening with the models. A lot of people at a societal level are thinking about the impact AI is gonna have on science and broader society, And you've been at the forefront of the space for pretty much every generation of, of improvement, these past years, and so really excited to have you on the podcast. Happy to be here. I think I'll start with one of the the juiciest things you said, which is, you know, four months ago, I think you and the OpenAI team talked about aiming for a system with research level interim capabilities by September.
+Tim Cook is a legend.
 
-Speaker 2 | 02:05 - 02:15
-So coming up, I think that's, what, six months from now. And then a more fully automated AI researcher by March 2028. And so I guess, you know, checking in four months later, how are you feeling about those timelines?
+I am very thankful for everything he has done and I am very thankful for Apple.</description>
+      <pubDate>Mon, 20 Apr 2026 20:51:02 +0000</pubDate>
+      <guid isPermaLink="false">2046330825265086712</guid>
+    </item>
+    <item>
+      <title>The internal working name for this was &quot;telepathy&quot;, and it feels like it. https://t.co/9LAUTaaYAe</title>
+      <link>https://x.com/sama/status/2046330082726384051</link>
+      <description>作者：Sam Altman
+账号：@sama
+简介：AI is cool i guess
 
-Speaker 1 | 02:16 - 02:26
-Yeah. I think, you know, over I think over over the last months, I think, like, the change that really happened is we've seen this explosive growth of coding tools.
+The internal working name for this was &quot;telepathy&quot;, and it feels like it. https://t.co/9LAUTaaYAe</description>
+      <pubDate>Mon, 20 Apr 2026 20:48:05 +0000</pubDate>
+      <guid isPermaLink="false">2046330082726384051</guid>
+    </item>
+    <item>
+      <title>Available now on all paid plans.  Update or download the Claude app to try it in Cowork: https://t.co/hwPB3zlk0w</title>
+      <link>https://x.com/claudeai/status/2046328622869344429</link>
+      <description>作者：Claude
+账号：@claudeai
+简介：Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Talk to Claude on https://t.co/ZhTwG8d1e5 or download the app.
 
-Speaker 2 | 02:26 - 02:27
-Yeah. It's an understatement.
+Available now on all paid plans.
 
-Speaker 1 | 02:28 - 03:03
-Yeah. We definitely, like, really kind of gone to a place in OpenAI where we use codecs for the for the majority of, you know, actual coding. And so I think I think for most people, like, the kind of the act of programming has has has changed quite a bit. So I definitely see this as a signal that, like, you know, something here is on track. The other kind of, like, very interesting update over the last few months to me has been the progress on the math research capabilities, also the results we've kind of seen in physics Yeah.
+Update or download the Claude app to try it in Cowork: https://t.co/hwPB3zlk0w</description>
+      <pubDate>Mon, 20 Apr 2026 20:42:17 +0000</pubDate>
+      <guid isPermaLink="false">2046328622869344429</guid>
+    </item>
+    <item>
+      <title>Everything you build is saved to the new Live Artifacts tab, with version history. Come back tomorrow or next month, from any session, and pick up where you left off.</title>
+      <link>https://x.com/claudeai/status/2046328621611065668</link>
+      <description>作者：Claude
+账号：@claudeai
+简介：Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Talk to Claude on https://t.co/ZhTwG8d1e5 or download the app.
 
-Speaker 1 | 03:04 - 03:29
-In other fields. I think I think this kind of level of capability, this level of, like, you know, ability to provide insight when combined with ability to access infrastructure, ability to use maybe more compute at test time than something that Cognizant is currently, and very strong improvement in general intelligence, which I also expect over over the next couple of months. Yeah. It's something we're still very much planning for and very focused on.
+Everything you build is saved to the new Live Artifacts tab, with version history. Come back tomorrow or next month, from any session, and pick up where you left off.</description>
+      <pubDate>Mon, 20 Apr 2026 20:42:16 +0000</pubDate>
+      <guid isPermaLink="false">2046328621611065668</guid>
+    </item>
+    <item>
+      <title>In Cowork, Claude can now build live artifacts: dashboards and trackers connected to your apps and files.  Open one any time and it refreshes with current data. https://t.co/oru97zRn8L</title>
+      <link>https://x.com/claudeai/status/2046328619249684989</link>
+      <description>作者：Claude
+账号：@claudeai
+简介：Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Talk to Claude on https://t.co/ZhTwG8d1e5 or download the app.
 
-Speaker 2 | 03:29 - 03:37
-And how do you, like, know when you've you've gotten there? Like, what's, like, a a a workflow you might look to to say, hey. Okay. I think we've got these, you know, research intern level capabilities.
+In Cowork, Claude can now build live artifacts: dashboards and trackers connected to your apps and files.
 
-Speaker 1 | 03:38 - 04:01
-The the way I would distinguish, you know, a research intern from full automated researcher is that kind of span of time that we would have it work mostly autonomously or the specificity of the task that it has to be given. So I don't expect you know, we'll have systems where we kind of just tell them, oh, like, know, go improve, you know, model capability, go solve alignment.
+Open one any time and it refreshes with current data. https://t.co/oru97zRn8L</description>
+      <pubDate>Mon, 20 Apr 2026 20:42:16 +0000</pubDate>
+      <guid isPermaLink="false">2046328619249684989</guid>
+    </item>
+    <item>
+      <title>When is Venmo gonna finally turn off that feature that lets me see when two of my mutual friends are hooking up?</title>
+      <link>https://x.com/thenanyu/status/2046317076164350411</link>
+      <description>作者：Nan Yu
+账号：@thenanyu
+简介：head of product @linear
 
-Speaker 2 | 04:02 - 04:03
-That'd be nice.
+When is Venmo gonna finally turn off that feature that lets me see when two of my mutual friends are hooking up?</description>
+      <pubDate>Mon, 20 Apr 2026 19:56:24 +0000</pubDate>
+      <guid isPermaLink="false">2046317076164350411</guid>
+    </item>
+    <item>
+      <title>Getting lots of questions about how to learn more about the incident. We're actively maintaining the security bulletin. That's the source.  The bulletin includes security best practices to take out of an abundance of caution. To reiterate, we directly contacted all Vercel customers that we believe t...</title>
+      <link>https://x.com/rauchg/status/2046305710120829374</link>
+      <description>作者：Guillermo Rauch
+账号：@rauchg
+简介：@vercel CEO
 
-Speaker 1 | 04:03 - 04:18
-You know, and they will do it. Not this year. You know, I think we might get there at some point. But I think for, like, more specific technical ideas, like, I I have this particular idea of how to improve the models, how to, like, you know, run this evaluation differently, I think I think we have the pieces that we mostly just need to put together.
+Getting lots of questions about how to learn more about the incident. We're actively maintaining the security bulletin. That's the source.
 
-Speaker 2 | 04:19 - 04:35
-Andre Karpathy released, you know, a pretty viral version of of, using some of these models to, you know, improve some of his, you know, obviously, way less complex models than what you guys are building here. But did that feel like generally in this, you know, in the spirit of of some of what these tools might look like?
+The bulletin includes security best practices to take out of an abundance of caution. To reiterate, we directly contacted all Vercel customers that we believe to be impacted by the IOC shared in the bulletin.
 
-Speaker 1 | 04:35 - 04:53
-Yeah. I think it's in the spirit. Yeah. I mean, I I I expect it to look like a pretty continual evolution from kind of where Codex is now, I think, towards a bit more autonomy running for a longer time. But, yeah, I I think I think we'll see a lot of this sort of application.
+One misconception we've seen that I need to call out. Deletion (e.g.: of an env var, project, account…) does not imply Rotation. Rotating keys means *invalidating* the previous value with the vendor/service you're using, and getting a new one. Do that.
 
-Speaker 1 | 04:53 - 04:59
-I think we'll in general, we'll see we'll see, like, more autonomous and higher compute use of these models for different things.
+i.e.: if you only delete the resource on the Vercel side, the associated key can &quot;live on&quot; with the other provider, and be mis-used
+https://t.co/VJfx1ODUM8</description>
+      <pubDate>Mon, 20 Apr 2026 19:11:14 +0000</pubDate>
+      <guid isPermaLink="false">2046305710120829374</guid>
+    </item>
+    <item>
+      <title>One head-scratching idea that gets repeated endlessly: the new TAM for AI is the size of the human labor market, dollar-for-dollar.  Many trillions!  Just for like any labor automation technology in history, the price of AI services will be the marginal cost + a normal margin.</title>
+      <link>https://x.com/mattturck/status/2046284478151086178</link>
+      <description>作者：Matt Turck
+账号：@mattturck
+简介：VC at @FirstMarkCap.  Host: MAD Podcast; Organizer: Data Driven NYC, Author: MAD Landscape.
 
-Speaker 2 | 04:59 - 05:21
-You mentioned kind of like the math and physics side, and obviously, you've had these really impressive breakthroughs, in math on, you know, some interesting, like, different kinds of competition, you know, problems. Maybe, you know, I think for our listeners, like, intuitively makes sense how progress in coding directly translates to something like, you know, helping with AI research. How does, like, math and physics progress, like, also tie into this?
+One head-scratching idea that gets repeated endlessly: the new TAM for AI is the size of the human labor market, dollar-for-dollar.  Many trillions!
 
-Speaker 1 | 05:21 - 05:34
-The the the biggest role that, like, you know, focusing on these math benchmarks has played for us as as a general yeah. Like, benchmark and and and and and North Star for, like, how to improve the psychology. Right? Math is very measurable. Right?
+Just for like any labor automation technology in history, the price of AI services will be the marginal cost + a normal margin.</description>
+      <pubDate>Mon, 20 Apr 2026 17:46:52 +0000</pubDate>
+      <guid isPermaLink="false">2046284478151086178</guid>
+    </item>
+    <item>
+      <title>Jack's young money blog had a big impact on me when I was in college and navigating what I wanted to do post-grad.   If you are in your teens/20s and trying to figure out how to think about life, this book will offer you some good ideas. https://t.co/8Z1rpUzd36</title>
+      <link>https://x.com/alexalbert__/status/2046277525207466003</link>
+      <description>作者：Alex Albert
+账号：@alexalbert__
+简介：Research @AnthropicAI. Opinions are my own!
 
-Speaker 1 | 05:34 - 05:59
-It's much easier to tell whether you've actually solved the math problem than, like, whether you've even, like, produced a good, you know, piece of software. And also, it can get very hard. Right? So you can have things where, like, it's very definite whether you solve them, but it can be, like, arbitrarily pretty much hard to to actually solve them. You know, I would say, like, up until not too long ago, like, you know, my perspective has been like, well, okay, like, we you know, our models are not, you know, maybe able to solve, like, simple math problems.
+Jack's young money blog had a big impact on me when I was in college and navigating what I wanted to do post-grad. 
 
-Speaker 1 | 05:59 - 06:19
-Okay. Our models are able to solve simple math problems, are they not able to solve, like, IMO level problems. So clearly, there is just, like, a gap in just, like, this, you know, intelligence of these models that, like, that that is very measurable, very, know, very easy to run at....</description>
-      <pubDate>Thu, 09 Apr 2026 13:25:11 +0000</pubDate>
-      <guid>https://www.youtube.com/watch?v=vK1qEF3a3WM</guid>
+If you are in your teens/20s and trying to figure out how to think about life, this book will offer you some good ideas. https://t.co/8Z1rpUzd36</description>
+      <pubDate>Mon, 20 Apr 2026 17:19:14 +0000</pubDate>
+      <guid isPermaLink="false">2046277525207466003</guid>
+    </item>
+    <item>
+      <title>media is cool again! https://t.co/bf7HSf4G8n</title>
+      <link>https://x.com/danshipper/status/2046272643133825458</link>
+      <description>作者：Dan Shipper
+账号：@danshipper
+简介：ceo @every | the only subscription you need to stay at the edge of AI
+
+media is cool again! https://t.co/bf7HSf4G8n</description>
+      <pubDate>Mon, 20 Apr 2026 16:59:50 +0000</pubDate>
+      <guid isPermaLink="false">2046272643133825458</guid>
+    </item>
+    <item>
+      <title>Kudos to the folks from Tencent for working with us and providing evals to improve OpenClaw's harness performance!  We're also working with them to bring fixes/improvements back to the open source repo.   Great option for folks not comfortable with the terminal. https://t.co/sbmx7CMLB7</title>
+      <link>https://x.com/steipete/status/2046259696722465113</link>
+      <description>作者：Peter Steinberger
+账号：@steipete
+简介：Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world.
+@OpenClaw🦞 + @OpenAI
+
+Kudos to the folks from Tencent for working with us and providing evals to improve OpenClaw's harness performance!
+
+We're also working with them to bring fixes/improvements back to the open source repo. 
+
+Great option for folks not comfortable with the terminal. https://t.co/sbmx7CMLB7</description>
+      <pubDate>Mon, 20 Apr 2026 16:08:24 +0000</pubDate>
+      <guid isPermaLink="false">2046259696722465113</guid>
+    </item>
+    <item>
+      <title>we love a clean start https://t.co/QgFKXyZZEI</title>
+      <link>https://x.com/ryolu_/status/2046246973783859559</link>
+      <description>作者：Ryo Lu
+账号：@ryolu_
+简介：Design @Cursor_ai. Early @NotionHQ, @Stripe, built startups. I make a world where anyone can make software. Aspiring k-pop idol.
+
+we love a clean start https://t.co/QgFKXyZZEI</description>
+      <pubDate>Mon, 20 Apr 2026 15:17:50 +0000</pubDate>
+      <guid isPermaLink="false">2046246973783859559</guid>
+    </item>
+    <item>
+      <title>two agents are better than one</title>
+      <link>https://x.com/danshipper/status/2046231280430240141</link>
+      <description>作者：Dan Shipper
+账号：@danshipper
+简介：ceo @every | the only subscription you need to stay at the edge of AI
+
+two agents are better than one</description>
+      <pubDate>Mon, 20 Apr 2026 14:15:29 +0000</pubDate>
+      <guid isPermaLink="false">2046231280430240141</guid>
+    </item>
+    <item>
+      <title>Opus 4.7 does good code reviews</title>
+      <link>https://x.com/danshipper/status/2046224034619125871</link>
+      <description>作者：Dan Shipper
+账号：@danshipper
+简介：ceo @every | the only subscription you need to stay at the edge of AI
+
+Opus 4.7 does good code reviews</description>
+      <pubDate>Mon, 20 Apr 2026 13:46:41 +0000</pubDate>
+      <guid isPermaLink="false">2046224034619125871</guid>
+    </item>
+    <item>
+      <title>and @dexhorthy is quoting Z/L continuum in AIE Miami!!  https://t.co/0KdjCJfZ8a  idea catching on @altryne https://t.co/O2Q4OImv1k</title>
+      <link>https://x.com/swyx/status/2046222691418439689</link>
+      <description>作者：Swyx
+账号：@swyx
+简介：achieve ambition with intentionality, intensity, integrity &amp; insanity.
+
+affiliations:
+- @dxtipshq 
+- @cognition
+- @temporalio
+- @aidotengineer
+- @latentspacepod
+
+and @dexhorthy is quoting Z/L continuum in AIE Miami!!
+
+https://t.co/0KdjCJfZ8a
+
+idea catching on @altryne https://t.co/O2Q4OImv1k</description>
+      <pubDate>Mon, 20 Apr 2026 13:41:21 +0000</pubDate>
+      <guid isPermaLink="false">2046222691418439689</guid>
+    </item>
+    <item>
+      <title>The Agentic Economy: How AI Agents Will Transform the Financial System with Circle Co-Founder and CEO Jeremy Allaire</title>
+      <link>https://www.youtube.com/watch?v=eyobeqMdbeI</link>
+      <description>播客：No Priors
+
+Speaker 1 | 00:05 - 00:19
+Today I know Priors, have Jeremy Allaire, the co founder and CEO of Circle. We'll be talking about cryptocurrency, AI, agentic payments, AI evolving on the blockchain, and a variety of other topics. Great. Well, thank you so much for joining us today. It's a pleasure to have you.
+
+Speaker 2 | 00:19 - 00:22
+It's great to be here. Thank you. So maybe we can start with
+
+Speaker 1 | 00:22 - 00:36
+you just giving a quick overview of Circle, what you do, how you approach the world, because I think we're going to be talking a lot about stablecoins, crypto, AI, and how all these things tie into sort of the agentic future. But I'd love to just start with sort of origins of the company, what you all are up to, and we can go from there.
+
+Speaker 2 | 00:36 - 01:15
+Yeah, for sure. So, yeah, Circle's been around for a while. I co founded the company over yeah, thirteen years ago or so, 2013. And really at inception, I was really excited about this idea that we could create a protocol for dollars on the internet. And I had been really excited about what was happening with technologies like Bitcoin, and had been, you know, working on kind of internet infrastructure for a long time, and got really excited like if we had like a protocol for dollars on the internet, that, you know, potentially we could have a way to store and move value, you know, instantly, globally, frictionlessly, at no cost, ultimately.
+
+Speaker 2 | 01:16 - 02:11
+The other idea that we were really excited about back then was this idea of programmable money, and the idea that eventually these networks, blockchains, would become like operating systems, and you could actually have machines that intermediate economic activity and financial activity on the Internet, including like autonomous software machines. And back then, we didn't have generative AI or anything like that. But this sort of idea of kind of commoditizing the kind of payment utility layer with like very safe digital dollar digital currencies, and then having like programmability of that with machines that are kind of tamper resistant, can run on the internet, that's what kind of drove the founding of the company. And the view was like, if we could do that, we could actually improve the financial system, make it safer, make it more accessible, make it more efficient, and kind of derive new utility from money that we haven't had before. And so that was sort of where
+
+Speaker 1 | 02:11 - 02:31
+Why is we the dollar aspect of that important? So if you look at a lot of the things that happened in cryptocurrency in the early days, it was really about creating things that were divorced from the traditional financial system if possible, were not dollar centric. So, for example, Bitcoin was in part a response to the great financial crisis, and the view that all sorts of weird bailouts happened there, and therefore we needed some alternative sort of financial infrastructure for the world.
+
+Speaker 2 | 02:31 - 03:00
+Yeah. So, think, so actually, what's very interesting is like, I believe in kind of Austrian economic thought. I was studying Austrian economic thought like in the early 1990s for a very long time. And so, I've been interested in sound money theory. And actually, it was studying the kind of impact of the global financial crisis that drew me into this, because my view is like there has to be a way to build like a safer financial system.
+
+Speaker 2 | 03:00 - 03:12
+And the key issue there was I was interested in this idea of full reserve money. And in some ways, Bitcoin is full reserve money because there is no way to fractionally lend Bitcoin per se.
+
+Speaker 1 | 03:12 - 03:17
+Full reserve money means currency that's backed by something hard behind it, some asset.
+
+Speaker 2 | 03:17 - 03:47
+Doesn't necessarily mean it's a hard back. Full reserve money is different than, say, fractional Full reserve banking, I should say, is different than fractional reserve banking. And so, you know, back in There was another major economic collapse, which was the Great Depression, the run on all the banks, and all that fun. And in the 1930s, there was a really big debate about like, what's the right construct for the banking system and the financial system? And there was a proposal from a group of economists called the Chicago Plan.
+
+Speaker 2 | 03:48 - 04:18
+And the kind of ringleader was a Chicago economist. Actually, it might have been a Yale economist or Princeton at the time, but Irving Fisher, who wrote a book called 100% Money. And that idea was that full reserve money was essentially, you know, government obligation money. So, it's still the obligation of the government, like the US government in that instance. But that essentially, you can have that, and you can hold that, but you can't take that and then fractionally lend against it.
+
+Speaker 2 | 04:18 - 04:50
+So, you have kind of a full reserve, and you can only lend full reserve money. And so, that was a big proposal for how to structure the way the financial system worked. And it was actually lobbied very, very hard against it by the banks. And the banks really liked fractional reserve. They liked to be able to have the inherent kind of leverage and risk taking, and instead convinced the government to establish, or they collectively with the government sanctioned, established an insurance company called the Federal Depository Insurance Company Corporation.
+
+Speaker 2 | 04:50 - 05:22
+And so, that was a kind of corporate insurance model, but the risk taking still existed. And so, we've continued to kind of face those issues. The great financial crisis was an example of 30x leverage, 12x leverage, 14x leverage against these sort of base layers. And so, my philosophy has been, well, right now, in terms of general utility, our existing economic system, it does depend on really major reserve currencies like the dollar. And my view is like that's going to continue for a while.
+
+Speaker 2 | 05:22 - 05:33
+Maybe thirty, forty, fifty years, it'll continue for a while. But what we want to do is construct a system that is in fact safer. So, full reserve form of money. And that's what stablecoins are. That's what dollar stablecoins are.
+
+Speaker 2 | 05:33 - 05:51
+And in fact, with the Genius Act that passed last year, it's sort of codified in law. Like, you can't do anything with this. It's like this very narrowly bound, narrow money kind of model. And so, I think in some ways, like that original vision, we've now got established in laws around the world. And now we have to do more with it.
+
+Speaker 2 | 05:51 - 05:58
+We have to make it extraordinarily useful. Can lend that form of money as well, but it's just that you can't do fractional reserve.
+
+Speaker 1 | 05:58 - 06:10
+So what are stablecoins currently backed by? My understanding is, for example, the stablecoin companies are big buyers of treasuries, or US treasuries, and other sort of instruments like that. Could you explain a bit more sort of what tends to back these things?
+
+Speaker 2 | 06:11 - 06:35
+Yeah. So, up until really the last couple of years, you know, stablecoins like USDC had to be always one for one redeemable against, you know, very safe liquid assets. And we couldn't take risk outside of what was permitted under the kind of payment system laws that regulated us. And so that was Circle. There are other people who didn't take that approach.
+
+Speaker 2 | 06:36 - 07:16
+And, you know, but, you know, sort of fiat stablecoins in this way, we're back that way. Now, laws have now come into play in major jurisdictions, whether it's in Europe, or Japan, or The US, etc. And we've been following whatever laws apply to us, you know, whenever they apply to us, obviously. But what that's really led to is an architecture, which is basically what's now federal law, which is really holding only short duration US government treasuries, or treasury collateral that is overnight with like global banks. So, that's, you know, very ...</description>
+      <pubDate>Thu, 09 Apr 2026 10:00:00 +0000</pubDate>
+      <guid>https://www.youtube.com/watch?v=eyobeqMdbeI</guid>
+    </item>
+    <item>
+      <title>Preparing your security program for AI-accelerated offense</title>
+      <link>https://claude.com/blog/preparing-your-security-program-for-ai-accelerated-offense</link>
+      <description>作者：Claude Blog
+
+Earlier this week, we announced Project Glasswing—our urgent attempt to put the strong cybersecurity capabilities of our newest frontier model, Claude Mythos Preview, to use for defensive purposes. In the announcement —and the accompanying technical blog post —we described how AI models are rapidly reducing the required resources, time, and skill required to find and exploit vulnerabilities in software. With an eye on the lightning-fast progress of AI, we also noted that it will not be long before models of similar capability levels are widely available. Within the next 24 months, vast numbers of bugs that sat unnoticed in code, possibly for years, will be found by AI models and chained into working exploits. Indeed, it is already the case that publicly available, sub-Mythos-level models can find serious vulnerabilities that traditional reviews have missed for long periods of time. Thankfully, this works both ways: although attackers can use AI to move faster, so can defenders who adopt AI tools to secure themselves. In this post, we offer security recommendations and practical tips based on what our security teams and researchers have observed and learned from using frontier AI models to secure real codebases and systems. We hope security teams and others will find this advice useful as we enter the age of AI-driven cybersecurity. Many of the pieces of advice below are already part of the existing security consensus; we have prioritized them according to which controls we have seen hold and which we have seen degrade. If your organization reports against SOC 2 and ISO 27001, these will map directly onto controls you are already tracking. We’ll update this guidance as we and our Project Glasswing partners continue our cybersecurity work. What to do now 1. Close your patch gap AI models are very effective at recognizing the signatures of known, already-patched vulnerabilities in unpatched systems. Reversing a patch into a working exploit is exactly the kind of mechanical analysis at which these models excel. This means that the window between a patch being published and an exploit becoming available is shrinking. Patch everything on the CISA Known Exploited Vulnerabilities (KEV) catalog immediately. This catalog contains vulnerabilities that are confirmed to be under active exploitation. Anything on this list which is reachable from a network should be treated as an emergency. Use EPSS to prioritize the rest. Exploit Prediction Scoring System (EPSS) provides a daily-updated probability that a given Common Vulnerability and Exposure (CVE) will be exploited in the next 30 days. Patching the KEV list first and then everything above a chosen EPSS threshold will help you turn thousands of open CVEs into a manageable queue. Reduce time-to-patch on internet-exposed systems. We recommend patching internet-facing applications within 24 hours of an exploit becoming available, and within days for other vulnerabilities. Automate patch deployment and reboots where the risk of an automated update causing an outage is acceptable. Manual approval steps add delay, and delay is now the primary risk. Practical tip: Most cloud and OS vendors already ship patch automation; enabling it is often a simple configuration change. For container images and dependency manifests, several open-source scanners run as a single continuous integration step and annotate CVEs with data from the KEV catalogue and EPSS, so prioritization is built in. 2. Prepare to handle a much higher volume of vulnerability reports Over approximately the next two years, the processes you use to receive, prioritize, and fix vulnerabilities (both in your own code and in the software you buy from vendors) will be under far more pressure than they are today. Your Vulnerability Management process should plan for many more patches, from vendors and upstream. Plan for an order-of-magnitude increase in finding volume. Aspects like intake, triage, and remediation tracking need to keep pace with the increasing numbers of vulnerabilities being exposed. If your security meetings are still built around a spreadsheet and a weekly meeting, it’s unlikely that you’ll keep up. It’s worth considering some amount of automation—with, of course, humans in the loop, to assist with the sheer volume here. Check the security of your open-source dependencies. Most software supply chains are mostly open source. Most open-source projects have no service-level agreement or commitment to maintain a high level of security. OpenSSF Scorecard automatically scores every dependency on signals like branch protection, fuzzing coverage, signed releases, and maintainer activity. It runs in CI and helps to identify unmaintained packages. Apply the same expectations to your vendors. Your third-party risk management process should ask suppliers how they are themselves preparing for accelerated exploit timelines and whether they are scanning their own code. ‍ Practical tip: Look into open source software and third-party services that evaluate the reachability of vulnerable code. Build automated processes that continuously deliver new software updates to your IT and production infrastructure, by doing regression testing on updates to gain confidence that you can deploy them quickly. Above we mentioned automation of these processes. There are a number of important ways that AI can assist: Speeding up triage. Triage is a bottleneck, because it requires expert review and classification. A frontier model can deduplicate findings against an existing backlog, use its knowledge of your assets to estimate exposure, and draft remediation tickets where the affected code paths are pre-identified. Check your dependencies for redundancy. Most large codebases accumulate multiple libraries doing the same job (several HTTP clients; several JSON parsers). This gives attackers more opportunity, all for no functional gain on your part. Pointing an LLM at a lockfile and asking which dependencies overlap (and what migration and consolidation would look like) is a one-hour exercise that often pays off. AI upgrade automation. Frontier models are increasingly capable of generating patches to include alongside vulnerability reports. When the report is clear and thorough, maybe even with a proof-of-concept, the model can directly test the patch to confirm that the exploit path is closed. It can also directly automate the process of accepting the upstream patch, validating that the upgrade doesn’t break tests or internal systems. AI vendoring . Some small dependencies will score poorly on the OpenSSF Scorecard—perhaps because they’re not actively maintained. You shouldn’t continue to rely on these; instead, you should consider having an LLM write its own code to reimplement the functionality you actually use. 3. Find bugs before you ship them Prevention is always better than cure. You should assume that bugs that reach production will eventually be found, so your security testing needs to happen well before. Add static analysis and AI-assisted code review to your continuous integration pipeline, and block merges on high-confidence findings. If false positives make this impractical, you should keep the check, but address the tooling. The OWASP Application Security Verification Standard defines what “passing” a test looks like at three different levels of rigor. Add automated penetration testing to your continuous delivery pipeline. You can run the same scanning for staging that attackers will run against your production systems. Secure the build pipeline. An attacker who can inject code between commit and deployment does not need to find a vulnerability. The SLSA security framework provides a graded path: lower levels establish which commit produced which artifact, and higher levels make the build itself verifiable. Adopt Secure by Design practices. CISA’s pledge commitments (multi-factor authentication by default; no default passwords; transparent vulnerability reporting) ar...</description>
+      <pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
+      <guid>https://claude.com/blog/preparing-your-security-program-for-ai-accelerated-offense</guid>
     </item>
   </channel>
 </rss>
