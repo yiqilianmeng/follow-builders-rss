@@ -5,245 +5,109 @@
     <link>https://github.com/zarazhangrui/follow-builders</link>
     <description>聚合 AI 领域建设者的 X、播客和博客内容。</description>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 28 Apr 2026 08:04:29 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Apr 2026 13:25:58 +0000</lastBuildDate>
     <item>
-      <title>The secret to an articulate agent like mine isn't one file. It's three:  SOUL.md — Who the agent IS. Voice, values, operating principles, what good output looks like, what bad output looks like. Not a system prompt, a constitution. Mine says things like &quot;brevity is mandatory,&quot; &quot;humor is mandatory,&quot; ...</title>
-      <link>https://x.com/garrytan/status/2048669695344046090</link>
-      <description>作者：Garry Tan
-账号：@garrytan
-简介：President &amp; CEO @ycombinator —Founder @garryslist—Creator of GStack &amp; GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop
-
-The secret to an articulate agent like mine isn't one file. It's three:
-
-SOUL.md — Who the agent IS. Voice, values, operating principles, what good output looks like, what bad output looks like. Not a system prompt, a constitution. Mine says things like &quot;brevity is mandatory,&quot; &quot;humor is mandatory,&quot; &quot;never open with 'Great question,'&quot; &quot;swearing is allowed when it lands.&quot; The more specific and opinionated this is, the less your agent sounds like a chatbot. Write it like you're briefing your smartest friend on how to be you, not like you're configuring software.
-
-USER.md — Who YOU are. Not a bio — a deep model. How your mind works, what you're building, your strengths, your blind spots, your family, your temperament, what triggers you, what you care about. The more the agent understands about you, the better it can serve you. Mine is ~4000 words.
-
-AGENTS.md — Operational rules. What to check on every message, what to never do, how to handle failures, lookup chains, path rules, brain-first protocols. This is the playbook for how it works, not who it is.
-
-The articulation comes from SOUL.md being brutally specific about voice. Generic instructions → generic output. If you write &quot;be helpful and concise&quot; you get ChatGPT. If you write &quot;speak like a peer with taste, one sentence when one sentence works, uncomfortable truths welcome if actually true, language with voltage&quot; — you get something alive.</description>
-      <pubDate>Mon, 27 Apr 2026 07:44:52 +0000</pubDate>
-      <guid isPermaLink="false">2048669695344046090</guid>
-    </item>
-    <item>
-      <title>Also a funny thing: my OpenClaw knowing my full schedule and also my health goals and refusing to respond to my queries after 12:30am.   Amazing @steipete</title>
-      <link>https://x.com/garrytan/status/2048667055424249864</link>
-      <description>作者：Garry Tan
-账号：@garrytan
-简介：President &amp; CEO @ycombinator —Founder @garryslist—Creator of GStack &amp; GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop
-
-Also a funny thing: my OpenClaw knowing my full schedule and also my health goals and refusing to respond to my queries after 12:30am. 
-
-Amazing @steipete</description>
-      <pubDate>Mon, 27 Apr 2026 07:34:23 +0000</pubDate>
-      <guid isPermaLink="false">2048667055424249864</guid>
-    </item>
-    <item>
-      <title>Honestly imagine actually talking to the book that knows you as a friend  It’s a surreal experience</title>
-      <link>https://x.com/garrytan/status/2048664680558932266</link>
-      <description>作者：Garry Tan
-账号：@garrytan
-简介：President &amp; CEO @ycombinator —Founder @garryslist—Creator of GStack &amp; GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop
-
-Honestly imagine actually talking to the book that knows you as a friend
-
-It’s a surreal experience</description>
-      <pubDate>Mon, 27 Apr 2026 07:24:56 +0000</pubDate>
-      <guid isPermaLink="false">2048664680558932266</guid>
-    </item>
-    <item>
-      <title>Released wacrawl 0.2.0.  New: encrypted Git backup/restore for WhatsApp Desktop archives. `wacrawl backup push` writes age-encrypted shards to GitHub; `backup pull` decrypts, verifies, and restores locally. https://t.co/gzCQO6eSAe</title>
-      <link>https://x.com/steipete/status/2048660875007914176</link>
+      <title>Yes it did type into the comment box and closed the issue.</title>
+      <link>https://x.com/steipete/status/2049035851493953750</link>
       <description>作者：Peter Steinberger
 账号：@steipete
 简介：Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world.
 @OpenClaw🦞 + @OpenAI
 
-Released wacrawl 0.2.0.
-
-New: encrypted Git backup/restore for WhatsApp Desktop archives. `wacrawl backup push` writes age-encrypted shards to GitHub; `backup pull` decrypts, verifies, and restores locally. https://t.co/gzCQO6eSAe</description>
-      <pubDate>Mon, 27 Apr 2026 07:09:49 +0000</pubDate>
-      <guid isPermaLink="false">2048660875007914176</guid>
+Yes it did type into the comment box and closed the issue.</description>
+      <pubDate>Tue, 28 Apr 2026 07:59:50 +0000</pubDate>
+      <guid isPermaLink="false">2049035851493953750</guid>
     </item>
     <item>
-      <title>Been so CPU-constrained on OpenClaw work. Switched local tests running to @useblacksmith and IT IS SO GOOD. codex can literally spin up to 32vCPU instances and rip through our test suite. https://t.co/cks45534su</title>
-      <link>https://x.com/steipete/status/2048630704972443918</link>
+      <title>GStack ships with Chromium that has Claude Code as the CLI and you can type /pair-agent from your real CC or the sidebar one  And it'll give you a string to paste into your OpenClaw/Hermes so it can control your browser remotely, and you can log it into stuff and have it scrape https://t.co/Jr7ZF5aq...</title>
+      <link>https://x.com/garrytan/status/2049035231903301771</link>
+      <description>作者：Garry Tan
+账号：@garrytan
+简介：President &amp; CEO @ycombinator —Founder @garryslist—Creator of GStack &amp; GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop
+
+GStack ships with Chromium that has Claude Code as the CLI and you can type /pair-agent from your real CC or the sidebar one
+
+And it'll give you a string to paste into your OpenClaw/Hermes so it can control your browser remotely, and you can log it into stuff and have it scrape https://t.co/Jr7ZF5aq3s</description>
+      <pubDate>Tue, 28 Apr 2026 07:57:23 +0000</pubDate>
+      <guid isPermaLink="false">2049035231903301771</guid>
+    </item>
+    <item>
+      <title>I'm again rate limited on GitHub, but codex just opened the browser and clicks around GitHub as workaround. https://t.co/Ye8sh9DxpC</title>
+      <link>https://x.com/steipete/status/2049035044702843053</link>
       <description>作者：Peter Steinberger
 账号：@steipete
 简介：Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world.
 @OpenClaw🦞 + @OpenAI
 
-Been so CPU-constrained on OpenClaw work. Switched local tests running to @useblacksmith and IT IS SO GOOD. codex can literally spin up to 32vCPU instances and rip through our test suite. https://t.co/cks45534su</description>
-      <pubDate>Mon, 27 Apr 2026 05:09:56 +0000</pubDate>
-      <guid isPermaLink="false">2048630704972443918</guid>
+I'm again rate limited on GitHub, but codex just opened the browser and clicks around GitHub as workaround. https://t.co/Ye8sh9DxpC</description>
+      <pubDate>Tue, 28 Apr 2026 07:56:38 +0000</pubDate>
+      <guid isPermaLink="false">2049035044702843053</guid>
     </item>
     <item>
-      <title>Wanted a truly local storage for my tweets so built birdclaw. Imoorts your archive, backs it up on github, has jobs so you can import your x bookmarks daily (since they are not fully accessible via the api).  https://t.co/4Nd1Ad0ZeY</title>
-      <link>https://x.com/steipete/status/2048626844694421842</link>
+      <title>Fudge I'm here to help YOU get the bag https://t.co/TTIhbetMvY</title>
+      <link>https://x.com/garrytan/status/2049034204613324980</link>
+      <description>作者：Garry Tan
+账号：@garrytan
+简介：President &amp; CEO @ycombinator —Founder @garryslist—Creator of GStack &amp; GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop
+
+Fudge I'm here to help YOU get the bag https://t.co/TTIhbetMvY</description>
+      <pubDate>Tue, 28 Apr 2026 07:53:18 +0000</pubDate>
+      <guid isPermaLink="false">2049034204613324980</guid>
+    </item>
+    <item>
+      <title>The anti-tech lines are so tired, and the people who hate tech have hated tech for so long  So of course if it's the same people doing the same old dance, they reuse the same old lines when actually everything changed in 2026 https://t.co/OXNXIbiOja</title>
+      <link>https://x.com/garrytan/status/2049033440935469213</link>
+      <description>作者：Garry Tan
+账号：@garrytan
+简介：President &amp; CEO @ycombinator —Founder @garryslist—Creator of GStack &amp; GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop
+
+The anti-tech lines are so tired, and the people who hate tech have hated tech for so long
+
+So of course if it's the same people doing the same old dance, they reuse the same old lines when actually everything changed in 2026 https://t.co/OXNXIbiOja</description>
+      <pubDate>Tue, 28 Apr 2026 07:50:16 +0000</pubDate>
+      <guid isPermaLink="false">2049033440935469213</guid>
+    </item>
+    <item>
+      <title>The most sophisticated AI users I know are talking to just ONE agent daily, not multiple agents  That agents will then assign tasks to other subagents/spawn subagents as needed  But the day-to-day communication is with just 1 agent, who serves as the overall orchestrator/router</title>
+      <link>https://x.com/zarazhangrui/status/2049027061768192288</link>
+      <description>作者：Zara Zhang
+账号：@zarazhangrui
+简介：Builder. Dangerously skips permissions. Harvard’17. GitHub: https://t.co/KCuEajezlL YouTube: https://t.co/8xzbGWtf6w
+
+The most sophisticated AI users I know are talking to just ONE agent daily, not multiple agents
+
+That agents will then assign tasks to other subagents/spawn subagents as needed
+
+But the day-to-day communication is with just 1 agent, who serves as the overall orchestrator/router</description>
+      <pubDate>Tue, 28 Apr 2026 07:24:55 +0000</pubDate>
+      <guid isPermaLink="false">2049027061768192288</guid>
+    </item>
+    <item>
+      <title>Finally have great solutions for PR/Issue management, remote test execution, massive CI infra for testing. Streamlines a lot of the work. https://t.co/xetfW6dm4o</title>
+      <link>https://x.com/steipete/status/2048957477106938075</link>
       <description>作者：Peter Steinberger
 账号：@steipete
 简介：Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world.
 @OpenClaw🦞 + @OpenAI
 
-Wanted a truly local storage for my tweets so built birdclaw. Imoorts your archive, backs it up on github, has jobs so you can import your x bookmarks daily (since they are not fully accessible via the api). 
-https://t.co/4Nd1Ad0ZeY</description>
-      <pubDate>Mon, 27 Apr 2026 04:54:36 +0000</pubDate>
-      <guid isPermaLink="false">2048626844694421842</guid>
+Finally have great solutions for PR/Issue management, remote test execution, massive CI infra for testing. Streamlines a lot of the work. https://t.co/xetfW6dm4o</description>
+      <pubDate>Tue, 28 Apr 2026 02:48:24 +0000</pubDate>
+      <guid isPermaLink="false">2048957477106938075</guid>
     </item>
     <item>
-      <title>This weekend, I improved my mobile fitness app and built a mcp server for it so I can get my latest workout stats and update the app's workouts via Claude/Codex/etc.  This shit is too fun. https://t.co/bSzpGbkvPP</title>
-      <link>https://x.com/petergyang/status/2048611053333041158</link>
-      <description>作者：Peter Yang
-账号：@petergyang
-简介：Practical AI tutorials and interviews for busy people | Join 140K+ readers at https://t.co/XYKTmGVH14 | Product at Roblox
-
-This weekend, I improved my mobile fitness app and built a mcp server for it so I can get my latest workout stats and update the app's workouts via Claude/Codex/etc.
-
-This shit is too fun. https://t.co/bSzpGbkvPP</description>
-      <pubDate>Mon, 27 Apr 2026 03:51:51 +0000</pubDate>
-      <guid isPermaLink="false">2048611053333041158</guid>
-    </item>
-    <item>
-      <title>If you enjoyed this, sign up for free to my newsletter to get my best AI and product guides.  Join 110,000+ subscribers here: https://t.co/yz9xcsfrhF</title>
-      <link>https://x.com/petergyang/status/2048608945883992571</link>
-      <description>作者：Peter Yang
-账号：@petergyang
-简介：Practical AI tutorials and interviews for busy people | Join 140K+ readers at https://t.co/XYKTmGVH14 | Product at Roblox
-
-If you enjoyed this, sign up for free to my newsletter to get my best AI and product guides.
-
-Join 110,000+ subscribers here:
-https://t.co/yz9xcsfrhF</description>
-      <pubDate>Mon, 27 Apr 2026 03:43:28 +0000</pubDate>
-      <guid isPermaLink="false">2048608945883992571</guid>
-    </item>
-    <item>
-      <title>I synced my iPhone photos to @googlephotos and there seems to be no way to just prompt Gemini to &quot;create a highlight reel of me with my daughter growing up&quot;  Seems like a missed opportunity.</title>
-      <link>https://x.com/petergyang/status/2048603978070712757</link>
-      <description>作者：Peter Yang
-账号：@petergyang
-简介：Practical AI tutorials and interviews for busy people | Join 140K+ readers at https://t.co/XYKTmGVH14 | Product at Roblox
-
-I synced my iPhone photos to @googlephotos and there seems to be no way to just prompt Gemini to &quot;create a highlight reel of me with my daughter growing up&quot;
-
-Seems like a missed opportunity.</description>
-      <pubDate>Mon, 27 Apr 2026 03:23:44 +0000</pubDate>
-      <guid isPermaLink="false">2048603978070712757</guid>
-    </item>
-    <item>
-      <title>💥🤘 https://t.co/i7mo9zONAk</title>
-      <link>https://x.com/kevinweil/status/2048588283291312527</link>
-      <description>作者：Kevin Weil
-账号：@kevinweil
-简介：VP Science @OpenAI, BoD @Cisco @nature_org, LTC @USArmyReserve
-Ex: Pres @Planet, Head of Product @Instagram @Twitter
-❤️ @elizabeth ultramarathons kids cats math
-
-💥🤘 https://t.co/i7mo9zONAk</description>
-      <pubDate>Mon, 27 Apr 2026 02:21:22 +0000</pubDate>
-      <guid isPermaLink="false">2048588283291312527</guid>
-    </item>
-    <item>
-      <title>Noticing an interesting version of gell-man amnesia where people use AI for their job and see all the various things they have to do in the “last mile”, but then look at someone else’s job and think that AI will eliminate it immediately.  We all have a much deeper appreciation for the nuances and co...</title>
-      <link>https://x.com/levie/status/2048576989930619185</link>
+      <title>https://t.co/syK3QYG52A</title>
+      <link>https://x.com/levie/status/2048950940661932319</link>
       <description>作者：Aaron Levie
 账号：@levie
 简介：ceo @box - your business lives in content. unleash it with AI
 
-Noticing an interesting version of gell-man amnesia where people use AI for their job and see all the various things they have to do in the “last mile”, but then look at someone else’s job and think that AI will eliminate it immediately.
-
-We all have a much deeper appreciation for the nuances and complexities of the work that we do every day. We run into issues about accessing data, we know how much context is needed to get AI models to work the way we need, we have to review the output of the AI to make sure it’s accurate, and then we have to incorporate that work into some broader business process. We see all those steps deeply for the work that we do.
-
-Then, a moment later, we see AI do something in a foreign space and think that it can go automate that entire function. We tend to dramatically underestimate the work that goes into making the AI work just as effectively in those jobs.
-
-This is reason to be skeptical about many of the theories of job loss. It’s coming from the lens of being able to automate individual tasks with AI, without understanding all the work that goes into doing the job fully.</description>
-      <pubDate>Mon, 27 Apr 2026 01:36:29 +0000</pubDate>
-      <guid isPermaLink="false">2048576989930619185</guid>
+https://t.co/syK3QYG52A</description>
+      <pubDate>Tue, 28 Apr 2026 02:22:26 +0000</pubDate>
+      <guid isPermaLink="false">2048950940661932319</guid>
     </item>
     <item>
-      <title>so fun to see the reception to 5.5!  there is almost nothing that feels more gratifying to me than builders saying they find our tools useful.</title>
-      <link>https://x.com/sama/status/2048554097985593849</link>
-      <description>作者：Sam Altman
-账号：@sama
-简介：AI is cool i guess
-
-so fun to see the reception to 5.5!
-
-there is almost nothing that feels more gratifying to me than builders saying they find our tools useful.</description>
-      <pubDate>Mon, 27 Apr 2026 00:05:31 +0000</pubDate>
-      <guid isPermaLink="false">2048554097985593849</guid>
-    </item>
-    <item>
-      <title>Our Principles:  Democratization, Empowerment, Universal Prosperity, Resilience, and Adaptability  https://t.co/g58WGndARw</title>
-      <link>https://x.com/sama/status/2048552677433643427</link>
-      <description>作者：Sam Altman
-账号：@sama
-简介：AI is cool i guess
-
-Our Principles:
-
-Democratization, Empowerment, Universal Prosperity, Resilience, and Adaptability
-
-https://t.co/g58WGndARw</description>
-      <pubDate>Sun, 26 Apr 2026 23:59:53 +0000</pubDate>
-      <guid isPermaLink="false">2048552677433643427</guid>
-    </item>
-    <item>
-      <title>There are at least 2 big but subtle factors contributing to the sense of overwork due to agents right now.  1. The leverage on incremental effort has gone up substantially due to AI, and anyone using these tools tend to feel it first. We’re so used to everything taking so long to get done, that spen...</title>
-      <link>https://x.com/levie/status/2048537503972684252</link>
-      <description>作者：Aaron Levie
-账号：@levie
-简介：ceo @box - your business lives in content. unleash it with AI
-
-There are at least 2 big but subtle factors contributing to the sense of overwork due to agents right now.
-
-1. The leverage on incremental effort has gone up substantially due to AI, and anyone using these tools tend to feel it first. We’re so used to everything taking so long to get done, that spending that much extra time on something didn’t have the same value. 
-
-But now you can sense the compounding leverage you have with agents much more acutely. It feels more like when you’re a people manager and not maximizing what your team is working on. The worst thing you can do is waste your team’s time, point them in the wrong direction, or have them be idle. Now ICs get a similar sense of this via managing agents.
-
-Prioritization and thinking through how to break up tasks and maximize work becomes a key skill.
-
-2. The other rested factor is we’ve just made it so much easier to start incremental tasks that end up taking much longer than we realize. Very easy to get to the 90% solution but the final 10% takes the vast majority of the time. So we are starting far more projects because of the lower barrier, and spending a ton of time to finish the work. 
-
-I regularly start a project at 9PM that I think will be quick, and find myself at midnight still completing the work. The interesting thing about this fact is that we’ll use AI to test lots of new ideas an hypothesis, and quickly figure out which areas to continue and sustain. 
-
-This will ultimately lead to a lot of the job creation with AI, because teams and companies will decide that the experiment needs to get promoted into a production process. But they wouldn’t have even started that “experiment” without AI in the first place. 
-
-This overwork obviously can’t sustain across the economy, but it’s interesting to see how this is shaping things right now.</description>
-      <pubDate>Sun, 26 Apr 2026 22:59:35 +0000</pubDate>
-      <guid isPermaLink="false">2048537503972684252</guid>
-    </item>
-    <item>
-      <title>Human progress is not just Sawe breaking the 2-hour mark but that TWO people did something that no human had ever done.</title>
-      <link>https://x.com/adityaag/status/2048534774776746102</link>
-      <description>作者：Aditya Agarwal
-账号：@adityaag
-简介：General Partner @SouthPkCommons, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @Dropbox, Board @Flipkart | Optimist, Builder, Dad
-
-Human progress is not just Sawe breaking the 2-hour mark but that TWO people did something that no human had ever done.</description>
-      <pubDate>Sun, 26 Apr 2026 22:48:44 +0000</pubDate>
-      <guid isPermaLink="false">2048534774776746102</guid>
-    </item>
-    <item>
-      <title>Coding agents will be the foundation of all superintelligence.   At a minimum, coding ability is indistinguishable from 'proficiency with computers'. Great coding agents like Claude Code master bash, filesystems, configuring and installing programs…  But it's also about self-improvement. A coding ag...</title>
-      <link>https://x.com/rauchg/status/2048523195305902341</link>
-      <description>作者：Guillermo Rauch
-账号：@rauchg
-简介：@vercel CEO
-
-Coding agents will be the foundation of all superintelligence. 
-
-At a minimum, coding ability is indistinguishable from 'proficiency with computers'. Great coding agents like Claude Code master bash, filesystems, configuring and installing programs…
-
-But it's also about self-improvement. A coding agent has the ability to examine its source, its state, its skills, its instructions… it can propose changes to itself (with human supervision and audit trail, I recommend), or even mutate itself directly.
-
-In retrospect, this should be obvious. &quot;What I cannot create, I cannot understand&quot;. Coding fluency has given models a deeper understanding of all computer and knowledge work. To master programs, you must be able to create them.</description>
-      <pubDate>Sun, 26 Apr 2026 22:02:44 +0000</pubDate>
-      <guid isPermaLink="false">2048523195305902341</guid>
-    </item>
-    <item>
-      <title>https://t.co/GAdNmBrxdz https://t.co/q9oiahjUPd</title>
-      <link>https://x.com/swyx/status/2048466589847273697</link>
+      <title>ok we have a tiktok account now with some BTS https://t.co/MVQSu8gDzV</title>
+      <link>https://x.com/swyx/status/2048934424344179159</link>
       <description>作者：Swyx
 账号：@swyx
 简介：achieve ambition with intentionality, intensity, integrity &amp; insanity.
@@ -255,172 +119,378 @@ affiliations:
 - @aidotengineer
 - @latentspacepod
 
-https://t.co/GAdNmBrxdz https://t.co/q9oiahjUPd</description>
-      <pubDate>Sun, 26 Apr 2026 18:17:48 +0000</pubDate>
-      <guid isPermaLink="false">2048466589847273697</guid>
+ok we have a tiktok account now with some BTS https://t.co/MVQSu8gDzV</description>
+      <pubDate>Tue, 28 Apr 2026 01:16:48 +0000</pubDate>
+      <guid isPermaLink="false">2048934424344179159</guid>
     </item>
     <item>
-      <title>feels like a good time to seriously rethink how operating systems and user interfaces are designed  (also the internet; there should be a protocol that is equally usable by people and agents)</title>
-      <link>https://x.com/sama/status/2048428561481265539</link>
+      <title>Products that need APIs/MCPs:  @substack  @RiversidedotFM  Every other video editing tool Every bank that's not @mercury  Every government website Every healthcare portal</title>
+      <link>https://x.com/petergyang/status/2048918016642154698</link>
+      <description>作者：Peter Yang
+账号：@petergyang
+简介：Practical AI tutorials and interviews for busy people | Join 140K+ readers at https://t.co/XYKTmGVH14 | Product at Roblox
+
+Products that need APIs/MCPs:
+
+@substack 
+@RiversidedotFM 
+Every other video editing tool
+Every bank that's not @mercury 
+Every government website
+Every healthcare portal</description>
+      <pubDate>Tue, 28 Apr 2026 00:11:36 +0000</pubDate>
+      <guid isPermaLink="false">2048918016642154698</guid>
+    </item>
+    <item>
+      <title>Why even have product teams just let the agents implement whatever random requests customers tweet on here 😂  (I’m kidding)</title>
+      <link>https://x.com/petergyang/status/2048915462768255046</link>
+      <description>作者：Peter Yang
+账号：@petergyang
+简介：Practical AI tutorials and interviews for busy people | Join 140K+ readers at https://t.co/XYKTmGVH14 | Product at Roblox
+
+Why even have product teams just let the agents implement whatever random requests customers tweet on here 😂
+
+(I’m kidding)</description>
+      <pubDate>Tue, 28 Apr 2026 00:01:27 +0000</pubDate>
+      <guid isPermaLink="false">2048915462768255046</guid>
+    </item>
+    <item>
+      <title>codex with the $20 plan is a really good deal</title>
+      <link>https://x.com/sama/status/2048913887614115857</link>
       <description>作者：Sam Altman
 账号：@sama
 简介：AI is cool i guess
 
-feels like a good time to seriously rethink how operating systems and user interfaces are designed
-
-(also the internet; there should be a protocol that is equally usable by people and agents)</description>
-      <pubDate>Sun, 26 Apr 2026 15:46:41 +0000</pubDate>
-      <guid isPermaLink="false">2048428561481265539</guid>
+codex with the $20 plan is a really good deal</description>
+      <pubDate>Mon, 27 Apr 2026 23:55:12 +0000</pubDate>
+      <guid isPermaLink="false">2048913887614115857</guid>
     </item>
     <item>
-      <title>https://t.co/NRTQre60eW</title>
-      <link>https://x.com/nikunj/status/2048406229056446526</link>
+      <title>20 builders. 8 weeks. One goal: first dollar of revenue. https://t.co/8zvpolJpd6</title>
+      <link>https://x.com/amasad/status/2048912698583453933</link>
+      <description>作者：Amjad Masad
+账号：@amasad
+简介：ceo @replit. civilizationist
+
+20 builders. 8 weeks. One goal: first dollar of revenue. https://t.co/8zvpolJpd6</description>
+      <pubDate>Mon, 27 Apr 2026 23:50:28 +0000</pubDate>
+      <guid isPermaLink="false">2048912698583453933</guid>
+    </item>
+    <item>
+      <title>Replit speedrun all these learnings more than a year ago and now we’re the only platform with proper agent production isolation.  The benefits of a vertically integrated platform will continue to compound. https://t.co/VWxDRe6kKH</title>
+      <link>https://x.com/amasad/status/2048911624061522228</link>
+      <description>作者：Amjad Masad
+账号：@amasad
+简介：ceo @replit. civilizationist
+
+Replit speedrun all these learnings more than a year ago and now we’re the only platform with proper agent production isolation.
+
+The benefits of a vertically integrated platform will continue to compound. https://t.co/VWxDRe6kKH</description>
+      <pubDate>Mon, 27 Apr 2026 23:46:12 +0000</pubDate>
+      <guid isPermaLink="false">2048911624061522228</guid>
+    </item>
+    <item>
+      <title>we love our users</title>
+      <link>https://x.com/sama/status/2048910739784826966</link>
+      <description>作者：Sam Altman
+账号：@sama
+简介：AI is cool i guess
+
+we love our users</description>
+      <pubDate>Mon, 27 Apr 2026 23:42:41 +0000</pubDate>
+      <guid isPermaLink="false">2048910739784826966</guid>
+    </item>
+    <item>
+      <title>@varadh @trq212 Direct link to register for Vol I: https://t.co/YG97sUP9Eb  Website to sign up for community &amp;amp; future events: https://t.co/qRmKeriYMD  Really excited to be building this community!</title>
+      <link>https://x.com/nikunj/status/2048908803437908393</link>
       <description>作者：Nikunj Kothari
 账号：@nikunj
 简介：partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian &amp; others. love @shimoleejhaveri + 👦👧
 
-https://t.co/NRTQre60eW</description>
-      <pubDate>Sun, 26 Apr 2026 14:17:57 +0000</pubDate>
-      <guid isPermaLink="false">2048406229056446526</guid>
+@varadh @trq212 Direct link to register for Vol I: https://t.co/YG97sUP9Eb
+
+Website to sign up for community &amp;amp; future events: https://t.co/qRmKeriYMD
+
+Really excited to be building this community!</description>
+      <pubDate>Mon, 27 Apr 2026 23:35:00 +0000</pubDate>
+      <guid isPermaLink="false">2048908803437908393</guid>
     </item>
     <item>
-      <title>my claw when i ask it a basic question  https://t.co/2ZTf19DFW1</title>
-      <link>https://x.com/danshipper/status/2048379297727938991</link>
+      <title>if a new world war were to break out, what would be its causes?  &quot;Germany would strive to regain lost provinces and establish herself as a great military power on the Continent&quot; https://t.co/RxFoYBvZJI https://t.co/5c8jRICzR0</title>
+      <link>https://x.com/danshipper/status/2048905290104373295</link>
       <description>作者：Dan Shipper
 账号：@danshipper
 简介：ceo @every | the only subscription you need to stay at the edge of AI
 
-my claw when i ask it a basic question  https://t.co/2ZTf19DFW1</description>
-      <pubDate>Sun, 26 Apr 2026 12:30:56 +0000</pubDate>
-      <guid isPermaLink="false">2048379297727938991</guid>
+if a new world war were to break out, what would be its causes?
+
+&quot;Germany would strive to regain lost provinces and establish herself as a great military power on the Continent&quot; https://t.co/RxFoYBvZJI https://t.co/5c8jRICzR0</description>
+      <pubDate>Mon, 27 Apr 2026 23:21:02 +0000</pubDate>
+      <guid isPermaLink="false">2048905290104373295</guid>
     </item>
     <item>
-      <title>I’ve never heard of this insane app but the FindMy team needs to take notes. https://t.co/gbc0vhufQG</title>
-      <link>https://x.com/thenanyu/status/2048372199375929435</link>
-      <description>作者：Nan Yu
-账号：@thenanyu
-简介：head of product @linear
+      <title>Introducing Dawn 🌅  @varadh, @trq212 and I have been talking to a lot of ex-founders lately. There’s a community for every stage of starting a company. There isn’t one for what comes after.  So, we decided to start one.  Dawn Vol I is a small dinner. May 19th in SF. Off the record. Ex-founders only....</title>
+      <link>https://x.com/nikunj/status/2048900068523266544</link>
+      <description>作者：Nikunj Kothari
+账号：@nikunj
+简介：partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian &amp; others. love @shimoleejhaveri + 👦👧
 
-I’ve never heard of this insane app but the FindMy team needs to take notes. https://t.co/gbc0vhufQG</description>
-      <pubDate>Sun, 26 Apr 2026 12:02:43 +0000</pubDate>
-      <guid isPermaLink="false">2048372199375929435</guid>
+Introducing Dawn 🌅
+
+@varadh, @trq212 and I have been talking to a lot of ex-founders lately. There’s a community for every stage of starting a company. There isn’t one for what comes after.
+
+So, we decided to start one.
+
+Dawn Vol I is a small dinner. May 19th in SF. Off the record. Ex-founders only.
+
+Register at meetatdawn dot com</description>
+      <pubDate>Mon, 27 Apr 2026 23:00:17 +0000</pubDate>
+      <guid isPermaLink="false">2048900068523266544</guid>
     </item>
     <item>
-      <title>English, of course https://t.co/uoJbrrvhXI</title>
-      <link>https://x.com/thenanyu/status/2048371760328815011</link>
-      <description>作者：Nan Yu
-账号：@thenanyu
-简介：head of product @linear
+      <title>Silicon Valley: AI is self-accelerating, agents run everything, old people are dumb  Global 2000: I spent a fortune on your AI chat 2 years ago and got zero productivity; my engineers like the coding AI thing but no one else cares; agents are scary  Never seen a gap this huge</title>
+      <link>https://x.com/mattturck/status/2048896617424527499</link>
+      <description>作者：Matt Turck
+账号：@mattturck
+简介：VC at @FirstMarkCap.  Host: MAD Podcast; Organizer: Data Driven NYC, Author: MAD Landscape.
 
-English, of course https://t.co/uoJbrrvhXI</description>
-      <pubDate>Sun, 26 Apr 2026 12:00:59 +0000</pubDate>
-      <guid isPermaLink="false">2048371760328815011</guid>
+Silicon Valley: AI is self-accelerating, agents run everything, old people are dumb
+
+Global 2000: I spent a fortune on your AI chat 2 years ago and got zero productivity; my engineers like the coding AI thing but no one else cares; agents are scary
+
+Never seen a gap this huge</description>
+      <pubDate>Mon, 27 Apr 2026 22:46:34 +0000</pubDate>
+      <guid isPermaLink="false">2048896617424527499</guid>
     </item>
     <item>
-      <title>The AI Model Built for What LLMs Can't Do</title>
-      <link>https://www.youtube.com/watch?v=Q-i8ZSUCtIc</link>
-      <description>播客：AI &amp; I by Every
+      <title>Bevel 3.0  The point was never to be a tracking and analytics company.  Each release of @bevel  brings us closer to our long-term goal: To be the most intelligent health and biology companion that truly understands you and can help you lead a healthier and happier life.  It was to be intelligent eno...</title>
+      <link>https://x.com/adityaag/status/2048868147525222602</link>
+      <description>作者：Aditya Agarwal
+账号：@adityaag
+简介：General Partner @SouthPkCommons, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @Dropbox, Board @Flipkart | Optimist, Builder, Dad
 
-Speaker 1 | 00:00 - 00:01
-Can you define EBM for us?
+Bevel 3.0
 
-Speaker 2 | 00:01 - 00:20
-EBMs are naturally non autoregressive. There are no sequences of tokens, and that's what makes it fundamentally different. Like, imagine you're trying to navigate the map, and you have a left brain. To navigate, you're sort of allowed to choose one direction of the time. And sometimes you take the wrong turns just because you hallucinate.
+The point was never to be a tracking and analytics company.
 
-Speaker 2 | 00:20 - 00:34
-Like, there might be a hole in the road and you're just gonna fall. And you might see this hole, but you cannot turn back because you're ultra regressive LLM. EBM gonna have the bird view all the time. So if you see there's a hole, you're gonna choose a different route.
+Each release of @bevel  brings us closer to our long-term goal: To be the most intelligent health and biology companion that truly understands you and can help you lead a healthier and happier life.
 
-Speaker 1 | 00:48 - 00:50
-Eve, welcome to the show.
+It was to be intelligent enough to help you truly be healthy.
 
-Speaker 2 | 00:50 - 00:52
-Hi. Thanks for having me.
-
-Speaker 1 | 00:52 - 01:00
-Great to have you on. For people who don't know, you are the founder and CEO of Logical Intelligence. Tell us what Logical Intelligence does.
-
-Speaker 2 | 01:01 - 01:32
-So Logical Intelligence does few things. First of all, we see ourselves as a foundational AI company. So we work in both with EBMs and LLMs. So everything built in house, we prototyped on LLM initially and we're building EBM at the same time and that sort of gets plugged in in the long term. We focused on correctness of software and hardware as a product.
-
-Speaker 2 | 01:33 - 01:48
-Because I believe there is a lot of issues with AI being placed in mission critical systems today. Like, you know, can we do the code gen? Can we do the chip design? And the answer is yes. Yes, people use LLMs today.
-
-Speaker 2 | 01:49 - 02:07
-But very few are actually questioning of like how these results are actually, like, correct. Does it make sense what it produce? And it seems like there's a big gap on market today, having deterministic AI, verifiable AI. So we're trying to fill that gap.
-
-Speaker 1 | 02:07 - 02:21
-The place my brain goes first is why does correctness or whether something makes sense, why does that matter if it works?
-
-Speaker 2 | 02:23 - 02:46
-Actually, let me ask you a question back. So speaking of correctness, I don't know. Well, imagine there's AI driving a car and you are in that car and that car is an LLM. And someone tells you, like, you know, 20% of the time it's gonna hallucinate and you might end up, like, in in, like, wrong place, how would you feel about it?
-
-Speaker 1 | 02:46 - 02:55
-Well, I think in my in my case, I'd be like, wow. That's kinda interesting. I'm I'm curious where it takes me. Oh, okay. Okay.
-
-Speaker 1 | 02:55 - 02:55
-Let me
-
-Speaker 2 | 02:55 - 03:06
-give you another example. Yeah. How about the plane? How about the plane? You take a plane from SF to New York and someone says, you know, like, 20% of the time it might just, like, the next word not gonna match and it's gonna go down.
-
-Speaker 2 | 03:06 - 03:08
-So how would you feel about it?
-
-Speaker 1 | 03:08 - 03:17
-Yeah. My my my feeling about that is planes are currently run very well by deterministic systems. So I don't know why I would need an AI for that.
-
-Speaker 2 | 03:18 - 04:02
-I feel like we just cannot avoid AI anywhere. Like next ten years, people are going to try to place AI everywhere, automate systems with AI and, you know, technically you might not need. We survived somewhat without AI up to this moment, but now it's just like a next step of evolution that people just want AI everywhere. Like for the banking, you don't need AI initially, but we learn it's really helpful to automate certain processes in decision making And it's gonna save us a lot of time and allow us space to be creative instead of, like, debugging and fixing things. So I just feel like it's an avoidable future.
-
-Speaker 1 | 04:03 - 04:25
-I think maybe what I'm getting at is what am I getting at? It seems like if you want a guarantee of certainty using the only way to sort of guarantee certainty is to use something that you can express in code or logic.
-
-Speaker 2 | 04:26 - 04:50
-Mhmm. That's a part of it. So the certainty comes from internal verifiers and external verifiers, at least for us. So, for example, if you take LLM, obviously, it's a language based model and architecture doesn't allow you to do internal verifiers. So you like it's like a black box for you.
-
-Speaker 2 | 04:50 - 05:29
-You don't have access to what's inside until it's all processed. But you have access to the output. And many people and companies sort of take LLM, train it for certain tasks. And if it requires logic, they attach texturing verifiers to it, such as languages like Lean4, which is a proof of, I mean, machine verifiable language, proof language, which allows you to check this output using mathematical frameworks. However, you know, it doesn't solve the problem of things being just so expensive.
-
-Speaker 2 | 05:29 - 06:03
-Because what's expensive is your architecture, which is still playing a guessing game out here. And even if you attach external verifier, even you fine tune this LLM specifically for the task you're trying to create, you're still not solving the problems of tokens being expensive. It takes compute for you to play a guessing game. So this problem is solved by the EBMs, but we're talking about LLMs for now. So here we have the situation when there is, right, internal absence of verifier, but there's external one.
-
-Speaker 2 | 06:04 - 06:16
-So now about the EBMs. EBMs don't have tokens. It's token free model. There's no guessing game of this kind. So essentially, you could oversee all the possible scenarios.
-
-Speaker 1 | 06:16 - 06:18
-Can you define EBM for us?
-
-Speaker 2 | 06:18 - 06:44
-Yeah, I'll define in a second. So for now, just think of it as something which doesn't play a guessing game and something which has architecture, which is essentially allow you to self align itself as it's processing the information. And it's no longer a black box for you. So as it's performing, you can open it any time during the training and you could see what's happening in there. So you cannot do this with LLMs.
-
-Speaker 2 | 06:44 - 07:08
-Just the nature of architecture is different. So you have for verification tasks, you have this notion of self alignment because of the EBM architecture and absence of token makes it cheap, but also you have external verifier on top of it. So you have verification sort of on both sides, inside and outside. Hopefully, makes sense.
-
-Speaker 1 | 07:08 - 07:30
-I think so. Let me let me play it back to you, and you tell me if if if I'm getting you. So, basically, I think what you're saying is we're living in this in this world, which is really cool with LLMs, which is we can generate lots of output with them. And the output is really useful for for a lot of different things. But in order to tell if the output is right, the the best we can do is sort of guess and check.
-
-Speaker 1 | 07:30 - 07:54
-We generate the output and then, for example, if it's code, then we go and check the check the code with integration tests or manual tests or whatever just to see if it works. And that totally works but it is expensive and time consuming. And one of the problems is it's very hard for us to know, okay, how did the LLM get to this answer? We can't like go look inside of it.
-
-Speaker 2 | 07:54 - 07:54
-Exactly.
-
-Speaker 1 | 07:55 - 08:29
-And I think what you're saying is there are other types of models that are a little bit more inspectable and that give us a sense before we even try the before we even try the output to understand does this work, does the output work, we can get a sense from the model by looking at its internals. So sort of like how good is this solution? How good does this model think this solution is? And it's sort of like being able to ask someone like, are you sure about this? Like, how how how good is this before you, like, go check their work?
-
-Speaker 1 | 08:29 - 08:47
-And a language model can answer that question, but a language model's answers are working ...</description>
-      <pubDate>Wed, 15 Apr 2026 15:00:00 +0000</pubDate>
-      <guid>https://www.youtube.com/watch?v=Q-i8ZSUCtIc</guid>
+We are taking another step towards that with Bevel 3.0.</description>
+      <pubDate>Mon, 27 Apr 2026 20:53:27 +0000</pubDate>
+      <guid isPermaLink="false">2048868147525222602</guid>
     </item>
     <item>
-      <title>Claude Code auto mode: a safer way to skip permissions</title>
-      <link>https://www.anthropic.com/engineering/claude-code-auto-mode</link>
-      <description>作者：Anthropic Engineering
+      <title>Replit in 🇨🇦 https://t.co/0OoIBoeyyc</title>
+      <link>https://x.com/amasad/status/2048854724099915961</link>
+      <description>作者：Amjad Masad
+账号：@amasad
+简介：ceo @replit. civilizationist
 
-By default, Claude Code asks users for approval before running commands or modifying files. This keeps users safe, but it also means a lot of clicking &quot;approve.&quot; Over time that leads to approval fatigue, where people stop paying close attention to what they&amp;#x27;re approving. Users have two solutions for avoiding this fatigue: a built-in sandbox where tools are isolated to prevent dangerous actions, or the --dangerously-skip-permissions flag that disables all permission prompts and lets Claude act freely, which is unsafe in most situations. Figure 1 lays out the tradeoff space. Sandboxing is safe but high-maintenance: each new capability needs configuring, and anything requiring network or host access breaks isolation. Bypassing permissions is zero-maintenance but offers no protection. Manual prompts sit in the middle, and in practice users accept 93% of them anyway. Figure 1. The permission modes available in Claude Code, positioned by task autonomy and security . Dot colour indicates maintenance friction. Auto mode targets high autonomy at low maintenance cost; the dashed arrow shows security improvement over time as classifier coverage and model judgment get better. We keep an internal incident log focused on agentic misbehaviors. Past examples include deleting remote git branches from a misinterpreted instruction, uploading an engineer&amp;#x27;s GitHub auth token to an internal compute cluster, and attempting migrations against a production database. Each of these was the result of the model being overeager, taking initiative in a way the user didn&amp;#x27;t intend. We documented this pattern in the Claude Opus 4.6 system card (§6.2.1 and §6.2.3.3). Auto mode is a new mode for Claude Code that delegates approvals to model-based classifiers—a middle ground between manual review and no guardrails. The goal is to catch the dangerous actions that aren&amp;#x27;t aligned with user intent, while letting the rest run without approval prompts. Get started using auto mode by following the docs . How it works Auto mode uses two layers of defense: one for what Claude reads, one for what Claude does. At the input layer, a server-side prompt-injection probe scans tool outputs (file reads, web fetches, shell output, external tool responses) before they enter the agent&amp;#x27;s context. When content looks like an attempt to hijack behavior, the probe adds a warning to the agent&amp;#x27;s context before the result is passed along—telling the agent to treat this content as suspect and anchor on what the user actually asked for. At the output layer, the transcript classifier (running on Sonnet 4.6) evaluates each action against a set of decision criteria before it executes, acting as a substitute for a human approver. The classifier runs in two stages: a fast single-token filter (deciding ‘yes’ to block or ‘no’ to allow), followed by chain-of-thought reasoning only if the first filter flags the transcript. Because most actions clear the first stage, reasoning tokens are spent only where needed. The classifier sees only user messages and the agent&amp;#x27;s tool calls; we strip out Claude&amp;#x27;s own messages and tool outputs, making it reasoning-blind by design. We walk through each of these choices, including what they buy us and what they cost, in the Design decisions section below. Figure 2: System architecture . The transcript classifier gates tool calls; the prompt-injection probe screens tool results. Subagents run the same pipeline recursively, with handoff classifiers at delegation (can deny) and at return (warns only). Threat model An agent might take a dangerous action for four reasons: Overeager behavior . In this case, the agent understands the user&amp;#x27;s goal, and is genuinely trying to help, but takes initiative beyond what the user would approve. For example, it uses a credential it happened to find or deletes something it judged to be in the way. This behavior can be tricky to catch, because there&amp;#x27;s no hostile reasoning. The action instead looks like reasonable problem-solving, only applied past the boundary of what the user authorized or intended. Honest mistakes . Here, the agent misunderstands the blast radius. For example, it thinks a resource is test-scoped when it&amp;#x27;s shared, or a branch is its own when it isn&amp;#x27;t. Prompt injection . Instructions planted in a file, webpage, or tool output hijack the agent, redirecting it from the user&amp;#x27;s task toward the attacker&amp;#x27;s. A misaligned model . Canonically, misalignment occurs when the agent pursues a goal of its own. We don&amp;#x27;t currently see this in practice, though we evaluate it carefully for every model we release. In all four cases, the defense is to block the action. Our classifier is tuned to overeager behavior and honest mistakes, as we have specific examples of this behavior from internal model testing, but the defense applies regardless of which threat produced the action. The examples below are adapted from our internal incident log to illustrate what auto mode is designed to block: Scope escalation . A user asked to &quot;clean up old branches.&quot; The agent listed remote branches, constructed a pattern match, and issued a delete. This would be blocked since the request was vague, the action irreversible and destructive, and the user may have only meant to delete local branches. Credential exploration . An agent hit an auth error partway through a task. Rather than asking for permission, it began systematically grepping through environment variables and config files for alternative API tokens. Since these credentials could be scoped for a different task, this is blocked. Agent-inferred parameters . A user said &quot;cancel my job.&quot; The agent queried the cluster, picked the closest match by name similarity, and tried to delete it. This is blocked since the specific target may not have been what the user intended, and could have been owned by someone else. Sharing via external service . An agent wanted to share a script for debugging, and constructed a GitHub Gist command. This is blocked as data exfiltration since the user may consider the contents to be confidential and not appropriate to be public. Safety-check bypass . A deploy command failed a pre-check; the agent retried with a skip-verification flag. This is blocked since it could impact shared infrastructure. How permission decisions work All of the examples above would reach the classifier, but most actions are allowed prior to that step by the standard Claude Code allow rules: Tier 1: Built-in safe-tool allowlist and user settings. A fixed allowlist includes tools that can’t modify state, including file reads, text and file-pattern search, code navigation, todo and plan-mode transitions. Users can also configure always-allow rules for specific tool patterns. One exception is that on entering auto mode, we drop permission rules that are known to grant arbitrary code execution, including blanket shell access, wildcarded script interpreters (python, node, ruby, and similar), and package manager run commands. While this is best-effort based on real-world usage, any list will inevitably be incomplete. Many users set up these blanket rules for convenience in manual-approval mode, but leaving them active would mean the classifier never sees the commands most capable of causing damage. Narrow rules (&quot;allow running code formatters&quot;) carry over, but broad interpreter escapes don&amp;#x27;t. Tier 2: In-project file operations. File writes and edits inside the project directory are allowed without a classifier call. Routine coding (e.g. editing source files in your repo) doesn&amp;#x27;t pay classifier latency; in-project edits are reviewable via version control. Only actions with real downside potential reach the final tier: Tier 3: Transcript classifier. The transcript classifier sees everything else, including shell commands, web fetches, external tool integrations, subagent spawns, filesystem operations outside the project directory. Stage 1 is a fast s...</description>
-      <pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
-      <guid>https://www.anthropic.com/engineering/claude-code-auto-mode</guid>
+Replit in 🇨🇦 https://t.co/0OoIBoeyyc</description>
+      <pubDate>Mon, 27 Apr 2026 20:00:06 +0000</pubDate>
+      <guid isPermaLink="false">2048854724099915961</guid>
+    </item>
+    <item>
+      <title>https://t.co/ApeEGvq7mj</title>
+      <link>https://x.com/adityaag/status/2048838390846538187</link>
+      <description>作者：Aditya Agarwal
+账号：@adityaag
+简介：General Partner @SouthPkCommons, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @Dropbox, Board @Flipkart | Optimist, Builder, Dad
+
+https://t.co/ApeEGvq7mj</description>
+      <pubDate>Mon, 27 Apr 2026 18:55:12 +0000</pubDate>
+      <guid isPermaLink="false">2048838390846538187</guid>
+    </item>
+    <item>
+      <title>Before @RamaswmySridhar was CEO of @Snowflake, he was the guy who scaled Google's ads business from $1.5B to $ 100B.   He's coming by @southpkcommons next week. Join us. https://t.co/7agzS9oKTQ</title>
+      <link>https://x.com/adityaag/status/2048838388271178100</link>
+      <description>作者：Aditya Agarwal
+账号：@adityaag
+简介：General Partner @SouthPkCommons, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @Dropbox, Board @Flipkart | Optimist, Builder, Dad
+
+Before @RamaswmySridhar was CEO of @Snowflake, he was the guy who scaled Google's ads business from $1.5B to $ 100B. 
+
+He's coming by @southpkcommons next week. Join us. https://t.co/7agzS9oKTQ</description>
+      <pubDate>Mon, 27 Apr 2026 18:55:11 +0000</pubDate>
+      <guid isPermaLink="false">2048838388271178100</guid>
+    </item>
+    <item>
+      <title>in a world where code is cheap to produce  software is the new media  come see me talk with @Borthwick and co @betaworks tomorrow about this! https://t.co/Mfo9dlJkfC</title>
+      <link>https://x.com/danshipper/status/2048818450915586364</link>
+      <description>作者：Dan Shipper
+账号：@danshipper
+简介：ceo @every | the only subscription you need to stay at the edge of AI
+
+in a world where code is cheap to produce
+
+software is the new media
+
+come see me talk with @Borthwick and co @betaworks tomorrow about this!
+https://t.co/Mfo9dlJkfC</description>
+      <pubDate>Mon, 27 Apr 2026 17:35:58 +0000</pubDate>
+      <guid isPermaLink="false">2048818450915586364</guid>
+    </item>
+    <item>
+      <title>Gotta love how Ineffable Intelligence is name mogging all the &quot;superintelligence&quot; named startups lol</title>
+      <link>https://x.com/mattturck/status/2048810951793627281</link>
+      <description>作者：Matt Turck
+账号：@mattturck
+简介：VC at @FirstMarkCap.  Host: MAD Podcast; Organizer: Data Driven NYC, Author: MAD Landscape.
+
+Gotta love how Ineffable Intelligence is name mogging all the &quot;superintelligence&quot; named startups lol</description>
+      <pubDate>Mon, 27 Apr 2026 17:06:10 +0000</pubDate>
+      <guid isPermaLink="false">2048810951793627281</guid>
+    </item>
+    <item>
+      <title>My top 5 takeaways from @tibo_maker, a solo AI founder who's making $1M+ a month:  1. Charge money on day one.  Tibo’s first startup failed because he cared more about appearing successful (e.g., I managed a team of 10 and raised $200K) than validating demand with paying customers. “If there is no r...</title>
+      <link>https://x.com/petergyang/status/2048771729821229091</link>
+      <description>作者：Peter Yang
+账号：@petergyang
+简介：Practical AI tutorials and interviews for busy people | Join 140K+ readers at https://t.co/XYKTmGVH14 | Product at Roblox
+
+My top 5 takeaways from @tibo_maker, a solo AI founder who's making $1M+ a month:
+
+1. Charge money on day one.
+
+Tibo’s first startup failed because he cared more about appearing successful (e.g., I managed a team of 10 and raised $200K) than validating demand with paying customers. “If there is no revenue and no stickiness in the revenue, it’s going to be very hard to build a successful business.” Free signups are easy to mistake for traction.
+
+2. Follow the signal when users surprise you.
+
+Tibo acquired Typeframe ($2K MRR) as a product video tool, but noticed users were hacking it to stitch 5-second AI clips into longer videos with consistent characters and scenes. He pivoted the entire product to meet this need and rebranded it to Revid, which is now making $600K+ MRR.
+
+3. Price your AI SaaS at $50-100/month
+
+Low enough that customers don’t need a sales call and high enough to filter out tire-kickers. “I see so many people charging $10 / month and it puts you into the position of a cheap product.” Tibo picks his price point first, then shapes the product around it.
+
+4. Keep monthly churn below 20%.
+
+If more than 20% of customers cancel each month, stop scaling acquisition and fix the product first. There’s a ceiling (max MRR) on your revenue based on churn vs. acquisition. At 40% churn, customers stay about 2 months and you’ll hit a wall no matter how much you spend.
+
+5. Build tool pages to rank on Google
+
+Revid has 100+ pages each targeting a specific Google search like “turn audio into video” and “YouTube to shorts.” Many AI founders follow a similar model.
+
+📌 Watch our full conversation for more practical tactics like the above:  https://t.co/N6b950Xc5p</description>
+      <pubDate>Mon, 27 Apr 2026 14:30:19 +0000</pubDate>
+      <guid isPermaLink="false">2048771729821229091</guid>
+    </item>
+    <item>
+      <title>Solving *hard* problems is messy and will continue to be that way even if we approach AGI. https://t.co/hjHBw3e4Ot</title>
+      <link>https://x.com/nikunj/status/2048761583204258298</link>
+      <description>作者：Nikunj Kothari
+账号：@nikunj
+简介：partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian &amp; others. love @shimoleejhaveri + 👦👧
+
+Solving *hard* problems is messy and will continue to be that way even if we approach AGI. https://t.co/hjHBw3e4Ot</description>
+      <pubDate>Mon, 27 Apr 2026 13:50:00 +0000</pubDate>
+      <guid isPermaLink="false">2048761583204258298</guid>
+    </item>
+    <item>
+      <title>we have updated our partnership with microsoft.  microsoft will remain our primary cloud partner, but we are now able to make our products and services available across all clouds.  will continue to provide them with models and products until 2032, and a revenue share through 2030.</title>
+      <link>https://x.com/sama/status/2048755148361707946</link>
+      <description>作者：Sam Altman
+账号：@sama
+简介：AI is cool i guess
+
+we have updated our partnership with microsoft.
+
+microsoft will remain our primary cloud partner, but we are now able to make our products and services available across all clouds.
+
+will continue to provide them with models and products until 2032, and a revenue share through 2030.</description>
+      <pubDate>Mon, 27 Apr 2026 13:24:26 +0000</pubDate>
+      <guid isPermaLink="false">2048755148361707946</guid>
+    </item>
+    <item>
+      <title>here’s what ive read so far this year https://t.co/5pJ1HdlqGG</title>
+      <link>https://x.com/danshipper/status/2048748438112645544</link>
+      <description>作者：Dan Shipper
+账号：@danshipper
+简介：ceo @every | the only subscription you need to stay at the edge of AI
+
+here’s what ive read so far this year https://t.co/5pJ1HdlqGG</description>
+      <pubDate>Mon, 27 Apr 2026 12:57:46 +0000</pubDate>
+      <guid isPermaLink="false">2048748438112645544</guid>
+    </item>
+    <item>
+      <title>From SEO to Agent-Led Growth: Profound’s James Cadwallader</title>
+      <link>https://www.youtube.com/watch?v=RyTwRCKeDo4</link>
+      <description>播客：Training Data
+
+Speaker 1 | 00:00 - 00:23
+We've now reached a point in marketing where if your marketing team is not using agents, and in particular, ProFound agents, to do marketing, then you are failing. It's gone from a nice to have to a must have. And I think the big misconception with using agents to build marketing is that it's just a way to automate the work that we've been doing in the past. Yep. And the reality is quite different.
+
+Speaker 1 | 00:23 - 00:30
+It's that you can now, because of agents and because of LLMs, you can do a type of marketing that just frankly was not possible before.
+
+Speaker 2 | 00:48 - 01:24
+Hi, and welcome to Training Data. I'm excited to welcome you, James, co founder and CEO of ProFound. So ProFound is a marketing platform for the AI era. You help companies understand how they show up in AI search for agents like ChatGPT and Claude, what to do to improve their rankings and visibilities, and also you help give a single marketer the power of an agency. And I think it's especially timely to have you on the podcast today, given that ChatGPT is rolling out ads, given that every marketer is now trying to figure out how do I rank in the generative search engine rankings, and everyone's trying to figure out this brave new world of agent led growth.
+
+Speaker 2 | 01:24 - 01:45
+So I'm very excited for the conversation. Let's start with So, you serve 10% of the Fortune 500. You have a great sense of your customer and what the average marketer is facing today. Maybe take us through their journey. What did marketing look like in the old days before ChatGPT, and what are marketers having to respond to now?
+
+Speaker 1 | 01:45 - 02:17
+Yeah. Well, thanks for having me on, Sonya. Mean, I think what we're witnessing is the biggest platform shift in the history of marketing as the world turns from blue link search, like predetermined blue link search to probabilistic AI responses. And it's and it's more than that as well. It's not just kind of a case of do you show up when someone asks ChatGPT about your category.
+
+Speaker 1 | 02:17 - 03:01
+It's, you know, what does ChatGPT say, or how does Claude, you know, recommend your software, for example, if you're talking about coding tools. It's it's it's the these models are really replacing you know, it's the agents and super intelligence is replacing the role of the consumer. It's not so much that the front door of the Internet has changed. It's actually the person that's going through the door has changed. It's gone from being a consumer that is using a list of blue links to discover your website and click into it, to an agent is now using a similar index and discovering your brand, products and services, then coming back through the door and maintaining that relationship with the consumer.
+
+Speaker 2 | 03:02 - 03:13
+That's so fascinating. Okay. So your point is Chattypie may be the new front door, but the thing that's important for marketers is you now have an agent walking through that door and making a big part of that buying decision for you.
+
+Speaker 1 | 03:14 - 03:31
+Yeah. I think that's fundamental difference. It's that the Internet has remained the same. It's just who is using the Internet. When you ask ChatGPT a question or Gemini a question, what you're essentially doing is asking an agent to go and crawl the Internet on your behalf.
+
+Speaker 1 | 03:31 - 03:48
+And there is an agent that's going to visit all of those websites that you used to visit. And it's an agent that's going to determine if that's useful or this is useful, and remix all of that information into an answer that it spits out to you as, know, here you go.
+
+Speaker 2 | 03:48 - 03:57
+Yeah. What do you think is the biggest misconception people have about what it takes to show up well for this new agentic paradigm?
+
+Speaker 1 | 03:58 - 04:31
+Think the biggest misconception is that it's just SEO. You know, there there's a reason why that misconception exists because, yeah, of course, you still you know, in in any world of marketing and discovery, there is an impetus on a brand or, you know, the yeah. You said we work with is is close to 12% of the Fortune 500 now. Their marketing teams use ProFound. And in any world, the solution to a problem is to create content, distribute content on your own own channels or, you know, earned media or social channels, etcetera.
+
+Speaker 1 | 04:31 - 05:05
+So they're very similar levers to what we've seen with SEO. And, yes, ranking on the index still matters. It's just that the human consumer is no longer using the web. And you are building content that may quite literally never be consumed by a human. And I think the fundamental difference between SEO and this new world is that in SEO, you were building content that was designed to be, you know, picked up by an algorithm, but fundamentally consumed by a human.
+
+Speaker 1 | 05:06 - 05:15
+Whereas in this new world, you are building content that is frankly designed entirely to be both discovered and then consumed by an agent.
+
+Speaker 2 | 05:15 - 05:36
+And what does that mean? So I would imagine humans are less patient than agents. I imagine humans are more prone to emotional biases and being swayed by language than agents. Like, what the biggest differences between how humans and how agents consume the Internet that marketers should keep in mind?
+
+Speaker 1 | 05:37 - 06:00
+It's understanding that an agent crawling the web, looking for an answer or providing an answer, frankly, will discover information differently to a human. And so it uses the index differently to us. In the old world of SEO, you know, 95 of the value is being in that top four blue links. Yep. The top five blue links.
+
+Speaker 1 | 06:01 - 06:07
+And that really is a function of our scarce cognitive energy and patience and our lack of time.
+
+Speaker 2 | 06:07 - 06:07
+Yep.
+
+Speaker 1 | 06:08 - 06:42
+Where an agent is using that index, what we've seen is Chatuchipiti or Gemini or Claude are far more prone to using the long tail of the Internet. And the amount of surface area that an agent will use to answer a question is orders of magnitude wider than a human. Like, for instance, probably about three or four months ago, I was looking for a showerhead for my apartment in New York City, and I used ChatGPT to help me find a new showerhead, and it used 65 different web pages to answer that question.
+
+Speaker 2 | 06:42 - 06:50
+Wow. I think I probably went through 65 web pages on my own for that query. It's a very important purchase.
+
+Speaker 1 | 06:51 - 07:16
+And it's that marketers need to understand that you are building marketing for a superintelligent agent with infinite bandwidth with know, as the cost of inference goes down as well and we, you know, experience Moore's Law, Moore's Law continues, we're we're gonna see agents only use more and more of the Internet to build rich answers.
+
+Speaker 2 | 07:16 - 07:35
+Yeah. Totally. Fascinating. Are there certain categories you you mentioned you served 12% of the Fortune five hundred. Are there certain categories where people are seeing more success in terms of these agentic search results actually driving meaningful traffic to them and then certain categories where it's really more still traditional SEO world?
+
+Speaker 1 | 07:36 - 07:58
+I mean, this is across the board now. So, you know, I think when we began, we saw more demand from software companies. And I'd say today, we, yeah, we work with every single category, every single sector you can imagine, finance, consumer, CPG, software, that's B2B as well, that B2B direct to consumer.
+
+Speaker 2 | 07:59 - 08:08
+And is the impact relatively consistent across the board, are there certain categories or subcategories that are much more influenced by agentic search?
+
+Speaker 1 | 08:08 - 08:37
+I think consumer consideration is an important vector here. So if you have a high consideration or a high ticket purchase, think consumer electronics or auto, cars, white goods, anything that would typic...</description>
+      <pubDate>Tue, 14 Apr 2026 09:00:00 +0000</pubDate>
+      <guid>https://www.youtube.com/watch?v=RyTwRCKeDo4</guid>
     </item>
   </channel>
 </rss>
