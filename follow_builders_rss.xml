@@ -5,492 +5,473 @@
     <link>https://github.com/zarazhangrui/follow-builders</link>
     <description>聚合 AI 领域建设者的 X、播客和博客内容。</description>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 29 Apr 2026 07:58:08 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Apr 2026 13:20:08 +0000</lastBuildDate>
     <item>
-      <title>Yes it did type into the comment box and closed the issue.</title>
-      <link>https://x.com/steipete/status/2049035851493953750</link>
+      <title>codex now runs on each commit we land, reviews it - and if a booboo is found, a new codex spins up and (if still relevant) makes a PR for the fix.   Then a review agent spins up. If an issue is found, another agent will fix the issues. (up to 5 loops) https://t.co/k6o7tNcDyf</title>
+      <link>https://x.com/steipete/status/2049356949523730699</link>
       <description>作者：Peter Steinberger
 账号：@steipete
 简介：Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world.
 @OpenClaw🦞 + @OpenAI
 
-Yes it did type into the comment box and closed the issue.</description>
-      <pubDate>Tue, 28 Apr 2026 07:59:50 +0000</pubDate>
-      <guid isPermaLink="false">2049035851493953750</guid>
+codex now runs on each commit we land, reviews it - and if a booboo is found, a new codex spins up and (if still relevant) makes a PR for the fix. 
+
+Then a review agent spins up. If an issue is found, another agent will fix the issues. (up to 5 loops) https://t.co/k6o7tNcDyf</description>
+      <pubDate>Wed, 29 Apr 2026 05:15:46 +0000</pubDate>
+      <guid isPermaLink="false">2049356949523730699</guid>
     </item>
     <item>
-      <title>GStack ships with Chromium that has Claude Code as the CLI and you can type /pair-agent from your real CC or the sidebar one  And it'll give you a string to paste into your OpenClaw/Hermes so it can control your browser remotely, and you can log it into stuff and have it scrape https://t.co/Jr7ZF5aq...</title>
-      <link>https://x.com/garrytan/status/2049035231903301771</link>
+      <title>If you’re sick of hearing about agents 2026 is going to be the eternal September for you https://t.co/6Cnl40IPt9</title>
+      <link>https://x.com/garrytan/status/2049351894007710031</link>
       <description>作者：Garry Tan
 账号：@garrytan
 简介：President &amp; CEO @ycombinator —Founder @garryslist—Creator of GStack &amp; GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop
 
-GStack ships with Chromium that has Claude Code as the CLI and you can type /pair-agent from your real CC or the sidebar one
-
-And it'll give you a string to paste into your OpenClaw/Hermes so it can control your browser remotely, and you can log it into stuff and have it scrape https://t.co/Jr7ZF5aq3s</description>
-      <pubDate>Tue, 28 Apr 2026 07:57:23 +0000</pubDate>
-      <guid isPermaLink="false">2049035231903301771</guid>
+If you’re sick of hearing about agents 2026 is going to be the eternal September for you https://t.co/6Cnl40IPt9</description>
+      <pubDate>Wed, 29 Apr 2026 04:55:41 +0000</pubDate>
+      <guid isPermaLink="false">2049351894007710031</guid>
     </item>
     <item>
-      <title>I'm again rate limited on GitHub, but codex just opened the browser and clicks around GitHub as workaround. https://t.co/Ye8sh9DxpC</title>
-      <link>https://x.com/steipete/status/2049035044702843053</link>
-      <description>作者：Peter Steinberger
-账号：@steipete
-简介：Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world.
-@OpenClaw🦞 + @OpenAI
+      <title>This is actually brilliant for personal agents @Shpigford - stealing this for my OpenClaw now. https://t.co/gghJwyIA1W</title>
+      <link>https://x.com/petergyang/status/2049347897310003443</link>
+      <description>作者：Peter Yang
+账号：@petergyang
+简介：Practical AI tutorials and interviews for busy people | Join 140K+ readers at https://t.co/XYKTmGVH14 | Product at Roblox
 
-I'm again rate limited on GitHub, but codex just opened the browser and clicks around GitHub as workaround. https://t.co/Ye8sh9DxpC</description>
-      <pubDate>Tue, 28 Apr 2026 07:56:38 +0000</pubDate>
-      <guid isPermaLink="false">2049035044702843053</guid>
+This is actually brilliant for personal agents @Shpigford - stealing this for my OpenClaw now. https://t.co/gghJwyIA1W</description>
+      <pubDate>Wed, 29 Apr 2026 04:39:48 +0000</pubDate>
+      <guid isPermaLink="false">2049347897310003443</guid>
     </item>
     <item>
-      <title>Fudge I'm here to help YOU get the bag https://t.co/TTIhbetMvY</title>
-      <link>https://x.com/garrytan/status/2049034204613324980</link>
+      <title>I have alot of respect for solo AI builders.  The world is their playground now.</title>
+      <link>https://x.com/petergyang/status/2049345724559847585</link>
+      <description>作者：Peter Yang
+账号：@petergyang
+简介：Practical AI tutorials and interviews for busy people | Join 140K+ readers at https://t.co/XYKTmGVH14 | Product at Roblox
+
+I have alot of respect for solo AI builders.
+
+The world is their playground now.</description>
+      <pubDate>Wed, 29 Apr 2026 04:31:10 +0000</pubDate>
+      <guid isPermaLink="false">2049345724559847585</guid>
+    </item>
+    <item>
+      <title>Did you listen to me anon? https://t.co/NcxfP9hB2t</title>
+      <link>https://x.com/nikunj/status/2049337947066183856</link>
+      <description>作者：Nikunj Kothari
+账号：@nikunj
+简介：partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian &amp; others. love @shimoleejhaveri + 👦👧
+
+Did you listen to me anon? https://t.co/NcxfP9hB2t</description>
+      <pubDate>Wed, 29 Apr 2026 04:00:16 +0000</pubDate>
+      <guid isPermaLink="false">2049337947066183856</guid>
+    </item>
+    <item>
+      <title>kind of hilarious this works https://t.co/z1JYNjn65m</title>
+      <link>https://x.com/garrytan/status/2049334723009458388</link>
       <description>作者：Garry Tan
 账号：@garrytan
 简介：President &amp; CEO @ycombinator —Founder @garryslist—Creator of GStack &amp; GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop
 
-Fudge I'm here to help YOU get the bag https://t.co/TTIhbetMvY</description>
-      <pubDate>Tue, 28 Apr 2026 07:53:18 +0000</pubDate>
-      <guid isPermaLink="false">2049034204613324980</guid>
+kind of hilarious this works https://t.co/z1JYNjn65m</description>
+      <pubDate>Wed, 29 Apr 2026 03:47:27 +0000</pubDate>
+      <guid isPermaLink="false">2049334723009458388</guid>
     </item>
     <item>
-      <title>The anti-tech lines are so tired, and the people who hate tech have hated tech for so long  So of course if it's the same people doing the same old dance, they reuse the same old lines when actually everything changed in 2026 https://t.co/OXNXIbiOja</title>
-      <link>https://x.com/garrytan/status/2049033440935469213</link>
-      <description>作者：Garry Tan
-账号：@garrytan
-简介：President &amp; CEO @ycombinator —Founder @garryslist—Creator of GStack &amp; GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop
-
-The anti-tech lines are so tired, and the people who hate tech have hated tech for so long
-
-So of course if it's the same people doing the same old dance, they reuse the same old lines when actually everything changed in 2026 https://t.co/OXNXIbiOja</description>
-      <pubDate>Tue, 28 Apr 2026 07:50:16 +0000</pubDate>
-      <guid isPermaLink="false">2049033440935469213</guid>
-    </item>
-    <item>
-      <title>The most sophisticated AI users I know are talking to just ONE agent daily, not multiple agents  That agents will then assign tasks to other subagents/spawn subagents as needed  But the day-to-day communication is with just 1 agent, who serves as the overall orchestrator/router</title>
-      <link>https://x.com/zarazhangrui/status/2049027061768192288</link>
-      <description>作者：Zara Zhang
-账号：@zarazhangrui
-简介：Builder. Dangerously skips permissions. Harvard’17. GitHub: https://t.co/KCuEajezlL YouTube: https://t.co/8xzbGWtf6w
-
-The most sophisticated AI users I know are talking to just ONE agent daily, not multiple agents
-
-That agents will then assign tasks to other subagents/spawn subagents as needed
-
-But the day-to-day communication is with just 1 agent, who serves as the overall orchestrator/router</description>
-      <pubDate>Tue, 28 Apr 2026 07:24:55 +0000</pubDate>
-      <guid isPermaLink="false">2049027061768192288</guid>
-    </item>
-    <item>
-      <title>Finally have great solutions for PR/Issue management, remote test execution, massive CI infra for testing. Streamlines a lot of the work. https://t.co/xetfW6dm4o</title>
-      <link>https://x.com/steipete/status/2048957477106938075</link>
-      <description>作者：Peter Steinberger
-账号：@steipete
-简介：Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world.
-@OpenClaw🦞 + @OpenAI
-
-Finally have great solutions for PR/Issue management, remote test execution, massive CI infra for testing. Streamlines a lot of the work. https://t.co/xetfW6dm4o</description>
-      <pubDate>Tue, 28 Apr 2026 02:48:24 +0000</pubDate>
-      <guid isPermaLink="false">2048957477106938075</guid>
-    </item>
-    <item>
-      <title>https://t.co/syK3QYG52A</title>
-      <link>https://x.com/levie/status/2048950940661932319</link>
+      <title>Will keep saying this, but software jobs aren’t going away. Agents are the single biggest form of leverage for anyone technical in history. Probably has never been a better time to be technical in terms of being able to accomplish something solo, in a team, or company.  We think that most of the wor...</title>
+      <link>https://x.com/levie/status/2049333853777764495</link>
       <description>作者：Aaron Levie
 账号：@levie
 简介：ceo @box - your business lives in content. unleash it with AI
 
-https://t.co/syK3QYG52A</description>
-      <pubDate>Tue, 28 Apr 2026 02:22:26 +0000</pubDate>
-      <guid isPermaLink="false">2048950940661932319</guid>
+Will keep saying this, but software jobs aren’t going away. Agents are the single biggest form of leverage for anyone technical in history. Probably has never been a better time to be technical in terms of being able to accomplish something solo, in a team, or company.
+
+We think that most of the world’s software has already been built and that agents will just reduce work from an existing pie. In fact, we are about to experience 100X more software than before. 
+
+Think about how many apps you regularly use that need to get better. How many legacy on prem systems that have to get replatformed for the cloud. How many SMBs never could hire developers. How many security issues are about to be uncovered and need to get patched. How many IT organizations are about to bring automation to workflows they never could have automated. How much data is about to processed and connected in most organizations. This is all what the agents will be working on.
+
+And every one of those agents will need a person to kick them off, manage their work, orchestrate them, and get their output into a workable and useful form. That person will generally need to be technical (or become technical quickly), and this will create a huge amount of opportunity for anyone up to the task.</description>
+      <pubDate>Wed, 29 Apr 2026 03:44:00 +0000</pubDate>
+      <guid isPermaLink="false">2049333853777764495</guid>
     </item>
     <item>
-      <title>ok we have a tiktok account now with some BTS https://t.co/MVQSu8gDzV</title>
-      <link>https://x.com/swyx/status/2048934424344179159</link>
-      <description>作者：Swyx
-账号：@swyx
-简介：achieve ambition with intentionality, intensity, integrity &amp; insanity.
-
-affiliations:
-- @dxtipshq 
-- @cognition
-- @temporalio
-- @aidotengineer
-- @latentspacepod
-
-ok we have a tiktok account now with some BTS https://t.co/MVQSu8gDzV</description>
-      <pubDate>Tue, 28 Apr 2026 01:16:48 +0000</pubDate>
-      <guid isPermaLink="false">2048934424344179159</guid>
-    </item>
-    <item>
-      <title>Products that need APIs/MCPs:  @substack  @RiversidedotFM  Every other video editing tool Every bank that's not @mercury  Every government website Every healthcare portal</title>
-      <link>https://x.com/petergyang/status/2048918016642154698</link>
-      <description>作者：Peter Yang
-账号：@petergyang
-简介：Practical AI tutorials and interviews for busy people | Join 140K+ readers at https://t.co/XYKTmGVH14 | Product at Roblox
-
-Products that need APIs/MCPs:
-
-@substack 
-@RiversidedotFM 
-Every other video editing tool
-Every bank that's not @mercury 
-Every government website
-Every healthcare portal</description>
-      <pubDate>Tue, 28 Apr 2026 00:11:36 +0000</pubDate>
-      <guid isPermaLink="false">2048918016642154698</guid>
-    </item>
-    <item>
-      <title>Why even have product teams just let the agents implement whatever random requests customers tweet on here 😂  (I’m kidding)</title>
-      <link>https://x.com/petergyang/status/2048915462768255046</link>
-      <description>作者：Peter Yang
-账号：@petergyang
-简介：Practical AI tutorials and interviews for busy people | Join 140K+ readers at https://t.co/XYKTmGVH14 | Product at Roblox
-
-Why even have product teams just let the agents implement whatever random requests customers tweet on here 😂
-
-(I’m kidding)</description>
-      <pubDate>Tue, 28 Apr 2026 00:01:27 +0000</pubDate>
-      <guid isPermaLink="false">2048915462768255046</guid>
-    </item>
-    <item>
-      <title>codex with the $20 plan is a really good deal</title>
-      <link>https://x.com/sama/status/2048913887614115857</link>
+      <title>at this point @ajambrosino is mogmogging  enjoy the next few updates</title>
+      <link>https://x.com/sama/status/2049315574120055054</link>
       <description>作者：Sam Altman
 账号：@sama
 简介：AI is cool i guess
 
-codex with the $20 plan is a really good deal</description>
-      <pubDate>Mon, 27 Apr 2026 23:55:12 +0000</pubDate>
-      <guid isPermaLink="false">2048913887614115857</guid>
+at this point @ajambrosino is mogmogging
+
+enjoy the next few updates</description>
+      <pubDate>Wed, 29 Apr 2026 02:31:21 +0000</pubDate>
+      <guid isPermaLink="false">2049315574120055054</guid>
     </item>
     <item>
-      <title>20 builders. 8 weeks. One goal: first dollar of revenue. https://t.co/8zvpolJpd6</title>
-      <link>https://x.com/amasad/status/2048912698583453933</link>
-      <description>作者：Amjad Masad
-账号：@amasad
-简介：ceo @replit. civilizationist
-
-20 builders. 8 weeks. One goal: first dollar of revenue. https://t.co/8zvpolJpd6</description>
-      <pubDate>Mon, 27 Apr 2026 23:50:28 +0000</pubDate>
-      <guid isPermaLink="false">2048912698583453933</guid>
-    </item>
-    <item>
-      <title>Replit speedrun all these learnings more than a year ago and now we’re the only platform with proper agent production isolation.  The benefits of a vertically integrated platform will continue to compound. https://t.co/VWxDRe6kKH</title>
-      <link>https://x.com/amasad/status/2048911624061522228</link>
-      <description>作者：Amjad Masad
-账号：@amasad
-简介：ceo @replit. civilizationist
-
-Replit speedrun all these learnings more than a year ago and now we’re the only platform with proper agent production isolation.
-
-The benefits of a vertically integrated platform will continue to compound. https://t.co/VWxDRe6kKH</description>
-      <pubDate>Mon, 27 Apr 2026 23:46:12 +0000</pubDate>
-      <guid isPermaLink="false">2048911624061522228</guid>
-    </item>
-    <item>
-      <title>we love our users</title>
-      <link>https://x.com/sama/status/2048910739784826966</link>
+      <title>https://t.co/WZA5vxK186</title>
+      <link>https://x.com/sama/status/2049314532892475791</link>
       <description>作者：Sam Altman
 账号：@sama
 简介：AI is cool i guess
 
-we love our users</description>
-      <pubDate>Mon, 27 Apr 2026 23:42:41 +0000</pubDate>
-      <guid isPermaLink="false">2048910739784826966</guid>
+https://t.co/WZA5vxK186</description>
+      <pubDate>Wed, 29 Apr 2026 02:27:13 +0000</pubDate>
+      <guid isPermaLink="false">2049314532892475791</guid>
     </item>
     <item>
-      <title>@varadh @trq212 Direct link to register for Vol I: https://t.co/YG97sUP9Eb  Website to sign up for community &amp;amp; future events: https://t.co/qRmKeriYMD  Really excited to be building this community!</title>
-      <link>https://x.com/nikunj/status/2048908803437908393</link>
-      <description>作者：Nikunj Kothari
-账号：@nikunj
-简介：partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian &amp; others. love @shimoleejhaveri + 👦👧
+      <title>10 years since AlphaGo Incredible https://t.co/KHgiT01Uu8</title>
+      <link>https://x.com/garrytan/status/2049297833594101943</link>
+      <description>作者：Garry Tan
+账号：@garrytan
+简介：President &amp; CEO @ycombinator —Founder @garryslist—Creator of GStack &amp; GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop
 
-@varadh @trq212 Direct link to register for Vol I: https://t.co/YG97sUP9Eb
-
-Website to sign up for community &amp;amp; future events: https://t.co/qRmKeriYMD
-
-Really excited to be building this community!</description>
-      <pubDate>Mon, 27 Apr 2026 23:35:00 +0000</pubDate>
-      <guid isPermaLink="false">2048908803437908393</guid>
+10 years since AlphaGo
+Incredible https://t.co/KHgiT01Uu8</description>
+      <pubDate>Wed, 29 Apr 2026 01:20:52 +0000</pubDate>
+      <guid isPermaLink="false">2049297833594101943</guid>
     </item>
     <item>
-      <title>if a new world war were to break out, what would be its causes?  &quot;Germany would strive to regain lost provinces and establish herself as a great military power on the Continent&quot; https://t.co/RxFoYBvZJI https://t.co/5c8jRICzR0</title>
-      <link>https://x.com/danshipper/status/2048905290104373295</link>
-      <description>作者：Dan Shipper
-账号：@danshipper
-简介：ceo @every | the only subscription you need to stay at the edge of AI
+      <title>I'm now spinning up a codex instance on every commit landing on main, looking for booboos (regressions, security issues)  It's live for 10 min and already found one of mine. https://t.co/P0xgFTSpkS https://t.co/xQcehMY7V5</title>
+      <link>https://x.com/steipete/status/2049290741013262522</link>
+      <description>作者：Peter Steinberger
+账号：@steipete
+简介：Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world.
+@OpenClaw🦞 + @OpenAI
 
-if a new world war were to break out, what would be its causes?
+I'm now spinning up a codex instance on every commit landing on main, looking for booboos (regressions, security issues)
 
-&quot;Germany would strive to regain lost provinces and establish herself as a great military power on the Continent&quot; https://t.co/RxFoYBvZJI https://t.co/5c8jRICzR0</description>
-      <pubDate>Mon, 27 Apr 2026 23:21:02 +0000</pubDate>
-      <guid isPermaLink="false">2048905290104373295</guid>
+It's live for 10 min and already found one of mine. https://t.co/P0xgFTSpkS https://t.co/xQcehMY7V5</description>
+      <pubDate>Wed, 29 Apr 2026 00:52:41 +0000</pubDate>
+      <guid isPermaLink="false">2049290741013262522</guid>
     </item>
     <item>
-      <title>Introducing Dawn 🌅  @varadh, @trq212 and I have been talking to a lot of ex-founders lately. There’s a community for every stage of starting a company. There isn’t one for what comes after.  So, we decided to start one.  Dawn Vol I is a small dinner. May 19th in SF. Off the record. Ex-founders only....</title>
-      <link>https://x.com/nikunj/status/2048900068523266544</link>
-      <description>作者：Nikunj Kothari
-账号：@nikunj
-简介：partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian &amp; others. love @shimoleejhaveri + 👦👧
+      <title>I smell a leak. https://t.co/B5tlqY6ORA</title>
+      <link>https://x.com/steipete/status/2049290265026773172</link>
+      <description>作者：Peter Steinberger
+账号：@steipete
+简介：Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world.
+@OpenClaw🦞 + @OpenAI
 
-Introducing Dawn 🌅
-
-@varadh, @trq212 and I have been talking to a lot of ex-founders lately. There’s a community for every stage of starting a company. There isn’t one for what comes after.
-
-So, we decided to start one.
-
-Dawn Vol I is a small dinner. May 19th in SF. Off the record. Ex-founders only.
-
-Register at meetatdawn dot com</description>
-      <pubDate>Mon, 27 Apr 2026 23:00:17 +0000</pubDate>
-      <guid isPermaLink="false">2048900068523266544</guid>
+I smell a leak. https://t.co/B5tlqY6ORA</description>
+      <pubDate>Wed, 29 Apr 2026 00:50:47 +0000</pubDate>
+      <guid isPermaLink="false">2049290265026773172</guid>
     </item>
     <item>
-      <title>Silicon Valley: AI is self-accelerating, agents run everything, old people are dumb  Global 2000: I spent a fortune on your AI chat 2 years ago and got zero productivity; my engineers like the coding AI thing but no one else cares; agents are scary  Never seen a gap this huge</title>
-      <link>https://x.com/mattturck/status/2048896617424527499</link>
-      <description>作者：Matt Turck
-账号：@mattturck
-简介：VC at @FirstMarkCap.  Host: MAD Podcast; Organizer: Data Driven NYC, Author: MAD Landscape.
-
-Silicon Valley: AI is self-accelerating, agents run everything, old people are dumb
-
-Global 2000: I spent a fortune on your AI chat 2 years ago and got zero productivity; my engineers like the coding AI thing but no one else cares; agents are scary
-
-Never seen a gap this huge</description>
-      <pubDate>Mon, 27 Apr 2026 22:46:34 +0000</pubDate>
-      <guid isPermaLink="false">2048896617424527499</guid>
-    </item>
-    <item>
-      <title>Bevel 3.0  The point was never to be a tracking and analytics company.  Each release of @bevel  brings us closer to our long-term goal: To be the most intelligent health and biology companion that truly understands you and can help you lead a healthier and happier life.  It was to be intelligent eno...</title>
-      <link>https://x.com/adityaag/status/2048868147525222602</link>
+      <title>I cannot explain how awesome this is. https://t.co/gFrA5Yj4Em</title>
+      <link>https://x.com/adityaag/status/2049259492727234748</link>
       <description>作者：Aditya Agarwal
 账号：@adityaag
 简介：General Partner @SouthPkCommons, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @Dropbox, Board @Flipkart | Optimist, Builder, Dad
 
-Bevel 3.0
-
-The point was never to be a tracking and analytics company.
-
-Each release of @bevel  brings us closer to our long-term goal: To be the most intelligent health and biology companion that truly understands you and can help you lead a healthier and happier life.
-
-It was to be intelligent enough to help you truly be healthy.
-
-We are taking another step towards that with Bevel 3.0.</description>
-      <pubDate>Mon, 27 Apr 2026 20:53:27 +0000</pubDate>
-      <guid isPermaLink="false">2048868147525222602</guid>
+I cannot explain how awesome this is. https://t.co/gFrA5Yj4Em</description>
+      <pubDate>Tue, 28 Apr 2026 22:48:31 +0000</pubDate>
+      <guid isPermaLink="false">2049259492727234748</guid>
     </item>
     <item>
-      <title>Replit in 🇨🇦 https://t.co/0OoIBoeyyc</title>
-      <link>https://x.com/amasad/status/2048854724099915961</link>
+      <title>Don't get AI to generate images; get them to generate SVGs!  Vector illustrations that seamlessly blend into the design style is the perfect complement to HTML Slides   (Here I'm using the @QuiverAI API inside @AnyGenIO's Frontend Slides feature https://t.co/HDcFWYzJXa) https://t.co/taG21gR6yj</title>
+      <link>https://x.com/zarazhangrui/status/2049258231042805806</link>
+      <description>作者：Zara Zhang
+账号：@zarazhangrui
+简介：Builder. Dangerously skips permissions. Harvard’17. GitHub: https://t.co/KCuEajezlL YouTube: https://t.co/8xzbGWtf6w
+
+Don't get AI to generate images; get them to generate SVGs!
+
+Vector illustrations that seamlessly blend into the design style is the perfect complement to HTML Slides 
+
+(Here I'm using the @QuiverAI API inside @AnyGenIO's Frontend Slides feature https://t.co/HDcFWYzJXa) https://t.co/taG21gR6yj</description>
+      <pubDate>Tue, 28 Apr 2026 22:43:30 +0000</pubDate>
+      <guid isPermaLink="false">2049258231042805806</guid>
+    </item>
+    <item>
+      <title>my white whale is when CC sometimes looks like it hangs during big file writes, I think we found it 😭</title>
+      <link>https://x.com/trq212/status/2049252080892973563</link>
+      <description>作者：Thariq
+账号：@trq212
+简介：Claude Code @anthropicai.   prev YC W20, mit media lab. 
+
+towards machines of loving grace
+
+my white whale is when CC sometimes looks like it hangs during big file writes, I think we found it 😭</description>
+      <pubDate>Tue, 28 Apr 2026 22:19:04 +0000</pubDate>
+      <guid isPermaLink="false">2049252080892973563</guid>
+    </item>
+    <item>
+      <title>Thrilled to support the education GOAT as he reinvents education (again). https://t.co/4WlNa1WWI8</title>
+      <link>https://x.com/amasad/status/2049245424624820412</link>
       <description>作者：Amjad Masad
 账号：@amasad
 简介：ceo @replit. civilizationist
 
-Replit in 🇨🇦 https://t.co/0OoIBoeyyc</description>
-      <pubDate>Mon, 27 Apr 2026 20:00:06 +0000</pubDate>
-      <guid isPermaLink="false">2048854724099915961</guid>
+Thrilled to support the education GOAT as he reinvents education (again). https://t.co/4WlNa1WWI8</description>
+      <pubDate>Tue, 28 Apr 2026 21:52:37 +0000</pubDate>
+      <guid isPermaLink="false">2049245424624820412</guid>
     </item>
     <item>
-      <title>https://t.co/ApeEGvq7mj</title>
-      <link>https://x.com/adityaag/status/2048838390846538187</link>
-      <description>作者：Aditya Agarwal
-账号：@adityaag
-简介：General Partner @SouthPkCommons, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @Dropbox, Board @Flipkart | Optimist, Builder, Dad
+      <title>It's honestly impressive that GitHub kept the service up at all, given this kind of growth.   I predicted this years ago: Free services will become untenable with the advent of human-level bots.   Worth exploring micro-payments: Even cents per git push might be enough to reduce spam and make this su...</title>
+      <link>https://x.com/amasad/status/2049242460078100638</link>
+      <description>作者：Amjad Masad
+账号：@amasad
+简介：ceo @replit. civilizationist
 
-https://t.co/ApeEGvq7mj</description>
-      <pubDate>Mon, 27 Apr 2026 18:55:12 +0000</pubDate>
-      <guid isPermaLink="false">2048838390846538187</guid>
+It's honestly impressive that GitHub kept the service up at all, given this kind of growth. 
+
+I predicted this years ago: Free services will become untenable with the advent of human-level bots. 
+
+Worth exploring micro-payments: Even cents per git push might be enough to reduce spam and make this sustainable. Maybe powered by Bitcoin to keep this open and accessible (as opposed to KYCing users).</description>
+      <pubDate>Tue, 28 Apr 2026 21:40:50 +0000</pubDate>
+      <guid isPermaLink="false">2049242460078100638</guid>
     </item>
     <item>
-      <title>Before @RamaswmySridhar was CEO of @Snowflake, he was the guy who scaled Google's ads business from $1.5B to $ 100B.   He's coming by @southpkcommons next week. Join us. https://t.co/7agzS9oKTQ</title>
-      <link>https://x.com/adityaag/status/2048838388271178100</link>
-      <description>作者：Aditya Agarwal
-账号：@adityaag
-简介：General Partner @SouthPkCommons, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @Dropbox, Board @Flipkart | Optimist, Builder, Dad
+      <title>https://t.co/PR7C3NPxqk</title>
+      <link>https://x.com/sama/status/2049241518540808440</link>
+      <description>作者：Sam Altman
+账号：@sama
+简介：AI is cool i guess
 
-Before @RamaswmySridhar was CEO of @Snowflake, he was the guy who scaled Google's ads business from $1.5B to $ 100B. 
-
-He's coming by @southpkcommons next week. Join us. https://t.co/7agzS9oKTQ</description>
-      <pubDate>Mon, 27 Apr 2026 18:55:11 +0000</pubDate>
-      <guid isPermaLink="false">2048838388271178100</guid>
+https://t.co/PR7C3NPxqk</description>
+      <pubDate>Tue, 28 Apr 2026 21:37:05 +0000</pubDate>
+      <guid isPermaLink="false">2049241518540808440</guid>
     </item>
     <item>
-      <title>in a world where code is cheap to produce  software is the new media  come see me talk with @Borthwick and co @betaworks tomorrow about this! https://t.co/Mfo9dlJkfC</title>
-      <link>https://x.com/danshipper/status/2048818450915586364</link>
+      <title>using posthog inside of codex  it is SO MUCH better to browse posthog inside of codex—codex can write queries and see the results, and it makes our collaboration extremely seamless. codex can also kick off agents that write PRs or run production DB requests to back up insights it's finding  a browse...</title>
+      <link>https://x.com/danshipper/status/2049236793761976357</link>
       <description>作者：Dan Shipper
 账号：@danshipper
 简介：ceo @every | the only subscription you need to stay at the edge of AI
 
-in a world where code is cheap to produce
+using posthog inside of codex
 
-software is the new media
+it is SO MUCH better to browse posthog inside of codex—codex can write queries and see the results, and it makes our collaboration extremely seamless. codex can also kick off agents that write PRs or run production DB requests to back up insights it's finding
 
-come see me talk with @Borthwick and co @betaworks tomorrow about this!
-https://t.co/Mfo9dlJkfC</description>
-      <pubDate>Mon, 27 Apr 2026 17:35:58 +0000</pubDate>
-      <guid isPermaLink="false">2048818450915586364</guid>
+a browser inside your desktop coding orchestration tool &gt; an agent in your browser</description>
+      <pubDate>Tue, 28 Apr 2026 21:18:19 +0000</pubDate>
+      <guid isPermaLink="false">2049236793761976357</guid>
     </item>
     <item>
-      <title>Gotta love how Ineffable Intelligence is name mogging all the &quot;superintelligence&quot; named startups lol</title>
-      <link>https://x.com/mattturck/status/2048810951793627281</link>
-      <description>作者：Matt Turck
-账号：@mattturck
-简介：VC at @FirstMarkCap.  Host: MAD Podcast; Organizer: Data Driven NYC, Author: MAD Landscape.
+      <title>a big part of this is we're working on making the no flicker renderer excellent so we can ship it as the default renderer, more updates coming there  but lots of other papercuts coming</title>
+      <link>https://x.com/trq212/status/2049234229926695188</link>
+      <description>作者：Thariq
+账号：@trq212
+简介：Claude Code @anthropicai.   prev YC W20, mit media lab. 
 
-Gotta love how Ineffable Intelligence is name mogging all the &quot;superintelligence&quot; named startups lol</description>
-      <pubDate>Mon, 27 Apr 2026 17:06:10 +0000</pubDate>
-      <guid isPermaLink="false">2048810951793627281</guid>
+towards machines of loving grace
+
+a big part of this is we're working on making the no flicker renderer excellent so we can ship it as the default renderer, more updates coming there
+
+but lots of other papercuts coming</description>
+      <pubDate>Tue, 28 Apr 2026 21:08:08 +0000</pubDate>
+      <guid isPermaLink="false">2049234229926695188</guid>
     </item>
     <item>
-      <title>My top 5 takeaways from @tibo_maker, a solo AI founder who's making $1M+ a month:  1. Charge money on day one.  Tibo’s first startup failed because he cared more about appearing successful (e.g., I managed a team of 10 and raised $200K) than validating demand with paying customers. “If there is no r...</title>
-      <link>https://x.com/petergyang/status/2048771729821229091</link>
+      <title>we're doing a lot more of this, hunting down some of the most annoying bugs in Claude Code  let me know if you have any white whales https://t.co/AedPpTEjpj</title>
+      <link>https://x.com/trq212/status/2049234228290961690</link>
+      <description>作者：Thariq
+账号：@trq212
+简介：Claude Code @anthropicai.   prev YC W20, mit media lab. 
+
+towards machines of loving grace
+
+we're doing a lot more of this, hunting down some of the most annoying bugs in Claude Code
+
+let me know if you have any white whales https://t.co/AedPpTEjpj</description>
+      <pubDate>Tue, 28 Apr 2026 21:08:07 +0000</pubDate>
+      <guid isPermaLink="false">2049234228290961690</guid>
+    </item>
+    <item>
+      <title>What if we measure how good AI models are by what era of games it can one shot a single level for (or maybe build with 30 min of work):  Atari NES SNES, Sega Genesis PlayStation, N64 PS2, Xbox, GameCube, Dreamcast Xbox 360, PS3, Wii PS4, Xbox One, Switch PS5, Xbox Series X/S  I think we're still in ...</title>
+      <link>https://x.com/petergyang/status/2049232534064734331</link>
       <description>作者：Peter Yang
 账号：@petergyang
 简介：Practical AI tutorials and interviews for busy people | Join 140K+ readers at https://t.co/XYKTmGVH14 | Product at Roblox
 
-My top 5 takeaways from @tibo_maker, a solo AI founder who's making $1M+ a month:
+What if we measure how good AI models are by what era of games it can one shot a single level for (or maybe build with 30 min of work):
 
-1. Charge money on day one.
+Atari
+NES
+SNES, Sega Genesis
+PlayStation, N64
+PS2, Xbox, GameCube, Dreamcast
+Xbox 360, PS3, Wii
+PS4, Xbox One, Switch
+PS5, Xbox Series X/S
 
-Tibo’s first startup failed because he cared more about appearing successful (e.g., I managed a team of 10 and raised $200K) than validating demand with paying customers. “If there is no revenue and no stickiness in the revenue, it’s going to be very hard to build a successful business.” Free signups are easy to mistake for traction.
-
-2. Follow the signal when users surprise you.
-
-Tibo acquired Typeframe ($2K MRR) as a product video tool, but noticed users were hacking it to stitch 5-second AI clips into longer videos with consistent characters and scenes. He pivoted the entire product to meet this need and rebranded it to Revid, which is now making $600K+ MRR.
-
-3. Price your AI SaaS at $50-100/month
-
-Low enough that customers don’t need a sales call and high enough to filter out tire-kickers. “I see so many people charging $10 / month and it puts you into the position of a cheap product.” Tibo picks his price point first, then shapes the product around it.
-
-4. Keep monthly churn below 20%.
-
-If more than 20% of customers cancel each month, stop scaling acquisition and fix the product first. There’s a ceiling (max MRR) on your revenue based on churn vs. acquisition. At 40% churn, customers stay about 2 months and you’ll hit a wall no matter how much you spend.
-
-5. Build tool pages to rank on Google
-
-Revid has 100+ pages each targeting a specific Google search like “turn audio into video” and “YouTube to shorts.” Many AI founders follow a similar model.
-
-📌 Watch our full conversation for more practical tactics like the above:  https://t.co/N6b950Xc5p</description>
-      <pubDate>Mon, 27 Apr 2026 14:30:19 +0000</pubDate>
-      <guid isPermaLink="false">2048771729821229091</guid>
+I think we're still in the NES era?</description>
+      <pubDate>Tue, 28 Apr 2026 21:01:23 +0000</pubDate>
+      <guid isPermaLink="false">2049232534064734331</guid>
     </item>
     <item>
-      <title>Solving *hard* problems is messy and will continue to be that way even if we approach AGI. https://t.co/hjHBw3e4Ot</title>
-      <link>https://x.com/nikunj/status/2048761583204258298</link>
+      <title>@varadh @trq212 I had way TOO much fun building this button https://t.co/kRdWoIzCjs</title>
+      <link>https://x.com/nikunj/status/2049228229572256236</link>
       <description>作者：Nikunj Kothari
 账号：@nikunj
 简介：partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian &amp; others. love @shimoleejhaveri + 👦👧
 
-Solving *hard* problems is messy and will continue to be that way even if we approach AGI. https://t.co/hjHBw3e4Ot</description>
-      <pubDate>Mon, 27 Apr 2026 13:50:00 +0000</pubDate>
-      <guid isPermaLink="false">2048761583204258298</guid>
+@varadh @trq212 I had way TOO much fun building this button https://t.co/kRdWoIzCjs</description>
+      <pubDate>Tue, 28 Apr 2026 20:44:17 +0000</pubDate>
+      <guid isPermaLink="false">2049228229572256236</guid>
     </item>
     <item>
-      <title>we have updated our partnership with microsoft.  microsoft will remain our primary cloud partner, but we are now able to make our products and services available across all clouds.  will continue to provide them with models and products until 2032, and a revenue share through 2030.</title>
-      <link>https://x.com/sama/status/2048755148361707946</link>
-      <description>作者：Sam Altman
-账号：@sama
-简介：AI is cool i guess
-
-we have updated our partnership with microsoft.
-
-microsoft will remain our primary cloud partner, but we are now able to make our products and services available across all clouds.
-
-will continue to provide them with models and products until 2032, and a revenue share through 2030.</description>
-      <pubDate>Mon, 27 Apr 2026 13:24:26 +0000</pubDate>
-      <guid isPermaLink="false">2048755148361707946</guid>
-    </item>
-    <item>
-      <title>here’s what ive read so far this year https://t.co/5pJ1HdlqGG</title>
-      <link>https://x.com/danshipper/status/2048748438112645544</link>
+      <title>we might need to coin a new term:  Codex-native Cowork-native Cursor-native  apps designed to be used inside of the in-app browser of your agent of choice. the agent can use it and you can use it too, full context is shared, and you can both see what the other is doing.  huge opportunity to build so...</title>
+      <link>https://x.com/danshipper/status/2049223943735726150</link>
       <description>作者：Dan Shipper
 账号：@danshipper
 简介：ceo @every | the only subscription you need to stay at the edge of AI
 
-here’s what ive read so far this year https://t.co/5pJ1HdlqGG</description>
-      <pubDate>Mon, 27 Apr 2026 12:57:46 +0000</pubDate>
-      <guid isPermaLink="false">2048748438112645544</guid>
+we might need to coin a new term:
+
+Codex-native
+Cowork-native
+Cursor-native
+
+apps designed to be used inside of the in-app browser of your agent of choice. the agent can use it and you can use it too, full context is shared, and you can both see what the other is doing.
+
+huge opportunity to build software here</description>
+      <pubDate>Tue, 28 Apr 2026 20:27:15 +0000</pubDate>
+      <guid isPermaLink="false">2049223943735726150</guid>
     </item>
     <item>
-      <title>From SEO to Agent-Led Growth: Profound’s James Cadwallader</title>
-      <link>https://www.youtube.com/watch?v=RyTwRCKeDo4</link>
-      <description>播客：Training Data
+      <title>we might need to coin a new term:  Codex-native Cowork-native Cursor-native  apps designed to be used inside of the in-app browser of your agent of choice. the agent can use it and you can use it too, full context is shared, and you can both see what the other is doing.  huge opportunity to build so...</title>
+      <link>https://x.com/danshipper/status/2049223933766041688</link>
+      <description>作者：Dan Shipper
+账号：@danshipper
+简介：ceo @every | the only subscription you need to stay at the edge of AI
 
-Speaker 1 | 00:00 - 00:23
-We've now reached a point in marketing where if your marketing team is not using agents, and in particular, ProFound agents, to do marketing, then you are failing. It's gone from a nice to have to a must have. And I think the big misconception with using agents to build marketing is that it's just a way to automate the work that we've been doing in the past. Yep. And the reality is quite different.
+we might need to coin a new term:
 
-Speaker 1 | 00:23 - 00:30
-It's that you can now, because of agents and because of LLMs, you can do a type of marketing that just frankly was not possible before.
+Codex-native
+Cowork-native
+Cursor-native
 
-Speaker 2 | 00:48 - 01:24
-Hi, and welcome to Training Data. I'm excited to welcome you, James, co founder and CEO of ProFound. So ProFound is a marketing platform for the AI era. You help companies understand how they show up in AI search for agents like ChatGPT and Claude, what to do to improve their rankings and visibilities, and also you help give a single marketer the power of an agency. And I think it's especially timely to have you on the podcast today, given that ChatGPT is rolling out ads, given that every marketer is now trying to figure out how do I rank in the generative search engine rankings, and everyone's trying to figure out this brave new world of agent led growth.
+apps designed to be used inside of the in-app browser of your agent of choice. the agent can use it and you can use it too, full context is shared, and you can both see what the other is doing.
 
-Speaker 2 | 01:24 - 01:45
-So I'm very excited for the conversation. Let's start with So, you serve 10% of the Fortune 500. You have a great sense of your customer and what the average marketer is facing today. Maybe take us through their journey. What did marketing look like in the old days before ChatGPT, and what are marketers having to respond to now?
+huge opportunity to build software here</description>
+      <pubDate>Tue, 28 Apr 2026 20:27:13 +0000</pubDate>
+      <guid isPermaLink="false">2049223933766041688</guid>
+    </item>
+    <item>
+      <title>We're growing the Vercel Labs team. Our mission is to build the devtools of the AI era.  We used to build tools for humans, now we're building them for agents. @ctatedev &amp; team have shipped the tools that agents love: 𝚊𝚐𝚎𝚗𝚝-𝚋𝚛𝚘𝚠𝚜𝚎𝚛, 𝚙𝚘𝚛𝚝𝚕𝚎𝚜𝚜, 𝚜𝚔𝚒𝚕𝚕𝚜, 𝚌𝚑𝚊𝚝, 𝚓𝚞𝚜𝚝-𝚋𝚊𝚜𝚑, 𝚓𝚜𝚘𝚗-𝚛𝚎𝚗𝚍𝚎𝚛… 22.8M+ downloads to...</title>
+      <link>https://x.com/rauchg/status/2049216048831025232</link>
+      <description>作者：Guillermo Rauch
+账号：@rauchg
+简介：@vercel CEO
 
-Speaker 1 | 01:45 - 02:17
-Yeah. Well, thanks for having me on, Sonya. Mean, I think what we're witnessing is the biggest platform shift in the history of marketing as the world turns from blue link search, like predetermined blue link search to probabilistic AI responses. And it's and it's more than that as well. It's not just kind of a case of do you show up when someone asks ChatGPT about your category.
+We're growing the Vercel Labs team. Our mission is to build the devtools of the AI era.
 
-Speaker 1 | 02:17 - 03:01
-It's, you know, what does ChatGPT say, or how does Claude, you know, recommend your software, for example, if you're talking about coding tools. It's it's it's the these models are really replacing you know, it's the agents and super intelligence is replacing the role of the consumer. It's not so much that the front door of the Internet has changed. It's actually the person that's going through the door has changed. It's gone from being a consumer that is using a list of blue links to discover your website and click into it, to an agent is now using a similar index and discovering your brand, products and services, then coming back through the door and maintaining that relationship with the consumer.
+We used to build tools for humans, now we're building them for agents. @ctatedev &amp; team have shipped the tools that agents love: 𝚊𝚐𝚎𝚗𝚝-𝚋𝚛𝚘𝚠𝚜𝚎𝚛, 𝚙𝚘𝚛𝚝𝚕𝚎𝚜𝚜, 𝚜𝚔𝚒𝚕𝚕𝚜, 𝚌𝚑𝚊𝚝, 𝚓𝚞𝚜𝚝-𝚋𝚊𝚜𝚑, 𝚓𝚜𝚘𝚗-𝚛𝚎𝚗𝚍𝚎𝚛… 22.8M+ downloads to date.
 
-Speaker 2 | 03:02 - 03:13
-That's so fascinating. Okay. So your point is Chattypie may be the new front door, but the thing that's important for marketers is you now have an agent walking through that door and making a big part of that buying decision for you.
+Dream job. DMs open 😀</description>
+      <pubDate>Tue, 28 Apr 2026 19:55:53 +0000</pubDate>
+      <guid isPermaLink="false">2049216048831025232</guid>
+    </item>
+    <item>
+      <title>Very interested in this  I used to build web apps with GUI; now I just share GitHub repos with the code and people can customize the UI however they like  Kind of like Karpathy's &quot;idea file&quot;: just write down the idea, and people's agents can build it for them in a customized way https://t.co/Rsxt1ky...</title>
+      <link>https://x.com/zarazhangrui/status/2049186121314415054</link>
+      <description>作者：Zara Zhang
+账号：@zarazhangrui
+简介：Builder. Dangerously skips permissions. Harvard’17. GitHub: https://t.co/KCuEajezlL YouTube: https://t.co/8xzbGWtf6w
 
-Speaker 1 | 03:14 - 03:31
-Yeah. I think that's fundamental difference. It's that the Internet has remained the same. It's just who is using the Internet. When you ask ChatGPT a question or Gemini a question, what you're essentially doing is asking an agent to go and crawl the Internet on your behalf.
+Very interested in this
 
-Speaker 1 | 03:31 - 03:48
-And there is an agent that's going to visit all of those websites that you used to visit. And it's an agent that's going to determine if that's useful or this is useful, and remix all of that information into an answer that it spits out to you as, know, here you go.
+I used to build web apps with GUI; now I just share GitHub repos with the code and people can customize the UI however they like
 
-Speaker 2 | 03:48 - 03:57
-Yeah. What do you think is the biggest misconception people have about what it takes to show up well for this new agentic paradigm?
+Kind of like Karpathy's &quot;idea file&quot;: just write down the idea, and people's agents can build it for them in a customized way https://t.co/Rsxt1kyrM8</description>
+      <pubDate>Tue, 28 Apr 2026 17:56:58 +0000</pubDate>
+      <guid isPermaLink="false">2049186121314415054</guid>
+    </item>
+    <item>
+      <title>No one will believe me but this happened this morning..  X (clearly a founder): I’m talking to all the Tier 1 VCs - and have second meetings.   Y (angel, friend maybe): You mean the neolab index funds?  💀  📌 Sightglass on 7th St</title>
+      <link>https://x.com/nikunj/status/2049179647519125976</link>
+      <description>作者：Nikunj Kothari
+账号：@nikunj
+简介：partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian &amp; others. love @shimoleejhaveri + 👦👧
 
-Speaker 1 | 03:58 - 04:31
-Think the biggest misconception is that it's just SEO. You know, there there's a reason why that misconception exists because, yeah, of course, you still you know, in in any world of marketing and discovery, there is an impetus on a brand or, you know, the yeah. You said we work with is is close to 12% of the Fortune 500 now. Their marketing teams use ProFound. And in any world, the solution to a problem is to create content, distribute content on your own own channels or, you know, earned media or social channels, etcetera.
+No one will believe me but this happened this morning..
 
-Speaker 1 | 04:31 - 05:05
-So they're very similar levers to what we've seen with SEO. And, yes, ranking on the index still matters. It's just that the human consumer is no longer using the web. And you are building content that may quite literally never be consumed by a human. And I think the fundamental difference between SEO and this new world is that in SEO, you were building content that was designed to be, you know, picked up by an algorithm, but fundamentally consumed by a human.
+X (clearly a founder): I’m talking to all the Tier 1 VCs - and have second meetings. 
 
-Speaker 1 | 05:06 - 05:15
-Whereas in this new world, you are building content that is frankly designed entirely to be both discovered and then consumed by an agent.
+Y (angel, friend maybe): You mean the neolab index funds?
 
-Speaker 2 | 05:15 - 05:36
-And what does that mean? So I would imagine humans are less patient than agents. I imagine humans are more prone to emotional biases and being swayed by language than agents. Like, what the biggest differences between how humans and how agents consume the Internet that marketers should keep in mind?
+💀
 
-Speaker 1 | 05:37 - 06:00
-It's understanding that an agent crawling the web, looking for an answer or providing an answer, frankly, will discover information differently to a human. And so it uses the index differently to us. In the old world of SEO, you know, 95 of the value is being in that top four blue links. Yep. The top five blue links.
+📌 Sightglass on 7th St</description>
+      <pubDate>Tue, 28 Apr 2026 17:31:14 +0000</pubDate>
+      <guid isPermaLink="false">2049179647519125976</guid>
+    </item>
+    <item>
+      <title>The slides are actually really good. I used to pay people to make me slides and the process was always frustrating, but now I actually enjoy making them. https://t.co/vILNW8SC6u</title>
+      <link>https://x.com/amasad/status/2049168449709170874</link>
+      <description>作者：Amjad Masad
+账号：@amasad
+简介：ceo @replit. civilizationist
 
-Speaker 1 | 06:01 - 06:07
-And that really is a function of our scarce cognitive energy and patience and our lack of time.
+The slides are actually really good. I used to pay people to make me slides and the process was always frustrating, but now I actually enjoy making them. https://t.co/vILNW8SC6u</description>
+      <pubDate>Tue, 28 Apr 2026 16:46:44 +0000</pubDate>
+      <guid isPermaLink="false">2049168449709170874</guid>
+    </item>
+    <item>
+      <title>Agentic coding is a huge boon for software developers that want to get far more done, great for IT people to build vastly more custom systems internally, great for domain experts that want to automate workflows or wire systems together, and absolutely fantastic for anyone curious to learn how to sta...</title>
+      <link>https://x.com/levie/status/2049163935182733396</link>
+      <description>作者：Aaron Levie
+账号：@levie
+简介：ceo @box - your business lives in content. unleash it with AI
 
-Speaker 2 | 06:07 - 06:07
-Yep.
+Agentic coding is a huge boon for software developers that want to get far more done, great for IT people to build vastly more custom systems internally, great for domain experts that want to automate workflows or wire systems together, and absolutely fantastic for anyone curious to learn how to start coding. 
 
-Speaker 1 | 06:08 - 06:42
-Where an agent is using that index, what we've seen is Chatuchipiti or Gemini or Claude are far more prone to using the long tail of the Internet. And the amount of surface area that an agent will use to answer a question is orders of magnitude wider than a human. Like, for instance, probably about three or four months ago, I was looking for a showerhead for my apartment in New York City, and I used ChatGPT to help me find a new showerhead, and it used 65 different web pages to answer that question.
+What it’s less great for is casually building complex software that you have to maintain on an ongoing basis and take on all the risk for. Upgrades, maintenance, keeping up to date with latest security issues, and so on, are taxes most knowledge workers aren’t familiar with or prepared for.
 
-Speaker 2 | 06:42 - 06:50
-Wow. I think I probably went through 65 web pages on my own for that query. It's a very important purchase.
+Net net: we’re going to get 100X more software and vastly more software developers in the future. But that’s different from *everyone* rolling their own.</description>
+      <pubDate>Tue, 28 Apr 2026 16:28:48 +0000</pubDate>
+      <guid isPermaLink="false">2049163935182733396</guid>
+    </item>
+    <item>
+      <title>More connectors launching today: Adobe Creative Cloud, Ableton, Splice, Canva Affinity, SketchUp, and Resolume.  We've also joined the Blender Development Fund as a patron to support open-source development of the software.  Read more: https://t.co/vg3l9MWNTg</title>
+      <link>https://x.com/claudeai/status/2049143442601546054</link>
+      <description>作者：Claude
+账号：@claudeai
+简介：Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Talk to Claude on https://t.co/ZhTwG8d1e5 or download the app.
 
-Speaker 1 | 06:51 - 07:16
-And it's that marketers need to understand that you are building marketing for a superintelligent agent with infinite bandwidth with know, as the cost of inference goes down as well and we, you know, experience Moore's Law, Moore's Law continues, we're we're gonna see agents only use more and more of the Internet to build rich answers.
+More connectors launching today: Adobe Creative Cloud, Ableton, Splice, Canva Affinity, SketchUp, and Resolume.
 
-Speaker 2 | 07:16 - 07:35
-Yeah. Totally. Fascinating. Are there certain categories you you mentioned you served 12% of the Fortune five hundred. Are there certain categories where people are seeing more success in terms of these agentic search results actually driving meaningful traffic to them and then certain categories where it's really more still traditional SEO world?
+We've also joined the Blender Development Fund as a patron to support open-source development of the software.
 
-Speaker 1 | 07:36 - 07:58
-I mean, this is across the board now. So, you know, I think when we began, we saw more demand from software companies. And I'd say today, we, yeah, we work with every single category, every single sector you can imagine, finance, consumer, CPG, software, that's B2B as well, that B2B direct to consumer.
+Read more: https://t.co/vg3l9MWNTg</description>
+      <pubDate>Tue, 28 Apr 2026 15:07:22 +0000</pubDate>
+      <guid isPermaLink="false">2049143442601546054</guid>
+    </item>
+    <item>
+      <title>With the Autodesk Fusion connector, designers and engineers can create and modify 3D models through conversation. https://t.co/0LTEBmjs6R</title>
+      <link>https://x.com/claudeai/status/2049143440508616863</link>
+      <description>作者：Claude
+账号：@claudeai
+简介：Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Talk to Claude on https://t.co/ZhTwG8d1e5 or download the app.
 
-Speaker 2 | 07:59 - 08:08
-And is the impact relatively consistent across the board, are there certain categories or subcategories that are much more influenced by agentic search?
+With the Autodesk Fusion connector, designers and engineers can create and modify 3D models through conversation. https://t.co/0LTEBmjs6R</description>
+      <pubDate>Tue, 28 Apr 2026 15:07:22 +0000</pubDate>
+      <guid isPermaLink="false">2049143440508616863</guid>
+    </item>
+    <item>
+      <title>Claude now connects to the tools creative professionals already use.  With the new Blender connector, you can debug a scene, build new tools, or batch-apply changes across every object, directly from Claude. https://t.co/Kc3cBHTNpV</title>
+      <link>https://x.com/claudeai/status/2049143438281445811</link>
+      <description>作者：Claude
+账号：@claudeai
+简介：Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Talk to Claude on https://t.co/ZhTwG8d1e5 or download the app.
 
-Speaker 1 | 08:08 - 08:37
-I think consumer consideration is an important vector here. So if you have a high consideration or a high ticket purchase, think consumer electronics or auto, cars, white goods, anything that would typic...</description>
-      <pubDate>Tue, 14 Apr 2026 09:00:00 +0000</pubDate>
-      <guid>https://www.youtube.com/watch?v=RyTwRCKeDo4</guid>
+Claude now connects to the tools creative professionals already use.
+
+With the new Blender connector, you can debug a scene, build new tools, or batch-apply changes across every object, directly from Claude. https://t.co/Kc3cBHTNpV</description>
+      <pubDate>Tue, 28 Apr 2026 15:07:21 +0000</pubDate>
+      <guid isPermaLink="false">2049143438281445811</guid>
+    </item>
+    <item>
+      <title>The luxury of having excess compute https://t.co/GGPrHA54z7</title>
+      <link>https://x.com/thenanyu/status/2049075513444999515</link>
+      <description>作者：Nan Yu
+账号：@thenanyu
+简介：head of product @linear
+
+The luxury of having excess compute https://t.co/GGPrHA54z7</description>
+      <pubDate>Tue, 28 Apr 2026 10:37:27 +0000</pubDate>
+      <guid isPermaLink="false">2049075513444999515</guid>
     </item>
   </channel>
 </rss>
