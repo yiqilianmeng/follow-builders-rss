@@ -5,7 +5,7 @@
     <link>https://github.com/zarazhangrui/follow-builders</link>
     <description>聚合 AI 领域建设者的 X、播客和博客内容。</description>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 29 Apr 2026 13:20:08 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Apr 2026 19:07:02 +0000</lastBuildDate>
     <item>
       <title>codex now runs on each commit we land, reviews it - and if a booboo is found, a new codex spins up and (if still relevant) makes a PR for the fix.   Then a review agent spins up. If an issue is found, another agent will fix the issues. (up to 5 loops) https://t.co/k6o7tNcDyf</title>
       <link>https://x.com/steipete/status/2049356949523730699</link>
