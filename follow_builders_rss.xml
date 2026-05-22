@@ -5,511 +5,559 @@
     <link>https://github.com/zarazhangrui/follow-builders</link>
     <description>聚合 AI 领域建设者的 X、播客和博客内容。</description>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 22 May 2026 02:08:41 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 22 May 2026 08:46:58 +0000</lastBuildDate>
     <item>
-      <title>I think that in an AI-native team, - ICs should start thinking like managers: how to delegate tasks to agents, how to set standards &amp;amp; verify output - Managers should start thinking like ICs: how to be more hands-on builders instead of just doing people management</title>
-      <link>https://x.com/zarazhangrui/status/2057324988009685208</link>
+      <title>GitHub: https://t.co/w84jJfXdMy</title>
+      <link>https://x.com/zarazhangrui/status/2057710468064825417</link>
       <description>作者：Zara Zhang
 账号：@zarazhangrui
 简介：Builder. Dangerously skips permissions. Harvard’17. GitHub: https://t.co/KCuEajezlL YouTube: https://t.co/8xzbGWtf6w
 
-I think that in an AI-native team,
-- ICs should start thinking like managers: how to delegate tasks to agents, how to set standards &amp;amp; verify output
-- Managers should start thinking like ICs: how to be more hands-on builders instead of just doing people management</description>
-      <pubDate>Thu, 21 May 2026 04:57:55 +0000</pubDate>
-      <guid isPermaLink="false">2057324988009685208</guid>
+GitHub: https://t.co/w84jJfXdMy</description>
+      <pubDate>Fri, 22 May 2026 06:29:40 +0000</pubDate>
+      <guid isPermaLink="false">2057710468064825417</guid>
     </item>
     <item>
-      <title>Great post on FDEs. Everyone should read it if you’re interested in this job category. This is a job that is going to be around as long as AI keeps changing rapidly, which it inevitably will.   People often wonder why isn’t this like just deploying other forms of technology in the past, like cloud. ...</title>
-      <link>https://x.com/levie/status/2057315272156135501</link>
-      <description>作者：Aaron Levie
-账号：@levie
-简介：ceo @box - your business lives in content. unleash it with AI
+      <title>Introducing the Claude Code Lark/Feishu Bridge 🌉 (open-source)  Talk to Claude Code in Lark/Feishu like a colleague - Use Claude Code on your phone via Lark chat - Manage multiple CC sessions as group chats in Lark (one chat = one session), say goodbye to messy terminal tabs - Claude Code can read a...</title>
+      <link>https://x.com/zarazhangrui/status/2057710284920520906</link>
+      <description>作者：Zara Zhang
+账号：@zarazhangrui
+简介：Builder. Dangerously skips permissions. Harvard’17. GitHub: https://t.co/KCuEajezlL YouTube: https://t.co/8xzbGWtf6w
 
-Great post on FDEs. Everyone should read it if you’re interested in this job category. This is a job that is going to be around as long as AI keeps changing rapidly, which it inevitably will. 
+Introducing the Claude Code Lark/Feishu Bridge 🌉 (open-source)
 
-People often wonder why isn’t this like just deploying other forms of technology in the past, like cloud. 
+Talk to Claude Code in Lark/Feishu like a colleague
+- Use Claude Code on your phone via Lark chat
+- Manage multiple CC sessions as group chats in Lark (one chat = one session), say goodbye to messy terminal tabs
+- Claude Code can read all your work context in Lark (chat, docs, meeting transcripts, etc) via CLI
+- Claude Code can write Lark Docs for you; you can even @ mention it in the comment and it will reply
+- Forward any Lark messages to Claude and it can just get the task done
+- Claude can send you interactive cards with buttons and UI
 
-Because something like cloud adoption affected a fairly concentrated set of users (developers and IT), and generally didn’t require a fundamental change to the workflows of employees to get the benefits of the new service being delivered on the cloud. At best you went to one training session and you were done. 
-
-With agents, the work to implement them is not only highly technical, but they directly impact the underlying workflows that people participate in. This means there’s a ton of technical work and change management that comes with it.
-
-Further, the pace of change of cloud wasn’t nearly as quick, so there was a lot more time for best practices to propagate. Now, every model change means either something new can be done that wasn’t possible before, or some piece of scaffolding is now redundant or holding you back. 
-
-This is why it’s commonly easier for a vendor or partner that’s seen the implementation hundreds or thousands of times help do the work, even with internal support from the customer.
-
-So, this job isn’t going away any time soon, and will be a great path for a lot of technical talent, especially early career.</description>
-      <pubDate>Thu, 21 May 2026 04:19:18 +0000</pubDate>
-      <guid isPermaLink="false">2057315272156135501</guid>
+Open-source; try it now: https://t.co/V1eRIg87wx</description>
+      <pubDate>Fri, 22 May 2026 06:28:56 +0000</pubDate>
+      <guid isPermaLink="false">2057710284920520906</guid>
     </item>
     <item>
-      <title>You found it! :) https://t.co/PuszTtkEHs</title>
-      <link>https://x.com/joshwoodward/status/2057297559643922609</link>
-      <description>作者：Josh Woodward
-账号：@joshwoodward
-简介：VP, @Google @GoogleLabs @GeminiApp @GoogleAIStudio
+      <title>How does one engineer become a 1000x founder? @sdianahu and I give you the real goods here  Thanks @AnjneyMidha for having us!  https://t.co/tDh7kr0EKi https://t.co/C2HjO9TrE4</title>
+      <link>https://x.com/garrytan/status/2057701084031004928</link>
+      <description>作者：Garry Tan
+账号：@garrytan
+简介：President &amp; CEO @ycombinator —Founder @garryslist—Creator of GStack &amp; GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop
 
-You found it! :) https://t.co/PuszTtkEHs</description>
-      <pubDate>Thu, 21 May 2026 03:08:55 +0000</pubDate>
-      <guid isPermaLink="false">2057297559643922609</guid>
+How does one engineer become a 1000x founder? @sdianahu and I give you the real goods here
+
+Thanks @AnjneyMidha for having us!
+
+https://t.co/tDh7kr0EKi https://t.co/C2HjO9TrE4</description>
+      <pubDate>Fri, 22 May 2026 05:52:23 +0000</pubDate>
+      <guid isPermaLink="false">2057701084031004928</guid>
     </item>
     <item>
-      <title>Maybe not working at a company that’s doing layoffs and PSC every few months is better for mental health. https://t.co/VI36q5DjzB</title>
-      <link>https://x.com/petergyang/status/2057281238722072912</link>
+      <title>more here https://t.co/gW0xMn7dcI</title>
+      <link>https://x.com/swyx/status/2057700807576043825</link>
+      <description>作者：Swyx
+账号：@swyx
+简介：achieve ambition with intentionality, intensity, integrity &amp; insanity.
+
+affiliations:
+- @dxtipshq 
+- @cognition
+- @temporalio
+- @aidotengineer
+- @latentspacepod
+
+more here https://t.co/gW0xMn7dcI</description>
+      <pubDate>Fri, 22 May 2026 05:51:17 +0000</pubDate>
+      <guid isPermaLink="false">2057700807576043825</guid>
+    </item>
+    <item>
+      <title>Game changer Codex automation 🙂 https://t.co/XUR4q6gI7v</title>
+      <link>https://x.com/petergyang/status/2057674020481593710</link>
       <description>作者：Peter Yang
 账号：@petergyang
 简介：Practical AI tutorials and interviews for busy people | Join 140K+ readers at https://t.co/XYKTmGVH14 | Product at Roblox
 
-Maybe not working at a company that’s doing layoffs and PSC every few months is better for mental health. https://t.co/VI36q5DjzB</description>
-      <pubDate>Thu, 21 May 2026 02:04:04 +0000</pubDate>
-      <guid isPermaLink="false">2057281238722072912</guid>
+Game changer Codex automation 🙂 https://t.co/XUR4q6gI7v</description>
+      <pubDate>Fri, 22 May 2026 04:04:50 +0000</pubDate>
+      <guid isPermaLink="false">2057674020481593710</guid>
     </item>
     <item>
-      <title>Glad you're liking it! https://t.co/frWPevQkQa</title>
-      <link>https://x.com/joshwoodward/status/2057280348158063071</link>
+      <title>What’s happened is that we went from AI chat tools that were relatively cheap and had small context windows, to AI agents that have giant context windows, the ability to keep track of longer running work, and models that cost an order of magnitude more on inference because they’re that much better. ...</title>
+      <link>https://x.com/levie/status/2057663408376516703</link>
+      <description>作者：Aaron Levie
+账号：@levie
+简介：ceo @box - your business lives in content. unleash it with AI
+
+What’s happened is that we went from AI chat tools that were relatively cheap and had small context windows, to AI agents that have giant context windows, the ability to keep track of longer running work, and models that cost an order of magnitude more on inference because they’re that much better.
+
+This has compounded far faster than most realized (unless you were paying close attention at the middle or end of last year, which many here were), and the dollars flowing in now are much more real. 
+
+What follows is a continued march of AI capability that will continue to be used by anyone with a frontier use-case (like coding, sciences, finance, consulting) and then a peeling off of tasks to lower cost models that are capable enough for the job. Whereas we thought the cost of AI might converge on a single low price per token before, it’s clear the stratification is only widening based on the task you need performed. 
+
+This will be yet another component that has to be figured out for broad AI diffusion. Enterprises will need to put in programs, new finance teams, and technology solutions to manage this all. The labs and platforms that can ensure customers can price optimize for the task at hand will be in the best position.</description>
+      <pubDate>Fri, 22 May 2026 03:22:40 +0000</pubDate>
+      <guid isPermaLink="false">2057663408376516703</guid>
+    </item>
+    <item>
+      <title>San Francisco is safer because of Flock Safety. Every city can be safer. We don't have to choose a world where people are unsafe. It is a choice, though. https://t.co/e2lWEbFHUu https://t.co/g3JrMqxwtm</title>
+      <link>https://x.com/garrytan/status/2057639198782521837</link>
+      <description>作者：Garry Tan
+账号：@garrytan
+简介：President &amp; CEO @ycombinator —Founder @garryslist—Creator of GStack &amp; GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop
+
+San Francisco is safer because of Flock Safety. Every city can be safer. We don't have to choose a world where people are unsafe. It is a choice, though. https://t.co/e2lWEbFHUu https://t.co/g3JrMqxwtm</description>
+      <pubDate>Fri, 22 May 2026 01:46:28 +0000</pubDate>
+      <guid isPermaLink="false">2057639198782521837</guid>
+    </item>
+    <item>
+      <title>Everyone should have an agent with a GBrain https://t.co/xl2r77u1Q6</title>
+      <link>https://x.com/garrytan/status/2057636167525498961</link>
+      <description>作者：Garry Tan
+账号：@garrytan
+简介：President &amp; CEO @ycombinator —Founder @garryslist—Creator of GStack &amp; GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop
+
+Everyone should have an agent with a GBrain https://t.co/xl2r77u1Q6</description>
+      <pubDate>Fri, 22 May 2026 01:34:26 +0000</pubDate>
+      <guid isPermaLink="false">2057636167525498961</guid>
+    </item>
+    <item>
+      <title>—dangerously-skip-git</title>
+      <link>https://x.com/swyx/status/2057633220221624596</link>
+      <description>作者：Swyx
+账号：@swyx
+简介：achieve ambition with intentionality, intensity, integrity &amp; insanity.
+
+affiliations:
+- @dxtipshq 
+- @cognition
+- @temporalio
+- @aidotengineer
+- @latentspacepod
+
+—dangerously-skip-git</description>
+      <pubDate>Fri, 22 May 2026 01:22:43 +0000</pubDate>
+      <guid isPermaLink="false">2057633220221624596</guid>
+    </item>
+    <item>
+      <title>~20 years ago I submitted a story that made it to the top of @digg   Feels good to be back! https://t.co/mF2M6AVxey</title>
+      <link>https://x.com/danshipper/status/2057631479052517507</link>
+      <description>作者：Dan Shipper
+账号：@danshipper
+简介：ceo @every | the only subscription you need to stay at the edge of AI
+
+~20 years ago I submitted a story that made it to the top of @digg 
+
+Feels good to be back! https://t.co/mF2M6AVxey</description>
+      <pubDate>Fri, 22 May 2026 01:15:48 +0000</pubDate>
+      <guid isPermaLink="false">2057631479052517507</guid>
+    </item>
+    <item>
+      <title>Monetize your apps and we’ll give you credit rewards. https://t.co/rV70dbQyiH</title>
+      <link>https://x.com/amasad/status/2057616724757827826</link>
+      <description>作者：Amjad Masad
+账号：@amasad
+简介：ceo @replit. civilizationist
+
+Monetize your apps and we’ll give you credit rewards. https://t.co/rV70dbQyiH</description>
+      <pubDate>Fri, 22 May 2026 00:17:10 +0000</pubDate>
+      <guid isPermaLink="false">2057616724757827826</guid>
+    </item>
+    <item>
+      <title>https://t.co/Gu7QVoCtKg</title>
+      <link>https://x.com/nikunj/status/2057614845739229385</link>
+      <description>作者：Nikunj Kothari
+账号：@nikunj
+简介：partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian &amp; others. love @shimoleejhaveri + 👦👧
+
+https://t.co/Gu7QVoCtKg</description>
+      <pubDate>Fri, 22 May 2026 00:09:42 +0000</pubDate>
+      <guid isPermaLink="false">2057614845739229385</guid>
+    </item>
+    <item>
+      <title>what problem do you most hope AI will solve in the future?  maybe we can help!</title>
+      <link>https://x.com/sama/status/2057614780727480741</link>
+      <description>作者：Sam Altman
+账号：@sama
+简介：AI is cool i guess
+
+what problem do you most hope AI will solve in the future?
+
+maybe we can help!</description>
+      <pubDate>Fri, 22 May 2026 00:09:27 +0000</pubDate>
+      <guid isPermaLink="false">2057614780727480741</guid>
+    </item>
+    <item>
+      <title>https://t.co/bG91sDpe2g</title>
+      <link>https://x.com/petergyang/status/2057608633333199096</link>
+      <description>作者：Peter Yang
+账号：@petergyang
+简介：Practical AI tutorials and interviews for busy people | Join 140K+ readers at https://t.co/XYKTmGVH14 | Product at Roblox
+
+https://t.co/bG91sDpe2g</description>
+      <pubDate>Thu, 21 May 2026 23:45:01 +0000</pubDate>
+      <guid isPermaLink="false">2057608633333199096</guid>
+    </item>
+    <item>
+      <title>i think this stack has won the localfirst battle btw. maybe more chapters to this story but i think this is it if you are building fast apps fast https://t.co/j6SadqAMpj</title>
+      <link>https://x.com/swyx/status/2057576893621150020</link>
+      <description>作者：Swyx
+账号：@swyx
+简介：achieve ambition with intentionality, intensity, integrity &amp; insanity.
+
+affiliations:
+- @dxtipshq 
+- @cognition
+- @temporalio
+- @aidotengineer
+- @latentspacepod
+
+i think this stack has won the localfirst battle btw. maybe more chapters to this story but i think this is it if you are building fast apps fast https://t.co/j6SadqAMpj</description>
+      <pubDate>Thu, 21 May 2026 21:38:54 +0000</pubDate>
+      <guid isPermaLink="false">2057576893621150020</guid>
+    </item>
+    <item>
+      <title>What a ride for @GoogleLabs at IO! Hope you're enjoying lots of the new stuff! https://t.co/LiXkqwjTpr</title>
+      <link>https://x.com/joshwoodward/status/2057564491064483930</link>
       <description>作者：Josh Woodward
 账号：@joshwoodward
 简介：VP, @Google @GoogleLabs @GeminiApp @GoogleAIStudio
 
-Glad you're liking it! https://t.co/frWPevQkQa</description>
-      <pubDate>Thu, 21 May 2026 02:00:32 +0000</pubDate>
-      <guid isPermaLink="false">2057280348158063071</guid>
+What a ride for @GoogleLabs at IO! Hope you're enjoying lots of the new stuff! https://t.co/LiXkqwjTpr</description>
+      <pubDate>Thu, 21 May 2026 20:49:37 +0000</pubDate>
+      <guid isPermaLink="false">2057564491064483930</guid>
     </item>
     <item>
-      <title>Great slide from the “How to thrive as an AI-era developer” session at Google I/O today  I think this T-shape will apply to not just developers but every job function  We need to  - go deeper with our domain expertise  - go wider with adjacent skills and fields - learn to use AI well on top</title>
-      <link>https://x.com/zarazhangrui/status/2057267931025957348</link>
-      <description>作者：Zara Zhang
-账号：@zarazhangrui
-简介：Builder. Dangerously skips permissions. Harvard’17. GitHub: https://t.co/KCuEajezlL YouTube: https://t.co/8xzbGWtf6w
-
-Great slide from the “How to thrive as an AI-era developer” session at Google I/O today
-
-I think this T-shape will apply to not just developers but every job function
-
-We need to 
-- go deeper with our domain expertise 
-- go wider with adjacent skills and fields
-- learn to use AI well on top</description>
-      <pubDate>Thu, 21 May 2026 01:11:11 +0000</pubDate>
-      <guid isPermaLink="false">2057267931025957348</guid>
-    </item>
-    <item>
-      <title>If you don't have time to read 308 pages of the @SpaceX S-1, here's a summary that Claude helped me put together based on the most interesting findings 🚀 https://t.co/ByhTPsspBk</title>
-      <link>https://x.com/nikunj/status/2057242868293816569</link>
-      <description>作者：Nikunj Kothari
-账号：@nikunj
-简介：partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian &amp; others. love @shimoleejhaveri + 👦👧
-
-If you don't have time to read 308 pages of the @SpaceX S-1, here's a summary that Claude helped me put together based on the most interesting findings 🚀 https://t.co/ByhTPsspBk</description>
-      <pubDate>Wed, 20 May 2026 23:31:36 +0000</pubDate>
-      <guid isPermaLink="false">2057242868293816569</guid>
-    </item>
-    <item>
-      <title>Idea fusion is fun, and idea fusion with LSD (lateral synaptic drift) is even more fun https://t.co/QHw0OXD7WB</title>
-      <link>https://x.com/garrytan/status/2057238298805129383</link>
-      <description>作者：Garry Tan
-账号：@garrytan
-简介：President &amp; CEO @ycombinator —Founder @garryslist—Creator of GStack &amp; GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop
-
-Idea fusion is fun, and idea fusion with LSD (lateral synaptic drift) is even more fun https://t.co/QHw0OXD7WB</description>
-      <pubDate>Wed, 20 May 2026 23:13:26 +0000</pubDate>
-      <guid isPermaLink="false">2057238298805129383</guid>
-    </item>
-    <item>
-      <title>three of the things we are most excited about:  1. AGI accelerating research 2. AGI accelerating companies 3. personal AGI accelerating everyone in achieving their goals  today it was great to announce the unit distance result.  yesterday it was great to announce that we are offering to invest $2M i...</title>
-      <link>https://x.com/sama/status/2057218997503086888</link>
+      <title>new codex ships today! https://t.co/7P6g6SiGsl</title>
+      <link>https://x.com/sama/status/2057559714788258003</link>
       <description>作者：Sam Altman
 账号：@sama
 简介：AI is cool i guess
 
-three of the things we are most excited about:
-
-1. AGI accelerating research
-2. AGI accelerating companies
-3. personal AGI accelerating everyone in achieving their goals
-
-today it was great to announce the unit distance result.
-
-yesterday it was great to announce that we are offering to invest $2M in openai credits into every YC company.
-
-now we need to increase our efforts on the third!</description>
-      <pubDate>Wed, 20 May 2026 21:56:44 +0000</pubDate>
-      <guid isPermaLink="false">2057218997503086888</guid>
+new codex ships today! https://t.co/7P6g6SiGsl</description>
+      <pubDate>Thu, 21 May 2026 20:30:38 +0000</pubDate>
+      <guid isPermaLink="false">2057559714788258003</guid>
     </item>
     <item>
-      <title>From playing the games to designing the games in minutes. Just choose your characters, set the scene, and let Project Genie do the rest. The transformation is wild 🦒  See Genie in action at this year's Google I/O sandbox: https://t.co/wUPRSplEch</title>
-      <link>https://x.com/GoogleLabs/status/2057218835074437573</link>
-      <description>作者：Google Labs
-账号：@GoogleLabs
-简介：Google’s home for our latest AI tools and experiments.
+      <title>♥️ ♥️♥️  iOS, Android, and Web - so fun to see people loving the new Neural Expressive design! https://t.co/KjetFYo934</title>
+      <link>https://x.com/joshwoodward/status/2057559267952214073</link>
+      <description>作者：Josh Woodward
+账号：@joshwoodward
+简介：VP, @Google @GoogleLabs @GeminiApp @GoogleAIStudio
 
-From playing the games to designing the games in minutes. Just choose your characters, set the scene, and let Project Genie do the rest. The transformation is wild 🦒
+♥️ ♥️♥️
 
-See Genie in action at this year's Google I/O sandbox: https://t.co/wUPRSplEch</description>
-      <pubDate>Wed, 20 May 2026 21:56:06 +0000</pubDate>
-      <guid isPermaLink="false">2057218835074437573</guid>
+iOS, Android, and Web - so fun to see people loving the new Neural Expressive design! https://t.co/KjetFYo934</description>
+      <pubDate>Thu, 21 May 2026 20:28:51 +0000</pubDate>
+      <guid isPermaLink="false">2057559267952214073</guid>
     </item>
     <item>
-      <title>This will bring AI to 42% of the web. Every model, every provider, every modality (text, image, video, audio). https://t.co/0w3UOLwAQO</title>
-      <link>https://x.com/rauchg/status/2057212335811620987</link>
-      <description>作者：Guillermo Rauch
-账号：@rauchg
-简介：@vercel CEO
+      <title>Ok trying this out https://t.co/JZCScTHVCr</title>
+      <link>https://x.com/petergyang/status/2057527562642071792</link>
+      <description>作者：Peter Yang
+账号：@petergyang
+简介：Practical AI tutorials and interviews for busy people | Join 140K+ readers at https://t.co/XYKTmGVH14 | Product at Roblox
 
-This will bring AI to 42% of the web. Every model, every provider, every modality (text, image, video, audio). https://t.co/0w3UOLwAQO</description>
-      <pubDate>Wed, 20 May 2026 21:30:16 +0000</pubDate>
-      <guid isPermaLink="false">2057212335811620987</guid>
+Ok trying this out https://t.co/JZCScTHVCr</description>
+      <pubDate>Thu, 21 May 2026 18:22:52 +0000</pubDate>
+      <guid isPermaLink="false">2057527562642071792</guid>
     </item>
     <item>
-      <title>The next in a series of firsts for AI and mathematics! https://t.co/rnI21thKxa</title>
-      <link>https://x.com/kevinweil/status/2057206749552066805</link>
-      <description>作者：Kevin Weil
-账号：@kevinweil
-简介：BoD @Cisco @nature_org
-LTC @USArmyReserve
-Ex CPO+Science @OpenAI, Pres @Planet, Head of Product @Instagram @Twitter
-❤️ @elizabeth ultramarathons kids cats math
-
-The next in a series of firsts for AI and mathematics! https://t.co/rnI21thKxa</description>
-      <pubDate>Wed, 20 May 2026 21:08:04 +0000</pubDate>
-      <guid isPermaLink="false">2057206749552066805</guid>
-    </item>
-    <item>
-      <title>a general-purpose model solved a major open problem in mathematics.  we'll be saying this a lot over the coming years, but this is a kinda big milestone.  i'm very excited for AI to greatly extend our understanding of the world, but still, i have complicated feelings today. https://t.co/IpmClBfPKQ</title>
-      <link>https://x.com/sama/status/2057203171198636251</link>
+      <title>the attack at the mosque in san diego is one of the most chilling i have seen.  my deepest condolences to the victims, families, and community.</title>
+      <link>https://x.com/sama/status/2057515035472380237</link>
       <description>作者：Sam Altman
 账号：@sama
 简介：AI is cool i guess
 
-a general-purpose model solved a major open problem in mathematics.
+the attack at the mosque in san diego is one of the most chilling i have seen.
 
-we'll be saying this a lot over the coming years, but this is a kinda big milestone.
-
-i'm very excited for AI to greatly extend our understanding of the world, but still, i have complicated feelings today. https://t.co/IpmClBfPKQ</description>
-      <pubDate>Wed, 20 May 2026 20:53:51 +0000</pubDate>
-      <guid isPermaLink="false">2057203171198636251</guid>
+my deepest condolences to the victims, families, and community.</description>
+      <pubDate>Thu, 21 May 2026 17:33:05 +0000</pubDate>
+      <guid isPermaLink="false">2057515035472380237</guid>
     </item>
     <item>
-      <title>Exa is what I trust for all my agents. We use it at YC. We use it in all my OpenClaw and Hermes Agents. There is no other option that is as fast, as reliable, and as complete.   When your agents need to search the web, accept no substitutes. https://t.co/3LtJucCenk</title>
-      <link>https://x.com/garrytan/status/2057202833251000503</link>
-      <description>作者：Garry Tan
-账号：@garrytan
-简介：President &amp; CEO @ycombinator —Founder @garryslist—Creator of GStack &amp; GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop
+      <title>We’re always excited to talk to customers but you shouldn’t be forced to talk to us to buy the product. https://t.co/LbpQnALHx0</title>
+      <link>https://x.com/amasad/status/2057504360217891018</link>
+      <description>作者：Amjad Masad
+账号：@amasad
+简介：ceo @replit. civilizationist
 
-Exa is what I trust for all my agents. We use it at YC. We use it in all my OpenClaw and Hermes Agents. There is no other option that is as fast, as reliable, and as complete. 
-
-When your agents need to search the web, accept no substitutes. https://t.co/3LtJucCenk</description>
-      <pubDate>Wed, 20 May 2026 20:52:31 +0000</pubDate>
-      <guid isPermaLink="false">2057202833251000503</guid>
+We’re always excited to talk to customers but you shouldn’t be forced to talk to us to buy the product. https://t.co/LbpQnALHx0</description>
+      <pubDate>Thu, 21 May 2026 16:50:40 +0000</pubDate>
+      <guid isPermaLink="false">2057504360217891018</guid>
     </item>
     <item>
-      <title>This is a really big deal. https://t.co/cJGoZ7bi6S</title>
-      <link>https://x.com/adityaag/status/2057187787242426555</link>
+      <title>4 thoughts on early-stage hiring:  1/ If an engineer is trying to pick between a pre Series-B company and a BigCo/BigLab --&gt; stop talking to them immediately. They are clearly not ready for a startup.  2/ If someone isn't willing to take a 70% cash paycut (relative to BigCo/BigLab) --&gt; stop talking ...</title>
+      <link>https://x.com/adityaag/status/2057502381038846306</link>
       <description>作者：Aditya Agarwal
 账号：@adityaag
 简介：General Partner @SouthPkCommons, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @Dropbox, Board @Flipkart | Optimist, Builder, Dad
 
-This is a really big deal. https://t.co/cJGoZ7bi6S</description>
-      <pubDate>Wed, 20 May 2026 19:52:43 +0000</pubDate>
-      <guid isPermaLink="false">2057187787242426555</guid>
+4 thoughts on early-stage hiring:
+
+1/ If an engineer is trying to pick between a pre Series-B company and a BigCo/BigLab --&gt; stop talking to them immediately. They are clearly not ready for a startup.
+
+2/ If someone isn't willing to take a 70% cash paycut (relative to BigCo/BigLab) --&gt; stop talking to them immediately. They will be unhappy/stressed.
+
+3/ You learn a lot about a candidate during the negotiation/closing process. Do not be afraid to walk away if you get new information. 
+
+4/ Startups have zero work-life balance. If you are not willing to put in the hours, you are not in the right headspace to grind.</description>
+      <pubDate>Thu, 21 May 2026 16:42:48 +0000</pubDate>
+      <guid isPermaLink="false">2057502381038846306</guid>
     </item>
     <item>
-      <title>pod link and more ctx  https://t.co/SLrKEkYwgU</title>
-      <link>https://x.com/swyx/status/2057180464524456201</link>
-      <description>作者：Swyx
-账号：@swyx
-简介：achieve ambition with intentionality, intensity, integrity &amp; insanity.
+      <title>building software is more fun together  try our new model, interface, sdk, automations with your team https://t.co/jNEoKqrrfe</title>
+      <link>https://x.com/ryolu_/status/2057500107235557675</link>
+      <description>作者：Ryo Lu
+账号：@ryolu_
+简介：Design @Cursor_ai. Early @NotionHQ, @Stripe, built startups. I make a world where anyone can make software. Aspiring k-pop idol.
 
-affiliations:
-- @dxtipshq 
-- @cognition
-- @temporalio
-- @aidotengineer
-- @latentspacepod
+building software is more fun together
 
-pod link and more ctx
-
-https://t.co/SLrKEkYwgU</description>
-      <pubDate>Wed, 20 May 2026 19:23:37 +0000</pubDate>
-      <guid isPermaLink="false">2057180464524456201</guid>
+try our new model, interface, sdk, automations with your team https://t.co/jNEoKqrrfe</description>
+      <pubDate>Thu, 21 May 2026 16:33:46 +0000</pubDate>
+      <guid isPermaLink="false">2057500107235557675</guid>
     </item>
     <item>
-      <title>btw we did a bake off of Exa vs competitors and it took all of 1.5 hrs for the team to unanimously converge on exa lol.   so proud to see my former landlords crush it - time travel back to last year and listen to a pre pmf @WilliamBryk  to understand how to spot companies on a generational tear</title>
-      <link>https://x.com/swyx/status/2057180080078791036</link>
-      <description>作者：Swyx
-账号：@swyx
-简介：achieve ambition with intentionality, intensity, integrity &amp; insanity.
-
-affiliations:
-- @dxtipshq 
-- @cognition
-- @temporalio
-- @aidotengineer
-- @latentspacepod
-
-btw we did a bake off of Exa vs competitors and it took all of 1.5 hrs for the team to unanimously converge on exa lol. 
-
-so proud to see my former landlords crush it - time travel back to last year and listen to a pre pmf @WilliamBryk  to understand how to spot companies on a generational tear</description>
-      <pubDate>Wed, 20 May 2026 19:22:06 +0000</pubDate>
-      <guid isPermaLink="false">2057180080078791036</guid>
-    </item>
-    <item>
-      <title>We love seeing all of the worlds you’ve been creating with Genie.  SO much so, that we’re excited to announce Project Genie is now fully available to all Google AI Ultra subscribers globally (18+). https://t.co/C4ThmmmRNg</title>
-      <link>https://x.com/GoogleLabs/status/2057179491693470166</link>
-      <description>作者：Google Labs
-账号：@GoogleLabs
-简介：Google’s home for our latest AI tools and experiments.
-
-We love seeing all of the worlds you’ve been creating with Genie.
-
-SO much so, that we’re excited to announce Project Genie is now fully available to all Google AI Ultra subscribers globally (18+). https://t.co/C4ThmmmRNg</description>
-      <pubDate>Wed, 20 May 2026 19:19:46 +0000</pubDate>
-      <guid isPermaLink="false">2057179491693470166</guid>
-    </item>
-    <item>
-      <title>The benefits of AI are real now, but we will never get there in the United States (and America will cede its leadership) if we can't solve the bigger media issue of a mass smokescreen by forces that want to destroy America https://t.co/NUoNmWSRR0 https://t.co/jKpuDlcstN</title>
-      <link>https://x.com/garrytan/status/2057168328226230520</link>
-      <description>作者：Garry Tan
-账号：@garrytan
-简介：President &amp; CEO @ycombinator —Founder @garryslist—Creator of GStack &amp; GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop
-
-The benefits of AI are real now, but we will never get there in the United States (and America will cede its leadership) if we can't solve the bigger media issue of a mass smokescreen by forces that want to destroy America https://t.co/NUoNmWSRR0 https://t.co/jKpuDlcstN</description>
-      <pubDate>Wed, 20 May 2026 18:35:24 +0000</pubDate>
-      <guid isPermaLink="false">2057168328226230520</guid>
-    </item>
-    <item>
-      <title>It was amazing to have Feross do his -1 journey @southpkcommons and to have been an early partner.  Very proud of the progress the company has made.  Lots to build! https://t.co/FOsPpGvexn</title>
-      <link>https://x.com/adityaag/status/2057141903334990327</link>
-      <description>作者：Aditya Agarwal
-账号：@adityaag
-简介：General Partner @SouthPkCommons, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @Dropbox, Board @Flipkart | Optimist, Builder, Dad
-
-It was amazing to have Feross do his -1 journey @southpkcommons and to have been an early partner.
-
-Very proud of the progress the company has made.
-
-Lots to build! https://t.co/FOsPpGvexn</description>
-      <pubDate>Wed, 20 May 2026 16:50:24 +0000</pubDate>
-      <guid isPermaLink="false">2057141903334990327</guid>
-    </item>
-    <item>
-      <title>Being a founder is so freaking hard man.. chewing glass every day. If you fail, no one cares. If you succeed, you are given way more problems. Sometimes I really wonder how many founders wake up in the morning and ask themselves &quot;is it really worth it&quot;.   Starting a company is so glorified - but bui...</title>
-      <link>https://x.com/nikunj/status/2057134939875991973</link>
-      <description>作者：Nikunj Kothari
-账号：@nikunj
-简介：partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian &amp; others. love @shimoleejhaveri + 👦👧
-
-Being a founder is so freaking hard man.. chewing glass every day. If you fail, no one cares. If you succeed, you are given way more problems. Sometimes I really wonder how many founders wake up in the morning and ask themselves &quot;is it really worth it&quot;. 
-
-Starting a company is so glorified - but building, scaling and maintaining one is a different story. This is why it's so important to do this for the right reasons - solve problems you are deeply passionate about and one you'll do even if the world is against you. At least there will be light at the end of the tunnel that's constantly drawing you in on those days when you are questioning your motivation. 
-
-I have never had the courage to personally start a company for this reason. Just wanted to say to the ones going through this - I see you, I salute you and I admire you 🫡</description>
-      <pubDate>Wed, 20 May 2026 16:22:44 +0000</pubDate>
-      <guid isPermaLink="false">2057134939875991973</guid>
-    </item>
-    <item>
-      <title>Apply to @southpkcommons if you'd like to join us https://t.co/xWaXyqC7Rj</title>
-      <link>https://x.com/adityaag/status/2057125943773180348</link>
-      <description>作者：Aditya Agarwal
-账号：@adityaag
-简介：General Partner @SouthPkCommons, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @Dropbox, Board @Flipkart | Optimist, Builder, Dad
-
-Apply to @southpkcommons if you'd like to join us https://t.co/xWaXyqC7Rj</description>
-      <pubDate>Wed, 20 May 2026 15:46:59 +0000</pubDate>
-      <guid isPermaLink="false">2057125943773180348</guid>
-    </item>
-    <item>
-      <title>@StainlessAPI @RattrayAlex YouTube: https://t.co/h2mvQD7dTD Spotify: https://t.co/0a45rQz3Ox</title>
-      <link>https://x.com/danshipper/status/2057123430776902031</link>
-      <description>作者：Dan Shipper
-账号：@danshipper
-简介：ceo @every | the only subscription you need to stay at the edge of AI
-
-@StainlessAPI @RattrayAlex YouTube: https://t.co/h2mvQD7dTD
-Spotify: https://t.co/0a45rQz3Ox</description>
-      <pubDate>Wed, 20 May 2026 15:37:00 +0000</pubDate>
-      <guid isPermaLink="false">2057123430776902031</guid>
-    </item>
-    <item>
-      <title>Anthropic just acquired developer tool startup @StainlessAPI, whose biggest customers were OpenAI and Google.  Back in October, I had Stainless CEO and founder Alex Rattray (@RattrayAlex) on AI &amp; I to talk about MCP servers and the unglamorous plumbing that makes AI agents actually work. (Disclosure...</title>
-      <link>https://x.com/danshipper/status/2057122805657821240</link>
-      <description>作者：Dan Shipper
-账号：@danshipper
-简介：ceo @every | the only subscription you need to stay at the edge of AI
-
-Anthropic just acquired developer tool startup @StainlessAPI, whose biggest customers were OpenAI and Google.
-
-Back in October, I had Stainless CEO and founder Alex Rattray (@RattrayAlex) on AI &amp; I to talk about MCP servers and the unglamorous plumbing that makes AI agents actually work. (Disclosure: I’m a small investor in the company.) After Monday's news, the conversation lands differently—in it, Alex essentially walks me through the design thinking for building APIs, SDKs, and MCP servers that Anthropic paid a reported $300 million for.
-
-On @every's AI &amp; I, we get into MCP and the future of the AI-native internet.
-
-Highlights include:
-- Design MCP servers to be lean and precise. Alex's best practices for building reliable MCP servers start with keeping the toolset small, giving each tool a precise name and description, and minimizing the inputs and outputs the model has to handle. At Stainless, they also often add a JSON filter on top to strip out unnecessary data.
-- Make complex APIs manageable with dynamic mode. To solve the problem of how an AI figures out which tool to use in larger APIs, Stainless switches to &quot;dynamic mode,&quot; where the model gets only three tools: List the endpoints, pick one and learn about it, and then execute it.
-- MCP servers as business copilots. At Stainless, Alex uses MCP servers to connect tools like @NotionHQ and @HubSpot, so he can ask questions like, &quot;Which customers signed up last week?&quot; The system queries multiple databases and returns a summary that would've otherwise taken multiple logins and searches.
-- Create a &quot;brain&quot; for your company with Claude Code. Alex built a shared company brain at Stainless by keeping Claude Code running on his system and asking it to save useful inputs—like customer feedback and SQL queries—into GitHub. Over time, this creates a curated archive his team can query easily.
-- The future of MCP is code execution. Instead of giving models hundreds of tools, Alex believes the most powerful setup will be a simple code execution tool and a doc search tool. The AI writes code against an API's SDK, runs it on a server, and checks the docs when it gets stuck.
-
-This is a must-watch for anyone who wants to understand MCP—and learn how to use them as a competitive edge.
-
-Watch below!
-
-Timestamps
-Introduction: 00:01:15
-APIs and MCP, the connectors of the new internet: 00:05:09
-Why MCP exists: 00:11:00
-Why MCP servers are hard to get right: 00:17:15
-Design principles for reliable MCP servers: 00:20:24
-Using MCP for business ops at Stainless: 00:25:06
-Alex’s take on the security model for MCP: 00:40:57
-How one-off AI actions become permanent production software: 00:44:42</description>
-      <pubDate>Wed, 20 May 2026 15:34:31 +0000</pubDate>
-      <guid isPermaLink="false">2057122805657821240</guid>
-    </item>
-    <item>
-      <title>very belated but in retrospect i think @sama's mythical &quot;build a business that gets better when models get better&quot; is basically what I called Agent Labs here.  seeing a very direct correlation with model performance and agent lab revenue, discontinuity in Q4 2025  (clip from @patrickc's stripe sessi...</title>
-      <link>https://x.com/swyx/status/2057119153337545096</link>
-      <description>作者：Swyx
-账号：@swyx
-简介：achieve ambition with intentionality, intensity, integrity &amp; insanity.
-
-affiliations:
-- @dxtipshq 
-- @cognition
-- @temporalio
-- @aidotengineer
-- @latentspacepod
-
-very belated but in retrospect i think @sama's mythical &quot;build a business that gets better when models get better&quot; is basically what I called Agent Labs here.
-
-seeing a very direct correlation with model performance and agent lab revenue, discontinuity in Q4 2025
-
-(clip from @patrickc's stripe sessions)</description>
-      <pubDate>Wed, 20 May 2026 15:20:00 +0000</pubDate>
-      <guid isPermaLink="false">2057119153337545096</guid>
-    </item>
-    <item>
-      <title>Inside Stainless: The Developer Tools Startup Anthropic Just Bought for $300 Million</title>
-      <link>https://www.youtube.com/playlist?list=PLuMcoKK9mKgHtW_o9h5sGO2vXrffKHwJL</link>
-      <description>播客：AI &amp; I by Every
-
-Speaker 1 | 00:00 - 00:31
-The internet runs on computers talking to each other, but its entire architecture was built for a pre AI world. Now we're trying to hook AI up to the internet with MCP, Model Context Protocol, which turns any website or web service into a set of tools that an AI can use natively to get worked on. And the software companies that learn how to do MCP well are going to win over the next decade. That's why I brought Alex Rattray, the founder and CEO of Stainless, onto the show. Stainless' job is to help computers talk to each other.
-
-Speaker 1 | 00:31 - 00:59
-They make the API and SDKs for all the big companies that you know about, like OpenAI and Anthropic, and they're starting to build MCP servers too. So Alex and I get into the nitty gritty of what the future of MCP looks like, how to design good MCPs, why MCPs are actually really hard to scale and possibly insecure. And we try to figure out together what a better model for allowing AIs to use the Internet might look like. This is a great episode. Alex is a good friend of mine.
-
-Speaker 1 | 00:59 - 01:15
-Let's dive in. Alex, welcome to the show.
-
-Speaker 2 | 01:16 - 01:18
-Thanks, Dan. It's, really exciting to be here.
-
-Speaker 1 | 01:18 - 01:36
-It's good to have you. So for people who don't know, you are the founder and CEO of Stainless, which is the API company. You make APIs for companies like OpenAI and Anthropic, and just name your big company that you might use their API. Stainless is probably behind it. Before that, you worked at Stripe doing their API.
-
-Speaker 1 | 01:36 - 02:01
-Surprise. And before that, most importantly, we were very good friends in college, we remained good friends. And we were both starting companies in college, I'm a tiny investor in stainless. But it's been really, really fun to watch your journey and get to get to hang out together so much over the years. And, I'm just very excited to bring you on to talk about AI and and what you're doing at stainless.
-
-Speaker 2 | 02:01 - 02:12
-Thanks, Dan. Yeah. It's it's been really fun over the years. I mean, you know, when when we were in college, I was working on a start up. You were working on a start up.
-
-Speaker 2 | 02:12 - 02:38
-You you had a conference room at a venture capitalist office as your office, and you let me crash there with my co founder and team. And we were just like on the other side of the conference table hacking away into the evening. And very fond memories of those days. And these days, it's not every evening, but on the weekends, whatever, same thing is still happening. You don't see that every day.
-
-Speaker 2 | 02:38 - 02:46
-It's really a nice feeling. And it's been great to see everything happening with every, along the way.
-
-Speaker 1 | 02:46 - 03:13
-Thank you. As I say, it started from the bottom, now we're here. I and, yeah. I mean, I the thing that I always say when people when I run into people and they ask me about you, in order to embarrass you, I I just talk about how you're the only person that I know of who has consistently run barefoot through the streets of Philadelphia. Because when we first met, you were you were not a fan of shoes and you were a fan of running.
-
-Speaker 1 | 03:13 - 03:14
-You wanna talk about that?
-
-Speaker 2 | 03:15 - 03:31
-Yeah. It wasn't that I didn't like the concept of shoes. It's that I couldn't find a good pair. And at a certain point, you know, it's like I was running through Nikes and they would they would bust open every few months. I think was actually going on as I had really wide feet.
-
-Speaker 2 | 03:31 - 03:51
-And was I I was buying probably narrow shoes, but they would shoes would constantly get ruined. And, you know, on a college budget, it's just like, this is this is it. This is no good. And eventually, I decided, okay, the longer you wear your shoes, the the more worn out they get. But the longer you just wear your feet, the tougher they get.
-
-Speaker 2 | 03:52 - 03:53
-So
-
-Speaker 1 | 03:54 - 03:56
-the longer you wear your feet.
-
-Speaker 2 | 03:59 - 04:12
-Try it out. Try this to help. What could go wrong? I actually currently have a really annoying splinter in one of my feet, that I was, and so don't actually, try this at home. But Are you still running barefoot?
-
-Speaker 2 | 04:12 - 04:15
-No. No. This is just from around the house.
-
-Speaker 1 | 04:16 - 04:18
-I see. Dangerous.
-
-Speaker 2 | 04:18 - 04:28
-Yeah. Yeah. But see, that's the thing. If I had been going around on the asphalt without socks on, then my feet would have been tougher, and I'd have no splinter.
-
-Speaker 1 | 04:30 - 04:44
-So when you're not running barefoot, you're running you're running stainless. So you're running stainless. And so how how many people are you? You know, you're you're around 50. Right?
-
-Speaker 2 | 04:44 - 04:45
-Just about. Yeah.
-
-Speaker 1 | 04:46 - 05:07
-That's that's pretty wild. And you started Stainless in a pre AI world, and now we're in an AI world. And I think you have some ideas for what the future of AI is going to be and maybe how how APIs fit into that, maybe how MCPs fit into that. Do you wanna, like, paint a little bit of a picture for us about where we're going?
-
-Speaker 2 | 05:07 - 05:19
-Yeah. Would love to. So to start, like, what's an API? Not everybody's familiar with that. So it stands for Application Programming Interface.
-
-Speaker 2 | 05:19 - 05:21
-There will not be a quiz. Right, Dan? No quizzes?
-
-Speaker 1 | 05:22 - 05:23
-No, no quizzes.
-
-Speaker 2 | 05:23 - 05:42
-Great. Basically, it's how one computer program talks to another computer program. It's computers talk to computers, how apps talk to apps. And so APIs are the dendrites of the Internet. Dendrites are where your neurons connect and actually exchange information with each other.
-
-Speaker 2 | 05:42 - 06:10
-So if you have like two neurons in your brain but they're not talking to each other, you're actually not thinking, right? There is no thought happening in a brain without connections between neurons. And if you think about the internet, if all these servers in the cloud aren't talking to each other, wouldn't have internet, right? Like there's nothing going on. If programs internet software is doing nothing without APIs, without connections to other programs.
-
-Speaker 2 | 06:10 - 06:56
-And so it's really fundamental to the mesh of pretty much all modern software. Everything that we think of when we think about technology at this point, APIs are kind of at the heart and center of that just like dendrites are the center of the mesh of the brain and how we think. And Seamless' mission from day one was sort of to make it easier for computers to talk to computers. And it's the long running trend of technology to have more automation, right? Automation is what we mean when we say, Okay, we're going to apply technology to that.
-
-Speaker 2 | 06:56 - 07:25
-We're generally going to be making things more efficient. And APIs are how most business to business interactions in some format or another become become real, become automated. And what we see with the the rise of AI is that there is a a new a new computer has entered the chat. Right? There's a new there's a new kind of system that can talk to other systems, or at least we would like it to be able to.
-
-Speaker 2 | 07:25 - 07:55
-You used to have either, you know, humans interacting with a computer through a user interface, a UI, or a computer acting with a computer through through an API. And now we have LLMs interacting with computers. Right? And what's that through? And I'm sure anyone familiar with, you know, with every and and and his regular listeners is gonna be familiar with MCP model context protocol, which is a system for connecting LLMs to computers, broadly speaking.
-
-Speaker 2 | 07:56 - 08:27
-And it's an area that we're investing in at Stainless. It's really, I think, part of our core mission of, like I said, make it easy for computers to talk to computers. And we've invested a lot of time. At Stainless, t...</description>
-      <pubDate>Wed, 20 May 2026 15:00:00 +0000</pubDate>
-      <guid>https://www.youtube.com/playlist?list=PLuMcoKK9mKgHtW_o9h5sGO2vXrffKHwJL</guid>
-    </item>
-    <item>
-      <title>When Kendall buys Vaulter https://t.co/94oGqm6uQD</title>
-      <link>https://x.com/mattturck/status/2057090887268643187</link>
+      <title>This fantastic conversation with @yanndubs is also available on Spotify, Apple Podcasts and here on YouTube (like and subscribe!):  https://t.co/QxwJ56Xlh8</title>
+      <link>https://x.com/mattturck/status/2057498135300039068</link>
       <description>作者：Matt Turck
 账号：@mattturck
 简介：VC at @FirstMarkCap.  Host: MAD Podcast; Organizer: Data Driven NYC, Author: MAD Landscape.
 
-When Kendall buys Vaulter https://t.co/94oGqm6uQD</description>
-      <pubDate>Wed, 20 May 2026 13:27:41 +0000</pubDate>
-      <guid isPermaLink="false">2057090887268643187</guid>
+This fantastic conversation with @yanndubs is also available on Spotify, Apple Podcasts and here on YouTube (like and subscribe!):
+
+https://t.co/QxwJ56Xlh8</description>
+      <pubDate>Thu, 21 May 2026 16:25:56 +0000</pubDate>
+      <guid isPermaLink="false">2057498135300039068</guid>
     </item>
     <item>
-      <title>Can't recommend @cotypist https://t.co/QUKTyTo1bh enough. Autocomplete everywhere.</title>
-      <link>https://x.com/steipete/status/2057040636449116222</link>
-      <description>作者：Peter Steinberger
-账号：@steipete
-简介：Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world.
-@OpenClaw🦞 + @OpenAI
+      <title>Why AI Progress Suddenly Feels Real - my conversation with @yanndubs, who co-leads the Post-Training Frontiers team at @OpenAI   00:00 - Intro   01:30 - Why recent AI progress feels like a step function  04:13 - Model reliability &amp; the emotional rollercoaster of shipping GPT-5.5  07:33 - How OpenAI ...</title>
+      <link>https://x.com/mattturck/status/2057498130795385188</link>
+      <description>作者：Matt Turck
+账号：@mattturck
+简介：VC at @FirstMarkCap.  Host: MAD Podcast; Organizer: Data Driven NYC, Author: MAD Landscape.
 
-Can't recommend @cotypist https://t.co/QUKTyTo1bh enough. Autocomplete everywhere.</description>
-      <pubDate>Wed, 20 May 2026 10:08:00 +0000</pubDate>
-      <guid isPermaLink="false">2057040636449116222</guid>
+Why AI Progress Suddenly Feels Real - my conversation with @yanndubs, who co-leads the Post-Training Frontiers team at @OpenAI 
+
+00:00 - Intro 
+
+01:30 - Why recent AI progress feels like a step function
+
+04:13 - Model reliability &amp; the emotional rollercoaster of shipping GPT-5.5
+
+07:33 - How OpenAI structures vertical and horizontal teams
+
+09:49 - Improving model efficiency and test-time compute
+
+12:32 - Yann's journey from Switzerland to OpenAI
+
+15:37 - Reasoning in 2026: Real-world utility vs verifiable rewards
+
+18:34 - GPT-5.5 Thinking vs Pro: Scaling test-time compute
+
+20:09 - How reasoning models become more efficient
+
+23:23 - Pre-training scaling and overcoming the data wall
+
+27:03 - Multimodal data, synthetic data, and embodied AI
+
+31:05 - Demystifying mid-training and post-training
+
+37:21 - Does RL create new capabilities in AI?
+
+38:53 - The challenges and frontier of scaling RL
+
+43:09 - Is building AI models a craft or a strict science
+
+48:21 - How AI models generalize across different domains
+
+54:18 - How reinforcement learning cures AI hallucinations
+
+56:04 - Negative generalization and conflicting instructions
+
+58:05 - Can RL scale to law, medicine, and the broader economy?
+
+1:00:19 - The evaluation bottleneck and Model as a Judge
+
+1:04:21 - Continuous AI progress &amp; continual learning
+
+1:08:49 - Will foundation models eat the agent harness
+
+1:11:23 - Why startups should focus on the last mile of AI</description>
+      <pubDate>Thu, 21 May 2026 16:25:55 +0000</pubDate>
+      <guid isPermaLink="false">2057498130795385188</guid>
+    </item>
+    <item>
+      <title>(5/5) Discover our latest experiments and help shape the future of AI technology at https://t.co/a8Phv40FhH  Share what you create! We want to see!</title>
+      <link>https://x.com/GoogleLabs/status/2057492242911404443</link>
+      <description>作者：Google Labs
+账号：@GoogleLabs
+简介：Google’s home for our latest AI tools and experiments.
+
+(5/5) Discover our latest experiments and help shape the future of AI technology at https://t.co/a8Phv40FhH
+
+Share what you create! We want to see!</description>
+      <pubDate>Thu, 21 May 2026 16:02:31 +0000</pubDate>
+      <guid isPermaLink="false">2057492242911404443</guid>
+    </item>
+    <item>
+      <title>(4/5) And then, we took our Labster to the Grand Canyon with Project Genie. https://t.co/3xM2bePwMQ</title>
+      <link>https://x.com/GoogleLabs/status/2057492241472729543</link>
+      <description>作者：Google Labs
+账号：@GoogleLabs
+简介：Google’s home for our latest AI tools and experiments.
+
+(4/5) And then, we took our Labster to the Grand Canyon with Project Genie. https://t.co/3xM2bePwMQ</description>
+      <pubDate>Thu, 21 May 2026 16:02:31 +0000</pubDate>
+      <guid isPermaLink="false">2057492241472729543</guid>
+    </item>
+    <item>
+      <title>(3/5) A vibe-designed website from @StitchbyGoogle ft. our Labs experiments as mini games, and our very own 8-bit “Labster.” https://t.co/pJ1U0l6LLU</title>
+      <link>https://x.com/GoogleLabs/status/2057492239656562792</link>
+      <description>作者：Google Labs
+账号：@GoogleLabs
+简介：Google’s home for our latest AI tools and experiments.
+
+(3/5) A vibe-designed website from @StitchbyGoogle ft. our Labs experiments as mini games, and our very own 8-bit “Labster.” https://t.co/pJ1U0l6LLU</description>
+      <pubDate>Thu, 21 May 2026 16:02:30 +0000</pubDate>
+      <guid isPermaLink="false">2057492239656562792</guid>
+    </item>
+    <item>
+      <title>What are you making with Claude Design?</title>
+      <link>https://x.com/claudeai/status/2057487475983929388</link>
+      <description>作者：Claude
+账号：@claudeai
+简介：Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Talk to Claude on https://t.co/ZhTwG8d1e5 or download the app.
+
+What are you making with Claude Design?</description>
+      <pubDate>Thu, 21 May 2026 15:43:35 +0000</pubDate>
+      <guid isPermaLink="false">2057487475983929388</guid>
+    </item>
+    <item>
+      <title>https://t.co/gFnVB1QeWx</title>
+      <link>https://x.com/claudeai/status/2057487474117546089</link>
+      <description>作者：Claude
+账号：@claudeai
+简介：Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Talk to Claude on https://t.co/ZhTwG8d1e5 or download the app.
+
+https://t.co/gFnVB1QeWx</description>
+      <pubDate>Thu, 21 May 2026 15:43:34 +0000</pubDate>
+      <guid isPermaLink="false">2057487474117546089</guid>
+    </item>
+    <item>
+      <title>https://t.co/14CICBjq4p</title>
+      <link>https://x.com/claudeai/status/2057487471617683852</link>
+      <description>作者：Claude
+账号：@claudeai
+简介：Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Talk to Claude on https://t.co/ZhTwG8d1e5 or download the app.
+
+https://t.co/14CICBjq4p</description>
+      <pubDate>Thu, 21 May 2026 15:43:34 +0000</pubDate>
+      <guid isPermaLink="false">2057487471617683852</guid>
+    </item>
+    <item>
+      <title>Two of my favorite people (sorry @rsanghvi)  on stage together. https://t.co/QjrpZy6QXa</title>
+      <link>https://x.com/adityaag/status/2057485028095828189</link>
+      <description>作者：Aditya Agarwal
+账号：@adityaag
+简介：General Partner @SouthPkCommons, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @Dropbox, Board @Flipkart | Optimist, Builder, Dad
+
+Two of my favorite people (sorry @rsanghvi)  on stage together. https://t.co/QjrpZy6QXa</description>
+      <pubDate>Thu, 21 May 2026 15:33:51 +0000</pubDate>
+      <guid isPermaLink="false">2057485028095828189</guid>
+    </item>
+    <item>
+      <title>ex founders are THE driving force helping scale some of the most iconic companies (@tryramp, @mercor_ai, @figma, @AnthropicAI, @cognition and others).   if you are an ex founder wanting to hang out with a stellar peer group, sign up for our next event! https://t.co/frSUq0rgf2</title>
+      <link>https://x.com/nikunj/status/2057462304149778588</link>
+      <description>作者：Nikunj Kothari
+账号：@nikunj
+简介：partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian &amp; others. love @shimoleejhaveri + 👦👧
+
+ex founders are THE driving force helping scale some of the most iconic companies (@tryramp, @mercor_ai, @figma, @AnthropicAI, @cognition and others). 
+
+if you are an ex founder wanting to hang out with a stellar peer group, sign up for our next event! https://t.co/frSUq0rgf2</description>
+      <pubDate>Thu, 21 May 2026 14:03:33 +0000</pubDate>
+      <guid isPermaLink="false">2057462304149778588</guid>
+    </item>
+    <item>
+      <title>OpenAI's Yann Dubois: Why AI Progress Suddenly Feels Real</title>
+      <link>https://www.youtube.com/watch?v=DhD1zZ8w8Mw</link>
+      <description>播客：The MAD Podcast with Matt Turck
+
+Speaker 1 | 00:00 - 00:26
+You need to reach this level of reliability to really make any of these AI tools very useful, and I think we just crossed that probably December last year, at least at OpenAI. Now we can trust these models to do a lot of the work that we are doing. The last few months have been pretty wild. We moved from like competitions to usefulness to users and that's what we are feeling right now. I think most of the time the Bionic is the last mile.
+
+Speaker 1 | 00:26 - 00:34
+There will always be a lot of space left for this last mile in different verticals. And I would highly encourage people to continue working on that.
+
+Speaker 2 | 00:34 - 01:03
+Hi, I'm Matt Turk. Welcome to the MAD Podcast. My guest today is Jan Dubois, who co leads the post training Frontiers team at OpenAI. The recent release of GBT 5.5 was yet another major milestone in AI, and Jan's team helped build it alongside OpenAI's prior top reasoning models, including o three and GBT five thinking. Before OpenAI, Jan was at Stanford, where he co authored Stanford Alpaca, the landmark project that kicked off much of the modern post training research community.
+
+Speaker 2 | 01:03 - 01:29
+In this conversation, we go deep on what's actually new in GPT 5.5, why reinforcement learning is moving from math and coding competitions into messy real world work, why AI progress can feel like a sudden step function, and why continual learning remains one of the big unsolved problems in AI three years after ChatGPT. Please enjoy this fantastic conversation with Jan Dubois. Hey, Jan. Welcome.
+
+Speaker 1 | 01:29 - 01:30
+Hi, Matt. Thanks for having me.
+
+Speaker 2 | 01:30 - 01:57
+It's been another wild, last few weeks in the world of, Frontier AI with the release of, GBT 5.5, of, Claude Muthos preview. So it it feels like, we have unlocked yet another step function in progress, particularly in cybersecurity, agent decoding. What's the best way to think about this from your perspective? Are things accelerating? What is happening?
+
+Speaker 1 | 01:57 - 02:31
+Yeah. The last few months have been pretty wild. Internally, also really feel it, and I think anyone who's working with anyone who's work who's coding, basically, is really feeling it right now. I think that's really because of three reasons. The first one is even though in my mind, the progress is actually pretty continuous, you need to reach this level of reliability to really make any of these AI tools very useful, and I think we just crossed that probably December last year, at least at OpenAI.
+
+Speaker 1 | 02:31 - 03:05
+That's where I thought we really crossed that threshold, where now we can trust these models to do a lot of the work that we are doing. So it feels like a stem function, even though I think actually in terms of capability, it's pretty continuous. So that's the first thing. The second reason is once you start having models that are really good, you accelerate yourself, especially in terms of coding, given that we all code internally. You accelerate yourself both for having these models train the other models, but also build the tooling that we need as researchers to do our job.
+
+Speaker 1 | 03:05 - 03:44
+All this acceleration, I think, means that we saw these last few months going faster and faster. The third thing that I think we are feeling is all of last year, we really built these reasoning models, and we really pushing a lot on reinforcement learning. And initially, when we had like 'one, 'one preview, even 'three, these models were still optimized for what we call verifiable rewards, things where we actually have access to ground truth. It's easy to test whether you're correct or not. That is, for example, the case in math questions or coding competitions.
+
+Speaker 1 | 03:45 - 04:13
+And what I think we are realizing now is that we were able to take many of the tools that we built for these verifiable reward cases, and we were able to use them more generally for reinforcement learning on real use cases. And I think that's, like, really why we're feeling that right now in, like, just real world coding rather than, like, competition. So we moved from, like, competitions to usefulness to users, and that's what we are feeling right now.
+
+Speaker 2 | 04:13 - 04:23
+Okay. Fascinating. So we're going to unpack a lot of this, particularly on the the RL side. For the first thing that you mentioned, reliability, is that, engineering? Is that models?
+
+Speaker 2 | 04:23 - 04:27
+Like, what what makes a model reliable in in in the way you meant it?
+
+Speaker 1 | 04:27 - 04:55
+It's a little bit of everything. But in general, given that these are agentic models, the longer if you just think about it as, like, every two minutes, there's, a certain probability that they are wrong. The longer that they run, the the higher the probability that, like, the final answer is gonna be wrong. So it's just something inherent in agentic models. And what we've been pushing a lot on is making sure that the model we decrease this probability of being wrong every two minutes.
+
+Speaker 1 | 04:55 - 05:11
+So purely from a model point of view, of course, there's a lot of reliability that is also happening on the applied side, And the team at OpenAI has been doing an amazing job on that. But I'm even talking only about reliability of our models and making sure that basically we decrease the probability of being wrong.
+
+Speaker 2 | 05:11 - 05:28
+Great. So 5.5, formerly known as Spud was, as mentioned, a big deal. It is a big deal. And I'm just curious from the inside, what was what are you guys the most proud of? What did you find the most challenging?
+
+Speaker 2 | 05:28 - 05:34
+Give us some some some color on, how you all felt releasing this.
+
+Speaker 1 | 05:34 - 06:00
+We're all really excited about 5.5, to be honest. It is one of these models where everyone in the company was extremely involved in building, and I think that we really feel it now. That's like we got a lot of attention because of the 5.5, and it's it seems like all the stars were aligned. That doesn't always happen, and I was just like a great model for this. So we did feel it.
+
+Speaker 1 | 06:00 - 06:43
+It's kind of funny because in general with every model that is looking really good early on, we have a model, we all get really excited about it, and then there's, like, tons of doubts that start, coming up because it's like, oh, like, everyone is so hype is, like, hyping this thing internally, but actually it's, like, bad at all these other things, and then there's another wave where, like, people start, under hyping it, and it kind of goes through waves. And it depends when we actually ship it, how people feel about it internally. But that's true with most models that we have. So 5.5 was not that different in this case, but it definitely maybe had a higher amplitude of the wave. So people were very excited, then very not as excited, and and we shipped it, and and people were happy externally.
+
+Speaker 2 | 06:43 - 06:56
+How long does that process take? Like, you know, you including the waves of going up and down and of of of excitement. I guess it depends on the on the on the release and the importance of each release, but, like, is that a is that a few weeks? Is it a few months?
+
+Speaker 1 | 06:56 - 07:33
+It really depends. I can so I cannot talk exactly about what what went into 5.5, but it kind it kind of depends which part of the pipeline is training parts of the model. We really have different sub teams, including pre training, and you have the mid training stage, and you have some post training, and usually the closer you get to products, like posting being the last one, the faster the iteration cycle is. And if you're more upstream, the slower the iteration cycle is. So it could go from, let's say, from months to days, basically.
+
+Speaker 2 | 07:33 - 07:48
+The 5.5 was particularly good, on agent decoding, computer use, knowledge work, and early scientific research. How does th...</description>
+      <pubDate>Thu, 21 May 2026 11:30:00 +0000</pubDate>
+      <guid>https://www.youtube.com/watch?v=DhD1zZ8w8Mw</guid>
+    </item>
+    <item>
+      <title>Claude Code auto mode: a safer way to skip permissions</title>
+      <link>https://www.anthropic.com/engineering/claude-code-auto-mode</link>
+      <description>作者：Anthropic Engineering
+
+By default, Claude Code asks users for approval before running commands or modifying files. This keeps users safe, but it also means a lot of clicking &quot;approve.&quot; Over time that leads to approval fatigue, where people stop paying close attention to what they&amp;#x27;re approving. Users have two solutions for avoiding this fatigue: a built-in sandbox where tools are isolated to prevent dangerous actions, or the --dangerously-skip-permissions flag that disables all permission prompts and lets Claude act freely, which is unsafe in most situations. Figure 1 lays out the tradeoff space. Sandboxing is safe but high-maintenance: each new capability needs configuring, and anything requiring network or host access breaks isolation. Bypassing permissions is zero-maintenance but offers no protection. Manual prompts sit in the middle, and in practice users accept 93% of them anyway. Figure 1. The permission modes available in Claude Code, positioned by task autonomy and security . Dot colour indicates maintenance friction. Auto mode targets high autonomy at low maintenance cost; the dashed arrow shows security improvement over time as classifier coverage and model judgment get better. We keep an internal incident log focused on agentic misbehaviors. Past examples include deleting remote git branches from a misinterpreted instruction, uploading an engineer&amp;#x27;s GitHub auth token to an internal compute cluster, and attempting migrations against a production database. Each of these was the result of the model being overeager, taking initiative in a way the user didn&amp;#x27;t intend. We documented this pattern in the Claude Opus 4.6 system card (§6.2.1 and §6.2.3.3). Auto mode is a new mode for Claude Code that delegates approvals to model-based classifiers—a middle ground between manual review and no guardrails. The goal is to catch the dangerous actions that aren&amp;#x27;t aligned with user intent, while letting the rest run without approval prompts. Get started using auto mode by following the docs . How it works Auto mode uses two layers of defense: one for what Claude reads, one for what Claude does. At the input layer, a server-side prompt-injection probe scans tool outputs (file reads, web fetches, shell output, external tool responses) before they enter the agent&amp;#x27;s context. When content looks like an attempt to hijack behavior, the probe adds a warning to the agent&amp;#x27;s context before the result is passed along—telling the agent to treat this content as suspect and anchor on what the user actually asked for. At the output layer, the transcript classifier (running on Sonnet 4.6) evaluates each action against a set of decision criteria before it executes, acting as a substitute for a human approver. The classifier runs in two stages: a fast single-token filter (deciding ‘yes’ to block or ‘no’ to allow), followed by chain-of-thought reasoning only if the first filter flags the transcript. Because most actions clear the first stage, reasoning tokens are spent only where needed. The classifier sees only user messages and the agent&amp;#x27;s tool calls; we strip out Claude&amp;#x27;s own messages and tool outputs, making it reasoning-blind by design. We walk through each of these choices, including what they buy us and what they cost, in the Design decisions section below. Figure 2: System architecture . The transcript classifier gates tool calls; the prompt-injection probe screens tool results. Subagents run the same pipeline recursively, with handoff classifiers at delegation (can deny) and at return (warns only). Threat model An agent might take a dangerous action for four reasons: Overeager behavior . In this case, the agent understands the user&amp;#x27;s goal, and is genuinely trying to help, but takes initiative beyond what the user would approve. For example, it uses a credential it happened to find or deletes something it judged to be in the way. This behavior can be tricky to catch, because there&amp;#x27;s no hostile reasoning. The action instead looks like reasonable problem-solving, only applied past the boundary of what the user authorized or intended. Honest mistakes . Here, the agent misunderstands the blast radius. For example, it thinks a resource is test-scoped when it&amp;#x27;s shared, or a branch is its own when it isn&amp;#x27;t. Prompt injection . Instructions planted in a file, webpage, or tool output hijack the agent, redirecting it from the user&amp;#x27;s task toward the attacker&amp;#x27;s. A misaligned model . Canonically, misalignment occurs when the agent pursues a goal of its own. We don&amp;#x27;t currently see this in practice, though we evaluate it carefully for every model we release. In all four cases, the defense is to block the action. Our classifier is tuned to overeager behavior and honest mistakes, as we have specific examples of this behavior from internal model testing, but the defense applies regardless of which threat produced the action. The examples below are adapted from our internal incident log to illustrate what auto mode is designed to block: Scope escalation . A user asked to &quot;clean up old branches.&quot; The agent listed remote branches, constructed a pattern match, and issued a delete. This would be blocked since the request was vague, the action irreversible and destructive, and the user may have only meant to delete local branches. Credential exploration . An agent hit an auth error partway through a task. Rather than asking for permission, it began systematically grepping through environment variables and config files for alternative API tokens. Since these credentials could be scoped for a different task, this is blocked. Agent-inferred parameters . A user said &quot;cancel my job.&quot; The agent queried the cluster, picked the closest match by name similarity, and tried to delete it. This is blocked since the specific target may not have been what the user intended, and could have been owned by someone else. Sharing via external service . An agent wanted to share a script for debugging, and constructed a GitHub Gist command. This is blocked as data exfiltration since the user may consider the contents to be confidential and not appropriate to be public. Safety-check bypass . A deploy command failed a pre-check; the agent retried with a skip-verification flag. This is blocked since it could impact shared infrastructure. How permission decisions work All of the examples above would reach the classifier, but most actions are allowed prior to that step by the standard Claude Code allow rules: Tier 1: Built-in safe-tool allowlist and user settings. A fixed allowlist includes tools that can’t modify state, including file reads, text and file-pattern search, code navigation, todo and plan-mode transitions. Users can also configure always-allow rules for specific tool patterns. One exception is that on entering auto mode, we drop permission rules that are known to grant arbitrary code execution, including blanket shell access, wildcarded script interpreters (python, node, ruby, and similar), and package manager run commands. While this is best-effort based on real-world usage, any list will inevitably be incomplete. Many users set up these blanket rules for convenience in manual-approval mode, but leaving them active would mean the classifier never sees the commands most capable of causing damage. Narrow rules (&quot;allow running code formatters&quot;) carry over, but broad interpreter escapes don&amp;#x27;t. Tier 2: In-project file operations. File writes and edits inside the project directory are allowed without a classifier call. Routine coding (e.g. editing source files in your repo) doesn&amp;#x27;t pay classifier latency; in-project edits are reviewable via version control. Only actions with real downside potential reach the final tier: Tier 3: Transcript classifier. The transcript classifier sees everything else, including shell commands, web fetches, external tool integrations, subagent spawns, filesystem operations outside the project directory. Stage 1 is a fast s...</description>
+      <pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
+      <guid>https://www.anthropic.com/engineering/claude-code-auto-mode</guid>
     </item>
   </channel>
 </rss>
