@@ -5,342 +5,433 @@
     <link>https://github.com/zarazhangrui/follow-builders</link>
     <description>聚合 AI 领域建设者的 X、播客和博客内容。</description>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 25 May 2026 02:13:08 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 25 May 2026 09:45:13 +0000</lastBuildDate>
     <item>
-      <title>My newest gbrain-evals just dropped - this is how gbrain does vs other options. https://t.co/yRWm72QEgf is SOTA for reranking and embedding cost, speed, and retrieval success.  GBrain beats MemPalace by 1% on LongMemEval and beats Vector RAG by 38%  https://t.co/nIk93HFTHb https://t.co/RIzXFkfFp8</title>
-      <link>https://x.com/garrytan/status/2058448209027141709</link>
-      <description>作者：Garry Tan
-账号：@garrytan
-简介：President &amp; CEO @ycombinator —Founder @garryslist—Creator of GStack &amp; GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop
-
-My newest gbrain-evals just dropped - this is how gbrain does vs other options. https://t.co/yRWm72QEgf is SOTA for reranking and embedding cost, speed, and retrieval success.
-
-GBrain beats MemPalace by 1% on LongMemEval and beats Vector RAG by 38%
-
-https://t.co/nIk93HFTHb https://t.co/RIzXFkfFp8</description>
-      <pubDate>Sun, 24 May 2026 07:21:11 +0000</pubDate>
-      <guid isPermaLink="false">2058448209027141709</guid>
-    </item>
-    <item>
-      <title>“I built my first three apps using Cursor and thought that was fast, but trying Replit for Dial completely blew me away. I built the MVP over a single weekend, and it actually got approved by Apple on the very first try—which has never happened to me before.” https://t.co/meAR1zAPLx</title>
-      <link>https://x.com/amasad/status/2058418731840159953</link>
-      <description>作者：Amjad Masad
-账号：@amasad
-简介：ceo @replit. civilizationist
-
-“I built my first three apps using Cursor and thought that was fast, but trying Replit for Dial completely blew me away. I built the MVP over a single weekend, and it actually got approved by Apple on the very first try—which has never happened to me before.” https://t.co/meAR1zAPLx</description>
-      <pubDate>Sun, 24 May 2026 05:24:03 +0000</pubDate>
-      <guid isPermaLink="false">2058418731840159953</guid>
-    </item>
-    <item>
-      <title>100% https://t.co/9hsvgTgudJ</title>
-      <link>https://x.com/amasad/status/2058417703958773965</link>
-      <description>作者：Amjad Masad
-账号：@amasad
-简介：ceo @replit. civilizationist
-
-100% https://t.co/9hsvgTgudJ</description>
-      <pubDate>Sun, 24 May 2026 05:19:58 +0000</pubDate>
-      <guid isPermaLink="false">2058417703958773965</guid>
-    </item>
-    <item>
-      <title>I always wanted a GitHub dashboard: See my repos, open Issues/PRs, what version I released last, how many commits since last release.  So I built one for everyone. https://t.co/GWCP5wcrDQ https://t.co/DRvjenlVMi</title>
-      <link>https://x.com/steipete/status/2058381186884411473</link>
-      <description>作者：Peter Steinberger
-账号：@steipete
-简介：Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world.
-@OpenClaw🦞 + @OpenAI
-
-I always wanted a GitHub dashboard: See my repos, open Issues/PRs, what version I released last, how many commits since last release.
-
-So I built one for everyone.
-https://t.co/GWCP5wcrDQ https://t.co/DRvjenlVMi</description>
-      <pubDate>Sun, 24 May 2026 02:54:52 +0000</pubDate>
-      <guid isPermaLink="false">2058381186884411473</guid>
-    </item>
-    <item>
-      <title>this is me cleaning up some leftover services for my old startup @OMMultiverse   we have a huge legacy codebase and a community that still uses it but I haven't had any time to actually look into cost saving measures myself</title>
-      <link>https://x.com/trq212/status/2058380417716125966</link>
-      <description>作者：Thariq
-账号：@trq212
-简介：Claude Code @anthropicai.   prev YC W20, @southpkcommons, @medialab
-
-this is me cleaning up some leftover services for my old startup @OMMultiverse 
-
-we have a huge legacy codebase and a community that still uses it but I haven't had any time to actually look into cost saving measures myself</description>
-      <pubDate>Sun, 24 May 2026 02:51:49 +0000</pubDate>
-      <guid isPermaLink="false">2058380417716125966</guid>
-    </item>
-    <item>
-      <title>Thinking Machines is impressive. In a couple hours I just fine tuned my own Qwen3.5-397B model this afternoon.   Fast usable multimodal is also going to enable very mind-blowing personal AI. https://t.co/mm3laZb766</title>
-      <link>https://x.com/garrytan/status/2058378310254793013</link>
-      <description>作者：Garry Tan
-账号：@garrytan
-简介：President &amp; CEO @ycombinator —Founder @garryslist—Creator of GStack &amp; GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop
-
-Thinking Machines is impressive. In a couple hours I just fine tuned my own Qwen3.5-397B model this afternoon. 
-
-Fast usable multimodal is also going to enable very mind-blowing personal AI. https://t.co/mm3laZb766</description>
-      <pubDate>Sun, 24 May 2026 02:43:26 +0000</pubDate>
-      <guid isPermaLink="false">2058378310254793013</guid>
-    </item>
-    <item>
-      <title>every now and then I remember you can run the &quot;please save me money&quot; prompt and it will actually work https://t.co/5gXnHAwOE8</title>
-      <link>https://x.com/trq212/status/2058377974882210096</link>
-      <description>作者：Thariq
-账号：@trq212
-简介：Claude Code @anthropicai.   prev YC W20, @southpkcommons, @medialab
-
-every now and then I remember you can run the &quot;please save me money&quot; prompt and it will actually work https://t.co/5gXnHAwOE8</description>
-      <pubDate>Sun, 24 May 2026 02:42:06 +0000</pubDate>
-      <guid isPermaLink="false">2058377974882210096</guid>
-    </item>
-    <item>
-      <title>Processed 1400 replies ◾ OpenAI is catching up to Anthropic  ◾ 'Codex' got more mentions than 'Claude Code' ◾ However, by model mentions, A\ is mogging https://t.co/BjtqVGmlUg https://t.co/74j8QbxuLX</title>
-      <link>https://x.com/rauchg/status/2058353051073970416</link>
-      <description>作者：Guillermo Rauch
-账号：@rauchg
-简介：@vercel CEO
-
-Processed 1400 replies
-◾ OpenAI is catching up to Anthropic 
-◾ 'Codex' got more mentions than 'Claude Code'
-◾ However, by model mentions, A\ is mogging https://t.co/BjtqVGmlUg https://t.co/74j8QbxuLX</description>
-      <pubDate>Sun, 24 May 2026 01:03:04 +0000</pubDate>
-      <guid isPermaLink="false">2058353051073970416</guid>
-    </item>
-    <item>
-      <title>Love spring https://t.co/oLDofrvDmA</title>
-      <link>https://x.com/nikunj/status/2058338294191227247</link>
+      <title>Reverse engineering APIs through network requests is one of the most fun things you can do with Claude Code to automate tasks..   SO many websites are impossible to navigate &quot;deterministically&quot; via the DOM (or through screenshots).  So, I just point Claude Code to use browser_harness by @browser_use...</title>
+      <link>https://x.com/nikunj/status/2058783316753686558</link>
       <description>作者：Nikunj Kothari
 账号：@nikunj
 简介：partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian &amp; others. love @shimoleejhaveri + 👦👧
 
-Love spring https://t.co/oLDofrvDmA</description>
-      <pubDate>Sun, 24 May 2026 00:04:26 +0000</pubDate>
-      <guid isPermaLink="false">2058338294191227247</guid>
-    </item>
-    <item>
-      <title>codex... made a smiley? :) https://t.co/UJc4X4A8q1</title>
-      <link>https://x.com/steipete/status/2058332234247987379</link>
-      <description>作者：Peter Steinberger
-账号：@steipete
-简介：Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world.
-@OpenClaw🦞 + @OpenAI
+Reverse engineering APIs through network requests is one of the most fun things you can do with Claude Code to automate tasks.. 
 
-codex... made a smiley? :) https://t.co/UJc4X4A8q1</description>
-      <pubDate>Sat, 23 May 2026 23:40:21 +0000</pubDate>
-      <guid isPermaLink="false">2058332234247987379</guid>
-    </item>
-    <item>
-      <title>Tell codex to maintain a scratch-log while it works on bigger refactors with decisions it had to make, tradeoffs, review fixes, so later on you can read through which tradeoffs the agent made, what you forgot to specify etc.</title>
-      <link>https://x.com/steipete/status/2058308112134635528</link>
-      <description>作者：Peter Steinberger
-账号：@steipete
-简介：Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world.
-@OpenClaw🦞 + @OpenAI
+SO many websites are impossible to navigate &quot;deterministically&quot; via the DOM (or through screenshots).
 
-Tell codex to maintain a scratch-log while it works on bigger refactors with decisions it had to make, tradeoffs, review fixes, so later on you can read through which tradeoffs the agent made, what you forgot to specify etc.</description>
-      <pubDate>Sat, 23 May 2026 22:04:30 +0000</pubDate>
-      <guid isPermaLink="false">2058308112134635528</guid>
-    </item>
-    <item>
-      <title>It’s going to be epic! https://t.co/CtSXbyTRfX</title>
-      <link>https://x.com/amasad/status/2058292230700372356</link>
-      <description>作者：Amjad Masad
-账号：@amasad
-简介：ceo @replit. civilizationist
+So, I just point Claude Code to use browser_harness by @browser_use (or vanilla playwright) and ask it to sniff network requests on the pages that I'm trying to get info on. 
 
-It’s going to be epic! https://t.co/CtSXbyTRfX</description>
-      <pubDate>Sat, 23 May 2026 21:01:23 +0000</pubDate>
-      <guid isPermaLink="false">2058292230700372356</guid>
+And, I just keep clicking around on the sections of data that I want. And, then Claude Code is generally able to go through the logs to figure out what is the right structure for these APIs and what kind of auth do they need (most are cookie based). We also determine what kind of rate limits exist based on trial and error. 
+
+I'm able to use that to construct jobs that allow me to get that data programmatically. There are many use cases for this besides scraping. I use this for random side projects (like the travel CLI), for monitoring websites (for intel), and for many many other use cases. 
+
+Every website will soon need to be headless, and we'll need to figure out mechanisms for how we have our agents pay these websites programmatically as well. 
+
+Just as we have llms.txt for data and structure, we'll soon need tools.txt for agents to determine what tools exist that can be leveraged.</description>
+      <pubDate>Mon, 25 May 2026 05:32:47 +0000</pubDate>
+      <guid isPermaLink="false">2058783316753686558</guid>
     </item>
     <item>
-      <title>We should fight the people who want to stop startups from staying in San Francisco. We want more startups and more prosperity.   I'm fighting back through Garry's List Action, I'm in for $50K, I need 9 more people to match me. Are you in?  https://t.co/dDMINuepyc</title>
-      <link>https://x.com/garrytan/status/2058251537298980992</link>
+      <title>High agency high taste is the unlock these days https://t.co/8dfIHx5wFP</title>
+      <link>https://x.com/garrytan/status/2058769355916411099</link>
       <description>作者：Garry Tan
 账号：@garrytan
 简介：President &amp; CEO @ycombinator —Founder @garryslist—Creator of GStack &amp; GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop
 
-We should fight the people who want to stop startups from staying in San Francisco. We want more startups and more prosperity. 
-
-I'm fighting back through Garry's List Action, I'm in for $50K, I need 9 more people to match me. Are you in?
-
-https://t.co/dDMINuepyc</description>
-      <pubDate>Sat, 23 May 2026 18:19:41 +0000</pubDate>
-      <guid isPermaLink="false">2058251537298980992</guid>
+High agency high taste is the unlock these days https://t.co/8dfIHx5wFP</description>
+      <pubDate>Mon, 25 May 2026 04:37:19 +0000</pubDate>
+      <guid isPermaLink="false">2058769355916411099</guid>
     </item>
     <item>
-      <title>Show me the thing you’ve built with AI you’re most proud of. Reply with a working product URL and what model / agent you primarily used.</title>
-      <link>https://x.com/rauchg/status/2058245330836271263</link>
+      <title>When all your friends are building on the edge https://t.co/u2jq0QxvBY</title>
+      <link>https://x.com/garrytan/status/2058767163666887136</link>
+      <description>作者：Garry Tan
+账号：@garrytan
+简介：President &amp; CEO @ycombinator —Founder @garryslist—Creator of GStack &amp; GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop
+
+When all your friends are building on the edge https://t.co/u2jq0QxvBY</description>
+      <pubDate>Mon, 25 May 2026 04:28:36 +0000</pubDate>
+      <guid isPermaLink="false">2058767163666887136</guid>
+    </item>
+    <item>
+      <title>I'm having the time of my life frankly https://t.co/5xJDLgOLfu</title>
+      <link>https://x.com/garrytan/status/2058767083777949930</link>
+      <description>作者：Garry Tan
+账号：@garrytan
+简介：President &amp; CEO @ycombinator —Founder @garryslist—Creator of GStack &amp; GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop
+
+I'm having the time of my life frankly https://t.co/5xJDLgOLfu</description>
+      <pubDate>Mon, 25 May 2026 04:28:17 +0000</pubDate>
+      <guid isPermaLink="false">2058767083777949930</guid>
+    </item>
+    <item>
+      <title>How do you build a great brand? Build a great product https://t.co/4je32ZC6Ub</title>
+      <link>https://x.com/rauchg/status/2058750970998505505</link>
       <description>作者：Guillermo Rauch
 账号：@rauchg
 简介：@vercel CEO
 
-Show me the thing you’ve built with AI you’re most proud of. Reply with a working product URL and what model / agent you primarily used.</description>
-      <pubDate>Sat, 23 May 2026 17:55:01 +0000</pubDate>
-      <guid isPermaLink="false">2058245330836271263</guid>
+How do you build a great brand? Build a great product https://t.co/4je32ZC6Ub</description>
+      <pubDate>Mon, 25 May 2026 03:24:15 +0000</pubDate>
+      <guid isPermaLink="false">2058750970998505505</guid>
     </item>
     <item>
-      <title>gm 🏃‍♂️ https://t.co/VI6wkRSrTV</title>
-      <link>https://x.com/rauchg/status/2058239837195628941</link>
+      <title>Interesting that when I say travel (and points) most people instantly think of flights. Points for hotels are dramatically underrated folks!!</title>
+      <link>https://x.com/nikunj/status/2058735679539195991</link>
+      <description>作者：Nikunj Kothari
+账号：@nikunj
+简介：partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian &amp; others. love @shimoleejhaveri + 👦👧
+
+Interesting that when I say travel (and points) most people instantly think of flights. Points for hotels are dramatically underrated folks!!</description>
+      <pubDate>Mon, 25 May 2026 02:23:30 +0000</pubDate>
+      <guid isPermaLink="false">2058735679539195991</guid>
+    </item>
+    <item>
+      <title>Fantastic breakdown of After Automation in today’s AI Daily Brief  Thanks for such a thoughtful episode @nlw! https://t.co/YXefJrdTu0</title>
+      <link>https://x.com/danshipper/status/2058723492355252490</link>
+      <description>作者：Dan Shipper
+账号：@danshipper
+简介：ceo @every | the only subscription you need to stay at the edge of AI
+
+Fantastic breakdown of After Automation in today’s AI Daily Brief
+
+Thanks for such a thoughtful episode @nlw! https://t.co/YXefJrdTu0</description>
+      <pubDate>Mon, 25 May 2026 01:35:04 +0000</pubDate>
+      <guid isPermaLink="false">2058723492355252490</guid>
+    </item>
+    <item>
+      <title>Spent this weekend building a pretty rad (imo) travel CLI product that I'd love to test in public..  Anyone have a trip coming up soon AND has a boatload of points?  Reply here with origin, destination, point breakdown and I'll reply with the output!</title>
+      <link>https://x.com/nikunj/status/2058692391708897319</link>
+      <description>作者：Nikunj Kothari
+账号：@nikunj
+简介：partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian &amp; others. love @shimoleejhaveri + 👦👧
+
+Spent this weekend building a pretty rad (imo) travel CLI product that I'd love to test in public..
+
+Anyone have a trip coming up soon AND has a boatload of points?
+
+Reply here with origin, destination, point breakdown and I'll reply with the output!</description>
+      <pubDate>Sun, 24 May 2026 23:31:29 +0000</pubDate>
+      <guid isPermaLink="false">2058692391708897319</guid>
+    </item>
+    <item>
+      <title>wdyt? what is @every? https://t.co/4cT206USFg</title>
+      <link>https://x.com/danshipper/status/2058682096432861371</link>
+      <description>作者：Dan Shipper
+账号：@danshipper
+简介：ceo @every | the only subscription you need to stay at the edge of AI
+
+wdyt? what is @every? https://t.co/4cT206USFg</description>
+      <pubDate>Sun, 24 May 2026 22:50:34 +0000</pubDate>
+      <guid isPermaLink="false">2058682096432861371</guid>
+    </item>
+    <item>
+      <title>if you didnt read it yet you should: https://t.co/j3r4aTuQoi</title>
+      <link>https://x.com/danshipper/status/2058677513040138432</link>
+      <description>作者：Dan Shipper
+账号：@danshipper
+简介：ceo @every | the only subscription you need to stay at the edge of AI
+
+if you didnt read it yet you should: https://t.co/j3r4aTuQoi</description>
+      <pubDate>Sun, 24 May 2026 22:32:22 +0000</pubDate>
+      <guid isPermaLink="false">2058677513040138432</guid>
+    </item>
+    <item>
+      <title>Is AGI already here?   &quot;I think if we froze the models that we have right now and you really worked on the harness and maybe we also spent more time training with a great harness, I think people would really feel the AGI in every single domain&quot; - @yanndubs of @OpenAI https://t.co/amFrnChXkC https://...</title>
+      <link>https://x.com/mattturck/status/2058659995311358332</link>
+      <description>作者：Matt Turck
+账号：@mattturck
+简介：VC at @FirstMarkCap.  Host: MAD Podcast; Organizer: Data Driven NYC, Author: MAD Landscape.
+
+Is AGI already here?
+
+ &quot;I think if we froze the models that we have right now and you really worked on the harness and maybe we also spent more time training with a great harness, I think people would really feel the AGI in every single domain&quot; - @yanndubs of @OpenAI https://t.co/amFrnChXkC https://t.co/nGv05BVzMI</description>
+      <pubDate>Sun, 24 May 2026 21:22:45 +0000</pubDate>
+      <guid isPermaLink="false">2058659995311358332</guid>
+    </item>
+    <item>
+      <title>https://t.co/nanG49969k</title>
+      <link>https://x.com/rauchg/status/2058655347255165126</link>
       <description>作者：Guillermo Rauch
 账号：@rauchg
 简介：@vercel CEO
 
-gm 🏃‍♂️ https://t.co/VI6wkRSrTV</description>
-      <pubDate>Sat, 23 May 2026 17:33:12 +0000</pubDate>
-      <guid isPermaLink="false">2058239837195628941</guid>
+https://t.co/nanG49969k</description>
+      <pubDate>Sun, 24 May 2026 21:04:17 +0000</pubDate>
+      <guid isPermaLink="false">2058655347255165126</guid>
     </item>
     <item>
-      <title>Can you imagine that we lived in a world 6 months (Nov 2025) ago when we would mostly just chat with LLMs and would be so happy about AI??  It's May 2026 and these LLMs now have produced more code than we have written over all time.</title>
-      <link>https://x.com/adityaag/status/2058233900464238801</link>
-      <description>作者：Aditya Agarwal
-账号：@adityaag
-简介：General Partner @SouthPkCommons, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @Dropbox, Board @Flipkart | Optimist, Builder, Dad
+      <title>I recently discovered a life-changing Mac app “Amphetamine” which keeps your Mac awake even when lid is closed   Much more reliable &amp;amp; easier to use than the caffeinate command in the terminal   Now I can finally close my laptop with peace of mind https://t.co/hhyJw5cy4H https://t.co/rf8ukajSbW</title>
+      <link>https://x.com/zarazhangrui/status/2058643577421631538</link>
+      <description>作者：Zara Zhang
+账号：@zarazhangrui
+简介：Builder. Dangerously skips permissions. Harvard’17. GitHub: https://t.co/KCuEajezlL YouTube: https://t.co/8xzbGWtf6w
 
-Can you imagine that we lived in a world 6 months (Nov 2025) ago when we would mostly just chat with LLMs and would be so happy about AI??
+I recently discovered a life-changing Mac app “Amphetamine” which keeps your Mac awake even when lid is closed 
 
-It's May 2026 and these LLMs now have produced more code than we have written over all time.</description>
-      <pubDate>Sat, 23 May 2026 17:09:36 +0000</pubDate>
-      <guid isPermaLink="false">2058233900464238801</guid>
+Much more reliable &amp;amp; easier to use than the caffeinate command in the terminal 
+
+Now I can finally close my laptop with peace of mind https://t.co/hhyJw5cy4H https://t.co/rf8ukajSbW</description>
+      <pubDate>Sun, 24 May 2026 20:17:31 +0000</pubDate>
+      <guid isPermaLink="false">2058643577421631538</guid>
     </item>
     <item>
-      <title>This is a fantastic post about why jobs aren’t going away in the way some predict. We are constantly making the mistake of confusing task completion with AI with being able to eliminate the whole job.   Even as we can automate one or many tasks within a job, the definition of the job almost inevitab...</title>
-      <link>https://x.com/levie/status/2058223867815227756</link>
+      <title>Ran into a friend who was an engineering manager; she just voluntarily transitioned to be an IC and has never been happier because she can finally get her hands on building again</title>
+      <link>https://x.com/zarazhangrui/status/2058640897236140034</link>
+      <description>作者：Zara Zhang
+账号：@zarazhangrui
+简介：Builder. Dangerously skips permissions. Harvard’17. GitHub: https://t.co/KCuEajezlL YouTube: https://t.co/8xzbGWtf6w
+
+Ran into a friend who was an engineering manager; she just voluntarily transitioned to be an IC and has never been happier because she can finally get her hands on building again</description>
+      <pubDate>Sun, 24 May 2026 20:06:52 +0000</pubDate>
+      <guid isPermaLink="false">2058640897236140034</guid>
+    </item>
+    <item>
+      <title>BJJ is the peak athletic pursuit. Nothing I’ve tried comes close. Join the cult</title>
+      <link>https://x.com/rauchg/status/2058628992631193657</link>
+      <description>作者：Guillermo Rauch
+账号：@rauchg
+简介：@vercel CEO
+
+BJJ is the peak athletic pursuit. Nothing I’ve tried comes close. Join the cult</description>
+      <pubDate>Sun, 24 May 2026 19:19:33 +0000</pubDate>
+      <guid isPermaLink="false">2058628992631193657</guid>
+    </item>
+    <item>
+      <title>&quot;I've raised a $2M seed round, but I'm not going to hire anybody for a while.  As a startup founder, you want to understand every job and do it and feel the pain before you hire.  The reality is that an agent is alot faster to onboard and they retain all the training so you can improve it over time....</title>
+      <link>https://x.com/petergyang/status/2058609058714968194</link>
+      <description>作者：Peter Yang
+账号：@petergyang
+简介：Practical AI tutorials and interviews for busy people | Join 140K+ readers at https://t.co/XYKTmGVH14 | Product at Roblox
+
+&quot;I've raised a $2M seed round, but I'm not going to hire anybody for a while.
+
+As a startup founder, you want to understand every job and do it and feel the pain before you hire.
+
+The reality is that an agent is alot faster to onboard and they retain all the training so you can improve it over time.&quot;
+
+📌 Watch Ryan talk more about how he onboards AI agents here: https://t.co/FXCjrzrFRO</description>
+      <pubDate>Sun, 24 May 2026 18:00:21 +0000</pubDate>
+      <guid isPermaLink="false">2058609058714968194</guid>
+    </item>
+    <item>
+      <title>OpenAI being more open Also I just realized recently that Codex is open source https://t.co/ngBc1lrF7c</title>
+      <link>https://x.com/zarazhangrui/status/2058604604422815832</link>
+      <description>作者：Zara Zhang
+账号：@zarazhangrui
+简介：Builder. Dangerously skips permissions. Harvard’17. GitHub: https://t.co/KCuEajezlL YouTube: https://t.co/8xzbGWtf6w
+
+OpenAI being more open
+Also I just realized recently that Codex is open source https://t.co/ngBc1lrF7c</description>
+      <pubDate>Sun, 24 May 2026 17:42:39 +0000</pubDate>
+      <guid isPermaLink="false">2058604604422815832</guid>
+    </item>
+    <item>
+      <title>CEOs feel AI FOMO, but many of them and their lieutenants have gotten used to arms-length leadership and lack the muscle to get hands-on with AI.  So they set sweeping, imprecise AI mandates for their company.  This leads to performative, low-effort demos from employees trying to meet the coarse goa...</title>
+      <link>https://x.com/realmadhuguru/status/2058591611245011157</link>
+      <description>作者：Madhu Guru
+账号：@realmadhuguru
+简介：Product Leader at Google - Gemini, Veo, Nano Banana. All opinions mine.
+
+CEOs feel AI FOMO, but many of them and their lieutenants have gotten used to arms-length leadership and lack the muscle to get hands-on with AI.
+
+So they set sweeping, imprecise AI mandates for their company.
+
+This leads to performative, low-effort demos from employees trying to meet the coarse goals.
+
+Next thing you know it’s been two years with no real progress and a startup with hands-on leadership is disrupting you.</description>
+      <pubDate>Sun, 24 May 2026 16:51:01 +0000</pubDate>
+      <guid isPermaLink="false">2058591611245011157</guid>
+    </item>
+    <item>
+      <title>CEOs are uniquely prone to AI psychosis because they’re sufficiently distant from the last mile of work that still has to happen to generate most value with AI.  So when they play with AI, they see the happy path results, often not considering the next 10 or 20 things that have to happen to get sust...</title>
+      <link>https://x.com/levie/status/2058582370253701432</link>
       <description>作者：Aaron Levie
 账号：@levie
 简介：ceo @box - your business lives in content. unleash it with AI
 
-This is a fantastic post about why jobs aren’t going away in the way some predict. We are constantly making the mistake of confusing task completion with AI with being able to eliminate the whole job. 
+CEOs are uniquely prone to AI psychosis because they’re sufficiently distant from the last mile of work that still has to happen to generate most value with AI.
 
-Even as we can automate one or many tasks within a job, the definition of the job almost inevitably just expands to do vastly more of those tasks, do them at a higher quality, or move on to the type of task that hasn’t been automated yet. 
+So when they play with AI, they see the happy path results, often not considering the next 10 or 20 things that have to happen to get sustainable results from agents. 
 
-And as a result of being able to do more of the tasks or at a higher quality level, the job becomes valuable in a new way. And in many cases for now an entirely new audience as well. 
+“Look I made this awesome product prototype”. Yes but you didn’t have to review the code before it went into production and fix a bunch of issues.
 
-This will be true for coding, legal work, sales, or marketing. The small business or non-tech company that wants to now take on larger software projects finally can, and they’ll hire to do so. The small business that couldn’t afford a full marketing agency can hire or contract out to a marketer that can do as much as an agency did before now with agents. And so on.
+“Look I generated a contract”. Yes but you didn’t verify all the terms before it goes out to the counterparty and didn’t have to wire up all the past contracts to work with.
 
-Don’t fall into the trap of confusing tasks with jobs.</description>
-      <pubDate>Sat, 23 May 2026 16:29:44 +0000</pubDate>
-      <guid isPermaLink="false">2058223867815227756</guid>
+The best thing you can do as a CEO is to use AI a *ton* to figure out the real implications of agents in the enterprise, and come out the other side with an appreciation for both the upside and the real work that goes into them.</description>
+      <pubDate>Sun, 24 May 2026 16:14:18 +0000</pubDate>
+      <guid isPermaLink="false">2058582370253701432</guid>
     </item>
     <item>
-      <title>Wrote this almost a year ago, and finally starting to see more B2B companies wake up to this opportunity..   Don’t wait another year. Narratives and vibes are extremely important to stand out amongst the slop 🪄 https://t.co/Hcu1kTqo9H</title>
-      <link>https://x.com/nikunj/status/2058203594672021769</link>
-      <description>作者：Nikunj Kothari
-账号：@nikunj
-简介：partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian &amp; others. love @shimoleejhaveri + 👦👧
+      <title>to be clear I don't think the models are quite there yet, Bun is extremely verifiable and has incredible test coverage  but I think they will get there</title>
+      <link>https://x.com/trq212/status/2058576196481200223</link>
+      <description>作者：Thariq
+账号：@trq212
+简介：Claude Code @anthropicai.   prev YC W20, @southpkcommons, @medialab
 
-Wrote this almost a year ago, and finally starting to see more B2B companies wake up to this opportunity.. 
+to be clear I don't think the models are quite there yet, Bun is extremely verifiable and has incredible test coverage
 
-Don’t wait another year. Narratives and vibes are extremely important to stand out amongst the slop 🪄 https://t.co/Hcu1kTqo9H</description>
-      <pubDate>Sat, 23 May 2026 15:09:11 +0000</pubDate>
-      <guid isPermaLink="false">2058203594672021769</guid>
+but I think they will get there</description>
+      <pubDate>Sun, 24 May 2026 15:49:46 +0000</pubDate>
+      <guid isPermaLink="false">2058576196481200223</guid>
     </item>
     <item>
-      <title>The Story Behind Cerebras’ $63 Billion IPO with Founder and CEO Andrew Feldman</title>
-      <link>https://www.youtube.com/watch?v=jeop9wfb9jU</link>
-      <description>播客：No Priors
+      <title>my main takeaway from the Bun rewrite is that legacy codebases will be incredibly valuable as a source for &quot;distilling&quot; code into new forms  every game should be crossplatform, all legacy software should work on the web, we don't need COBOL anymore</title>
+      <link>https://x.com/trq212/status/2058576195000660319</link>
+      <description>作者：Thariq
+账号：@trq212
+简介：Claude Code @anthropicai.   prev YC W20, @southpkcommons, @medialab
 
-Speaker 1 | 00:00 - 00:12
-Netflix used to deliver DVDs and envelopes. And when the Internet got fast, they became a movie studio. Right? It opened up an entirely new business, something fundamentally different. That's what happens with speed.
+my main takeaway from the Bun rewrite is that legacy codebases will be incredibly valuable as a source for &quot;distilling&quot; code into new forms
 
-Speaker 1 | 00:12 - 00:30
-And I think that's what fast AI does. Right now, we're replacing things that everybody can see, like coding, design, the SaaS tools. But once we start sort of fundamentally reorganizing around this, you're gonna see this sort of new business models and fundamental jumps in productivity. I'm eager for that. That's so cool.
+every game should be crossplatform, all legacy software should work on the web, we don't need COBOL anymore</description>
+      <pubDate>Sun, 24 May 2026 15:49:46 +0000</pubDate>
+      <guid isPermaLink="false">2058576195000660319</guid>
+    </item>
+    <item>
+      <title>Also available on:  Spotify: https://t.co/shl37wNvac  Apple: https://t.co/shNRmPP2Wb  Newsletter: https://t.co/s32MgNbiGD</title>
+      <link>https://x.com/petergyang/status/2058555238500724744</link>
+      <description>作者：Peter Yang
+账号：@petergyang
+简介：Practical AI tutorials and interviews for busy people | Join 140K+ readers at https://t.co/XYKTmGVH14 | Product at Roblox
 
-Speaker 2 | 00:37 - 01:01
-Today at No Prize, we have Andrew Feldman, the cofounder and CEO of Cerebras. Cerebras was founded in the mid two thousand tens to focus on new workloads for AI, particularly the machine learning world, and then has made the transition in a very fast inference for the foundation model world that we live in today. Cerebras recently went public and is currently worth about $63,000,000,000 in the stock market. So Andrew, thank you for joining us on Opriors.
+Also available on:
 
-Speaker 1 | 01:01 - 01:03
-Oh, what a pleasure. It's good to see you guys again.
+Spotify: https://t.co/shl37wNvac
 
-Speaker 2 | 01:03 - 01:12
-Yeah. So first of all, congratulations. So your company, Cerebras, just went public. As of today, it's a 60,000,000,000 market cap, which is pretty amazing. Pretty amazing.
+Apple: https://t.co/shNRmPP2Wb
 
-Speaker 2 | 01:12 - 01:27
-Yeah. And I think you were with us a year or two ago on the show in one of the earlier episodes, it was a pleasure to talk to you then. Obviously, we're very excited to have you on today. Can you tell us a bit how the business evolved since that time and what you folks just a reminder for our audience what you do, what you're focused on, how you're moving forward?
+Newsletter: https://t.co/s32MgNbiGD</description>
+      <pubDate>Sun, 24 May 2026 14:26:29 +0000</pubDate>
+      <guid isPermaLink="false">2058555238500724744</guid>
+    </item>
+    <item>
+      <title>&quot;We used to say build the MVP. Now you should build the system that builds the MVP first.&quot;  Here's my new episode with @ryancarson where he shared how he runs his startup solo with AI agents:  ✅ OpenClaw as his AI chief of staff to triage emails, book meetings, and do sales outreach  ✅ Codex and Dev...</title>
+      <link>https://x.com/petergyang/status/2058555226479866312</link>
+      <description>作者：Peter Yang
+账号：@petergyang
+简介：Practical AI tutorials and interviews for busy people | Join 140K+ readers at https://t.co/XYKTmGVH14 | Product at Roblox
 
-Speaker 1 | 01:28 - 01:43
-We build AI computers. Right? Computers designed to and optimized to accelerate AI workloads. And right now, we're the the fastest at inference, not by a little bit, but by a lot. Fifteen, eighteen, 20x faster than GPUs.
+&quot;We used to say build the MVP. Now you should build the system that builds the MVP first.&quot;
 
-Speaker 1 | 01:44 - 02:08
-And so what happened was starting at about 2025, AI models got smart enough to be useful. People began using them, and you know, we make AI with training, and we use it with inference. So as people began to use it, it began to to sort of be integrated into their day to day work. Speed became fundamentally important, and we were just crushed with demand.
+Here's my new episode with @ryancarson where he shared how he runs his startup solo with AI agents:
 
-Speaker 2 | 02:08 - 02:13
-Is it is this faster across the board, is this specific use cases? Faster across the board.
+✅ OpenClaw as his AI chief of staff to triage emails, book meetings, and do sales outreach
 
-Speaker 1 | 02:13 - 02:48
-Big models, small models, US models, Chinese models, trillion parameter models, 1,000,000,000 parameter models across the board. And then what happened was at the end of the year, we signed a deal with OpenAI, of one of the biggest deals ever in Silicon Valley, sort of north of $20,000,000,000 And then in March, we signed an agreement with AWS where we will be deployed in their data centers going forward. And so it was just a whirlwind year and a half of chasing the chasing supply and trying to trying to sort of meet
+✅ Codex and Devin as his AI eng team to ship features while he sleeps
 
-Speaker 2 | 02:48 - 02:54
-the demand. And what what shifted in the year and in the last year and a half? Was it the ramp in manufacturing? Was it a new chip design? Was it something else?
+Some quotes from Ryan:
 
-Speaker 2 | 02:54 - 02:55
-Could you help educate What folks on
+&quot;Spend a lot of time upfront setting up your skills + documentation. Then you've suddenly unlocked the work of 10 people.&quot;
 
-Speaker 1 | 02:57 - 03:07
-happened was we built a really, really fast machine, and for a long time nobody cared. Right? That's because Actually, forgive
+&quot;Treat your agent like a real employee. Give it a real email address, calendar access, and GitHub account.&quot;
 
-Speaker 3 | 03:07 - 03:14
-me for saying so, but a lot of people objected and said this is just a weird architecture. They called it wrong. Like Cerubis called it wrong.
+&quot;Pay a designer to set up your design system and brand. After that, you can use AI to generate on-brand assets.&quot;
 
-Speaker 1 | 03:14 - 03:25
-Yeah. Yeah. They did. I think to be radically better, right, you can't build something that is a similar architecture. Right?
+📌 Watch now: https://t.co/Slc5cEkFGQ
 
-Speaker 1 | 03:25 - 03:52
-You're not going to get 15 or 20 times better than the GPU with a minor modification to their architecture. And that's probably true across the board, that if you're going to aspire to a radical improvement, your design has to be different. And from the beginning, you know, we chose wafer scale, which means we build a 46,000 square millimeter chip, a chip the size of a dinner plate, whereas everybody else is building chips the size of postage stamps. They told us we were out of our mind. It would never work.
+Thanks to our sponsors:
 
-Speaker 1 | 03:53 - 04:14
-They listed reasons why it was impossible. But in 2019, we we proved it was possible. We began delivering it, and we improved on it, and we improved on it. But we were fast when AI was a novelty. And when it's a novelty, nobody cares that you're fast because it's not being used.
+@WisprFlow: Don't type, just speak https://t.co/oqHJ8bN3ll
 
-Speaker 1 | 04:14 - 04:30
-And so from about 2023 to the beginning of '25, sort of people pointed at AI, but nobody used it every day in their work. Mhmm. And once you use something every day in your work, it can't be slow. I mean, how how long will you guys wait for a website to resolve?
+@linear: The AI agent platform for modern teams https://t.co/yFylGfkenJ</description>
+      <pubDate>Sun, 24 May 2026 14:26:26 +0000</pubDate>
+      <guid isPermaLink="false">2058555226479866312</guid>
+    </item>
+    <item>
+      <title>Ep 86: Yann LeCun on Leaving Meta, Breaking The LLM Paradigm, &amp;amp; Why Hinton is Wrong</title>
+      <link>https://www.youtube.com/@RedpointAI</link>
+      <description>播客：Unsupervised Learning
 
-Speaker 3 | 04:30 - 04:31
-You'll have no attention.
+Speaker 1 | 00:00 - 00:03
+You're one of the godfathers of AI. What's your kind of view of the path of progress here?
 
-Speaker 1 | 04:31 - 04:37
-Right. That's exactly right. That that's exactly the way it is. I mean, how big is the market for slow search? It's zero.
+Speaker 2 | 00:03 - 00:11
+Five years complete world domination. The best way to get breakthrough research is you hire the best people, and you get the fuck out of the way. Pardon my French.
 
-Speaker 1 | 04:37 - 05:00
-How big is the market for dial up Internet? It's zero. That's how big the market for slow inference will be, but we had to wait until it was smart enough to be useful. And that happened in 2025. And that's why you got this sort of explosion of demand in companies like Cognition and Cursor and Lovable and just all these others that began ramping extraordinary.
+Speaker 1 | 00:11 - 00:14
+You shared the Turing Award with two others. When did your views start diverging?
 
-Speaker 1 | 05:00 - 05:11
-Many of the ones you guys have invested in are ramping like crazy, OpenAI and others. And we were right there with the right product.
+Speaker 2 | 00:14 - 00:15
+In 2023.
 
-Speaker 2 | 05:11 - 05:26
-I think I first met you back in 2016 or something like that. And at the time, people weren't like, saying AI sounded weird, right? You were talking about machine learning, and the models at the time were convolutional neural networks and RNNs and just the emergence of GANs and things
+Speaker 1 | 00:15 - 00:16
+How you do know it
 
-Speaker 1 | 05:26 - 05:34
-like that. We were trying to tell the difference between a chair and a cat. Right? That was Quackley's great swarm of his face. Like a cat and or a chair.
+Speaker 2 | 00:16 - 00:16
+was time
 
-Speaker 1 | 05:34 - 05:38
-Like, woah. Look how far we've come. I mean, it's unbelievable.
+Speaker 1 | 00:16 - 00:19
+to leave Meta? It sounds like you were thinking through some of these things over a period of time.
 
-Speaker 2 | 05:38 - 05:57
-Yeah. Yeah. What do you think gave you the foresight to build against the market? Because to your point, think a lot of us believed in this market would be really important, and you more than others, right, since you actually started a company in it. But then it took some time for the market to really expand to the point where, to your point now, it's this massive use case, people really care about speed of inference and other things.
+Speaker 2 | 00:19 - 00:25
+It was a big misconception about my role, my relation to Alex, and how AI was run at Meta.
 
-Speaker 2 | 05:58 - 06:00
-What gave you the conviction back then to do this?
+Speaker 1 | 00:25 - 00:27
+What's like one thing you've changed your mind on in the last year?
 
-Speaker 1 | 06:00 - 06:25
-Combination of of vision, the right cofounders, and a little bit of arrogance, a little bit of luck. You know, we we saw AI on the horizon as a new workload. And as computer architects, new workloads are opportunity. Right? It's very, very hard to to to enter in the x 86 world, right, where there's not nothing new is happening there, and nothing has happened for generations.
+Speaker 2 | 00:27 - 00:28
+I mean, the whole idea of
 
-Speaker 1 | 06:26 - 07:02
-But, you know, when graphics emerged, you got the discrete GPU, and you you you got NVIDIA, and and when when the mobile compute hit, you you got ARM. And it was interesting that that not Intel, not AMD, not all sorts of people who you would have thought have been really well positioned to win in that business, they all got no share. And so we knew that that that this new workload would eat a lot of compute. It would require a new architecture, dedicated architecture, and that ought to be very different. The architecture could not be a derivative of what's existing.
+Speaker 1 | 00:28 - 01:00
+Jan Lakun is one of the godfathers of AI. He's an absolute legend in the field, someone I've admired for a long time. And so it was such a treat to get him on unsupervised learning. He's been a noted skeptic of LMs in many ways, and so we dug into what LLMs can do, what they can't do, some of the limitations he sees, and why he ultimately decided to pursue a different architecture. And we also talked about his time at Meta, you know, the things he's proud of in setting up Fare, how the last few years proceeded, and what ultimately led him to, spin out and start his own company, Ami.
 
-Speaker 1 | 07:03 - 07:06
-Those were our big bets, and they were a 100% contrarian.
+Speaker 1 | 01:00 - 01:26
+I think it's just fascinating to get Jan's thoughts on everything happening in the AI ecosystem today, this tension between basic research and then pushing LLMs forward, and how that's happening in a bunch of organizations today, as well as his thoughts on just where the whole space is headed. He's just an absolute giant in the field, and when I started this podcast, I hope we get guests like him. So it is just such a treat. I think folks will really enjoy hearing the conversation we had. Without further ado, here's Jan.
 
-Speaker 2 | 07:06 - 07:07
-Mhmm.
+Speaker 1 | 01:28 - 01:37
+Jan, this is such a pleasure. You're one of the godfathers of AI. I feel like when I started doing this podcast years ago, I was really hoping we might one day get someone like you on.
 
-Speaker 1 | 07:07 - 07:09
-And they turned out to be dead right.
+Speaker 2 | 01:37 - 01:43
+You know, I don't like that term because I live in New Jersey. When you're a godfather in New Jersey, it doesn't mean the same thing.
 
-Speaker...</description>
-      <pubDate>Thu, 21 May 2026 07:00:00 +0000</pubDate>
-      <guid>https://www.youtube.com/watch?v=jeop9wfb9jU</guid>
+Speaker 1 | 01:43 - 02:15
+Very fair. Very fair. You know, obviously, you know, your bet on on neural nets when everyone doubted them is legendary, and I feel like today you're making a similar bet in many ways against LMs and the kind of predominant generative architectures that that so many believe in. You've recently started a new company behind this theme. And so, you know, our goal today in the conversation is to leave our listeners with a lot more information about me, what you're doing there, some of your work at Tapestry, why you think the rest of the field is pointed in the wrong direction around some of these generative models, and then also just get your reflections on the way the field's unfolded, your time at Meta and all that.
+
+Speaker 1 | 02:16 - 02:38
+Modest goals for a single podcast episode. I figured it'd be great to start with Amit because the company feels like the clearest statement of your technical thesis going forward. And so you recently launched the company. It's focused on world models and scaling the JEPR architecture, which you obviously pioneered over at Meta. And I'm wondering if you could talk a little bit about the origins of that architecture and the extent to which you drew inspiration from the human brain and the way that works.
+
+Speaker 2 | 02:38 - 03:03
+So first of all, I wanna say there's nothing wrong with LLMs in the sense of LLMs, you know, are the basis for a lot of very useful AI products that all of us use, including me. Yeah. They're great, okay, for what they do. They're just not a path towards human level or human like intelligence or even animal like intelligence. So that's my claim.
+
+Speaker 2 | 03:03 - 03:09
+Okay? I'm not saying are useless. Right? I'm I'm just saying they're not a path towards,
+
+Speaker 1 | 03:09 - 03:11
+you know I mean, help build some of the first major open source ones.
+
+Speaker 2 | 03:12 - 03:25
+Right. Absolutely. So what is AMI? So AMI really stands for advanced machine intelligence. And the the the kind of subtitle, the motto, if you want, is AI for the real world.
+
+Speaker 2 | 03:26 - 03:43
+So, basically, a lot of, you know, AI techniques that people know about today are good for language manipulation, either human language or computer code or mathematics or legalese, which barely qualifies as human language.
+
+Speaker 1 | 03:43 - 03:45
+Unfortunately, a lot of human language used for it.
+
+Speaker 2 | 03:45 - 04:07
+Right. Sadly. You know, language is very special in a way, and it's particularly well suited for the type of, you know, architectures that have been so successful recently, the the, you know, large language models, GPT style architectures. But what about the real world? What about, like, understanding the physical world?
+
+Speaker 2 | 04:08 - 04:21
+Turns out reality is way more complicated than language because it's high dimensional. It's continuous. It's noisy. It's messy. And training a system to understand the real world is much, much harder.
+
+Speaker 2 | 04:21 - 04:52
+So that's really what we are after. That's what I've been after for most of my career and really kind of, you know, working on in an accelerated fashion over the last five, six years or so and making significant progress over the last two years. And so it made sense to really do a startup around it and sort of go to into high gear, you know, and pushing that. And it became clear, you know, by the end of last year that Meta was really not the right place for that. So which is why I left and started Amin Labs.
+
+Speaker 1 | 04:52 - 05:20
+I think it's an interesting, like, you know, trend that we're seeing across the board, right, where it feels like there you're there's there's many folks spinning out of, you know, either some of the large companies or research labs, that have a a particular direction of research they're excited about. And you'd have such an interesting vantage point of this from your time at Fair, this almost tension that exists between go pursue as many different research directions as possible in these companies versus, hey. Something's really working. This is the thing that we're gonna sell for the next six, twelve months. Like, go focus on that.
+
+Speaker 1 | 05:20 - 05:23
+You know, I'm curious your your thoughts on that and and what you've of seen in the industry at large.
+
+Speaker 2 | 05:23 - 05:32
+Well, it's a strange trade off. There's really two models of. Right? There's a lot of exploratory research, a lot of direct research directions. Right?
+
+Speaker 2 | 05:32 - 05:49
+And sometimes something kind of seems to work, and you you need to push it further. And it's not research anymore. I mean, the people working on it are, say, researchers, or they're called researchers, at least, in the press. But but, really, it's becoming more engineering and pushing for for products. Right?
+
+Speaker 2 | 05:49 - 06:42
+So that happened a number of times at Meta because of things that were started at FAIR. Such a thing happened in, you know, early twenty twenty three, essentially, when, you know, LAMA, which was developed at FAIR, LAMA one, was very promising. And Meta created a a whole organization, Gen AI, to turn it into something real and a series of products and produce, you know, Lama two, Lama three, Lama four, which was a bit of a disappointment. And because, you know, Mark Zuckerberg was disappointed by it, he kind of rebooted the entire organization, reorganized it, and hired new people, etcetera. But what also happened over the last year is that, basically, ...</description>
+      <pubDate>Fri, 15 May 2026 12:50:21 +0000</pubDate>
+      <guid>https://www.youtube.com/@RedpointAI</guid>
     </item>
   </channel>
 </rss>
