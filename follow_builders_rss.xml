@@ -5,433 +5,325 @@
     <link>https://github.com/zarazhangrui/follow-builders</link>
     <description>聚合 AI 领域建设者的 X、播客和博客内容。</description>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 26 May 2026 02:04:12 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2026 09:33:03 +0000</lastBuildDate>
     <item>
-      <title>Reverse engineering APIs through network requests is one of the most fun things you can do with Claude Code to automate tasks..   SO many websites are impossible to navigate &quot;deterministically&quot; via the DOM (or through screenshots).  So, I just point Claude Code to use browser_harness by @browser_use...</title>
-      <link>https://x.com/nikunj/status/2058783316753686558</link>
-      <description>作者：Nikunj Kothari
-账号：@nikunj
-简介：partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian &amp; others. love @shimoleejhaveri + 👦👧
-
-Reverse engineering APIs through network requests is one of the most fun things you can do with Claude Code to automate tasks.. 
-
-SO many websites are impossible to navigate &quot;deterministically&quot; via the DOM (or through screenshots).
-
-So, I just point Claude Code to use browser_harness by @browser_use (or vanilla playwright) and ask it to sniff network requests on the pages that I'm trying to get info on. 
-
-And, I just keep clicking around on the sections of data that I want. And, then Claude Code is generally able to go through the logs to figure out what is the right structure for these APIs and what kind of auth do they need (most are cookie based). We also determine what kind of rate limits exist based on trial and error. 
-
-I'm able to use that to construct jobs that allow me to get that data programmatically. There are many use cases for this besides scraping. I use this for random side projects (like the travel CLI), for monitoring websites (for intel), and for many many other use cases. 
-
-Every website will soon need to be headless, and we'll need to figure out mechanisms for how we have our agents pay these websites programmatically as well. 
-
-Just as we have llms.txt for data and structure, we'll soon need tools.txt for agents to determine what tools exist that can be leveraged.</description>
-      <pubDate>Mon, 25 May 2026 05:32:47 +0000</pubDate>
-      <guid isPermaLink="false">2058783316753686558</guid>
-    </item>
-    <item>
-      <title>High agency high taste is the unlock these days https://t.co/8dfIHx5wFP</title>
-      <link>https://x.com/garrytan/status/2058769355916411099</link>
+      <title>This is going to be common from here  Brave new world  Prompters of the world unite https://t.co/rtuwOGiEzQ</title>
+      <link>https://x.com/garrytan/status/2059155926939299968</link>
       <description>作者：Garry Tan
 账号：@garrytan
 简介：President &amp; CEO @ycombinator —Founder @garryslist—Creator of GStack &amp; GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop
 
-High agency high taste is the unlock these days https://t.co/8dfIHx5wFP</description>
-      <pubDate>Mon, 25 May 2026 04:37:19 +0000</pubDate>
-      <guid isPermaLink="false">2058769355916411099</guid>
+This is going to be common from here
+
+Brave new world
+
+Prompters of the world unite https://t.co/rtuwOGiEzQ</description>
+      <pubDate>Tue, 26 May 2026 06:13:24 +0000</pubDate>
+      <guid isPermaLink="false">2059155926939299968</guid>
     </item>
     <item>
-      <title>When all your friends are building on the edge https://t.co/u2jq0QxvBY</title>
-      <link>https://x.com/garrytan/status/2058767163666887136</link>
+      <title>Ultimately the golden age of abundance will be this kind of tech built and deployed 1000x https://t.co/ezuSdcjE3w</title>
+      <link>https://x.com/garrytan/status/2059151927011909800</link>
       <description>作者：Garry Tan
 账号：@garrytan
 简介：President &amp; CEO @ycombinator —Founder @garryslist—Creator of GStack &amp; GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop
 
-When all your friends are building on the edge https://t.co/u2jq0QxvBY</description>
-      <pubDate>Mon, 25 May 2026 04:28:36 +0000</pubDate>
-      <guid isPermaLink="false">2058767163666887136</guid>
+Ultimately the golden age of abundance will be this kind of tech built and deployed 1000x https://t.co/ezuSdcjE3w</description>
+      <pubDate>Tue, 26 May 2026 05:57:31 +0000</pubDate>
+      <guid isPermaLink="false">2059151927011909800</guid>
     </item>
     <item>
-      <title>I'm having the time of my life frankly https://t.co/5xJDLgOLfu</title>
-      <link>https://x.com/garrytan/status/2058767083777949930</link>
+      <title>By evals I mean literally tell the agent: given what we discussed about what we are doing and why and what happened, use three different frontier models to look at inputs and outputs of your skill file calling the code, and rate it on effectiveness. Why isn’t it a 10? How could it be made to be so? ...</title>
+      <link>https://x.com/garrytan/status/2059148823403082154</link>
       <description>作者：Garry Tan
 账号：@garrytan
 简介：President &amp; CEO @ycombinator —Founder @garryslist—Creator of GStack &amp; GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop
 
-I'm having the time of my life frankly https://t.co/5xJDLgOLfu</description>
-      <pubDate>Mon, 25 May 2026 04:28:17 +0000</pubDate>
-      <guid isPermaLink="false">2058767083777949930</guid>
+By evals I mean literally tell the agent: given what we discussed about what we are doing and why and what happened, use three different frontier models to look at inputs and outputs of your skill file calling the code, and rate it on effectiveness. Why isn’t it a 10? How could it be made to be so? 
+
+Run this a few times and you will be surprised how fast it gets astonishingly better
+
+And since it is in a skill file plus code with evals (LLM as judge) and unit tests, it stays better forever</description>
+      <pubDate>Tue, 26 May 2026 05:45:11 +0000</pubDate>
+      <guid isPermaLink="false">2059148823403082154</guid>
     </item>
     <item>
-      <title>How do you build a great brand? Build a great product https://t.co/4je32ZC6Ub</title>
-      <link>https://x.com/rauchg/status/2058750970998505505</link>
-      <description>作者：Guillermo Rauch
-账号：@rauchg
-简介：@vercel CEO
+      <title>https://t.co/6AxtdQkx4O</title>
+      <link>https://x.com/adityaag/status/2059135918808981617</link>
+      <description>作者：Aditya Agarwal
+账号：@adityaag
+简介：General Partner @SouthPkCommons, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @Dropbox, Board @Flipkart | Optimist, Builder, Dad
 
-How do you build a great brand? Build a great product https://t.co/4je32ZC6Ub</description>
-      <pubDate>Mon, 25 May 2026 03:24:15 +0000</pubDate>
-      <guid isPermaLink="false">2058750970998505505</guid>
+https://t.co/6AxtdQkx4O</description>
+      <pubDate>Tue, 26 May 2026 04:53:54 +0000</pubDate>
+      <guid isPermaLink="false">2059135918808981617</guid>
     </item>
     <item>
-      <title>Interesting that when I say travel (and points) most people instantly think of flights. Points for hotels are dramatically underrated folks!!</title>
-      <link>https://x.com/nikunj/status/2058735679539195991</link>
-      <description>作者：Nikunj Kothari
-账号：@nikunj
-简介：partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian &amp; others. love @shimoleejhaveri + 👦👧
+      <title>It's not everyday you get to host someone who's been to space.  I'll be chatting with Group Captain Shubhanshu Shukla @gagan_shux at @spc_india.  Fighter Pilot. Astronaut. First Indian on the ISS. Incredible guest. Register to attend, BLR, May 28. https://t.co/D0fUyBRgfZ</title>
+      <link>https://x.com/adityaag/status/2059135917122838705</link>
+      <description>作者：Aditya Agarwal
+账号：@adityaag
+简介：General Partner @SouthPkCommons, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @Dropbox, Board @Flipkart | Optimist, Builder, Dad
 
-Interesting that when I say travel (and points) most people instantly think of flights. Points for hotels are dramatically underrated folks!!</description>
-      <pubDate>Mon, 25 May 2026 02:23:30 +0000</pubDate>
-      <guid isPermaLink="false">2058735679539195991</guid>
+It's not everyday you get to host someone who's been to space.
+
+I'll be chatting with Group Captain Shubhanshu Shukla @gagan_shux at @spc_india.
+
+Fighter Pilot. Astronaut. First Indian on the ISS. Incredible guest. Register to attend, BLR, May 28. https://t.co/D0fUyBRgfZ</description>
+      <pubDate>Tue, 26 May 2026 04:53:54 +0000</pubDate>
+      <guid isPermaLink="false">2059135917122838705</guid>
     </item>
     <item>
-      <title>Fantastic breakdown of After Automation in today’s AI Daily Brief  Thanks for such a thoughtful episode @nlw! https://t.co/YXefJrdTu0</title>
-      <link>https://x.com/danshipper/status/2058723492355252490</link>
-      <description>作者：Dan Shipper
-账号：@danshipper
-简介：ceo @every | the only subscription you need to stay at the edge of AI
-
-Fantastic breakdown of After Automation in today’s AI Daily Brief
-
-Thanks for such a thoughtful episode @nlw! https://t.co/YXefJrdTu0</description>
-      <pubDate>Mon, 25 May 2026 01:35:04 +0000</pubDate>
-      <guid isPermaLink="false">2058723492355252490</guid>
-    </item>
-    <item>
-      <title>Spent this weekend building a pretty rad (imo) travel CLI product that I'd love to test in public..  Anyone have a trip coming up soon AND has a boatload of points?  Reply here with origin, destination, point breakdown and I'll reply with the output!</title>
-      <link>https://x.com/nikunj/status/2058692391708897319</link>
-      <description>作者：Nikunj Kothari
-账号：@nikunj
-简介：partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian &amp; others. love @shimoleejhaveri + 👦👧
-
-Spent this weekend building a pretty rad (imo) travel CLI product that I'd love to test in public..
-
-Anyone have a trip coming up soon AND has a boatload of points?
-
-Reply here with origin, destination, point breakdown and I'll reply with the output!</description>
-      <pubDate>Sun, 24 May 2026 23:31:29 +0000</pubDate>
-      <guid isPermaLink="false">2058692391708897319</guid>
-    </item>
-    <item>
-      <title>wdyt? what is @every? https://t.co/4cT206USFg</title>
-      <link>https://x.com/danshipper/status/2058682096432861371</link>
-      <description>作者：Dan Shipper
-账号：@danshipper
-简介：ceo @every | the only subscription you need to stay at the edge of AI
-
-wdyt? what is @every? https://t.co/4cT206USFg</description>
-      <pubDate>Sun, 24 May 2026 22:50:34 +0000</pubDate>
-      <guid isPermaLink="false">2058682096432861371</guid>
-    </item>
-    <item>
-      <title>if you didnt read it yet you should: https://t.co/j3r4aTuQoi</title>
-      <link>https://x.com/danshipper/status/2058677513040138432</link>
-      <description>作者：Dan Shipper
-账号：@danshipper
-简介：ceo @every | the only subscription you need to stay at the edge of AI
-
-if you didnt read it yet you should: https://t.co/j3r4aTuQoi</description>
-      <pubDate>Sun, 24 May 2026 22:32:22 +0000</pubDate>
-      <guid isPermaLink="false">2058677513040138432</guid>
-    </item>
-    <item>
-      <title>Is AGI already here?   &quot;I think if we froze the models that we have right now and you really worked on the harness and maybe we also spent more time training with a great harness, I think people would really feel the AGI in every single domain&quot; - @yanndubs of @OpenAI https://t.co/amFrnChXkC https://...</title>
-      <link>https://x.com/mattturck/status/2058659995311358332</link>
-      <description>作者：Matt Turck
-账号：@mattturck
-简介：VC at @FirstMarkCap.  Host: MAD Podcast; Organizer: Data Driven NYC, Author: MAD Landscape.
-
-Is AGI already here?
-
- &quot;I think if we froze the models that we have right now and you really worked on the harness and maybe we also spent more time training with a great harness, I think people would really feel the AGI in every single domain&quot; - @yanndubs of @OpenAI https://t.co/amFrnChXkC https://t.co/nGv05BVzMI</description>
-      <pubDate>Sun, 24 May 2026 21:22:45 +0000</pubDate>
-      <guid isPermaLink="false">2058659995311358332</guid>
-    </item>
-    <item>
-      <title>https://t.co/nanG49969k</title>
-      <link>https://x.com/rauchg/status/2058655347255165126</link>
-      <description>作者：Guillermo Rauch
-账号：@rauchg
-简介：@vercel CEO
-
-https://t.co/nanG49969k</description>
-      <pubDate>Sun, 24 May 2026 21:04:17 +0000</pubDate>
-      <guid isPermaLink="false">2058655347255165126</guid>
-    </item>
-    <item>
-      <title>I recently discovered a life-changing Mac app “Amphetamine” which keeps your Mac awake even when lid is closed   Much more reliable &amp;amp; easier to use than the caffeinate command in the terminal   Now I can finally close my laptop with peace of mind https://t.co/hhyJw5cy4H https://t.co/rf8ukajSbW</title>
-      <link>https://x.com/zarazhangrui/status/2058643577421631538</link>
-      <description>作者：Zara Zhang
-账号：@zarazhangrui
-简介：Builder. Dangerously skips permissions. Harvard’17. GitHub: https://t.co/KCuEajezlL YouTube: https://t.co/8xzbGWtf6w
-
-I recently discovered a life-changing Mac app “Amphetamine” which keeps your Mac awake even when lid is closed 
-
-Much more reliable &amp;amp; easier to use than the caffeinate command in the terminal 
-
-Now I can finally close my laptop with peace of mind https://t.co/hhyJw5cy4H https://t.co/rf8ukajSbW</description>
-      <pubDate>Sun, 24 May 2026 20:17:31 +0000</pubDate>
-      <guid isPermaLink="false">2058643577421631538</guid>
-    </item>
-    <item>
-      <title>Ran into a friend who was an engineering manager; she just voluntarily transitioned to be an IC and has never been happier because she can finally get her hands on building again</title>
-      <link>https://x.com/zarazhangrui/status/2058640897236140034</link>
-      <description>作者：Zara Zhang
-账号：@zarazhangrui
-简介：Builder. Dangerously skips permissions. Harvard’17. GitHub: https://t.co/KCuEajezlL YouTube: https://t.co/8xzbGWtf6w
-
-Ran into a friend who was an engineering manager; she just voluntarily transitioned to be an IC and has never been happier because she can finally get her hands on building again</description>
-      <pubDate>Sun, 24 May 2026 20:06:52 +0000</pubDate>
-      <guid isPermaLink="false">2058640897236140034</guid>
-    </item>
-    <item>
-      <title>BJJ is the peak athletic pursuit. Nothing I’ve tried comes close. Join the cult</title>
-      <link>https://x.com/rauchg/status/2058628992631193657</link>
-      <description>作者：Guillermo Rauch
-账号：@rauchg
-简介：@vercel CEO
-
-BJJ is the peak athletic pursuit. Nothing I’ve tried comes close. Join the cult</description>
-      <pubDate>Sun, 24 May 2026 19:19:33 +0000</pubDate>
-      <guid isPermaLink="false">2058628992631193657</guid>
-    </item>
-    <item>
-      <title>&quot;I've raised a $2M seed round, but I'm not going to hire anybody for a while.  As a startup founder, you want to understand every job and do it and feel the pain before you hire.  The reality is that an agent is alot faster to onboard and they retain all the training so you can improve it over time....</title>
-      <link>https://x.com/petergyang/status/2058609058714968194</link>
+      <title>Codex is very good. I'm especially impressed by how it uses the browse to test its own work.  But any design related / frontend tasks, Claude still wins.</title>
+      <link>https://x.com/petergyang/status/2059099566377693305</link>
       <description>作者：Peter Yang
 账号：@petergyang
 简介：Practical AI tutorials and interviews for busy people | Join 140K+ readers at https://t.co/XYKTmGVH14 | Product at Roblox
 
-&quot;I've raised a $2M seed round, but I'm not going to hire anybody for a while.
+Codex is very good. I'm especially impressed by how it uses the browse to test its own work.
 
-As a startup founder, you want to understand every job and do it and feel the pain before you hire.
-
-The reality is that an agent is alot faster to onboard and they retain all the training so you can improve it over time.&quot;
-
-📌 Watch Ryan talk more about how he onboards AI agents here: https://t.co/FXCjrzrFRO</description>
-      <pubDate>Sun, 24 May 2026 18:00:21 +0000</pubDate>
-      <guid isPermaLink="false">2058609058714968194</guid>
+But any design related / frontend tasks, Claude still wins.</description>
+      <pubDate>Tue, 26 May 2026 02:29:27 +0000</pubDate>
+      <guid isPermaLink="false">2059099566377693305</guid>
     </item>
     <item>
-      <title>OpenAI being more open Also I just realized recently that Codex is open source https://t.co/ngBc1lrF7c</title>
-      <link>https://x.com/zarazhangrui/status/2058604604422815832</link>
-      <description>作者：Zara Zhang
-账号：@zarazhangrui
-简介：Builder. Dangerously skips permissions. Harvard’17. GitHub: https://t.co/KCuEajezlL YouTube: https://t.co/8xzbGWtf6w
+      <title>You have to think of tokenmaxxing as eating crab legs at the buffet.  The buffet (all you can eat AI plans) is not going to last forever so you better eat all the crab legs while you still can.</title>
+      <link>https://x.com/petergyang/status/2059070818798465330</link>
+      <description>作者：Peter Yang
+账号：@petergyang
+简介：Practical AI tutorials and interviews for busy people | Join 140K+ readers at https://t.co/XYKTmGVH14 | Product at Roblox
 
-OpenAI being more open
-Also I just realized recently that Codex is open source https://t.co/ngBc1lrF7c</description>
-      <pubDate>Sun, 24 May 2026 17:42:39 +0000</pubDate>
-      <guid isPermaLink="false">2058604604422815832</guid>
+You have to think of tokenmaxxing as eating crab legs at the buffet.
+
+The buffet (all you can eat AI plans) is not going to last forever so you better eat all the crab legs while you still can.</description>
+      <pubDate>Tue, 26 May 2026 00:35:13 +0000</pubDate>
+      <guid isPermaLink="false">2059070818798465330</guid>
     </item>
     <item>
-      <title>CEOs feel AI FOMO, but many of them and their lieutenants have gotten used to arms-length leadership and lack the muscle to get hands-on with AI.  So they set sweeping, imprecise AI mandates for their company.  This leads to performative, low-effort demos from employees trying to meet the coarse goa...</title>
-      <link>https://x.com/realmadhuguru/status/2058591611245011157</link>
-      <description>作者：Madhu Guru
-账号：@realmadhuguru
-简介：Product Leader at Google - Gemini, Veo, Nano Banana. All opinions mine.
+      <title>What used to feel like procrastination (building systems instead of the MVP) is now a prerequisite to ship effectively with AI agents.  My number 1 lesson from @ryancarson:  &quot;We used to say just do the bare minimum to get the MVP out. Don't spend time on systems. It's literally reversed now.  You ha...</title>
+      <link>https://x.com/petergyang/status/2059029752858775581</link>
+      <description>作者：Peter Yang
+账号：@petergyang
+简介：Practical AI tutorials and interviews for busy people | Join 140K+ readers at https://t.co/XYKTmGVH14 | Product at Roblox
 
-CEOs feel AI FOMO, but many of them and their lieutenants have gotten used to arms-length leadership and lack the muscle to get hands-on with AI.
+What used to feel like procrastination (building systems instead of the MVP) is now a prerequisite to ship effectively with AI agents.
 
-So they set sweeping, imprecise AI mandates for their company.
+My number 1 lesson from @ryancarson:
 
-This leads to performative, low-effort demos from employees trying to meet the coarse goals.
+&quot;We used to say just do the bare minimum to get the MVP out. Don't spend time on systems. It's literally reversed now.
 
-Next thing you know it’s been two years with no real progress and a startup with hands-on leadership is disrupting you.</description>
-      <pubDate>Sun, 24 May 2026 16:51:01 +0000</pubDate>
-      <guid isPermaLink="false">2058591611245011157</guid>
+You have to spend a lot of time setting up your documentation. Build all that into a cron job with a skill file, and suddenly you're doing the work of 10 people.&quot;
+
+📌 I asked Ryan how he ships 10 PRs a day, here's his answer: https://t.co/8jMGNSdHmu</description>
+      <pubDate>Mon, 25 May 2026 21:52:02 +0000</pubDate>
+      <guid isPermaLink="false">2059029752858775581</guid>
     </item>
     <item>
-      <title>CEOs are uniquely prone to AI psychosis because they’re sufficiently distant from the last mile of work that still has to happen to generate most value with AI.  So when they play with AI, they see the happy path results, often not considering the next 10 or 20 things that have to happen to get sust...</title>
-      <link>https://x.com/levie/status/2058582370253701432</link>
+      <title>The CEO of Goldman Sachs is taking the other side on the pessimistic takes on AI and jobs.   If you looked at what work looked like a few decades ago and saw how much faster everything is or easier it is to produce the same thing as before - even before AI - you’d certainly have been convinced there...</title>
+      <link>https://x.com/levie/status/2059025559896883489</link>
       <description>作者：Aaron Levie
 账号：@levie
 简介：ceo @box - your business lives in content. unleash it with AI
 
-CEOs are uniquely prone to AI psychosis because they’re sufficiently distant from the last mile of work that still has to happen to generate most value with AI.
+The CEO of Goldman Sachs is taking the other side on the pessimistic takes on AI and jobs. 
 
-So when they play with AI, they see the happy path results, often not considering the next 10 or 20 things that have to happen to get sustainable results from agents. 
+If you looked at what work looked like a few decades ago and saw how much faster everything is or easier it is to produce the same thing as before - even before AI - you’d certainly have been convinced there’d be no jobs left.
 
-“Look I made this awesome product prototype”. Yes but you didn’t have to review the code before it went into production and fix a bunch of issues.
+What happens is we constantly just demand more from everything. Instead of automating a task and delivering the same value proposition, but cheaper, we just expect more from the overall product or service. Because some players in the market decides to do more with the automation, and it raises everyone’s expectations. So those that don’t respond can’t compete.
 
-“Look I generated a contract”. Yes but you didn’t verify all the terms before it goes out to the counterparty and didn’t have to wire up all the past contracts to work with.
+We get more financial analysis from analysts. We get much more comprehensive legal advice. We get more tailored financial services offerings. We get better software in niches we never thought we could automate. Our healthcare providers offer more tests and deeper medical advice. This just goes on and on.
 
-The best thing you can do as a CEO is to use AI a *ton* to figure out the real implications of agents in the enterprise, and come out the other side with an appreciation for both the upside and the real work that goes into them.</description>
-      <pubDate>Sun, 24 May 2026 16:14:18 +0000</pubDate>
-      <guid isPermaLink="false">2058582370253701432</guid>
+When you move from believing the world is static and you’ll have a better view of how jobs evolve due to AI.</description>
+      <pubDate>Mon, 25 May 2026 21:35:22 +0000</pubDate>
+      <guid isPermaLink="false">2059025559896883489</guid>
     </item>
     <item>
-      <title>to be clear I don't think the models are quite there yet, Bun is extremely verifiable and has incredible test coverage  but I think they will get there</title>
-      <link>https://x.com/trq212/status/2058576196481200223</link>
-      <description>作者：Thariq
-账号：@trq212
-简介：Claude Code @anthropicai.   prev YC W20, @southpkcommons, @medialab
+      <title>Good counterpoint from inside @every to After Automation: https://t.co/o5h1PTYUTg</title>
+      <link>https://x.com/danshipper/status/2059014616059879501</link>
+      <description>作者：Dan Shipper
+账号：@danshipper
+简介：ceo @every | the only subscription you need to stay at the edge of AI
 
-to be clear I don't think the models are quite there yet, Bun is extremely verifiable and has incredible test coverage
-
-but I think they will get there</description>
-      <pubDate>Sun, 24 May 2026 15:49:46 +0000</pubDate>
-      <guid isPermaLink="false">2058576196481200223</guid>
+Good counterpoint from inside @every to After Automation: https://t.co/o5h1PTYUTg</description>
+      <pubDate>Mon, 25 May 2026 20:51:53 +0000</pubDate>
+      <guid isPermaLink="false">2059014616059879501</guid>
     </item>
     <item>
-      <title>my main takeaway from the Bun rewrite is that legacy codebases will be incredibly valuable as a source for &quot;distilling&quot; code into new forms  every game should be crossplatform, all legacy software should work on the web, we don't need COBOL anymore</title>
-      <link>https://x.com/trq212/status/2058576195000660319</link>
-      <description>作者：Thariq
-账号：@trq212
-简介：Claude Code @anthropicai.   prev YC W20, @southpkcommons, @medialab
+      <title>I haven't written a personal blog post in over 5 years so if you see posts that claim to be written by me, they're not. I'll update if this ever changes. Maybe it should.</title>
+      <link>https://x.com/AmandaAskell/status/2058994218484338726</link>
+      <description>作者：Amanda Askell
+账号：@AmandaAskell
+简介：Philosopher &amp; ethicist trying to make AI be good @AnthropicAI.
+Personal account. All opinions come from my training data.
 
-my main takeaway from the Bun rewrite is that legacy codebases will be incredibly valuable as a source for &quot;distilling&quot; code into new forms
-
-every game should be crossplatform, all legacy software should work on the web, we don't need COBOL anymore</description>
-      <pubDate>Sun, 24 May 2026 15:49:46 +0000</pubDate>
-      <guid isPermaLink="false">2058576195000660319</guid>
+I haven't written a personal blog post in over 5 years so if you see posts that claim to be written by me, they're not. I'll update if this ever changes. Maybe it should.</description>
+      <pubDate>Mon, 25 May 2026 19:30:50 +0000</pubDate>
+      <guid isPermaLink="false">2058994218484338726</guid>
     </item>
     <item>
-      <title>Also available on:  Spotify: https://t.co/shl37wNvac  Apple: https://t.co/shNRmPP2Wb  Newsletter: https://t.co/s32MgNbiGD</title>
-      <link>https://x.com/petergyang/status/2058555238500724744</link>
-      <description>作者：Peter Yang
-账号：@petergyang
-简介：Practical AI tutorials and interviews for busy people | Join 140K+ readers at https://t.co/XYKTmGVH14 | Product at Roblox
+      <title>https://t.co/I91v9v14Ma</title>
+      <link>https://x.com/danshipper/status/2058962146684215602</link>
+      <description>作者：Dan Shipper
+账号：@danshipper
+简介：ceo @every | the only subscription you need to stay at the edge of AI
 
-Also available on:
-
-Spotify: https://t.co/shl37wNvac
-
-Apple: https://t.co/shNRmPP2Wb
-
-Newsletter: https://t.co/s32MgNbiGD</description>
-      <pubDate>Sun, 24 May 2026 14:26:29 +0000</pubDate>
-      <guid isPermaLink="false">2058555238500724744</guid>
+https://t.co/I91v9v14Ma</description>
+      <pubDate>Mon, 25 May 2026 17:23:24 +0000</pubDate>
+      <guid isPermaLink="false">2058962146684215602</guid>
     </item>
     <item>
-      <title>&quot;We used to say build the MVP. Now you should build the system that builds the MVP first.&quot;  Here's my new episode with @ryancarson where he shared how he runs his startup solo with AI agents:  ✅ OpenClaw as his AI chief of staff to triage emails, book meetings, and do sales outreach  ✅ Codex and Dev...</title>
-      <link>https://x.com/petergyang/status/2058555226479866312</link>
-      <description>作者：Peter Yang
-账号：@petergyang
-简介：Practical AI tutorials and interviews for busy people | Join 140K+ readers at https://t.co/XYKTmGVH14 | Product at Roblox
+      <title>&quot;Humanity, created by God in all its grandeur is today facing a pivotal choice: either to construct a new Tower of Babel or to build the city in which God and humanity dwell together.&quot;  The Pope has obviously been reading @every from 2024: https://t.co/TxmwICvJ77</title>
+      <link>https://x.com/danshipper/status/2058962119287038145</link>
+      <description>作者：Dan Shipper
+账号：@danshipper
+简介：ceo @every | the only subscription you need to stay at the edge of AI
 
-&quot;We used to say build the MVP. Now you should build the system that builds the MVP first.&quot;
+&quot;Humanity, created by God in all its grandeur is today facing a pivotal choice: either to construct a new Tower of Babel or to build the city in which God and humanity dwell together.&quot;
 
-Here's my new episode with @ryancarson where he shared how he runs his startup solo with AI agents:
-
-✅ OpenClaw as his AI chief of staff to triage emails, book meetings, and do sales outreach
-
-✅ Codex and Devin as his AI eng team to ship features while he sleeps
-
-Some quotes from Ryan:
-
-&quot;Spend a lot of time upfront setting up your skills + documentation. Then you've suddenly unlocked the work of 10 people.&quot;
-
-&quot;Treat your agent like a real employee. Give it a real email address, calendar access, and GitHub account.&quot;
-
-&quot;Pay a designer to set up your design system and brand. After that, you can use AI to generate on-brand assets.&quot;
-
-📌 Watch now: https://t.co/Slc5cEkFGQ
-
-Thanks to our sponsors:
-
-@WisprFlow: Don't type, just speak https://t.co/oqHJ8bN3ll
-
-@linear: The AI agent platform for modern teams https://t.co/yFylGfkenJ</description>
-      <pubDate>Sun, 24 May 2026 14:26:26 +0000</pubDate>
-      <guid isPermaLink="false">2058555226479866312</guid>
+The Pope has obviously been reading @every from 2024: https://t.co/TxmwICvJ77</description>
+      <pubDate>Mon, 25 May 2026 17:23:17 +0000</pubDate>
+      <guid isPermaLink="false">2058962119287038145</guid>
     </item>
     <item>
-      <title>Ep 86: Yann LeCun on Leaving Meta, Breaking The LLM Paradigm, &amp;amp; Why Hinton is Wrong</title>
-      <link>https://www.youtube.com/@RedpointAI</link>
-      <description>播客：Unsupervised Learning
+      <title>Member of Technical Staff https://t.co/84YZZWhB5G</title>
+      <link>https://x.com/mattturck/status/2058957711396544752</link>
+      <description>作者：Matt Turck
+账号：@mattturck
+简介：VC at @FirstMarkCap.  Host: MAD Podcast; Organizer: Data Driven NYC, Author: MAD Landscape.
 
-Speaker 1 | 00:00 - 00:03
-You're one of the godfathers of AI. What's your kind of view of the path of progress here?
+Member of Technical Staff https://t.co/84YZZWhB5G</description>
+      <pubDate>Mon, 25 May 2026 17:05:46 +0000</pubDate>
+      <guid isPermaLink="false">2058957711396544752</guid>
+    </item>
+    <item>
+      <title>It’s hilarious how many people DM me every week asking “aren’t you a VC, why are you building”..  Brother, the space is moving so fast that the only way you can learn and stay at the frontier is by building. Priors need to be rethought every few months.    It’s also SO much fun to explore the edges ...</title>
+      <link>https://x.com/nikunj/status/2058927145519562867</link>
+      <description>作者：Nikunj Kothari
+账号：@nikunj
+简介：partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian &amp; others. love @shimoleejhaveri + 👦👧
 
-Speaker 2 | 00:03 - 00:11
-Five years complete world domination. The best way to get breakthrough research is you hire the best people, and you get the fuck out of the way. Pardon my French.
+It’s hilarious how many people DM me every week asking “aren’t you a VC, why are you building”..
 
-Speaker 1 | 00:11 - 00:14
-You shared the Turing Award with two others. When did your views start diverging?
+Brother, the space is moving so fast that the only way you can learn and stay at the frontier is by building. Priors need to be rethought every few months.  
 
-Speaker 2 | 00:14 - 00:15
-In 2023.
+It’s also SO much fun to explore the edges of these models and discover new capabilities that haven’t been documented yet. 
 
-Speaker 1 | 00:15 - 00:16
-How you do know it
+I also find it absurd that how can you NOT be curious and redo how you do work. We have alien super intelligence in our hands and you want to spend hours doing it the same way just because it’s comfortable? 
 
-Speaker 2 | 00:16 - 00:16
-was time
+Automate or get automated is the bitter lesson we all need to learn. And have a lot of fun along the way :)</description>
+      <pubDate>Mon, 25 May 2026 15:04:19 +0000</pubDate>
+      <guid isPermaLink="false">2058927145519562867</guid>
+    </item>
+    <item>
+      <title>OpenClaw's dependency purge continues. Killed Sharp and Jimp. Replaced it with photon, a small WebAssembly that runs compiled Rust for image processing. 2MB vs 140MB. https://t.co/tSimX2GKwP</title>
+      <link>https://x.com/steipete/status/2058922222790525272</link>
+      <description>作者：Peter Steinberger
+账号：@steipete
+简介：Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world.
+@OpenClaw🦞 + @OpenAI
 
-Speaker 1 | 00:16 - 00:19
-to leave Meta? It sounds like you were thinking through some of these things over a period of time.
+OpenClaw's dependency purge continues. Killed Sharp and Jimp. Replaced it with photon, a small WebAssembly that runs compiled Rust for image processing. 2MB vs 140MB. https://t.co/tSimX2GKwP</description>
+      <pubDate>Mon, 25 May 2026 14:44:45 +0000</pubDate>
+      <guid isPermaLink="false">2058922222790525272</guid>
+    </item>
+    <item>
+      <title>Folks: when you write skills, ask your agent to be token efficient, relax grammer. I see too many skills that write books in the skill description, and all that crap is loaded into every context.  I wrote a skill that finds the worst offenders. https://t.co/kfaaJpxMXE</title>
+      <link>https://x.com/steipete/status/2058917897590673525</link>
+      <description>作者：Peter Steinberger
+账号：@steipete
+简介：Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world.
+@OpenClaw🦞 + @OpenAI
 
-Speaker 2 | 00:19 - 00:25
-It was a big misconception about my role, my relation to Alex, and how AI was run at Meta.
+Folks: when you write skills, ask your agent to be token efficient, relax grammer. I see too many skills that write books in the skill description, and all that crap is loaded into every context.
 
-Speaker 1 | 00:25 - 00:27
-What's like one thing you've changed your mind on in the last year?
+I wrote a skill that finds the worst offenders. https://t.co/kfaaJpxMXE</description>
+      <pubDate>Mon, 25 May 2026 14:27:34 +0000</pubDate>
+      <guid isPermaLink="false">2058917897590673525</guid>
+    </item>
+    <item>
+      <title>There's security, and there's clankers. https://t.co/TLA07uIEZB</title>
+      <link>https://x.com/steipete/status/2058884046940225918</link>
+      <description>作者：Peter Steinberger
+账号：@steipete
+简介：Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world.
+@OpenClaw🦞 + @OpenAI
 
-Speaker 2 | 00:27 - 00:28
-I mean, the whole idea of
+There's security, and there's clankers. https://t.co/TLA07uIEZB</description>
+      <pubDate>Mon, 25 May 2026 12:13:03 +0000</pubDate>
+      <guid isPermaLink="false">2058884046940225918</guid>
+    </item>
+    <item>
+      <title>Why AWS and Azure Cannot Run Autonomous AI – Ivan Burazin (Daytona)</title>
+      <link>https://www.youtube.com/watch?v=kMXJrzAa5fM</link>
+      <description>播客：The MAD Podcast with Matt Turck
 
-Speaker 1 | 00:28 - 01:00
-Jan Lakun is one of the godfathers of AI. He's an absolute legend in the field, someone I've admired for a long time. And so it was such a treat to get him on unsupervised learning. He's been a noted skeptic of LMs in many ways, and so we dug into what LLMs can do, what they can't do, some of the limitations he sees, and why he ultimately decided to pursue a different architecture. And we also talked about his time at Meta, you know, the things he's proud of in setting up Fare, how the last few years proceeded, and what ultimately led him to, spin out and start his own company, Ami.
+Speaker 1 | 00:00 - 00:18
+We are a part of this like super cycle right now and the super cycle does not last forever. And so if you're gonna pause by the super cycle, you are speeding market. Like that is what you're doing. I would ask Claude, can you go fetch the data from our bank? And then it was like, oh yeah, just log in and give me access.
 
-Speaker 1 | 01:00 - 01:26
-I think it's just fascinating to get Jan's thoughts on everything happening in the AI ecosystem today, this tension between basic research and then pushing LLMs forward, and how that's happening in a bunch of organizations today, as well as his thoughts on just where the whole space is headed. He's just an absolute giant in the field, and when I started this podcast, I hope we get guests like him. So it is just such a treat. I think folks will really enjoy hearing the conversation we had. Without further ado, here's Jan.
+Speaker 1 | 00:18 - 00:36
+I'm like, log in and give me a no. I will not give you access. Right away fundamentally for me that was like broke the entire thesis of it. So you give it its own machine. When I think about agents, I think of them as digital knowledge workers And to do anything as a knowledge worker, you do need a computer.
 
-Speaker 1 | 01:28 - 01:37
-Jan, this is such a pleasure. You're one of the godfathers of AI. I feel like when I started doing this podcast years ago, I was really hoping we might one day get someone like you on.
+Speaker 1 | 00:36 - 00:40
+My argument is that every agent will need at least one sandbox, sometimes more.
 
-Speaker 2 | 01:37 - 01:43
-You know, I don't like that term because I live in New Jersey. When you're a godfather in New Jersey, it doesn't mean the same thing.
+Speaker 2 | 00:40 - 01:11
+Claire Matturk. Welcome to the MAD podcast. My guest today is Ivan Borozin, CEO of Daytona, one of the most talked about startups in agent infrastructure. If you've been hearing the word sandbox in every AI agent conversation and quietly wondering what it actually means and why it suddenly matters, this episode is for you. We go from first principles, why does an agent need a computer at all, all the way to the deep technical end, why Daytona had to throw out Kubernetes and write their own scheduler, and why a global CPU shortage might be coming faster than people think.
 
-Speaker 1 | 01:43 - 02:15
-Very fair. Very fair. You know, obviously, you know, your bet on on neural nets when everyone doubted them is legendary, and I feel like today you're making a similar bet in many ways against LMs and the kind of predominant generative architectures that that so many believe in. You've recently started a new company behind this theme. And so, you know, our goal today in the conversation is to leave our listeners with a lot more information about me, what you're doing there, some of your work at Tapestry, why you think the rest of the field is pointed in the wrong direction around some of these generative models, and then also just get your reflections on the way the field's unfolded, your time at Meta and all that.
+Speaker 2 | 01:11 - 01:34
+Ivan also unpacked the full agent stack as he sees it, models, sandboxes, tools, MCP, memory, orchestration, and where each piece is heading. Along the way, Ivan shares some really interesting lessons on go to market and distribution for technical founders that he has learned through sixteen years building developer tool startups. Please enjoy this conversation with Ivan from Daytona. Hey Ivan, welcome.
 
-Speaker 1 | 02:16 - 02:38
-Modest goals for a single podcast episode. I figured it'd be great to start with Amit because the company feels like the clearest statement of your technical thesis going forward. And so you recently launched the company. It's focused on world models and scaling the JEPR architecture, which you obviously pioneered over at Meta. And I'm wondering if you could talk a little bit about the origins of that architecture and the extent to which you drew inspiration from the human brain and the way that works.
+Speaker 1 | 01:34 - 01:35
+Great to be here.
 
-Speaker 2 | 02:38 - 03:03
-So first of all, I wanna say there's nothing wrong with LLMs in the sense of LLMs, you know, are the basis for a lot of very useful AI products that all of us use, including me. Yeah. They're great, okay, for what they do. They're just not a path towards human level or human like intelligence or even animal like intelligence. So that's my claim.
+Speaker 2 | 01:35 - 01:44
+So you have said that every agent needs its own computer. What's the simplest way of explaining that idea?
 
-Speaker 2 | 03:03 - 03:09
-Okay? I'm not saying are useless. Right? I'm I'm just saying they're not a path towards,
+Speaker 1 | 01:44 - 02:13
+Well, I think about agents, I think of them as digital knowledge workers and to do anything as a knowledge worker you do need a computer or I should say anything sophisticated. So you and I can be on a conversation and we can get something done, but we usually need some sort of tools in our world is usually a computer to get higher productivity, and to be able to do things and so I think of that in the same lens. For me agents are literally just digital knowledge workers.
 
-Speaker 1 | 03:09 - 03:11
-you know I mean, help build some of the first major open source ones.
+Speaker 2 | 02:13 - 02:20
+Great. And so it's on a computer that's the whole concept of Sandbox. As an introduction to this whole conversation, what is a Sandbox?
 
-Speaker 2 | 03:12 - 03:25
-Right. Absolutely. So what is AMI? So AMI really stands for advanced machine intelligence. And the the the kind of subtitle, the motto, if you want, is AI for the real world.
+Speaker 1 | 02:20 - 02:49
+Absolutely. So Sandbox is although the term Sandbox first comes from isolation. So making sure that there's a secure place for in this case an agent to run and do things but on the other side it is essentially a computer it's a full on computer that an agent has the ability to install tools, access the web, run scripts, run code, whatever it needs to get its job done. So the shortest answer is a sandbox is essentially we call them composable computers for AI agents.
 
-Speaker 2 | 03:26 - 03:43
-So, basically, a lot of, you know, AI techniques that people know about today are good for language manipulation, either human language or computer code or mathematics or legalese, which barely qualifies as human language.
+Speaker 2 | 02:49 - 02:59
+Yeah. And is in some ways like this whole OpenClaw and Mac mini like a good analogy for what a sandbox is like the Mac mini sort of being the sandbox?
 
-Speaker 1 | 03:43 - 03:45
-Unfortunately, a lot of human language used for it.
+Speaker 1 | 02:59 - 03:12
+Exactly. So I think the Openclaw Mac mini thing helped a lot of people understand what we actually do. It's like, oh, I get it now. I get it. Right?
 
-Speaker 2 | 03:45 - 04:07
-Right. Sadly. You know, language is very special in a way, and it's particularly well suited for the type of, you know, architectures that have been so successful recently, the the, you know, large language models, GPT style architectures. But what about the real world? What about, like, understanding the physical world?
+Speaker 1 | 03:12 - 03:17
+So it needs a computer. In this case, was a Mac Mini to be able to do different things. So yes, that helped a lot with awareness for sure.
 
-Speaker 2 | 04:08 - 04:21
-Turns out reality is way more complicated than language because it's high dimensional. It's continuous. It's noisy. It's messy. And training a system to understand the real world is much, much harder.
+Speaker 2 | 03:17 - 03:35
+Yeah. Because, again, to unpack it like the, OpenCLaw as as a as a framework and system to help an agent do all sorts of things on your computer. Basically, you wanna be able to kill it if it goes rogue, therefore, you can unplug the Mac mini, the way you could sort of kill a sandbox. Is that is that
 
-Speaker 2 | 04:21 - 04:52
-So that's really what we are after. That's what I've been after for most of my career and really kind of, you know, working on in an accelerated fashion over the last five, six years or so and making significant progress over the last two years. And so it made sense to really do a startup around it and sort of go to into high gear, you know, and pushing that. And it became clear, you know, by the end of last year that Meta was really not the right place for that. So which is why I left and started Amin Labs.
+Speaker 1 | 03:35 - 04:14
+Kind of. So there's a there's a couple of things that I personally thought about. And so my OpenClaw runs on a not a physical Mac mini essentially, but a sandbox, virtual Mac mini. And the reason why I didn't so the way people usually run these things and Claude code or OpenClaw is usually on their own computer because it helps them you know organize emails, know search whatever documents they have and whatnot. There's a one there's a high security risk there because at one point we were doing our board meeting presentation and I would ask Claude, can you go fetch the data from our bank?
 
-Speaker 1 | 04:52 - 05:20
-I think it's an interesting, like, you know, trend that we're seeing across the board, right, where it feels like there you're there's there's many folks spinning out of, you know, either some of the large companies or research labs, that have a a particular direction of research they're excited about. And you'd have such an interesting vantage point of this from your time at Fair, this almost tension that exists between go pursue as many different research directions as possible in these companies versus, hey. Something's really working. This is the thing that we're gonna sell for the next six, twelve months. Like, go focus on that.
+Speaker 1 | 04:15 - 05:03
+And then it was like, yeah, just log in and give me access. I'm like, log in give me a no I will not give you access right and so right away fundamentally for me that was like broke the entire thesis of it. So you give it its own machine. I personally gave it its own like Daytona account to give its own phone number and reason the I have to give its own phone number is because it has to do 2FA to get into the bank like there's no other way except for 2FA with the phone number for this particular bank and so it has to have all these things like a employee, like a digital employee to be able to go and access these things and so the risk now that now that it has its own computer, it has its own account, these accounts have limitations so it can only it can only look at the data for my bank, it can't spend the money for my bank and so except for the credit card that we did give it which has a you know a $100 a day or whatever it may be.
 
-Speaker 1 | 05:20 - 05:23
-You know, I'm curious your your thoughts on that and and what you've of seen in the industry at large.
+Speaker 1 | 05:03 - 05:16
+And so the only risk you essentially have at that point if it's in the sandbox is will it take this data and now leak it somewhere? And that's something we can talk about later, but essentially the worst thing can happen is that and to your point, you can kill the whole machine if you need to kill
 
-Speaker 2 | 05:23 - 05:32
-Well, it's a strange trade off. There's really two models of. Right? There's a lot of exploratory research, a lot of direct research directions. Right?
+Speaker 2 | 05:16 - 05:25
+a machine. And there is a phenomenal concept of stateful versus stateless, can you can you unpack that for us?
 
-Speaker 2 | 05:32 - 05:49
-And sometimes something kind of seems to work, and you you need to push it further. And it's not research anymore. I mean, the people working on it are, say, researchers, or they're called researchers, at least, in the press. But but, really, it's becoming more engineering and pushing for for products. Right?
+Speaker 1 | 05:25 - 06:21
+So that basically comes when we talk to people about what we are building they're like oh doesn't this sort of exists in any of the hyperscalers right? And so the answer is no and the answer is no is because everything that they were built for which was deploying apps they were stateless like if you have let's let's pick any of your websites or whatever you want web apps you do not want that to change on the fly. If you are the company we'll pick like eBay because they're in this building so they came to mind And so if you're eBay and you're an engineer there you're like oh you have this new you know update a button is here or does this thing you want that state that you don't want that to be changed on the fly, right? The database might change, information might change, we don't want the app to change, right? And so with those things in mind, that is how people had built the hyperscalers like that is the fundamental architecture you came into and built on top of that.
 
-Speaker 2 | 05:49 - 06:42
-So that happened a number of times at Meta because of things that were started at FAIR. Such a thing happened in, you know, early twenty twenty three, essentially, when, you know, LAMA, which was developed at FAIR, LAMA one, was very promising. And Meta created a a whole organization, Gen AI, to turn it into something real and a series of products and produce, you know, Lama two, Lama three, Lama four, which was a bit of a disappointment. And because, you know, Mark Zuckerberg was disappointed by it, he kind of rebooted the entire organization, reorganized it, and hired new people, etcetera. But what also happened over the last year is that, basically, ...</description>
-      <pubDate>Fri, 15 May 2026 12:50:21 +0000</pubDate>
-      <guid>https://www.youtube.com/@RedpointAI</guid>
+Speaker 1 | 06:21 - 06:49
+And the simplest analogy I give people is let's say you're building a truck, right? You are a factory for a truck. There's like the weight, the type of the engine, the chassis, all of that is made to very slowly but surely securely transport some sort of goods, right? On the other hand, you can have a sports car which is still, you know, it has four wheels and has an engine whatever, but it's made for different things. It's made to go very fast.
+
+Speaker 1 | 06:49 - 07:03
+So the way the chassis is built, way the, you know, engine, the weight balances is completely different and so you can do can do a lot of things with both, but they're not fundamentally the same thing. And as a company trying to build out both of those, they're separate platforms completely. Right?
+
+Speaker 2 | 07:03 - 07:12
+Mhmm. So sandboxes are fundamentally new primitive. Is that is that correc...</description>
+      <pubDate>Thu, 14 May 2026 11:30:00 +0000</pubDate>
+      <guid>https://www.youtube.com/watch?v=kMXJrzAa5fM</guid>
     </item>
   </channel>
 </rss>
