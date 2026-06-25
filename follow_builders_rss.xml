@@ -5,151 +5,83 @@
     <link>https://github.com/zarazhangrui/follow-builders</link>
     <description>聚合 AI 领域建设者的 X、播客和博客内容。</description>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 25 Jun 2026 02:07:47 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 08:44:29 +0000</lastBuildDate>
     <item>
-      <title>@LitFellows also a great related event for Women in AI  https://t.co/AULDW3dUtA</title>
-      <link>https://x.com/swyx/status/2069665232822366577</link>
-      <description>作者：Swyx
-账号：@swyx
-简介：achieve ambition with intentionality, intensity, integrity &amp; insanity.
-
-affiliations:
-- @dxtipshq 
-- @cognition
-- @temporalio
-- @aidotengineer
-- @latentspacepod
-
-@LitFellows also a great related event for Women in AI
-
-https://t.co/AULDW3dUtA</description>
-      <pubDate>Wed, 24 Jun 2026 06:13:38 +0000</pubDate>
-      <guid isPermaLink="false">2069665232822366577</guid>
-    </item>
-    <item>
-      <title>Good post on the dynamics of AI pricing right now. We’re basically going to see a barbell dynamic on pricing between high cost frontier models and cheap but good open or closed weights models.   Then the question is how do you maximize efficiency from the frontier models, and get better quality and ...</title>
-      <link>https://x.com/levie/status/2069639600310767616</link>
-      <description>作者：Aaron Levie
-账号：@levie
-简介：ceo @box - your business lives in content. unleash it with AI
-
-Good post on the dynamics of AI pricing right now. We’re basically going to see a barbell dynamic on pricing between high cost frontier models and cheap but good open or closed weights models. 
-
-Then the question is how do you maximize efficiency from the frontier models, and get better quality and performance of the cheaper models. That’s where the applied AI layer comes in.
-
-The applied layer can route to the best model at any time given the workload at hand, as well as mitigate either high token costs or worse performance. The closer you are to the underlying workflow, the better you can tune the use of models for a given business process. 
-
-That’s all about understanding the workflows, domain specific FDEs, evals by customer or process, getting data setup well for agents, and more. Overall good for applied AI.</description>
-      <pubDate>Wed, 24 Jun 2026 04:31:47 +0000</pubDate>
-      <guid isPermaLink="false">2069639600310767616</guid>
-    </item>
-    <item>
-      <title>If you are at OpenAI, you would know that this never happens. Be right back celebrating 5 minutes of peace. https://t.co/kxMOXFsg8s</title>
-      <link>https://x.com/thsottiaux/status/2069624530960838914</link>
+      <title>At times our internal Slack is at least as fun as twitter.</title>
+      <link>https://x.com/thsottiaux/status/2070010718288843204</link>
       <description>作者：Thibault Sottiaux
 账号：@thsottiaux
 简介：Codex &amp; ChatGPT @OpenAI
 
-If you are at OpenAI, you would know that this never happens. Be right back celebrating 5 minutes of peace. https://t.co/kxMOXFsg8s</description>
-      <pubDate>Wed, 24 Jun 2026 03:31:54 +0000</pubDate>
-      <guid isPermaLink="false">2069624530960838914</guid>
+At times our internal Slack is at least as fun as twitter.</description>
+      <pubDate>Thu, 25 Jun 2026 05:06:28 +0000</pubDate>
+      <guid isPermaLink="false">2070010718288843204</guid>
     </item>
     <item>
-      <title>What is design if what’s accessing your product is just an agent looking for an api or CLI?</title>
-      <link>https://x.com/petergyang/status/2069603490524254473</link>
-      <description>作者：Peter Yang
-账号：@petergyang
-简介：Practical AI tutorials and interviews for busy people | Join 150K+ readers at https://t.co/XYKTmGVH14
-
-What is design if what’s accessing your product is just an agent looking for an api or CLI?</description>
-      <pubDate>Wed, 24 Jun 2026 02:08:18 +0000</pubDate>
-      <guid isPermaLink="false">2069603490524254473</guid>
-    </item>
-    <item>
-      <title>btw Zai IPO'ed in Jan at HK$120 a share. when I first met  @louszbd nobody really knew anyone using GLM's.  now they have beat deepseek with the world's undisputed top open model and in some respects (see @ml_angelopoulos) say top model period, and are returning to SF @aidotengineer on top of the wo...</title>
-      <link>https://x.com/swyx/status/2069598378191941835</link>
-      <description>作者：Swyx
-账号：@swyx
-简介：achieve ambition with intentionality, intensity, integrity &amp; insanity.
-
-affiliations:
-- @dxtipshq 
-- @cognition
-- @temporalio
-- @aidotengineer
-- @latentspacepod
-
-btw Zai IPO'ed in Jan at HK$120 a share. when I first met  @louszbd nobody really knew anyone using GLM's.
-
-now they have beat deepseek with the world's undisputed top open model and in some respects (see @ml_angelopoulos) say top model period, and are returning to SF @aidotengineer on top of the world and open for business!
-
-excited for @Thom_Wolf and @ZixuanLi_ to chat onstage!</description>
-      <pubDate>Wed, 24 Jun 2026 01:47:59 +0000</pubDate>
-      <guid isPermaLink="false">2069598378191941835</guid>
-    </item>
-    <item>
-      <title>Another example of the power of headless software with agents. With Claude Tag, you can give Claude access to any corporate files in Box that you can interact with from Slack. Now all of your enterprise content becomes a portable knowledge base. https://t.co/m7UPdmqnn8 https://t.co/qrHqoZKHG4</title>
-      <link>https://x.com/levie/status/2069596515560267891</link>
-      <description>作者：Aaron Levie
-账号：@levie
-简介：ceo @box - your business lives in content. unleash it with AI
-
-Another example of the power of headless software with agents. With Claude Tag, you can give Claude access to any corporate files in Box that you can interact with from Slack. Now all of your enterprise content becomes a portable knowledge base. https://t.co/m7UPdmqnn8 https://t.co/qrHqoZKHG4</description>
-      <pubDate>Wed, 24 Jun 2026 01:40:35 +0000</pubDate>
-      <guid isPermaLink="false">2069596515560267891</guid>
-    </item>
-    <item>
-      <title>Google fired the guy that made the google workspace cli, because he made the google workspace cli.  Lucky me, Google can't fire me. https://t.co/o15a6lOxec https://t.co/COuHqv5u6J</title>
-      <link>https://x.com/steipete/status/2069594195522941059</link>
-      <description>作者：Peter Steinberger
-账号：@steipete
-简介：Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world.
-@OpenClaw🦞 + @OpenAI
-
-Google fired the guy that made the google workspace cli, because he made the google workspace cli.
-
-Lucky me, Google can't fire me. https://t.co/o15a6lOxec https://t.co/COuHqv5u6J</description>
-      <pubDate>Wed, 24 Jun 2026 01:31:22 +0000</pubDate>
-      <guid isPermaLink="false">2069594195522941059</guid>
-    </item>
-    <item>
-      <title>Codex loves slurping up bugs https://t.co/2REc24J0VO</title>
-      <link>https://x.com/thsottiaux/status/2069592160966733853</link>
-      <description>作者：Thibault Sottiaux
-账号：@thsottiaux
-简介：Codex &amp; ChatGPT @OpenAI
-
-Codex loves slurping up bugs https://t.co/2REc24J0VO</description>
-      <pubDate>Wed, 24 Jun 2026 01:23:16 +0000</pubDate>
-      <guid isPermaLink="false">2069592160966733853</guid>
-    </item>
-    <item>
-      <title>Starting an X Chat group for https://t.co/99eEa13mZ3 feedback. If you’re deep into building an agent and have high quality critical feedback or requirements to share, DM me and I’ll add you to a group with eve engineers</title>
-      <link>https://x.com/rauchg/status/2069590431646769472</link>
+      <title>AI will bring forth an unprecedented surge in entrepreneurship.  From 'solopreneurs,' to the revitalization of the small &amp;amp; medium business segment, to the emergence of the largest companies of our times… providing the foundation of it all.</title>
+      <link>https://x.com/rauchg/status/2070001110866354345</link>
       <description>作者：Guillermo Rauch
 账号：@rauchg
 简介：@vercel CEO
 
-Starting an X Chat group for https://t.co/99eEa13mZ3 feedback. If you’re deep into building an agent and have high quality critical feedback or requirements to share, DM me and I’ll add you to a group with eve engineers</description>
-      <pubDate>Wed, 24 Jun 2026 01:16:24 +0000</pubDate>
-      <guid isPermaLink="false">2069590431646769472</guid>
+AI will bring forth an unprecedented surge in entrepreneurship.
+
+From 'solopreneurs,' to the revitalization of the small &amp;amp; medium business segment, to the emergence of the largest companies of our times… providing the foundation of it all.</description>
+      <pubDate>Thu, 25 Jun 2026 04:28:18 +0000</pubDate>
+      <guid isPermaLink="false">2070001110866354345</guid>
     </item>
     <item>
-      <title>It starts with a prompt — it’s a whole lot of work to get here — but it starts with an idea.  Congrats Yousef and team! https://t.co/ARUtRHwvFf https://t.co/fu1FQpfyHY</title>
-      <link>https://x.com/amasad/status/2069588152285794373</link>
-      <description>作者：Amjad Masad
-账号：@amasad
-简介：ceo @replit. civilizationist
+      <title>Is Widow's Bay worth watching, I'm not great with jump scares.</title>
+      <link>https://x.com/petergyang/status/2069996867627393467</link>
+      <description>作者：Peter Yang
+账号：@petergyang
+简介：Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6
 
-It starts with a prompt — it’s a whole lot of work to get here — but it starts with an idea.
-
-Congrats Yousef and team! https://t.co/ARUtRHwvFf https://t.co/fu1FQpfyHY</description>
-      <pubDate>Wed, 24 Jun 2026 01:07:21 +0000</pubDate>
-      <guid isPermaLink="false">2069588152285794373</guid>
+Is Widow's Bay worth watching, I'm not great with jump scares.</description>
+      <pubDate>Thu, 25 Jun 2026 04:11:26 +0000</pubDate>
+      <guid isPermaLink="false">2069996867627393467</guid>
     </item>
     <item>
-      <title>very proud to host this session opening night!  if you work in tech but have never heard of Touchy Feely, you are exactly the kind of person that needs to see this. You have no idea the shocking number of tech leadeds on here are secret @LITfellows alums and i have seen first hand how strong the bon...</title>
-      <link>https://x.com/swyx/status/2069582337034330186</link>
+      <title>Claude Design is pretty great.   I gave it a repo for a mobile app I'm building and it reproduced the screens perfectly.  Except after one prompt it's telling me to save tokens already 😅 https://t.co/k6hQ53zmFN</title>
+      <link>https://x.com/petergyang/status/2069992268963135897</link>
+      <description>作者：Peter Yang
+账号：@petergyang
+简介：Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6
+
+Claude Design is pretty great. 
+
+I gave it a repo for a mobile app I'm building and it reproduced the screens perfectly.
+
+Except after one prompt it's telling me to save tokens already 😅 https://t.co/k6hQ53zmFN</description>
+      <pubDate>Thu, 25 Jun 2026 03:53:10 +0000</pubDate>
+      <guid isPermaLink="false">2069992268963135897</guid>
+    </item>
+    <item>
+      <title>There are some subtleties in this launch that are very important in practice. This isn’t just you interacting with Claude in a 1:1 format via Slack. In this case, Claude acts as a coworker that any user can tap into in a shared way.  We’ve already seen some agentic coding systems start to adopt this...</title>
+      <link>https://x.com/levie/status/2069975251476422664</link>
+      <description>作者：Aaron Levie
+账号：@levie
+简介：ceo @box - your business lives in content. unleash it with AI
+
+There are some subtleties in this launch that are very important in practice. This isn’t just you interacting with Claude in a 1:1 format via Slack. In this case, Claude acts as a coworker that any user can tap into in a shared way.
+
+We’ve already seen some agentic coding systems start to adopt this pattern (as well as OpenClaw and Hermes), and doing it for general purpose knowledge work continues to push the idea forward.
+
+As a result, what this means is that this agentic coworker needs its own set of resources, access to tools, and data to work with. This is not the same as you giving it access to your personal resources and tools, because the agent then could accidentally then share those out with anyone. 
+
+The agent needs to instead be like any other user in the system, and you need to be thoughtful about what it should have access to, and make sure its information that is safe to share with that group.
+
+When you can pull that off, it’s quite powerful. For instance, by connecting to Claude Tag to Box, you could have Claude access corporate sales materials for questions in sales conversations or generating RFPs, brand guidelines and marketing assets for campaign creation, product roadmap materials and product documentation for coding agents to use, contracts that anyone in the legal team can access, and more.
+
+But this is just the Box example. You can equally have it access your product or customer analytics data, CRM information, codebase, and other resources and agents that would make sense to work on in a collective manner. 
+
+It’s awesome to see continued innovation in what the future of work may begin to look like with agents.</description>
+      <pubDate>Thu, 25 Jun 2026 02:45:32 +0000</pubDate>
+      <guid isPermaLink="false">2069975251476422664</guid>
+    </item>
+    <item>
+      <title>lots of folks prepping talks next week (congrats!). Some thoughts from RLing on thousands of hours of engineer- and researcher- focused talks:  - AI generated svgs &gt; AI generated imgs. MAXIMUM 4 ai slop images in your slides, I don't care how pretty your mom thinks they are (exception ofc if your ta...</title>
+      <link>https://x.com/swyx/status/2069964772003770673</link>
       <description>作者：Swyx
 账号：@swyx
 简介：achieve ambition with intentionality, intensity, integrity &amp; insanity.
@@ -161,499 +93,433 @@ affiliations:
 - @aidotengineer
 - @latentspacepod
 
-very proud to host this session opening night!
+lots of folks prepping talks next week (congrats!). Some thoughts from RLing on thousands of hours of engineer- and researcher- focused talks:
 
-if you work in tech but have never heard of Touchy Feely, you are exactly the kind of person that needs to see this. You have no idea the shocking number of tech leadeds on here are secret @LITfellows alums and i have seen first hand how strong the bonds you form are, it blows my engineer mind.
+- AI generated svgs &gt; AI generated imgs. MAXIMUM 4 ai slop images in your slides, I don't care how pretty your mom thinks they are (exception ofc if your talk is ABOUT imagegen)
+- Be pointy. Better to have 1 message with 5 surprising applications, than 5 messages with no concrete examples.
+- Put code on screen. Engineers like to see code. Especially if they can nitpick it to death over things that aren't the point.
+- Don't forget to Entertain. Being actually funny, or good at telling relevant anecdotes, is more important than adding yet another bullet point.
+- Have a Thesis. every talk gets ONE &quot;if you remember one thing from this talk, it is this&quot; card. 1) SO MANY PEOPLE DON'T USE IT. 2) SO MANY PEOPLE DON'T PLAN FOR IT. you get one. use it well?
+- Have a Thesis Slide. you've been in that talk where everyone gets their phone out to take a photo of the slide. Because people see 1000x more images than videos, you are much more likely to have a viral talk/slide if you have a single viral slide. You are much more likely to have a viral slide if you TRY and most people do not TRY. Struggling? Collect examples from talks you like and adapt their format to your thing. Your slides have a power law - don't spend 5% of your time each on 20 slides, spend 80% of your time on 1 slide and have the rest build up to that 1 slide.
+- You might not need slides. live demo in IDE, off the cuff rambles, pull audience member up to roleplay, do call and response with the audience, sing/perform, voice over vibe videos, I have seen it all. higher risk/effort, higher reward when done well.
+- Be pleasant to listen to. Talks with bad/no visuals still can be listened to. Talks with bad audio are DOA. Be confident, project, remember vocal variation, evoke emotion.
+- Design the emotional journey. Start strong, end strong, have a peak aha/laugh/thesis moment in the middle. Everything else is buildup.
+- Data driven talks are underrated. Present pretty charts and surprising, authoritative numbers. Use the stage authority to infer from the data to support the broader thesis. Done well, it will feel like my obvious conclusion from objectively looking at the data you presented, not you feeding the conclusion to me.
+- How to shill your product/company without feeling salesy: teach me everything I didn't know I should to know about the problems you solve, and then you shall have earned the right to convince me you are the guys to trust to solve it once and for all.
+- Actively watch a lot of talks. like with anything you both need a lot of reps AND you need to explore to find the styles/role models that you shine in. Passive = no introspection after watching, just mindlessly autoplay next video. Active = trying to articulate why a talk was good/bad after watching. If you want to REALLY hone it, think about how you feel about a famous talk and then TRANSCRIBE the talks and read the words on the printed page, and then compare with a &quot;normal&quot; talk and define rules you will follow for yourself to improve.
 
-FREE ADMISSION, application in link reply</description>
-      <pubDate>Wed, 24 Jun 2026 00:44:14 +0000</pubDate>
-      <guid isPermaLink="false">2069582337034330186</guid>
+thanks to @dexhorthy for organizing the AIEWF Speaker prep meetup tonight. we should actually do more of these....</description>
+      <pubDate>Thu, 25 Jun 2026 02:03:54 +0000</pubDate>
+      <guid isPermaLink="false">2069964772003770673</guid>
     </item>
     <item>
-      <title>Codex **had** a bug. Fixed.  More feedback. Better product. Keep it coming. https://t.co/hopJLfcDxd</title>
-      <link>https://x.com/thsottiaux/status/2069579993588625574</link>
-      <description>作者：Thibault Sottiaux
-账号：@thsottiaux
-简介：Codex &amp; ChatGPT @OpenAI
-
-Codex **had** a bug. Fixed.
-
-More feedback. Better product. Keep it coming. https://t.co/hopJLfcDxd</description>
-      <pubDate>Wed, 24 Jun 2026 00:34:56 +0000</pubDate>
-      <guid isPermaLink="false">2069579993588625574</guid>
-    </item>
-    <item>
-      <title>wtf the Google Workspace CLI is super useful it should be celebrated? https://t.co/ulweVvibfr</title>
-      <link>https://x.com/petergyang/status/2069551302246592799</link>
+      <title>I'll be publishing the interview on my YouTube.  Subscribe here to get it in a few weeks: https://t.co/MbOfeFUJbn</title>
+      <link>https://x.com/petergyang/status/2069956505580003458</link>
       <description>作者：Peter Yang
 账号：@petergyang
-简介：Practical AI tutorials and interviews for busy people | Join 150K+ readers at https://t.co/XYKTmGVH14
+简介：Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6
 
-wtf the Google Workspace CLI is super useful it should be celebrated? https://t.co/ulweVvibfr</description>
-      <pubDate>Tue, 23 Jun 2026 22:40:55 +0000</pubDate>
-      <guid isPermaLink="false">2069551302246592799</guid>
+I'll be publishing the interview on my YouTube.
+
+Subscribe here to get it in a few weeks: https://t.co/MbOfeFUJbn</description>
+      <pubDate>Thu, 25 Jun 2026 01:31:03 +0000</pubDate>
+      <guid isPermaLink="false">2069956505580003458</guid>
     </item>
     <item>
-      <title>This is a new paradigm for interacting with Claude that is significantly more &quot;inline&quot; with all the other human activity org-wide. Once you do all of the under the hood engineering work to make this &quot;just work&quot; (e.g. across tools, integrations, compute environments, memory, security, etc.), Claude b...</title>
-      <link>https://x.com/karpathy/status/2069547676849557725</link>
-      <description>作者：Andrej Karpathy
-账号：@karpathy
-简介：I like training large deep neural nets.
+      <title>The best founders post on X https://t.co/9R3glKnPuM</title>
+      <link>https://x.com/zarazhangrui/status/2069951925202903176</link>
+      <description>作者：Zara Zhang
+账号：@zarazhangrui
+简介：Builder. Dangerously skips permissions. Harvard’17. GitHub: https://t.co/KCuEajezlL YouTube: https://t.co/8xzbGWtf6w
 
-This is a new paradigm for interacting with Claude that is significantly more &quot;inline&quot; with all the other human activity org-wide. Once you do all of the under the hood engineering work to make this &quot;just work&quot; (e.g. across tools, integrations, compute environments, memory, security, etc.), Claude basically joins the team in a seamless way - you can talk to it as you would talk to a person and it can help with a very large variety of workloads.
-
-Imo this is the 3rd major redesign of LLM UIUX. The first paradigm was that the LLM is a website you go to, the second was that it is an app you download to your computer. This third one is that it is a self-contained, persistent, asynchronous entity with org-wide tools and context, working alongside teams of humans. It really takes a while to wrap your head around it, but it works and it is awesome.</description>
-      <pubDate>Tue, 23 Jun 2026 22:26:31 +0000</pubDate>
-      <guid isPermaLink="false">2069547676849557725</guid>
+The best founders post on X https://t.co/9R3glKnPuM</description>
+      <pubDate>Thu, 25 Jun 2026 01:12:51 +0000</pubDate>
+      <guid isPermaLink="false">2069951925202903176</guid>
     </item>
     <item>
-      <title>Built using @conductor_build, @AnthropicAI Opus 4.8, @shopify UCP CLI and @Railway.  Live now here: https://t.co/oSJhkFkEKP</title>
-      <link>https://x.com/nikunj/status/2069547206504566980</link>
+      <title>we are going to have to Rebuild So. Much. Infra. for the age of Software Factories https://t.co/OHfQjOhiwJ</title>
+      <link>https://x.com/swyx/status/2069937175899275475</link>
+      <description>作者：Swyx
+账号：@swyx
+简介：achieve ambition with intentionality, intensity, integrity &amp; insanity.
+
+affiliations:
+- @dxtipshq 
+- @cognition
+- @temporalio
+- @aidotengineer
+- @latentspacepod
+
+we are going to have to Rebuild So. Much. Infra. for the age of Software Factories https://t.co/OHfQjOhiwJ</description>
+      <pubDate>Thu, 25 Jun 2026 00:14:14 +0000</pubDate>
+      <guid isPermaLink="false">2069937175899275475</guid>
+    </item>
+    <item>
+      <title>SF City Attorney David Chiu says sending a confidential legal brief to reporters is grounds for removal from public office.  Jackie Fielder should resign. https://t.co/12qcV4Lhka</title>
+      <link>https://x.com/garrytan/status/2069934356899246083</link>
+      <description>作者：Garry Tan
+账号：@garrytan
+简介：President &amp; CEO @ycombinator —Founder @garryslist—Creator of GStack &amp; GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop
+
+SF City Attorney David Chiu says sending a confidential legal brief to reporters is grounds for removal from public office.
+
+Jackie Fielder should resign. https://t.co/12qcV4Lhka</description>
+      <pubDate>Thu, 25 Jun 2026 00:03:02 +0000</pubDate>
+      <guid isPermaLink="false">2069934356899246083</guid>
+    </item>
+    <item>
+      <title>Excited to host a World Cup viewing party in SF next week with our friends at @Replit x @trincapital!  Join us ⚽️🍾  https://t.co/lcxTnHzKap</title>
+      <link>https://x.com/nikunj/status/2069925697741881633</link>
       <description>作者：Nikunj Kothari
 账号：@nikunj
 简介：partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian &amp; others. love @shimoleejhaveri + 👦👧
 
-Built using @conductor_build, @AnthropicAI Opus 4.8, @shopify UCP CLI and @Railway.
+Excited to host a World Cup viewing party in SF next week with our friends at @Replit x @trincapital!
 
-Live now here: https://t.co/oSJhkFkEKP</description>
-      <pubDate>Tue, 23 Jun 2026 22:24:39 +0000</pubDate>
-      <guid isPermaLink="false">2069547206504566980</guid>
+Join us ⚽️🍾
+
+https://t.co/lcxTnHzKap</description>
+      <pubDate>Wed, 24 Jun 2026 23:28:38 +0000</pubDate>
+      <guid isPermaLink="false">2069925697741881633</guid>
     </item>
     <item>
-      <title>Introducing Plug That Shop 🔌  So @Shopify launched their UCP CLI that allows all the products on their stores available via the command line.  I was thinking of interesting use cases for the CLI over the weekend and realized that I can use this to create contextual embedded shops for websites.  So n...</title>
-      <link>https://x.com/nikunj/status/2069534712763490668</link>
-      <description>作者：Nikunj Kothari
-账号：@nikunj
-简介：partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian &amp; others. love @shimoleejhaveri + 👦👧
+      <title>update 2: nooo</title>
+      <link>https://x.com/AmandaAskell/status/2069925173999083974</link>
+      <description>作者：Amanda Askell
+账号：@AmandaAskell
+简介：Philosopher &amp; ethicist trying to make AI be good @AnthropicAI.
+Personal account. All opinions come from my training data.
 
-Introducing Plug That Shop 🔌
-
-So @Shopify launched their UCP CLI that allows all the products on their stores available via the command line.
-
-I was thinking of interesting use cases for the CLI over the weekend and realized that I can use this to create contextual embedded shops for websites.
-
-So now, you can enter your website and get four HIGHLY relevant shops that you can embed in just one click.
-
-For the buyer using this shop, it's an insanely simple experience since they can click buy and checkout with Shop in literally one click.
-
-Available, free to use, NO affiliate revenue at plugthatshop dot com
-
-Feedback welcome!</description>
-      <pubDate>Tue, 23 Jun 2026 21:35:00 +0000</pubDate>
-      <guid isPermaLink="false">2069534712763490668</guid>
+update 2: nooo</description>
+      <pubDate>Wed, 24 Jun 2026 23:26:33 +0000</pubDate>
+      <guid isPermaLink="false">2069925173999083974</guid>
     </item>
     <item>
-      <title>Human-agent interaction is basically trending towards managing a highly capable employee.  1 on 1s and performance reviews for Claude next? 😅 https://t.co/s37TYKzSUn</title>
-      <link>https://x.com/petergyang/status/2069530765352907180</link>
-      <description>作者：Peter Yang
-账号：@petergyang
-简介：Practical AI tutorials and interviews for busy people | Join 150K+ readers at https://t.co/XYKTmGVH14
+      <title>update: nooo</title>
+      <link>https://x.com/AmandaAskell/status/2069916038918250755</link>
+      <description>作者：Amanda Askell
+账号：@AmandaAskell
+简介：Philosopher &amp; ethicist trying to make AI be good @AnthropicAI.
+Personal account. All opinions come from my training data.
 
-Human-agent interaction is basically trending towards managing a highly capable employee.
-
-1 on 1s and performance reviews for Claude next? 😅 https://t.co/s37TYKzSUn</description>
-      <pubDate>Tue, 23 Jun 2026 21:19:19 +0000</pubDate>
-      <guid isPermaLink="false">2069530765352907180</guid>
+update: nooo</description>
+      <pubDate>Wed, 24 Jun 2026 22:50:15 +0000</pubDate>
+      <guid isPermaLink="false">2069916038918250755</guid>
     </item>
     <item>
-      <title>Vercel + Cursor https://t.co/3AyhoYnUM1</title>
-      <link>https://x.com/rauchg/status/2069513849578082474</link>
+      <title>No more goals plz brazil, thank you.</title>
+      <link>https://x.com/AmandaAskell/status/2069910673921048985</link>
+      <description>作者：Amanda Askell
+账号：@AmandaAskell
+简介：Philosopher &amp; ethicist trying to make AI be good @AnthropicAI.
+Personal account. All opinions come from my training data.
+
+No more goals plz brazil, thank you.</description>
+      <pubDate>Wed, 24 Jun 2026 22:28:56 +0000</pubDate>
+      <guid isPermaLink="false">2069910673921048985</guid>
+    </item>
+    <item>
+      <title>The root cause of procrastination is not the lack of time  It’s the lack of courage</title>
+      <link>https://x.com/zarazhangrui/status/2069908420384428132</link>
+      <description>作者：Zara Zhang
+账号：@zarazhangrui
+简介：Builder. Dangerously skips permissions. Harvard’17. GitHub: https://t.co/KCuEajezlL YouTube: https://t.co/8xzbGWtf6w
+
+The root cause of procrastination is not the lack of time
+
+It’s the lack of courage</description>
+      <pubDate>Wed, 24 Jun 2026 22:19:59 +0000</pubDate>
+      <guid isPermaLink="false">2069908420384428132</guid>
+    </item>
+    <item>
+      <title>“Community is your users’ relationships with you and with each other, and most teams never think to design it  Community is the new moat  Features get copied. Belonging can’t”  - from @figma Config session today</title>
+      <link>https://x.com/zarazhangrui/status/2069900496304042343</link>
+      <description>作者：Zara Zhang
+账号：@zarazhangrui
+简介：Builder. Dangerously skips permissions. Harvard’17. GitHub: https://t.co/KCuEajezlL YouTube: https://t.co/8xzbGWtf6w
+
+“Community is your users’ relationships with you and with each other, and most teams never think to design it
+
+Community is the new moat
+
+Features get copied. Belonging can’t”
+
+- from @figma Config session today</description>
+      <pubDate>Wed, 24 Jun 2026 21:48:29 +0000</pubDate>
+      <guid isPermaLink="false">2069900496304042343</guid>
+    </item>
+    <item>
+      <title>LOTS of alpha in this pod:  - Why Databricks beat Snowflake (! a straight answer!) - Why everyone is building a metaharness now - Why the @neondatabase made so much sense (so much @nikitabase glazing its not even funny) - How LTAP solves the HTAP dream I discussed with @ankrgyl in our @braintrust po...</title>
+      <link>https://x.com/swyx/status/2069864073202905501</link>
+      <description>作者：Swyx
+账号：@swyx
+简介：achieve ambition with intentionality, intensity, integrity &amp; insanity.
+
+affiliations:
+- @dxtipshq 
+- @cognition
+- @temporalio
+- @aidotengineer
+- @latentspacepod
+
+LOTS of alpha in this pod:
+
+- Why Databricks beat Snowflake (! a straight answer!)
+- Why everyone is building a metaharness now
+- Why the @neondatabase made so much sense (so much @nikitabase glazing its not even funny)
+- How LTAP solves the HTAP dream I discussed with @ankrgyl in our @braintrust pod
+- What happened to @MosaicML + DBRX
+- How to maintain research/startup culture in a $175B megacorp
+- What's more important knowledge/experience in the race to the agent cloud: databases, operating systems, or.... networking!
+
+very honored to be invited to @Data_AI_Summit to interview two of the top people in our industry and somehow be able to jam on everything from the @bennstancil modern data stack theme to @alighodsi's amazing keynote aura</description>
+      <pubDate>Wed, 24 Jun 2026 19:23:45 +0000</pubDate>
+      <guid isPermaLink="false">2069864073202905501</guid>
+    </item>
+    <item>
+      <title>Really fast GLM now live https://t.co/fAyuB7XJ3v</title>
+      <link>https://x.com/rauchg/status/2069863762694459805</link>
       <description>作者：Guillermo Rauch
 账号：@rauchg
 简介：@vercel CEO
 
-Vercel + Cursor https://t.co/3AyhoYnUM1</description>
-      <pubDate>Tue, 23 Jun 2026 20:12:06 +0000</pubDate>
-      <guid isPermaLink="false">2069513849578082474</guid>
+Really fast GLM now live https://t.co/fAyuB7XJ3v</description>
+      <pubDate>Wed, 24 Jun 2026 19:22:31 +0000</pubDate>
+      <guid isPermaLink="false">2069863762694459805</guid>
     </item>
     <item>
-      <title>There are 100s of ways you can customize Claude Tag for any use case.  Here are 6 common flows that have resonated with our internal users and external design partners: https://t.co/eMw8xdDZOZ</title>
-      <link>https://x.com/_catwu/status/2069486403696869555</link>
-      <description>作者：Cat Wu
-账号：@_catwu
-简介：claude code + cowork @anthropicai, prev: @dagster, @scale_ai
-
-There are 100s of ways you can customize Claude Tag for any use case.
-
-Here are 6 common flows that have resonated with our internal users and external design partners: https://t.co/eMw8xdDZOZ</description>
-      <pubDate>Tue, 23 Jun 2026 18:23:02 +0000</pubDate>
-      <guid isPermaLink="false">2069486403696869555</guid>
-    </item>
-    <item>
-      <title>Here’s our Get Started guide for configuring agent permissions for Claude Tag! https://t.co/x7G0o8Cjx1</title>
-      <link>https://x.com/_catwu/status/2069484330938998993</link>
-      <description>作者：Cat Wu
-账号：@_catwu
-简介：claude code + cowork @anthropicai, prev: @dagster, @scale_ai
-
-Here’s our Get Started guide for configuring agent permissions for Claude Tag! https://t.co/x7G0o8Cjx1</description>
-      <pubDate>Tue, 23 Jun 2026 18:14:48 +0000</pubDate>
-      <guid isPermaLink="false">2069484330938998993</guid>
-    </item>
-    <item>
-      <title>We should demand government competence instead of whatever we have to deal with in California government and local city management today https://t.co/6378A01vgm</title>
-      <link>https://x.com/garrytan/status/2069482298547044788</link>
-      <description>作者：Garry Tan
-账号：@garrytan
-简介：President &amp; CEO @ycombinator —Founder @garryslist—Creator of GStack &amp; GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop
-
-We should demand government competence instead of whatever we have to deal with in California government and local city management today https://t.co/6378A01vgm</description>
-      <pubDate>Tue, 23 Jun 2026 18:06:43 +0000</pubDate>
-      <guid isPermaLink="false">2069482298547044788</guid>
-    </item>
-    <item>
-      <title>Expanding the world cup from 32 to 48 teams was such a genius idea.  Creates some Cinderalla stories (Curacao, Cabo Verde, DR Congo etc), and enables the stars (Messi, Ronaldo, MBappe, Haaland etc) to shine early.  Loving it all so far.</title>
-      <link>https://x.com/mattturck/status/2069481767652794768</link>
-      <description>作者：Matt Turck
-账号：@mattturck
-简介：VC at @FirstMarkCap.  Host: MAD Podcast; Organizer: Data Driven NYC, Author: MAD Landscape.
-
-Expanding the world cup from 32 to 48 teams was such a genius idea.  Creates some Cinderalla stories (Curacao, Cabo Verde, DR Congo etc), and enables the stars (Messi, Ronaldo, MBappe, Haaland etc) to shine early.  Loving it all so far.</description>
-      <pubDate>Tue, 23 Jun 2026 18:04:37 +0000</pubDate>
-      <guid isPermaLink="false">2069481767652794768</guid>
-    </item>
-    <item>
-      <title>That's it. Point it at a channel, give it a task, and let it work. It's in beta on Slack today for Claude Enterprise and Team customers. More surfaces coming soon!  Learn more: https://t.co/tcvNSCANlf</title>
-      <link>https://x.com/bcherny/status/2069474691010707486</link>
-      <description>作者：Boris Cherny
-账号：@bcherny
-简介：Claude Code @anthropicai
-
-That's it. Point it at a channel, give it a task, and let it work. It's in beta on Slack today for Claude Enterprise and Team customers. More surfaces coming soon!
-
-Learn more: https://t.co/tcvNSCANlf</description>
-      <pubDate>Tue, 23 Jun 2026 17:36:29 +0000</pubDate>
-      <guid isPermaLink="false">2069474691010707486</guid>
-    </item>
-    <item>
-      <title>Tag Claude in a channel, it spins up an instance with its own sandbox. It clones repos, writes code, tests, compiles all in that isolated environment and the sandbox gets thrown away when it's done. One instance per thread, its own memory and permissions per channel.</title>
-      <link>https://x.com/bcherny/status/2069474689819480394</link>
-      <description>作者：Boris Cherny
-账号：@bcherny
-简介：Claude Code @anthropicai
-
-Tag Claude in a channel, it spins up an instance with its own sandbox. It clones repos, writes code, tests, compiles all in that isolated environment and the sandbox gets thrown away when it's done. One instance per thread, its own memory and permissions per channel.</description>
-      <pubDate>Tue, 23 Jun 2026 17:36:29 +0000</pubDate>
-      <guid isPermaLink="false">2069474689819480394</guid>
-    </item>
-    <item>
-      <title>I also have Claude monitoring Slack channels to proactively respond to people to answer their questions and draft PRs, and to react with specific emojis like ✅❌ when a thread is resolved.  To set it up, just add @.Claude to a channel and ask it to do this^, in natural language.</title>
-      <link>https://x.com/bcherny/status/2069474688619958517</link>
-      <description>作者：Boris Cherny
-账号：@bcherny
-简介：Claude Code @anthropicai
-
-I also have Claude monitoring Slack channels to proactively respond to people to answer their questions and draft PRs, and to react with specific emojis like ✅❌ when a thread is resolved.
-
-To set it up, just add @.Claude to a channel and ask it to do this^, in natural language.</description>
-      <pubDate>Tue, 23 Jun 2026 17:36:29 +0000</pubDate>
-      <guid isPermaLink="false">2069474688619958517</guid>
-    </item>
-    <item>
-      <title>Linzumi is Codex but actually multiplayer. It’s magical for teams.   Also Sean Grove was on the team at OpenAI that greatly reduced sycophancy in ChatGPT before he left to start this YC startup! https://t.co/uShBOGz3tV</title>
-      <link>https://x.com/garrytan/status/2069474420113146355</link>
-      <description>作者：Garry Tan
-账号：@garrytan
-简介：President &amp; CEO @ycombinator —Founder @garryslist—Creator of GStack &amp; GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop
-
-Linzumi is Codex but actually multiplayer. It’s magical for teams. 
-
-Also Sean Grove was on the team at OpenAI that greatly reduced sycophancy in ChatGPT before he left to start this YC startup! https://t.co/uShBOGz3tV</description>
-      <pubDate>Tue, 23 Jun 2026 17:35:25 +0000</pubDate>
-      <guid isPermaLink="false">2069474420113146355</guid>
-    </item>
-    <item>
-      <title>Finally, get creative! I'm setting up a &quot;scheduling&quot; channel which lets people tag Claude to find time on our calendars.</title>
-      <link>https://x.com/trq212/status/2069474343512617390</link>
-      <description>作者：Thariq
-账号：@trq212
-简介：Claude Code @anthropicai.   prev YC W20, @southpkcommons, @medialab
-
-Finally, get creative! I'm setting up a &quot;scheduling&quot; channel which lets people tag Claude to find time on our calendars.</description>
-      <pubDate>Tue, 23 Jun 2026 17:35:07 +0000</pubDate>
-      <guid isPermaLink="false">2069474343512617390</guid>
-    </item>
-    <item>
-      <title>When it's working, I ask it to react to the top level thread with the following emojis: ⏲️✅❓🛑  That way it's easy to see its status at a glance.</title>
-      <link>https://x.com/trq212/status/2069474342220820657</link>
-      <description>作者：Thariq
-账号：@trq212
-简介：Claude Code @anthropicai.   prev YC W20, @southpkcommons, @medialab
-
-When it's working, I ask it to react to the top level thread with the following emojis: ⏲️✅❓🛑
-
-That way it's easy to see its status at a glance.</description>
-      <pubDate>Tue, 23 Jun 2026 17:35:06 +0000</pubDate>
-      <guid isPermaLink="false">2069474342220820657</guid>
-    </item>
-    <item>
-      <title>When you really get going, it's easy to get overwhelmed with all the threads.   In my personal channel I like to ask Claude to keep a pinned message that it updates with the status of everything.</title>
-      <link>https://x.com/trq212/status/2069474339679052144</link>
-      <description>作者：Thariq
-账号：@trq212
-简介：Claude Code @anthropicai.   prev YC W20, @southpkcommons, @medialab
-
-When you really get going, it's easy to get overwhelmed with all the threads. 
-
-In my personal channel I like to ask Claude to keep a pinned message that it updates with the status of everything.</description>
-      <pubDate>Tue, 23 Jun 2026 17:35:06 +0000</pubDate>
-      <guid isPermaLink="false">2069474339679052144</guid>
-    </item>
-    <item>
-      <title>Claude Tag is a paradigm shift in how we ship products at Anthropic. Our internal version merges 65% of product PRs and this is our first product that is natively multi-player and proactive.  We're excited for you to try this out. Let us know your feedback! https://t.co/YOENq4hDSt</title>
-      <link>https://x.com/_catwu/status/2069473118742331608</link>
-      <description>作者：Cat Wu
-账号：@_catwu
-简介：claude code + cowork @anthropicai, prev: @dagster, @scale_ai
-
-Claude Tag is a paradigm shift in how we ship products at Anthropic. Our internal version merges 65% of product PRs and this is our first product that is natively multi-player and proactive.
-
-We're excited for you to try this out. Let us know your feedback! https://t.co/YOENq4hDSt</description>
-      <pubDate>Tue, 23 Jun 2026 17:30:15 +0000</pubDate>
-      <guid isPermaLink="false">2069473118742331608</guid>
-    </item>
-    <item>
-      <title>This has completely changed how I work with Claude. It feels less like using a tool and more like managing a team. https://t.co/JaUllMPTJW</title>
-      <link>https://x.com/alexalbert__/status/2069470389391241314</link>
-      <description>作者：Alex Albert
-账号：@alexalbert__
-简介：Research @AnthropicAI. Opinions are my own!
-
-This has completely changed how I work with Claude. It feels less like using a tool and more like managing a team. https://t.co/JaUllMPTJW</description>
-      <pubDate>Tue, 23 Jun 2026 17:19:24 +0000</pubDate>
-      <guid isPermaLink="false">2069470389391241314</guid>
-    </item>
-    <item>
-      <title>Claude Tag is available in beta today on Slack for Claude Enterprise and Team plans. We plan to expand it more widely in the future.  Read more: https://t.co/MGV30Ml8mL</title>
-      <link>https://x.com/claudeai/status/2069468701548531895</link>
-      <description>作者：Claude
-账号：@claudeai
-简介：Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Talk to Claude on https://t.co/ZhTwG8d1e5 or download the app.
-
-Claude Tag is available in beta today on Slack for Claude Enterprise and Team plans. We plan to expand it more widely in the future.
-
-Read more: https://t.co/MGV30Ml8mL</description>
-      <pubDate>Tue, 23 Jun 2026 17:12:41 +0000</pubDate>
-      <guid isPermaLink="false">2069468701548531895</guid>
-    </item>
-    <item>
-      <title>Turn ambient behavior on, and Claude takes initiative. It follows up on threads that have gone quiet and flags what's relevant from across its channels and tools. https://t.co/fTMkAHY4Gr</title>
-      <link>https://x.com/claudeai/status/2069468699766005847</link>
-      <description>作者：Claude
-账号：@claudeai
-简介：Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Talk to Claude on https://t.co/ZhTwG8d1e5 or download the app.
-
-Turn ambient behavior on, and Claude takes initiative. It follows up on threads that have gone quiet and flags what's relevant from across its channels and tools. https://t.co/fTMkAHY4Gr</description>
-      <pubDate>Tue, 23 Jun 2026 17:12:41 +0000</pubDate>
-      <guid isPermaLink="false">2069468699766005847</guid>
-    </item>
-    <item>
-      <title>In a channel, there’s one Claude that interacts with everyone, so a teammate can pick up exactly where you left off.  It builds more context about the work as it follows the channel, so you don’t need to explain things from scratch.</title>
-      <link>https://x.com/claudeai/status/2069468698071494976</link>
-      <description>作者：Claude
-账号：@claudeai
-简介：Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Talk to Claude on https://t.co/ZhTwG8d1e5 or download the app.
-
-In a channel, there’s one Claude that interacts with everyone, so a teammate can pick up exactly where you left off.
-
-It builds more context about the work as it follows the channel, so you don’t need to explain things from scratch.</description>
-      <pubDate>Tue, 23 Jun 2026 17:12:41 +0000</pubDate>
-      <guid isPermaLink="false">2069468698071494976</guid>
-    </item>
-    <item>
-      <title>Why we invested: https://t.co/v9V7e4MAoq</title>
-      <link>https://x.com/adityaag/status/2069464865568166180</link>
+      <title>The power of @southpkcommons is that you can get a chance to interact with some of the world's sharpest minds in a very intimate setting.   https://t.co/xWaXyqC7Rj</title>
+      <link>https://x.com/adityaag/status/2069861190684045792</link>
       <description>作者：Aditya Agarwal
 账号：@adityaag
 简介：General Partner @SouthPkCommons, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @Dropbox, Board @Flipkart | Optimist, Builder, Dad
 
-Why we invested: https://t.co/v9V7e4MAoq</description>
-      <pubDate>Tue, 23 Jun 2026 16:57:27 +0000</pubDate>
-      <guid isPermaLink="false">2069464865568166180</guid>
+The power of @southpkcommons is that you can get a chance to interact with some of the world's sharpest minds in a very intimate setting. 
+
+https://t.co/xWaXyqC7Rj</description>
+      <pubDate>Wed, 24 Jun 2026 19:12:18 +0000</pubDate>
+      <guid isPermaLink="false">2069861190684045792</guid>
     </item>
     <item>
-      <title>There's way more demand for space than capacity to launch.  @LongshotSpace is building a cannon that fires payloads into orbit.  We’re excited to partner with them at @southpkcommons.  Let’s shoot things into space. https://t.co/TRWlr76HWn https://t.co/aTDr0vjR5K</title>
-      <link>https://x.com/adityaag/status/2069464862556619263</link>
+      <title>It is a strange time to be a leader right now.   You have to be fearless. You have to be optimistic. You have to be empathetic about upcoming changes.  You have to retain a lot of humility.  I was struck by how well @RamaswmySridhar is navigating this moment at @Snowflake. https://t.co/yRmsnP0R71</title>
+      <link>https://x.com/adityaag/status/2069861187479618042</link>
       <description>作者：Aditya Agarwal
 账号：@adityaag
 简介：General Partner @SouthPkCommons, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @Dropbox, Board @Flipkart | Optimist, Builder, Dad
 
-There's way more demand for space than capacity to launch.
+It is a strange time to be a leader right now. 
 
-@LongshotSpace is building a cannon that fires payloads into orbit.
+You have to be fearless. You have to be optimistic. You have to be empathetic about upcoming changes.
 
-We’re excited to partner with them at @southpkcommons.
+You have to retain a lot of humility.
 
-Let’s shoot things into space. https://t.co/TRWlr76HWn https://t.co/aTDr0vjR5K</description>
-      <pubDate>Tue, 23 Jun 2026 16:57:26 +0000</pubDate>
-      <guid isPermaLink="false">2069464862556619263</guid>
+I was struck by how well @RamaswmySridhar is navigating this moment at @Snowflake. https://t.co/yRmsnP0R71</description>
+      <pubDate>Wed, 24 Jun 2026 19:12:17 +0000</pubDate>
+      <guid isPermaLink="false">2069861187479618042</guid>
     </item>
     <item>
-      <title>I’ve had the chance to see this ecosystem from the different sides - enterprises, agent startups, data providers, labs.   The core tension here is that the business models, moats, value exchange, execution playbooks for all players are being figured out in real time.  This debate around token pricin...</title>
-      <link>https://x.com/realmadhuguru/status/2069455097193697393</link>
-      <description>作者：Madhu Guru
-账号：@realmadhuguru
-简介：Prev: Product Leader at Google - Gemini, Veo, Nano Banana.
+      <title>Spicy https://t.co/mi61Gve4R8</title>
+      <link>https://x.com/thsottiaux/status/2069837606574289329</link>
+      <description>作者：Thibault Sottiaux
+账号：@thsottiaux
+简介：Codex &amp; ChatGPT @OpenAI
 
-I’ve had the chance to see this ecosystem from the different sides - enterprises, agent startups, data providers, labs. 
-
-The core tension here is that the business models, moats, value exchange, execution playbooks for all players are being figured out in real time.
-
-This debate around token pricing is really a debate over where value will accrue - models, application layer, distribution or other layers.
-
-Expect a lot of strong opinions from the different sides to shape the narrative in their favor.</description>
-      <pubDate>Tue, 23 Jun 2026 16:18:38 +0000</pubDate>
-      <guid isPermaLink="false">2069455097193697393</guid>
+Spicy https://t.co/mi61Gve4R8</description>
+      <pubDate>Wed, 24 Jun 2026 17:38:35 +0000</pubDate>
+      <guid isPermaLink="false">2069837606574289329</guid>
     </item>
     <item>
-      <title>Dropbox should really support larger than 3TB plans - it's not 2015 anymore. The amount of data we are throwing off and that is *actually usable* is going to go exponential from AI, and Dropbox will be run over by this if they don't update for the future.</title>
-      <link>https://x.com/garrytan/status/2069434452628185241</link>
+      <title>use cursor in notion use notion in cursor https://t.co/3q36oyzwu0</title>
+      <link>https://x.com/ryolu_/status/2069830172354986418</link>
+      <description>作者：Ryo Lu
+账号：@ryolu_
+简介：Design @Cursor_ai. Early @NotionHQ, @Stripe, built startups. I make a world where anyone can make software. Aspiring k-pop idol.
+
+use cursor in notion
+use notion in cursor https://t.co/3q36oyzwu0</description>
+      <pubDate>Wed, 24 Jun 2026 17:09:03 +0000</pubDate>
+      <guid isPermaLink="false">2069830172354986418</guid>
+    </item>
+    <item>
+      <title>We are honored to share that Project Genie has won the Cannes Lions Grand Prix for AI Craft! 🏆 To our awesome Labs community, thank you for being on this journey with us! https://t.co/FN5nx19g68</title>
+      <link>https://x.com/GoogleLabs/status/2069827839826809042</link>
+      <description>作者：Google Labs
+账号：@GoogleLabs
+简介：Google’s home for our latest AI tools and experiments.
+
+We are honored to share that Project Genie has won the Cannes Lions Grand Prix for AI Craft! 🏆 To our awesome Labs community, thank you for being on this journey with us! https://t.co/FN5nx19g68</description>
+      <pubDate>Wed, 24 Jun 2026 16:59:47 +0000</pubDate>
+      <guid isPermaLink="false">2069827839826809042</guid>
+    </item>
+    <item>
+      <title>The data of tokens and uptime recovered by @vercel AI Gateway is truly astonishing https://t.co/kKzZWtdELa</title>
+      <link>https://x.com/rauchg/status/2069819652365242765</link>
+      <description>作者：Guillermo Rauch
+账号：@rauchg
+简介：@vercel CEO
+
+The data of tokens and uptime recovered by @vercel AI Gateway is truly astonishing https://t.co/kKzZWtdELa</description>
+      <pubDate>Wed, 24 Jun 2026 16:27:15 +0000</pubDate>
+      <guid isPermaLink="false">2069819652365242765</guid>
+    </item>
+    <item>
+      <title>A space economy doesn't just need rockets and space guns.  It needs ways to communicate as efficiently as we do on the ground.  Very excited about the work Qosmic is doing. https://t.co/klxp02nieA</title>
+      <link>https://x.com/adityaag/status/2069817246671851686</link>
+      <description>作者：Aditya Agarwal
+账号：@adityaag
+简介：General Partner @SouthPkCommons, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @Dropbox, Board @Flipkart | Optimist, Builder, Dad
+
+A space economy doesn't just need rockets and space guns.
+
+It needs ways to communicate as efficiently as we do on the ground.
+
+Very excited about the work Qosmic is doing. https://t.co/klxp02nieA</description>
+      <pubDate>Wed, 24 Jun 2026 16:17:41 +0000</pubDate>
+      <guid isPermaLink="false">2069817246671851686</guid>
+    </item>
+    <item>
+      <title>We aren’t doing this trash in San Francisco because we saw what these kinds of ruthless politicians do to the citizens  Asian elders killed Public education dismantled  If you start counting their bodies and talking about their abdication of duty, the hard left can’t win https://t.co/WZnllDa30D</title>
+      <link>https://x.com/garrytan/status/2069806049847321020</link>
       <description>作者：Garry Tan
 账号：@garrytan
 简介：President &amp; CEO @ycombinator —Founder @garryslist—Creator of GStack &amp; GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop
 
-Dropbox should really support larger than 3TB plans - it's not 2015 anymore. The amount of data we are throwing off and that is *actually usable* is going to go exponential from AI, and Dropbox will be run over by this if they don't update for the future.</description>
-      <pubDate>Tue, 23 Jun 2026 14:56:36 +0000</pubDate>
-      <guid isPermaLink="false">2069434452628185241</guid>
+We aren’t doing this trash in San Francisco because we saw what these kinds of ruthless politicians do to the citizens
+
+Asian elders killed
+Public education dismantled
+
+If you start counting their bodies and talking about their abdication of duty, the hard left can’t win https://t.co/WZnllDa30D</description>
+      <pubDate>Wed, 24 Jun 2026 15:33:12 +0000</pubDate>
+      <guid isPermaLink="false">2069806049847321020</guid>
     </item>
     <item>
-      <title>⚽️Turn your team loyalty into a custom trading card, mural, or virtual plushie in @GeminiApp  How to create yours:  1) Go to https://t.co/z0bvXTam3G or open the app 2) Tap Images (side panel) 3) Select the &quot;Get in the game&quot; template 4) Upload your photo and share your output here https://t.co/aysNOR...</title>
-      <link>https://x.com/joshwoodward/status/2069408025362714957</link>
-      <description>作者：Josh Woodward
-账号：@joshwoodward
-简介：VP, @Google @GoogleLabs @GeminiApp @GoogleAIStudio
+      <title>YouTube: https://t.co/O8njShLFWB  Spotify: https://t.co/U3R2F9rSYS</title>
+      <link>https://x.com/danshipper/status/2069805585479114806</link>
+      <description>作者：Dan Shipper
+账号：@danshipper
+简介：ceo @every | the only subscription you need to stay at the edge of AI
 
-⚽️Turn your team loyalty into a custom trading card, mural, or virtual plushie in @GeminiApp
+YouTube: https://t.co/O8njShLFWB
 
-How to create yours:
-
-1) Go to https://t.co/z0bvXTam3G or open the app
-2) Tap Images (side panel)
-3) Select the &quot;Get in the game&quot; template
-4) Upload your photo and share your output here https://t.co/aysNORY2ea</description>
-      <pubDate>Tue, 23 Jun 2026 13:11:35 +0000</pubDate>
-      <guid isPermaLink="false">2069408025362714957</guid>
+Spotify: https://t.co/U3R2F9rSYS</description>
+      <pubDate>Wed, 24 Jun 2026 15:31:21 +0000</pubDate>
+      <guid isPermaLink="false">2069805585479114806</guid>
     </item>
     <item>
-      <title>Florida State University: &quot;Shortly after introducing NotebookLM on campus, we watched students who were struggling with a ‘C’ grade completely transform their study habits and their grades in a matter of weeks.&quot;  https://t.co/xcPbvA37s0</title>
-      <link>https://x.com/joshwoodward/status/2069406832523624696</link>
-      <description>作者：Josh Woodward
-账号：@joshwoodward
-简介：VP, @Google @GoogleLabs @GeminiApp @GoogleAIStudio
+      <title>Are we hurtling toward a future where AI can do everything humans can?  Edwin Chen (@echen) believes we might be. He’s the CEO of Surge AI, one of the largest providers of expert data for frontier labs. Surge passed over $1 billion in revenue without raising any outside capital, and that gives Edwin...</title>
+      <link>https://x.com/danshipper/status/2069805581263847467</link>
+      <description>作者：Dan Shipper
+账号：@danshipper
+简介：ceo @every | the only subscription you need to stay at the edge of AI
 
-Florida State University: &quot;Shortly after introducing NotebookLM on campus, we watched students who were struggling with a ‘C’ grade completely transform their study habits and their grades in a matter of weeks.&quot;
+Are we hurtling toward a future where AI can do everything humans can?
 
-https://t.co/xcPbvA37s0</description>
-      <pubDate>Tue, 23 Jun 2026 13:06:51 +0000</pubDate>
-      <guid isPermaLink="false">2069406832523624696</guid>
+Edwin Chen (@echen) believes we might be. He’s the CEO of Surge AI, one of the largest providers of expert data for frontier labs. Surge passed over $1 billion in revenue without raising any outside capital, and that gives Edwin a unique perspective on how quickly AI progress is accelerating.
+
+I’m on the record arguing that AI automation actually creates more human work. I also believe that even though AI progress is accelerating exponentially, we’re much farther away from AI replacing humans than it might seem.
+
+That’s why I had Edwin on @every’s AI &amp; I. We batted around different visions of the future, and discussed whether humanity will retain its unique place in the universe, and what that might be.
+
+We get into:
+• If Chen’s version of the future materializes, he’s worried it’ll make people stop trying. One answer comes from a short story by science fiction writer Ted Chiang: Behave as if your decisions matter, even when you know they don’t.
+• AI may soon be able to take a nebulous goal like “win a Fields Medal” and execute. What it can’t do, I argue, is set its own goals—LLMs have no intrinsic motivation, no drive to explore, no ability to just change their mind.
+• A model optimized for engagement doesn’t provide the most valuable user experience. Edwin spent 20 rounds polishing a pointless email with one model before Claude told him to just send it.
+• Why AI is still bad at writing: models learn to hack the metrics they're trained on. Edwin's Hemingway Bench found models outputting a metaphor in every single sentence, an overindexxing that makes for a terrible reading experience.
+
+This is a must-watch for anyone interested in where we fit as models get more capable.
+
+Watch below!
+
+Timestamps
+1. Introduction: 00:00:54
+2. Surge as a &quot;school for AGI&quot;: 00:01:49
+3. What AI's capacity for novel mathematics says about human achievement: 00:04:46
+4. Motivation in an era when AI can do everything: 00:07:29
+5. The trap of optimizing AI models for engagement: 00:14:34
+6. Training using datasets versus training using environments: 00:29:34
+7. The value of personal data: 00:35:09
+8. Why models are bad at writing: 00:39:40
+9. Chen's AGI timeline: 00:42:00</description>
+      <pubDate>Wed, 24 Jun 2026 15:31:20 +0000</pubDate>
+      <guid isPermaLink="false">2069805581263847467</guid>
     </item>
     <item>
-      <title>K-coding https://t.co/xDprsRZeLP</title>
-      <link>https://x.com/amasad/status/2069322872456364540</link>
-      <description>作者：Amjad Masad
-账号：@amasad
-简介：ceo @replit. civilizationist
+      <title>The easiest way to figure out what you are TRULY excellent at is to notice what looks like child’s play to you but is very hard for those around you..  That’s your edge. If you can use that, tenacity and combine it with a large market, then magic follows 🪄</title>
+      <link>https://x.com/nikunj/status/2069803472996941959</link>
+      <description>作者：Nikunj Kothari
+账号：@nikunj
+简介：partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian &amp; others. love @shimoleejhaveri + 👦👧
 
-K-coding https://t.co/xDprsRZeLP</description>
-      <pubDate>Tue, 23 Jun 2026 07:33:13 +0000</pubDate>
-      <guid isPermaLink="false">2069322872456364540</guid>
+The easiest way to figure out what you are TRULY excellent at is to notice what looks like child’s play to you but is very hard for those around you..
+
+That’s your edge. If you can use that, tenacity and combine it with a large market, then magic follows 🪄</description>
+      <pubDate>Wed, 24 Jun 2026 15:22:57 +0000</pubDate>
+      <guid isPermaLink="false">2069803472996941959</guid>
     </item>
     <item>
-      <title>Biohub: The Future of Biology is Open-Source with Co-Founders Mark Zuckerberg, Priscilla Chan, and Head of Science Alex Rives</title>
-      <link>https://www.youtube.com/@NoPriorsPodcast</link>
-      <description>播客：No Priors
+      <title>Building a School Where AI Models Learn About Humanity</title>
+      <link>https://www.youtube.com/watch?v=omX6wrLuX08</link>
+      <description>播客：AI &amp; I by Every
 
-Speaker 1 | 00:00 - 00:02
-We just wanna give tools to the whole scientific community.
+Speaker 1 | 00:00 - 00:17
+We are building this kind of school for AGI where AI models come to learn about humanity, where we teach them how to run the world. It almost seems like there's nothing that humans can do that AI won't soon be capable of. I could see it happening within ten to five years.
 
-Speaker 2 | 00:02 - 00:17
-We wanna understand how biology works. I wanna understand the genetics of this person. I wanna understand the risks they have to different illnesses. My goal is to be able to treat the individual as an individual, understand the mechanisms, and be able to intervene.
+Speaker 2 | 00:17 - 00:50
+AI may be able to do it better than us, but, like, someone told the AI to go do that. They're being built to be means to tasks that humans want them to do. Right? Every is the only subscription you need to stay at the edge of AI. If you care about being on top of the latest models and using the latest tools, you have to subscribe to to separate out the signal from the noise.
 
-Speaker 1 | 00:17 - 00:34
-We'll have a bigger impact by getting us in more scientists hands quicker by doing it as open source projects instead. It's not just like there's some factory somewhere that you can pay to produce the data. You actually need to invent new novel scientific approaches. The theory isn't that we're gonna cure the diseases. We're not.
+Speaker 2 | 00:50 - 00:54
+Go to every. Tosubscribe today. Edwin, welcome to the show.
 
-Speaker 1 | 00:34 - 00:36
-It's that we wanna help accelerate the pace of progress for the
+Speaker 1 | 00:54 - 00:56
+Hey, Dan. Thanks for having me.
 
-Speaker 3 | 00:36 - 00:42
-whole scientific field. We folded over 1,100,000,000 proteins and predicted their structures,
+Speaker 2 | 00:56 - 01:30
+For people who don't know, you are the founder and CEO of Surge. You all provide data environments and evals for the model companies, but you do it in this very interesting way. You have this, even on your website, emphasis on taste and expert judgment that I find really interesting and compelling. You talk about raising AGI, which I feel like is a very distinct type of word using data. And you also famously got to about 1,000,000,000 in revenue without raising without raising money, which is wild.
 
-Speaker 4 | 00:42 - 00:50
-and we didn't design a model for antibodies. We didn't design a model to be able to bind one particular target. We just designed a model that could understand proteins.
+Speaker 2 | 01:30 - 01:48
+I feel like data is the this new game that a lot of companies are playing and probably more are going be playing soon. You guys are this sneaky giant. Tell me how that's going. I think it's been a little while since we got the last update on how things are going.
 
-Speaker 2 | 00:50 - 00:58
-If we could design a protein to actually change the physiology, then we can actually cure someone.
+Speaker 1 | 01:48 - 02:30
+Yeah, I think it's going amazing. The way I often think about this is that we are building this school for AGI, the school where AI models come to learn about humanity where we teach them how to run the world. And it's almost like their models are children, where they arrive unformed, and then yeah, they leave smarter and more creative and more thoughtful and ready to operate in the messiness of their world. So I think a lot has changed in the past year, like in the same way that the things that you teach children when they're in preschool or in middle school or in high school is very different from what you're teaching them when they're in college. And it's not just that they're more advanced.
 
-Speaker 5 | 01:05 - 01:18
-Today on No Priors, we're joined by Mark Zuckerberg, Priscilla Chan, and Alex Reeves. We'll be talking about Biohub and all their various efforts to now start applying AI at scale to do world models of cells and different levels of interactions across biology.
+Speaker 1 | 02:30 - 02:55
+Like it's not just that you're teaching them a more advanced form of what they did before. It's like, okay, now we are teaching you not just arithmetic, but how do you parse these ambiguous math questions? Or how do you teach people not just grammar, but taste and poetry and beauty? So, yeah, think there's a lot that's been changing in the past year, especially in enterprise. And yeah, it's been crazy time.
 
-Speaker 4 | 01:19 - 01:21
-Mark, Priscilla, thank you for doing this.
+Speaker 2 | 02:55 - 03:04
+What would be like a specific example of what the frontier of teaching was a year ago versus what the frontier is now?
 
-Speaker 1 | 01:22 - 01:22
-Thanks for having
+Speaker 1 | 03:05 - 03:35
+Yes. So a couple years ago, actually, we created our first math benchmark with OpenAI, and it was called GSM eight ks. And this was actually just testing models on their abilities to do middle score math. And even then, the GBT models of the time, they could barely score, I think, like 20%. And then a year ago, the models were like something that became a lot more capable at solving IMO problems.
 
-Speaker 4 | 01:22 - 01:23
-It us
+Speaker 1 | 03:35 - 04:03
+But there was still just an open question. Okay, can they actually do research level mathematics? Like, can they move beyond these sort of like competition only, of contrived, very closed problems into doing things that are actually useful in the real world. And so, yeah, a couple of months ago, we released an updated benchmark called Riemann bench, which actually tests models under ability to do research level mathematics. And what's crazy is that this is actually we're starting to see from these models.
 
-Speaker 3 | 01:23 - 01:23
-was fun.
+Speaker 1 | 04:03 - 04:45
+Like I think in the past few months, they've started to solve a lot of these open AirDish problems. Like a couple of weeks ago, OpenAI published a new result where the models had disproved a open conjecture from AirDish. And the way it went about disproving this was actually a fairly sophisticated level of mathematics, I think, like using a bunch of very novel algebraic geometry techniques. And so, yeah, it's just very, very different from the types of things that we were doing a year ago where, sure, IMO like problems, they're hard, but they're still sort of closed ended and solvable in theory by a high schooler. And now suddenly you have these algebraic geometry results that, you know, even does hop processors in the world, we're kind of amazed and just amazed by.
 
-Speaker 4 | 01:24 - 01:26
-Congratulations on new missions.
+Speaker 2 | 04:46 - 05:10
+How do you think about that result in particular and what it says about the models? I think there's a there's a sort of a broad range of opinions about is it is it obviously, it's impressive either way, but is it applying a bunch of things that that maybe humans already know but, like, wouldn't have thought to apply to this complicated problem? Or is it doing something actually novel? And and, yeah, how how do you think about LLM's ability to do novel things?
 
-Speaker 3 | 01:26 - 01:26
-Thank you.
+Speaker 1 | 05:11 - 05:37
+So it's something of very advanced results. So I will say that I certainly don't understand the mathematics behind it. And so, like, one of the interesting things is that I was actually so it's kinda funny. When I when I was a kid, I always thought I would be a pure mathematician when I grew up. And so when I saw LagerDistalt, I got kinda nostalgic, I was like, oh, I I wish I understood I wish I understood LagerDistalt better.
 
-Speaker 4 | 01:26 - 01:41
-You guys made Biohub your primary philanthropic effort and then committed $500,000,000 to this virtual biology initiative. Can you tell us a little bit about, you know, why do that and how did you go from we should fund this to this is like
+Speaker 1 | 05:37 - 06:26
+And so what I ended up doing was, like, throwing the proof into both Claude and Gemini and asking it to try to walk me through, from a layman's perspective, just what was going on. Yeah, my understanding is that it actually did come up with fairly novel algebraic geometry techniques, which was something that you maybe wouldn't have expected for this type of problem. Like on the surface, it feels like It's just a very, very different problem where you wouldn't necessarily use certain techniques. And what was interesting was that OpenAI actually published a bunch of reflections from leading mathematicians about what they thought about the result. I think in particular, there was this one reflection by Timothy Gowers, who's a field analyst that I keep thinking about.
 
-Speaker 2 | 01:41 - 02:04
-who we are? So Biohub in its current form, we're super excited about. We feel like it's a really good fit for who we are and what we bring to the table and what we can achieve together. But this work started ten years ago when we were thinking about how can we give back? And wanted to build an organization that could cure, prevent, and manage all disease by the end of the century.
+Speaker 1 | 06:27 - 07:02
+And what he said was that when he first heard result, he misunderstood it. He thought that the model had proved an upper bound on the conjecture and was like, okay, yeah, if AI can do that, then it'll be all over for mathematicians very soon. But then the next morning, he actually realized that the model had disproved the conjecture with a counterexample. And he said that he was relieved by it because it felt like an easier thing for AI to do. And I just thought it was interesting because you have one of the world's greatest mathematicians being relieved actually that AI isn't as far as he thought, because it actually means that at least for maybe another year, maybe a couple of years, he and other mathematicians will still have this unique role to play in pushing mathematics forward.
 
-Speaker 2 | 02:05 - 02:15
-And we had a series of hilarious meetings with scientists that, like, famous Nobel Prize winning scientists were just laughing at us.
+Speaker 1 | 07:03 - 07:12
+So, yeah, I I think it just speaks to the level of craziness again, because this is a field smallest, one of the smartest mathematicians in the world, and, like, this this is how we think about AI.
 
-Speaker 4 | 02:15 - 02:17
-Was that your starting line? We're just gonna cure all disease?
+Speaker 2 | 07:13 - 07:28
+Yeah. And what does that make you think? Okay. You're you wanna be a you wanna be a mathematician when you grow up, field medalist sort of saying, I am relieved that it's not good enough, But you're talking as if you feel pretty confident that it will be good enough in the next couple of years.
 
-Speaker 1 | 02:17 - 02:34
-No. No. And to be clear, we don't think that we're gonna be the ones curing the diseases. Our goal is always to build tools that could accelerate the whole scientific field, so that way the scientific field collectively could cure all the diseases. But still people thought that by the end of the century it was a stretch.
-
-Speaker 1 | 02:34 - 02:35
-Now I think it's like too conservative.
-
-Speaker 2 | 02:36 - 02:56
-And so we kept being like, okay, well, we had these series of funny, awkward educational conversations where we were like, okay, but like, why? Like, why do you think it's impossible? And like, you know, just being the person in the room is just like, oh, I don't know why. You tell me. Finally, we got people to like, they're like, fine.
-
-Speaker 2 | 02:56 - 03:08
-If you really must know. And we're like, you know, we do. It seems important. You know, they were like, well, we work in silos. And when you publish, information doesn't get shared.
-
-Speaker 2 | 03:08 - 03:32
-It gets locked up for long periods of time. And we don't have tooling. You know, they gave the example of like, we build a great tool by one postdoc in a lab and it lives on their computer. And when they graduate, the tool is gone. And we heard was very hard to build shared tools to move science faster, build a shared knowledge base to quickly move science faster.
-
-Speaker 2 | 03:33 - 03:39
-And that's sort of where we began in thinking about, okay, like if those are the problems, like what can we contribute?
-
-Speaker 1 | 03:40 - 04:03
-Yeah. I mean, so the original Biohub model was basically focus on long term tool development by bringing together engineers and scientists across multiple universities to focus on long term tool development. And basically, it like worked. And, you know, we started off with with CZI doing a number of different things. And I think over time, we just felt like, okay.
-
-Speaker 1 | 04:03 - 04:42
-The science piece is really working, and we just kept on investing more and more and more in it until now it is basically the primary and main thing that we're doing. And we've expanded the original San Francisco Biohub to a handful now at this point. There's New York. There's Chicago. The real focus and the unifying theme at this point the virtual biology initiative around taking the unique data sets that are able to be generated in order to model effectively starting with the smallest pieces of proteins, but then eventually cells and whole biological systems.
-
-Speaker 1 | 04:42 - 05:24
-But that's kind of how we've evolved, this idea that we talk about around that some of this is an AI problem, and you want to build a frontier AI lab, but you need to couple that with a frontier biology effort that can do the work of basically being able to understand and get the data that you need to actually be able to build these models. Because unlike language models, there's just like a lot of data out there on the Internet. That's not really the case with biology. I mean, there are obviously a bunch of different data sets that exist that academia and scientists have generated over the the decades, but a lot of the stuff that I think we wanna put into this, it doesn't exist. Right?
-
-Speaker 1 | 05:24 - 06:10
-It's like you wanna be able to visualize things that people haven't been able to see before, which is why we were doing the the imaging work. You wanna be able to record things that are going on inside the body, which is why we're doing the kind of cellular engineering work. Or you want to be able to measure things like inflammation in ways that haven't been possible, which is why the Chicago Biohub is focused on building those kind of devices and being able to do that. And that will fundamentally create new types of datasets that will allow new types of models. And I think it's just a very exciting thing that, going back to what you're saying, if the scientific field, it primarily needs kind of tool development that now is going to empower scientists across the field to be able to do their work faster, that's what we think we can provide through this kind of long term focus on tool development.
-
-Speaker 2 | 06:10 - 07:08
-But I think there's a fun through line on where we started and, you know, bringing us to our work that Alex is driving now, is that our very first request for application, RFA here, was around single cell sequencing. And we wanted to look at sort of like the RNA that is transcribed in individual cells. And that was possible, but it was still pretty early on in understanding how different cells were expressing their DNA to the point where at the beginning we were just funding methods, like getting people to describe how to do it so that others could share that methodology. And then that became us funding the Human Cell Atlas, which is now one of the largest databases of single cell transcriptomes, it was getting hard for scientists to annotate the data. So we built CellByGene, which was like a very simple annotation tool that scientists could use to make use of that data.
-
-Speaker 2 | 07:08 - 07:47
-Then a community came around Cell by Gene, built around Cell by Gene, and started contributing more and mor...</description>
-      <pubDate>Wed, 10 Jun 2026 13:00:00 +0000</pubDate>
-      <guid>https://www.youtube.com/@NoPriorsPodcast</guid>
+Speaker 1 | 07:28 - 08:05
+Yeah. So my belief is that if you really believe in scaling laws, and I do, it's that it almost...</description>
+      <pubDate>Wed, 24 Jun 2026 14:55:00 +0000</pubDate>
+      <guid>https://www.youtube.com/watch?v=omX6wrLuX08</guid>
     </item>
   </channel>
 </rss>
