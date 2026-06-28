@@ -5,261 +5,167 @@
     <link>https://github.com/zarazhangrui/follow-builders</link>
     <description>聚合 AI 领域建设者的 X、播客和博客内容。</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 28 Jun 2026 02:15:13 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 28 Jun 2026 08:38:17 +0000</lastBuildDate>
     <item>
-      <title>minor milestone in the growth of swyx inc:  we took over my new media lab today  it will be the new home for engineer-creatives in san francisco; a third place to make; a finishing school for technical storytellers; a place to inspire the inspirational.  to our complete surprise; it came with a data...</title>
-      <link>https://x.com/swyx/status/2070748857441362056</link>
-      <description>作者：Swyx
-账号：@swyx
-简介：achieve ambition with intentionality, intensity, integrity &amp; insanity.
-
-affiliations:
-- @dxtipshq 
-- @cognition
-- @temporalio
-- @aidotengineer
-- @latentspacepod
-
-minor milestone in the growth of swyx inc:
-
-we took over my new media lab today
-
-it will be the new home for engineer-creatives in san francisco; a third place to make; a finishing school for technical storytellers; a place to inspire the inspirational.
-
-to our complete surprise; it came with a datacenter rack randomly set up and wired up! need advice on what to put in this thing. @alexocheema halp</description>
-      <pubDate>Sat, 27 Jun 2026 05:59:34 +0000</pubDate>
-      <guid isPermaLink="false">2070748857441362056</guid>
-    </item>
-    <item>
-      <title>https://t.co/lvBzTBeMhO</title>
-      <link>https://x.com/zarazhangrui/status/2070735964788658598</link>
+      <title>Btw I'm not an engineer; these are all side projects I built for fun. I just love connecting technology with user problems/using it to solve my own pain points, and then telling stories about the products</title>
+      <link>https://x.com/zarazhangrui/status/2071116793234813272</link>
       <description>作者：Zara Zhang
 账号：@zarazhangrui
 简介：Builder. Dangerously skips permissions. Harvard’17. GitHub: https://t.co/KCuEajezlL YouTube: https://t.co/8xzbGWtf6w
 
-https://t.co/lvBzTBeMhO</description>
-      <pubDate>Sat, 27 Jun 2026 05:08:21 +0000</pubDate>
-      <guid isPermaLink="false">2070735964788658598</guid>
+Btw I'm not an engineer; these are all side projects I built for fun. I just love connecting technology with user problems/using it to solve my own pain points, and then telling stories about the products</description>
+      <pubDate>Sun, 28 Jun 2026 06:21:37 +0000</pubDate>
+      <guid isPermaLink="false">2071116793234813272</guid>
     </item>
     <item>
-      <title>This is honestly no way to release a model and continued development and release this way is a solid way to salt the ground and kill all innovation by small startups https://t.co/tUjxFSunVI</title>
-      <link>https://x.com/garrytan/status/2070699046939820223</link>
-      <description>作者：Garry Tan
-账号：@garrytan
-简介：President &amp; CEO @ycombinator —Founder @garryslist—Creator of GStack &amp; GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop
-
-This is honestly no way to release a model and continued development and release this way is a solid way to salt the ground and kill all innovation by small startups https://t.co/tUjxFSunVI</description>
-      <pubDate>Sat, 27 Jun 2026 02:41:39 +0000</pubDate>
-      <guid isPermaLink="false">2070699046939820223</guid>
-    </item>
-    <item>
-      <title>Step one complete https://t.co/DWDBwkahrH</title>
-      <link>https://x.com/levie/status/2070682290464919874</link>
-      <description>作者：Aaron Levie
-账号：@levie
-简介：ceo @box - your business lives in content. unleash it with AI
-
-Step one complete https://t.co/DWDBwkahrH</description>
-      <pubDate>Sat, 27 Jun 2026 01:35:04 +0000</pubDate>
-      <guid isPermaLink="false">2070682290464919874</guid>
-    </item>
-    <item>
-      <title>Agents are particularly hard-to-debug software.   For one, and by design, AI models behave in non-deterministic ways. Even two identical prompts don't always yield the same output.  But agents are also complex distributed systems. They involve multiple steps of computation across functions and sandb...</title>
-      <link>https://x.com/rauchg/status/2070676383135834334</link>
-      <description>作者：Guillermo Rauch
-账号：@rauchg
-简介：@vercel CEO
-
-Agents are particularly hard-to-debug software. 
-
-For one, and by design, AI models behave in non-deterministic ways. Even two identical prompts don't always yield the same output.
-
-But agents are also complex distributed systems. They involve multiple steps of computation across functions and sandboxes, touching dozens of API services that can go down, rate limit you, etc.
-
-Nailing down observability out of the box for https://t.co/nDDXqUmOlD on Vercel was a key priority for the team, and the feedback so far has been 🔥↓</description>
-      <pubDate>Sat, 27 Jun 2026 01:11:35 +0000</pubDate>
-      <guid isPermaLink="false">2070676383135834334</guid>
-    </item>
-    <item>
-      <title>Patient zero https://t.co/zpAhbXtrWz</title>
-      <link>https://x.com/thenanyu/status/2070658852421345517</link>
-      <description>作者：Nan Yu
-账号：@thenanyu
-简介：head of product @linear
-
-Patient zero https://t.co/zpAhbXtrWz</description>
-      <pubDate>Sat, 27 Jun 2026 00:01:56 +0000</pubDate>
-      <guid isPermaLink="false">2070658852421345517</guid>
-    </item>
-    <item>
-      <title>Socks don’t have to match. It’s cuter that way anyway https://t.co/4ISWH7alpj</title>
-      <link>https://x.com/thenanyu/status/2070656642597658709</link>
-      <description>作者：Nan Yu
-账号：@thenanyu
-简介：head of product @linear
-
-Socks don’t have to match. It’s cuter that way anyway https://t.co/4ISWH7alpj</description>
-      <pubDate>Fri, 26 Jun 2026 23:53:09 +0000</pubDate>
-      <guid isPermaLink="false">2070656642597658709</guid>
-    </item>
-    <item>
-      <title>Secret level 6: there’s a problem, but it’s not worth solving, so leave it alone.   This is why org with a ton of level 1s can win. They don’t get distracted by side quests https://t.co/fRGy1NC9oT</title>
-      <link>https://x.com/thenanyu/status/2070656348488937889</link>
-      <description>作者：Nan Yu
-账号：@thenanyu
-简介：head of product @linear
-
-Secret level 6: there’s a problem, but it’s not worth solving, so leave it alone. 
-
-This is why org with a ton of level 1s can win. They don’t get distracted by side quests https://t.co/fRGy1NC9oT</description>
-      <pubDate>Fri, 26 Jun 2026 23:51:59 +0000</pubDate>
-      <guid isPermaLink="false">2070656348488937889</guid>
-    </item>
-    <item>
-      <title>We are giving all Codex users a usage reset on the house. Should be showing in your accounts in the next few hours.  We have applied some mitigations, but our investigation hasn't shown users being impacted at large. We are continuing to monitor the situation. https://t.co/rLJrQdI1ks</title>
-      <link>https://x.com/thsottiaux/status/2070653282440405046</link>
+      <title>Sol when operating Codex. Circa 2026 https://t.co/bOCl1QB56x</title>
+      <link>https://x.com/thsottiaux/status/2071089307062837744</link>
       <description>作者：Thibault Sottiaux
 账号：@thsottiaux
 简介：Codex &amp; ChatGPT @OpenAI
 
-We are giving all Codex users a usage reset on the house. Should be showing in your accounts in the next few hours.
-
-We have applied some mitigations, but our investigation hasn't shown users being impacted at large. We are continuing to monitor the situation. https://t.co/rLJrQdI1ks</description>
-      <pubDate>Fri, 26 Jun 2026 23:39:48 +0000</pubDate>
-      <guid isPermaLink="false">2070653282440405046</guid>
+Sol when operating Codex. Circa 2026 https://t.co/bOCl1QB56x</description>
+      <pubDate>Sun, 28 Jun 2026 04:32:24 +0000</pubDate>
+      <guid isPermaLink="false">2071089307062837744</guid>
     </item>
     <item>
-      <title>Now that the dust is settled, what’s really funny to me about the taste commentary is it’s coming from a LOT of people who never have built anything..  You can’t achieve (or refine) taste without being in the arena.   It’s like a chef cooking and expecting their first dish to be good on the first go...</title>
-      <link>https://x.com/nikunj/status/2070649602953576825</link>
-      <description>作者：Nikunj Kothari
-账号：@nikunj
-简介：partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian &amp; others. love @shimoleejhaveri + 👦👧
-
-Now that the dust is settled, what’s really funny to me about the taste commentary is it’s coming from a LOT of people who never have built anything..
-
-You can’t achieve (or refine) taste without being in the arena. 
-
-It’s like a chef cooking and expecting their first dish to be good on the first go. 
-
-But, when you give it a 100 iterations and maybe cook a 100 dishes, then the 101st one has imbued all the lessons from those 10,000 iterations. 
-
-But, if you over fit without much variation, then people get tired of it since well they want something new as well. 
-
-The best people are able to learn, imbue and innovate by breaking patterns consistently. 
-
-It’ll be interesting to see how AI does the same - and unlike most people I think it has a fair shot at actually building taste. 
-
-End rant.</description>
-      <pubDate>Fri, 26 Jun 2026 23:25:10 +0000</pubDate>
-      <guid isPermaLink="false">2070649602953576825</guid>
-    </item>
-    <item>
-      <title>So let me get this straight:  1. We publish frontier models 2. They get distilled into cheap open source models 3. US companies adopt the same open source models because they're good enough and much cheaper 4. We start gating access to frontier models  What next? US companies innovate less? Open sou...</title>
-      <link>https://x.com/petergyang/status/2070633838146134219</link>
-      <description>作者：Peter Yang
-账号：@petergyang
-简介：Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6
-
-So let me get this straight:
-
-1. We publish frontier models
-2. They get distilled into cheap open source models
-3. US companies adopt the same open source models because they're good enough and much cheaper
-4. We start gating access to frontier models
-
-What next? US companies innovate less? Open source models become more attractive?</description>
-      <pubDate>Fri, 26 Jun 2026 22:22:32 +0000</pubDate>
-      <guid isPermaLink="false">2070633838146134219</guid>
-    </item>
-    <item>
-      <title>I made a @hyperframes_ video of how I found out this morning https://t.co/yyMlGJgIfS</title>
-      <link>https://x.com/rauchg/status/2070627995803668518</link>
+      <title>I now own https://t.co/I2grp6UkeV. Excited to give my children clean email handles. Domains are awesome. The internet is awesome.</title>
+      <link>https://x.com/rauchg/status/2071085680017773046</link>
       <description>作者：Guillermo Rauch
 账号：@rauchg
 简介：@vercel CEO
 
-I made a @hyperframes_ video of how I found out this morning https://t.co/yyMlGJgIfS</description>
-      <pubDate>Fri, 26 Jun 2026 21:59:19 +0000</pubDate>
-      <guid isPermaLink="false">2070627995803668518</guid>
+I now own https://t.co/I2grp6UkeV. Excited to give my children clean email handles. Domains are awesome. The internet is awesome.</description>
+      <pubDate>Sun, 28 Jun 2026 04:17:59 +0000</pubDate>
+      <guid isPermaLink="false">2071085680017773046</guid>
     </item>
     <item>
-      <title>I love how Apple notarization breaks multiple times a year until I manually log in and accept some new legal agreements.</title>
-      <link>https://x.com/steipete/status/2070626638887555227</link>
+      <title>Talking to your plants isn't weird anymore. You can just codex things. https://t.co/RUAI7w1oPO</title>
+      <link>https://x.com/thsottiaux/status/2071077932244570112</link>
+      <description>作者：Thibault Sottiaux
+账号：@thsottiaux
+简介：Codex &amp; ChatGPT @OpenAI
+
+Talking to your plants isn't weird anymore. You can just codex things. https://t.co/RUAI7w1oPO</description>
+      <pubDate>Sun, 28 Jun 2026 03:47:12 +0000</pubDate>
+      <guid isPermaLink="false">2071077932244570112</guid>
+    </item>
+    <item>
+      <title>Messi is so goated damn</title>
+      <link>https://x.com/petergyang/status/2071077367720862021</link>
+      <description>作者：Peter Yang
+账号：@petergyang
+简介：Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6
+
+Messi is so goated damn</description>
+      <pubDate>Sun, 28 Jun 2026 03:44:57 +0000</pubDate>
+      <guid isPermaLink="false">2071077367720862021</guid>
+    </item>
+    <item>
+      <title>Tons of improvements landed in Codex.   - Handles super long threads smoothly.  - Hoverable navigation rail for previewing and jumping between turns that feels just right.  - Settings search covers more controls, with clearer appearance and host-filtering options and easier-to-find custom-provider s...</title>
+      <link>https://x.com/thsottiaux/status/2071071289247244481</link>
+      <description>作者：Thibault Sottiaux
+账号：@thsottiaux
+简介：Codex &amp; ChatGPT @OpenAI
+
+Tons of improvements landed in Codex. 
+
+- Handles super long threads smoothly. 
+- Hoverable navigation rail for previewing and jumping between turns that feels just right. 
+- Settings search covers more controls, with clearer appearance and host-filtering options and easier-to-find custom-provider settings. 
+- Zoom-level changes no longer misalign tooltips, dialogs, menus, selection bubbles, drag previews, or autocomplete. 
+- Copying into Slack preserves Markdown formatting such as bullets, bold text, code, and links; and large text pastes no longer freeze the UI.
+- And most importantly: a dedicated Pets panel.</description>
+      <pubDate>Sun, 28 Jun 2026 03:20:48 +0000</pubDate>
+      <guid isPermaLink="false">2071071289247244481</guid>
+    </item>
+    <item>
+      <title>&quot;History teaches us that access blockage rarely stops determined users.&quot; https://t.co/fsa6yuEjjs</title>
+      <link>https://x.com/steipete/status/2071063588329193551</link>
       <description>作者：Peter Steinberger
 账号：@steipete
 简介：Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world.
 @OpenClaw🦞 + @OpenAI
 
-I love how Apple notarization breaks multiple times a year until I manually log in and accept some new legal agreements.</description>
-      <pubDate>Fri, 26 Jun 2026 21:53:55 +0000</pubDate>
-      <guid isPermaLink="false">2070626638887555227</guid>
+&quot;History teaches us that access blockage rarely stops determined users.&quot; https://t.co/fsa6yuEjjs</description>
+      <pubDate>Sun, 28 Jun 2026 02:50:12 +0000</pubDate>
+      <guid isPermaLink="false">2071063588329193551</guid>
     </item>
     <item>
-      <title>An interesting side effect of AI is that I have zero tolerance for shallow interactions with humans.  I really deep connection and depth in my relationships. More ways to do that are so valuable.  And for everything else: give me agents.  I suspect our world will become both smaller and more rich in...</title>
-      <link>https://x.com/adityaag/status/2070621064271688021</link>
-      <description>作者：Aditya Agarwal
-账号：@adityaag
-简介：General Partner @SouthPkCommons, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @Dropbox, Board @Flipkart | Optimist, Builder, Dad
+      <title>There's just one small problem with this framework:  If you wait till level 5 or whatever to tell other people that there's a problem when there's been a burning fire for days and your &quot;solution&quot; actually didn't fix the problem at all, you're 100% in a worse situation than someone who is level 1 and...</title>
+      <link>https://x.com/petergyang/status/2071058953115767275</link>
+      <description>作者：Peter Yang
+账号：@petergyang
+简介：Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6
 
-An interesting side effect of AI is that I have zero tolerance for shallow interactions with humans.
+There's just one small problem with this framework:
 
-I really deep connection and depth in my relationships. More ways to do that are so valuable.
+If you wait till level 5 or whatever to tell other people that there's a problem when there's been a burning fire for days and your &quot;solution&quot; actually didn't fix the problem at all, you're 100% in a worse situation than someone who is level 1 and just told other people about the problem right away and found a solution together.
 
-And for everything else: give me agents.
-
-I suspect our world will become both smaller and more rich in it's relationship depth.</description>
-      <pubDate>Fri, 26 Jun 2026 21:31:46 +0000</pubDate>
-      <guid isPermaLink="false">2070621064271688021</guid>
+There's no black and white to this stuff, everything has nuance.</description>
+      <pubDate>Sun, 28 Jun 2026 02:31:47 +0000</pubDate>
+      <guid isPermaLink="false">2071058953115767275</guid>
     </item>
     <item>
-      <title>not quite all-you-can-eat tokens, but we are working on it</title>
-      <link>https://x.com/sama/status/2070614769678393846</link>
-      <description>作者：Sam Altman
-账号：@sama
-简介：AI is cool i guess
+      <title>The World Cup            The World Cup until now                        starting tomorrow https://t.co/EdMN837FDJ</title>
+      <link>https://x.com/mattturck/status/2071049723276828942</link>
+      <description>作者：Matt Turck
+账号：@mattturck
+简介：VC at @FirstMarkCap.  Host: MAD Podcast; Organizer: Data Driven NYC, Author: MAD Landscape.
 
-not quite all-you-can-eat tokens, but we are working on it</description>
-      <pubDate>Fri, 26 Jun 2026 21:06:45 +0000</pubDate>
-      <guid isPermaLink="false">2070614769678393846</guid>
+The World Cup            The World Cup
+until now                        starting tomorrow https://t.co/EdMN837FDJ</description>
+      <pubDate>Sun, 28 Jun 2026 01:55:06 +0000</pubDate>
+      <guid isPermaLink="false">2071049723276828942</guid>
     </item>
     <item>
-      <title>team cooked, spicily https://t.co/yLb6nqrus6</title>
-      <link>https://x.com/sama/status/2070614666288795703</link>
-      <description>作者：Sam Altman
-账号：@sama
-简介：AI is cool i guess
+      <title>Mythos / Sol cybersecurity capabilities are equally useful in an offensive as well a defensive capacity.  If adversaries get ahold of an equivalent offensive capability, it poses a serious threat to US companies that remain unaware of latent vulnerabilities.  In the meantime, I strongly recommend ru...</title>
+      <link>https://x.com/rauchg/status/2071047674187714830</link>
+      <description>作者：Guillermo Rauch
+账号：@rauchg
+简介：@vercel CEO
 
-team cooked, spicily https://t.co/yLb6nqrus6</description>
-      <pubDate>Fri, 26 Jun 2026 21:06:21 +0000</pubDate>
-      <guid isPermaLink="false">2070614666288795703</guid>
+Mythos / Sol cybersecurity capabilities are equally useful in an offensive as well a defensive capacity.
+
+If adversaries get ahold of an equivalent offensive capability, it poses a serious threat to US companies that remain unaware of latent vulnerabilities.
+
+In the meantime, I strongly recommend running deepsec[1] or similar harnesses with the available frontier models.
+
+[1] https://t.co/Wh4QVGDFnm</description>
+      <pubDate>Sun, 28 Jun 2026 01:46:58 +0000</pubDate>
+      <guid isPermaLink="false">2071047674187714830</guid>
     </item>
     <item>
-      <title>split screen is one of my fave claude code on desktop features! https://t.co/4ZQZjBnmvL</title>
-      <link>https://x.com/_catwu/status/2070613405237432766</link>
-      <description>作者：Cat Wu
-账号：@_catwu
-简介：claude code + cowork @anthropicai, prev: @dagster, @scale_ai
+      <title>Got excited about the 52’ Dell, but it requires BetterDisplay hacking to get a usable resolution, but then I get weird flickers and also startup wake issues. [on M4 Max MBP]   So, Apple wins this round, 2xXDR it is.  https://t.co/MpRNpQJE8X</title>
+      <link>https://x.com/steipete/status/2071034256051097799</link>
+      <description>作者：Peter Steinberger
+账号：@steipete
+简介：Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world.
+@OpenClaw🦞 + @OpenAI
 
-split screen is one of my fave claude code on desktop features! https://t.co/4ZQZjBnmvL</description>
-      <pubDate>Fri, 26 Jun 2026 21:01:20 +0000</pubDate>
-      <guid isPermaLink="false">2070613405237432766</guid>
+Got excited about the 52’ Dell, but it requires BetterDisplay hacking to get a usable resolution, but then I get weird flickers and also startup wake issues. [on M4 Max MBP] 
+
+So, Apple wins this round, 2xXDR it is.
+
+https://t.co/MpRNpQJE8X</description>
+      <pubDate>Sun, 28 Jun 2026 00:53:39 +0000</pubDate>
+      <guid isPermaLink="false">2071034256051097799</guid>
     </item>
     <item>
-      <title>in other news, we updated the 5.5 instant model used in chatgpt this week.  i like its vibes.</title>
-      <link>https://x.com/sama/status/2070612055225483692</link>
-      <description>作者：Sam Altman
-账号：@sama
-简介：AI is cool i guess
+      <title>We getting Apple Car after all https://t.co/53qxFyVGRW</title>
+      <link>https://x.com/steipete/status/2071017970953052160</link>
+      <description>作者：Peter Steinberger
+账号：@steipete
+简介：Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world.
+@OpenClaw🦞 + @OpenAI
 
-in other news, we updated the 5.5 instant model used in chatgpt this week.
-
-i like its vibes.</description>
-      <pubDate>Fri, 26 Jun 2026 20:55:58 +0000</pubDate>
-      <guid isPermaLink="false">2070612055225483692</guid>
+We getting Apple Car after all https://t.co/53qxFyVGRW</description>
+      <pubDate>Sat, 27 Jun 2026 23:48:56 +0000</pubDate>
+      <guid isPermaLink="false">2071017970953052160</guid>
     </item>
     <item>
-      <title>we have been scaling without slop by working with aligned domain experts to add coverage   with both oai and ant launching multi-billion dollar services arms, it’s clear that FDE is one of the most in demand disciplines on earth, but I have never done the job  it’s been an absolute pleasure working ...</title>
-      <link>https://x.com/swyx/status/2070606851377672675</link>
+      <title>Memberships for companies and creative individuals.  Apply here please!  https://t.co/1KsUVktzU0</title>
+      <link>https://x.com/swyx/status/2071005276644553091</link>
       <description>作者：Swyx
 账号：@swyx
 简介：achieve ambition with intentionality, intensity, integrity &amp; insanity.
@@ -271,308 +177,284 @@ affiliations:
 - @aidotengineer
 - @latentspacepod
 
-we have been scaling without slop by working with aligned domain experts to add coverage 
+Memberships for companies and creative individuals.
 
-with both oai and ant launching multi-billion dollar services arms, it’s clear that FDE is one of the most in demand disciplines on earth, but I have never done the job
+Apply here please!
 
-it’s been an absolute pleasure working with Basil on our first ever AI FDE miniconference!
-
-see at https://t.co/STlx7OsWbr  next week</description>
-      <pubDate>Fri, 26 Jun 2026 20:35:18 +0000</pubDate>
-      <guid isPermaLink="false">2070606851377672675</guid>
+https://t.co/1KsUVktzU0</description>
+      <pubDate>Sat, 27 Jun 2026 22:58:30 +0000</pubDate>
+      <guid isPermaLink="false">2071005276644553091</guid>
     </item>
     <item>
-      <title>World Cup scoring strategies:  Argentina: pass the ball to Messi  Portugal: pass the ball to Ronaldo  England: pass the ball to Kane   Spain: pass the ball to Lamal  France: pass the ball to Mbappé or Dembélé or Olise or Doué or Barcola or Cherki or Thuram or</title>
-      <link>https://x.com/mattturck/status/2070597806025314608</link>
-      <description>作者：Matt Turck
-账号：@mattturck
-简介：VC at @FirstMarkCap.  Host: MAD Podcast; Organizer: Data Driven NYC, Author: MAD Landscape.
-
-World Cup scoring strategies:
-
-Argentina: pass the ball to Messi
-
-Portugal: pass the ball to Ronaldo
-
-England: pass the ball to Kane 
-
-Spain: pass the ball to Lamal
-
-France: pass the ball to Mbappé or Dembélé or Olise or Doué or Barcola or Cherki or Thuram or</description>
-      <pubDate>Fri, 26 Jun 2026 19:59:21 +0000</pubDate>
-      <guid isPermaLink="false">2070597806025314608</guid>
-    </item>
-    <item>
-      <title>For once, this tweet aged well 😯</title>
-      <link>https://x.com/mattturck/status/2070591757151080593</link>
-      <description>作者：Matt Turck
-账号：@mattturck
-简介：VC at @FirstMarkCap.  Host: MAD Podcast; Organizer: Data Driven NYC, Author: MAD Landscape.
-
-For once, this tweet aged well 😯</description>
-      <pubDate>Fri, 26 Jun 2026 19:35:19 +0000</pubDate>
-      <guid isPermaLink="false">2070591757151080593</guid>
-    </item>
-    <item>
-      <title>&quot;You do not need God to write your emails&quot; https://t.co/wisy8LNck0</title>
-      <link>https://x.com/zarazhangrui/status/2070589563429691698</link>
-      <description>作者：Zara Zhang
-账号：@zarazhangrui
-简介：Builder. Dangerously skips permissions. Harvard’17. GitHub: https://t.co/KCuEajezlL YouTube: https://t.co/8xzbGWtf6w
-
-&quot;You do not need God to write your emails&quot; https://t.co/wisy8LNck0</description>
-      <pubDate>Fri, 26 Jun 2026 19:26:36 +0000</pubDate>
-      <guid isPermaLink="false">2070589563429691698</guid>
-    </item>
-    <item>
-      <title>If Dembélé is now fully confident, on top of everything else the team has going on, good luck to all the other nations</title>
-      <link>https://x.com/mattturck/status/2070586263292223987</link>
-      <description>作者：Matt Turck
-账号：@mattturck
-简介：VC at @FirstMarkCap.  Host: MAD Podcast; Organizer: Data Driven NYC, Author: MAD Landscape.
-
-If Dembélé is now fully confident, on top of everything else the team has going on, good luck to all the other nations</description>
-      <pubDate>Fri, 26 Jun 2026 19:13:29 +0000</pubDate>
-      <guid isPermaLink="false">2070586263292223987</guid>
-    </item>
-    <item>
-      <title>Btw I used Borumi to create this video, and it's genuinely the most underrated video recording/editing tool out there  It's like Screen Studio + Descript + CapCut all in one  It's so underrated; they don't even have an X account I can tag https://t.co/dqohk7MJwT</title>
-      <link>https://x.com/zarazhangrui/status/2070584764315402405</link>
-      <description>作者：Zara Zhang
-账号：@zarazhangrui
-简介：Builder. Dangerously skips permissions. Harvard’17. GitHub: https://t.co/KCuEajezlL YouTube: https://t.co/8xzbGWtf6w
-
-Btw I used Borumi to create this video, and it's genuinely the most underrated video recording/editing tool out there
-
-It's like Screen Studio + Descript + CapCut all in one
-
-It's so underrated; they don't even have an X account I can tag https://t.co/dqohk7MJwT</description>
-      <pubDate>Fri, 26 Jun 2026 19:07:32 +0000</pubDate>
-      <guid isPermaLink="false">2070584764315402405</guid>
-    </item>
-    <item>
-      <title>From what I'm seeing, alot of the money has moved to services (with some software bundled), not software.  People want outcomes, not tools.   It's feels really hard to build a pure-play software company that's more valuable to people or companies than just using Codex/Claude Code with a bunch of per...</title>
-      <link>https://x.com/petergyang/status/2070568705365577990</link>
-      <description>作者：Peter Yang
-账号：@petergyang
-简介：Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6
-
-From what I'm seeing, alot of the money has moved to services (with some software bundled), not software.
-
-People want outcomes, not tools. 
-
-It's feels really hard to build a pure-play software company that's more valuable to people or companies than just using Codex/Claude Code with a bunch of personal skills and agents.
-
-Thoughts?</description>
-      <pubDate>Fri, 26 Jun 2026 18:03:43 +0000</pubDate>
-      <guid isPermaLink="false">2070568705365577990</guid>
-    </item>
-    <item>
-      <title>The UI for AI is here. It's @shadcn https://t.co/bzgEEKO9Az</title>
-      <link>https://x.com/rauchg/status/2070567538040422712</link>
+      <title>Me and my agents https://t.co/z3FIH7doEH</title>
+      <link>https://x.com/rauchg/status/2070982746080715052</link>
       <description>作者：Guillermo Rauch
 账号：@rauchg
 简介：@vercel CEO
 
-The UI for AI is here. It's @shadcn https://t.co/bzgEEKO9Az</description>
-      <pubDate>Fri, 26 Jun 2026 17:59:05 +0000</pubDate>
-      <guid isPermaLink="false">2070567538040422712</guid>
+Me and my agents https://t.co/z3FIH7doEH</description>
+      <pubDate>Sat, 27 Jun 2026 21:28:58 +0000</pubDate>
+      <guid isPermaLink="false">2070982746080715052</guid>
     </item>
     <item>
-      <title>GPT-5.6 is real and looks very strong. Going to be very strong for knowledge worker tasks that require heavy tool use and long running agents doing work. We're not hitting any walls in AI progress right now. https://t.co/5Apn3VzmkY https://t.co/LGpfF8ANcT</title>
-      <link>https://x.com/levie/status/2070563281916620895</link>
+      <title>My projects: https://t.co/T4liFJ0k9R</title>
+      <link>https://x.com/zarazhangrui/status/2070982170219593904</link>
+      <description>作者：Zara Zhang
+账号：@zarazhangrui
+简介：Builder. Dangerously skips permissions. Harvard’17. GitHub: https://t.co/KCuEajezlL YouTube: https://t.co/8xzbGWtf6w
+
+My projects: https://t.co/T4liFJ0k9R</description>
+      <pubDate>Sat, 27 Jun 2026 21:26:41 +0000</pubDate>
+      <guid isPermaLink="false">2070982170219593904</guid>
+    </item>
+    <item>
+      <title>Last year I barely knew how GitHub worked. Now I have 10k followers on GitHub (and still can't write code by hand). What a year. https://t.co/sl3tjtySh5</title>
+      <link>https://x.com/zarazhangrui/status/2070982013822333007</link>
+      <description>作者：Zara Zhang
+账号：@zarazhangrui
+简介：Builder. Dangerously skips permissions. Harvard’17. GitHub: https://t.co/KCuEajezlL YouTube: https://t.co/8xzbGWtf6w
+
+Last year I barely knew how GitHub worked. Now I have 10k followers on GitHub (and still can't write code by hand). What a year. https://t.co/sl3tjtySh5</description>
+      <pubDate>Sat, 27 Jun 2026 21:26:03 +0000</pubDate>
+      <guid isPermaLink="false">2070982013822333007</guid>
+    </item>
+    <item>
+      <title>Smart glasses and goggles, a history:  Silicon Valley, 2013 (Google): “you really want this” Everyone: “no we don’t”  Silicon Valley, 2016 (Microsoft): “ok but what if it’s for the enterprise” Enterprise: “maybe, but also, no”  Silicon Valley, 2023 (Meta): “ok but what if they look normal and have A...</title>
+      <link>https://x.com/mattturck/status/2070972014945243622</link>
+      <description>作者：Matt Turck
+账号：@mattturck
+简介：VC at @FirstMarkCap.  Host: MAD Podcast; Organizer: Data Driven NYC, Author: MAD Landscape.
+
+Smart glasses and goggles, a history:
+
+Silicon Valley, 2013 (Google): “you really want this”
+Everyone: “no we don’t”
+
+Silicon Valley, 2016 (Microsoft): “ok but what if it’s for the enterprise”
+Enterprise: “maybe, but also, no”
+
+Silicon Valley, 2023 (Meta): “ok but what if they look normal and have AI”
+Everyone: “wait… maybe? … Actually, no”
+
+Silicon Valley, 2024 (Apple): “ok but what if it’s $3,499 and covers your whole face”
+Everyone: “absolutely not”
+
+Silicon Valley, 2026 (Snap): “ok but this time for real”
+Everyone: “we admire the persistence but still no”</description>
+      <pubDate>Sat, 27 Jun 2026 20:46:19 +0000</pubDate>
+      <guid isPermaLink="false">2070972014945243622</guid>
+    </item>
+    <item>
+      <title>impromptu ai engineer preshow floor tour and AMA https://t.co/Jjo8Ai7aHh</title>
+      <link>https://x.com/swyx/status/2070971772548366788</link>
+      <description>作者：Swyx
+账号：@swyx
+简介：achieve ambition with intentionality, intensity, integrity &amp; insanity.
+
+affiliations:
+- @dxtipshq 
+- @cognition
+- @temporalio
+- @aidotengineer
+- @latentspacepod
+
+impromptu ai engineer preshow floor tour and AMA https://t.co/Jjo8Ai7aHh</description>
+      <pubDate>Sat, 27 Jun 2026 20:45:22 +0000</pubDate>
+      <guid isPermaLink="false">2070971772548366788</guid>
+    </item>
+    <item>
+      <title>An interesting way to take Noam at his word in regards to always keeping a constant inference budget for any eval reporting -  is that open models have a lot more dollar per token mileage than closed model APIs. So anyone launching an open model today or situationally incentivized toward open models...</title>
+      <link>https://x.com/swyx/status/2070949306060931312</link>
+      <description>作者：Swyx
+账号：@swyx
+简介：achieve ambition with intentionality, intensity, integrity &amp; insanity.
+
+affiliations:
+- @dxtipshq 
+- @cognition
+- @temporalio
+- @aidotengineer
+- @latentspacepod
+
+An interesting way to take Noam at his word in regards to always keeping a constant inference budget for any eval reporting -
+
+is that open models have a lot more dollar per token mileage than closed model APIs. So anyone launching an open model today or situationally incentivized toward open models should obviously report thinking levels measured by dollar inference on popular inference providers, instead of by number of tokens on the x axis</description>
+      <pubDate>Sat, 27 Jun 2026 19:16:05 +0000</pubDate>
+      <guid isPermaLink="false">2070949306060931312</guid>
+    </item>
+    <item>
+      <title>Some good best practices here on AI token cost optimization. None of these happens though without a deep understanding of the underlying work being done in a non-abstract way.  The ultimate implication is that a layer between the work itself and the underlying intelligence needs to deeply understand...</title>
+      <link>https://x.com/levie/status/2070937863806751154</link>
       <description>作者：Aaron Levie
 账号：@levie
 简介：ceo @box - your business lives in content. unleash it with AI
 
-GPT-5.6 is real and looks very strong. Going to be very strong for knowledge worker tasks that require heavy tool use and long running agents doing work. We're not hitting any walls in AI progress right now. https://t.co/5Apn3VzmkY https://t.co/LGpfF8ANcT</description>
-      <pubDate>Fri, 26 Jun 2026 17:42:10 +0000</pubDate>
-      <guid isPermaLink="false">2070563281916620895</guid>
+Some good best practices here on AI token cost optimization. None of these happens though without a deep understanding of the underlying work being done in a non-abstract way.
+
+The ultimate implication is that a layer between the work itself and the underlying intelligence needs to deeply understand your workflows, context, and business process. Now, each individual company doing this on their own is unlikely to be effective at scale, so as a consequence, this is effectively the playbook for any applied AI company right now. 
+
+By evaling the models for the applied use cases, deeply understanding the domain, having tuned UX and features for the use case, and having the ability to support adoption and change (via FDEs), allow this layer to add a ton of value. And as a result, enterprises get higher ROI because you actually can get *more* intelligence per dollar by having optimal architecture and workflows.
+
+There will be many horizontal and vertical versions of this approach. Huge opportunity right now.</description>
+      <pubDate>Sat, 27 Jun 2026 18:30:37 +0000</pubDate>
+      <guid isPermaLink="false">2070937863806751154</guid>
     </item>
     <item>
-      <title>https://t.co/YtAD0ATH4r</title>
-      <link>https://x.com/thsottiaux/status/2070557504673861667</link>
-      <description>作者：Thibault Sottiaux
-账号：@thsottiaux
-简介：Codex &amp; ChatGPT @OpenAI
+      <title>https://t.co/1TemOEJkVm</title>
+      <link>https://x.com/thenanyu/status/2070933976072532042</link>
+      <description>作者：Nan Yu
+账号：@thenanyu
+简介：head of product @linear
 
-https://t.co/YtAD0ATH4r</description>
-      <pubDate>Fri, 26 Jun 2026 17:19:12 +0000</pubDate>
-      <guid isPermaLink="false">2070557504673861667</guid>
+https://t.co/1TemOEJkVm</description>
+      <pubDate>Sat, 27 Jun 2026 18:15:10 +0000</pubDate>
+      <guid isPermaLink="false">2070933976072532042</guid>
     </item>
     <item>
-      <title>https://t.co/UCQ12NEtF3</title>
-      <link>https://x.com/thsottiaux/status/2070557098342232321</link>
-      <description>作者：Thibault Sottiaux
-账号：@thsottiaux
-简介：Codex &amp; ChatGPT @OpenAI
-
-https://t.co/UCQ12NEtF3</description>
-      <pubDate>Fri, 26 Jun 2026 17:17:35 +0000</pubDate>
-      <guid isPermaLink="false">2070557098342232321</guid>
-    </item>
-    <item>
-      <title>full blog post here: https://t.co/B0PvzibY63</title>
-      <link>https://x.com/danshipper/status/2070554247301591163</link>
-      <description>作者：Dan Shipper
-账号：@danshipper
-简介：ceo @every | the only subscription you need to stay at the edge of AI
-
-full blog post here: https://t.co/B0PvzibY63</description>
-      <pubDate>Fri, 26 Jun 2026 17:06:16 +0000</pubDate>
-      <guid isPermaLink="false">2070554247301591163</guid>
-    </item>
-    <item>
-      <title>BREAKING: OpenAI announced GPT-5.6 Sol!  As of today, by U.S. government directive, access is limited to only ~20 pre-approved companies and @every is not on the list. This appears to be a temporary situation while the government races to figure out a long-term policy for releasing frontier models w...</title>
-      <link>https://x.com/danshipper/status/2070554118146412979</link>
-      <description>作者：Dan Shipper
-账号：@danshipper
-简介：ceo @every | the only subscription you need to stay at the edge of AI
-
-BREAKING: OpenAI announced GPT-5.6 Sol!
-
-As of today, by U.S. government directive, access is limited to only ~20 pre-approved companies and @every is not on the list. This appears to be a temporary situation while the government races to figure out a long-term policy for releasing frontier models with advanced capabilities.
-
-I understand and applaud the need for some government oversight in making American infrastructure resilient to cyberattacks and other potential new threats from the misuse of these models. However, I also strongly believe that widespread democratic access to frontier models is absolutely necessary to our country’s leading position in the AI race. It’s also critical for allowing American workers to keep pace with the new skills they need to be productive in this era.
-
-A world where advanced models are locked up only for use by the employees of AI giants and a select few companies is one where ambitious students, independent builders, and working professionals are denied the tools they need to learn, create, and compete to their fullest potential.
-
-Also, speaking for @every and the community of developers and writers who share early access with us: Our job is to test these tools early so that we can prepare Americans for how to use them to their fullest extent. If we lose access, we lose the ability to do that important job well.
-
-Thankfully, both OpenAI and the government seem to be working to make broad access available soon.
-
-We’ll be ready to vibe check when that happens :)</description>
-      <pubDate>Fri, 26 Jun 2026 17:05:45 +0000</pubDate>
-      <guid isPermaLink="false">2070554118146412979</guid>
-    </item>
-    <item>
-      <title>Small things I wish Claude Code had:  1. Bring back ability to steer conversations while Claude is working  2. Make mobile remote control for all threads on by default  3. The shortcut keys seem only accessible if you have the sub-menu open? Consider supporting &quot;cmd + key&quot; so we can hotkey to differ...</title>
-      <link>https://x.com/petergyang/status/2070545325497221248</link>
-      <description>作者：Peter Yang
-账号：@petergyang
-简介：Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6
-
-Small things I wish Claude Code had:
-
-1. Bring back ability to steer conversations while Claude is working
-
-2. Make mobile remote control for all threads on by default
-
-3. The shortcut keys seem only accessible if you have the sub-menu open? Consider supporting &quot;cmd + key&quot; so we can hotkey to different threads with the keyboard. If I hold down cmd I should see all the shortcuts in the UI.
-
-4. Let me drag and drop to re-arrange my projects on left nav</description>
-      <pubDate>Fri, 26 Jun 2026 16:30:49 +0000</pubDate>
-      <guid isPermaLink="false">2070545325497221248</guid>
-    </item>
-    <item>
-      <title>Written for the seed founder who’s building something really important in a not-so-hot category..  I see you 🙏 https://t.co/Tx14uW5JeR</title>
-      <link>https://x.com/nikunj/status/2070532689392980369</link>
+      <title>As someone who eats ice cream ~daily, this was SO fun to read..   Also, the visuals are absolutely stunning!! https://t.co/4ZelLvM5XS</title>
+      <link>https://x.com/nikunj/status/2070922974493036773</link>
       <description>作者：Nikunj Kothari
 账号：@nikunj
 简介：partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian &amp; others. love @shimoleejhaveri + 👦👧
 
-Written for the seed founder who’s building something really important in a not-so-hot category..
+As someone who eats ice cream ~daily, this was SO fun to read.. 
 
-I see you 🙏 https://t.co/Tx14uW5JeR</description>
-      <pubDate>Fri, 26 Jun 2026 15:40:36 +0000</pubDate>
-      <guid isPermaLink="false">2070532689392980369</guid>
+Also, the visuals are absolutely stunning!! https://t.co/4ZelLvM5XS</description>
+      <pubDate>Sat, 27 Jun 2026 17:31:27 +0000</pubDate>
+      <guid isPermaLink="false">2070922974493036773</guid>
     </item>
     <item>
-      <title>Don’t be a mid startup  It’s true https://t.co/SPC4y73HJQ</title>
-      <link>https://x.com/garrytan/status/2070494207102595495</link>
-      <description>作者：Garry Tan
-账号：@garrytan
-简介：President &amp; CEO @ycombinator —Founder @garryslist—Creator of GStack &amp; GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop
+      <title>Every Saturday, Hermes sends me a health check email with top takeaways and stats to help me work toward my health goals by pulling data from:  → My smart scale via the Withings API → My Fitbit and Google Health → An MCP server and mobile fitness app I vibe coded to track my workouts  I find this su...</title>
+      <link>https://x.com/petergyang/status/2070906940352520477</link>
+      <description>作者：Peter Yang
+账号：@petergyang
+简介：Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6
 
-Don’t be a mid startup
+Every Saturday, Hermes sends me a health check email with top takeaways and stats to help me work toward my health goals by pulling data from:
 
-It’s true https://t.co/SPC4y73HJQ</description>
-      <pubDate>Fri, 26 Jun 2026 13:07:41 +0000</pubDate>
-      <guid isPermaLink="false">2070494207102595495</guid>
+→ My smart scale via the Withings API
+→ My Fitbit and Google Health
+→ An MCP server and mobile fitness app I vibe coded to track my workouts
+
+I find this super useful, even if my body fat is going the wrong way 😅
+
+I talk about how to do this in my Hermes tutorial here: https://t.co/p0BDhL6PAp
+
+Should I make another video on building my fitness app?</description>
+      <pubDate>Sat, 27 Jun 2026 16:27:44 +0000</pubDate>
+      <guid isPermaLink="false">2070906940352520477</guid>
     </item>
     <item>
-      <title>Why Traditional Benchmarks Fail Modern AI Models with OpenAI Research Scientist Noam Brown</title>
-      <link>https://www.youtube.com/watch?v=AZrU6y3pUcU</link>
-      <description>播客：No Priors
+      <title>Oh https://t.co/qYcqwye4HN</title>
+      <link>https://x.com/thenanyu/status/2070863699921793481</link>
+      <description>作者：Nan Yu
+账号：@thenanyu
+简介：head of product @linear
 
-Speaker 1 | 00:00 - 00:13
-With GBT three, you couldn't scale test time compute. Like, if you gave it a budget of $10,000,000 and said, okay. Well, let's see what GBT three can do. It really can't do that much. The precarious frameworks and responsible scaling policies, they don't really account for the amount of test time compute.
+Oh https://t.co/qYcqwye4HN</description>
+      <pubDate>Sat, 27 Jun 2026 13:35:55 +0000</pubDate>
+      <guid isPermaLink="false">2070863699921793481</guid>
+    </item>
+    <item>
+      <title>If 90% of problems you bump into aren’t worth solving, then level 1 and level 6 are 90% the same  https://t.co/CVozReRLVR</title>
+      <link>https://x.com/thenanyu/status/2070821322901397645</link>
+      <description>作者：Nan Yu
+账号：@thenanyu
+简介：head of product @linear
 
-Speaker 1 | 00:13 - 00:32
-They just say, okay. Well, what's the capability of the model? The problem is we're in a world now where the capability of the model is a function of how much money you put into it, basically. If you give it a budget of $10,000, it can do a lot more than what it can do with a budget of $10. Give it a budget of $10,000,000, it can do even At what budget should you evaluate these models?
+If 90% of problems you bump into aren’t worth solving, then level 1 and level 6 are 90% the same
 
-Speaker 1 | 00:32 - 00:36
-The policies that exist today don't really address that question.
+https://t.co/CVozReRLVR</description>
+      <pubDate>Sat, 27 Jun 2026 10:47:32 +0000</pubDate>
+      <guid isPermaLink="false">2070821322901397645</guid>
+    </item>
+    <item>
+      <title>Memory and Continual Learning: Engram's Dan Biderman and Jessy Lin</title>
+      <link>https://www.youtube.com/watch?v=aiR7F4jqjXY</link>
+      <description>播客：Training Data
 
-Speaker 2 | 00:43 - 01:03
-Hi, listeners. I'm Sarah Gore, and welcome back to No Priors. Today, I'm here with Noam Brown, one of our godfathers of AI reasoning. We talk about the broken state of evaluations, very large scale test time compute, how he thinks about recursive self improvement, and what's next on the horizon for competition at the frontier. Welcome.
+Speaker 1 | 00:00 - 00:24
+What about pre training or even post training makes it possible for the models to generalize in these magical emergent ways and controlling that process so that a company has a set of private data? How do we make the models learn that just as well as the models know, like, the capital of France or, you know, like, how to write Python? So I think it's a really fun problem to think about.
 
-Speaker 2 | 01:03 - 01:05
-Noam, I'm so excited to have you back.
+Speaker 2 | 00:41 - 00:57
+Welcome to training data. We are delighted to have Don Biederman and Jesse Lynn, cofounders of Ngram today. Ngram is a NeoLab focused on memory and continual learning and two of the hottest topics in all of AI research today. And Sean and I are delighted to dig in on those topics with you today.
 
-Speaker 1 | 01:05 - 01:06
-That's great to be back. Yeah.
+Speaker 3 | 00:57 - 00:59
+Awesome. Happy Great. To be
 
-Speaker 2 | 01:06 - 01:21
-You are our first guest. I'm very proud of my taste in friends and researchers for the pod, given, you know, how important, you know, inference time scaling has become to the industry. You should be proud too, having actually pioneered
+Speaker 2 | 00:59 - 01:09
+So maybe to kick off, the Engram website says, we don't see the world through the lens of pretraining or post training. Our models are always training. What does that mean?
 
-Speaker 1 | 01:21 - 01:23
-it. Played apart, yeah, among many others.
+Speaker 1 | 01:09 - 01:51
+I think models today obviously know a lot of things. They're incredibly smart, but we think the bottleneck for making these models more useful these days is not really raw intelligence, but understanding new and evolving context. Whether it's a new task that you're doing or a particular context for a job or something like this, how do you bake that into the model weights the same way that pre training and post training bakes that into the model weights very deeply? This is why we think of ourselves as working on these fundamental problems of memory and continual learning, which are really two sides of the same coin. How do you make the models learn new things and bake them deeply into the weights of the model?
 
-Speaker 2 | 01:24 - 01:37
-You just wrote this essay that really resonated about large scale test time compute and why the industry is not evaluating these models as robustly as it should be. What was the motivation for it?
+Speaker 2 | 01:51 - 02:01
+And is your premise then that memory as a separate database or a separate thing that you've shoved into the context window is not true memory and is not true continual learning?
 
-Speaker 1 | 01:37 - 02:08
-Yeah. The motivation was we released 5.5, and the initial reaction was kinda skepticism that it was a substantially better model. This to be fair, that only lasted for a few hours before people had some time to play around with it and and try it out themselves, and they saw that it was actually substantially better. But I think a lot of the skepticism came from the benchmark grid that was published. Basically, whenever a new model is released, there's this benchmark grid where they show all these different benchmarks on on the x axis and then the performance of different models on the y axis, and you can just, like, compare different models.
+Speaker 1 | 02:01 - 02:39
+I think all of these tools will kind of come together. So these days, the way that people are solving these problems is with context engineering. So you take a huge prompt, maybe you keep talking to the model over many, many turns and hours and reorganize the context to better understand what you're trying to do. We think these kinds of things, like tool use, context engineering will play a part, but I think an under leveraged tool these days is using the same training pipeline or framework or kind of workflow that the frontier labs are using to make these models really good at frontier math or code, but applying that to every kind of domain, every kind of context that you have, let's say in a company.
 
-Speaker 1 | 02:08 - 02:28
-It's like a single number for a model on a single benchmark. And if you look on paper at the difference between, like, five point five and five point four or or other models, it wasn't it was an improvement, but it wasn't a huge improvement. It was only a few percentage points on some benchmarks. So people looked at that, and they were skeptical that it was actually a better model. Once they played around with it, the story changed.
+Speaker 3 | 02:40 - 03:00
+Yeah. To me, it's like as an individual, taking notes and having sticky notes is a very valuable thing. We should never discard this. But whenever we get back to business the next day, we always have some sort of trace of memory in our brain, some new intuition about how things should be and where should we look. So these two things should come together.
 
-Speaker 1 | 02:28 - 02:53
-I think the reason why it doesn't show up as so much better on the benchmarks is because the benchmarks are being presented the benchmark results are being presented in the wrong way. They're not controlling for the amount of test on compute that is being used on that benchmark question. It turned out that 5.5 is just much more efficient with its thinking. If you run it at max settings, 5.4 is thinking for a lot longer. It takes longer to get back a response than 5.5.
+Speaker 3 | 03:00 - 03:23
+And current solutions are more kind of externalized memory. And this has two issues. One is that the amount of tokens we will all collectively individually generate is going be in the tens of millions of tokens per day soon. So just keeping it and searching through it is going to be and rereading it, it's going to be pretty expensive, but it's going to also be pretty hard, pretty confusing for the models, unless we have major, major breakthroughs in
 
-Speaker 1 | 02:54 - 03:12
-And once you control for the amount of thinking time, actually, you can see that 5.5 is a substantial jump over 5.4. That is, I think, people's day to day experience with it. And then when I mention this to people, the reaction the typical question I get is like, okay. Well, why not just have 5.5 think for as long as 5.4? And the question is like, well, how long should they think for?
+Speaker 2 | 03:23 - 03:25
+Depends how on billions of tokens for Sean.
 
-Speaker 1 | 03:12 - 03:31
-Typically, the response I get is, well, until the performance plateaus. Right? This is at some point where the performance on the benchmark is gonna plateau, and you just evaluate to that point. The thing is, the point at which it plateaus is actually really far out these days. I mean, if it's true in g p d three land back in 2022, models couldn't really think productively for that long, and so you could just run them until they plateau.
+Speaker 3 | 03:26 - 03:27
+That's good.
 
-Speaker 1 | 03:31 - 03:52
-It's not that far away. But what we're seeing today with the modern models is that 5.5 and other models can think for if you scaffold them reasonably well, can think for weeks even, before having performance plateau on some of these benchmarks. And so the point at which they plateau is simply too far out to reasonably test.
+Speaker 4 | 03:27 - 03:28
+Depends on the day.
 
-Speaker 2 | 03:52 - 04:00
-We all need to actually reinforce either, like, a patience limit or a budget limit from a token perspective now, and that wasn't true a few years ago.
+Speaker 2 | 03:29 - 03:35
+Could you maybe tell us a little bit about the Ngram architecture or the Ngram product and how it works?
 
-Speaker 1 | 04:00 - 04:19
-Exactly. And so I think the proper way to and so my claim is the proper way to evaluate the models now is you either have some kind of budget for the benchmark, whether it's tokens or cost or time or whatever, or you plot the performance as a function of the amount of test time compute that's going into the model. And then it becomes much more clear how to compare the performance between these different models.
+Speaker 1 | 03:35 - 04:15
+Yeah, mean, at a high level, what we're trying to do is take any context. There's all these different workspaces, let's say. We're working with partners like Notion, Microsoft, and Harvey that have these places where people are doing a lot of work over a long period of time. There's all this context, both in terms of documents that you've already written as a team, as well as now people are interacting with these agents more and more in these products, or having conversations, giving them feedback, and figuring out how to have a model that deeply understands that context. So not just reading the files at test time, but really understanding it the way that an employee that's worked at your company for years has.
 
-Speaker 2 | 04:20 - 04:40
-Given the model evaluation cycle and the fact that performance does not asymptote for many tasks over quite a long period of time, what do you do about that issue, the fact that some of the evals that you would want to run are both beyond the scope of budget or time that's reasonable given the current model release cycle?
+Speaker 1 | 04:15 - 04:49
+So you understand at a high level, Oh, these are the initiatives across the company. This is the way that we do things. You've studied how to run the hiring pipeline or how to do this kind of thing within the company and can operate just as well as anybody else can in the company. What we're doing is training per team models within these workspaces that deeply understand those contexts and can improve with time on the things that people care about. The way that we do this at a technical level maybe is training these into weights.
 
-Speaker 1 | 04:40 - 05:04
-I mean, I think for things like cyber, we've seen, and actually the AISI in their evaluations has shown that the models continue to improve at a 100,000,000 tokens. You know, if you run them for a 100,000,000 tokens, they're still improving at beyond that point. Mhmm. And that can take a very long time to run. But you also do see that, like, the performance is is it's not just, like, a discontinuous jump.
+Speaker 1 | 04:49 - 05:07
+We do a lot of adapter fine tuning. Adapters of many types. I think people have looked into this for decades at this point, whether it's LORAs or prefixes or sparse architectures. I think all of these tools are at our disposal. Then figuring out what the right data is.
 
-Speaker 1 | 05:04 - 05:25
-It's actually, like, you can see the slope of improvement over those 100,000,000 tokens. And so you you could probably do some kind of evaluation up to a certain budget and then just say, okay. Well, this is what we project the performance to look like. And I think this this there hasn't been a lot of research on this yet. I actually think this would be a great paper to publish if there's any academics out there looking for something to research.
+Speaker 1 | 05:08 - 05:31
+How do you turn any kind of raw document or interaction into useful training signal for the model? Again, we have a variety of tools now like supervised fine tuning, RL, on policy distillation, all of these things that the field has developed and trying to fit these pieces together into a model that learns continuously on the things that people care about.
 
-Speaker 1 | 05:25 - 05:34
-Can you predict what the performance looks like at an inference budget of, let's say, $10,000, only using inference budgets up to 10 or 100 or 10 or $100?
+Speaker 3 | 05:31 - 06:03
+Yeah, and it's not a bet that tools are not there. Like our models always work under the assumption that some knowledge is externalized, some tools are always there. But what you need to do is you need to figure out, and that's the hard task is what needs to be internalized and what can be externalized. And even for stuff that's externalized, many individuals and companies have their own bespoke tools and ways of doing things. Not everyone has the same, you know, bash CLI tools that, you know, the frontier models are training on and how to get the models to better understand your bespoke setup, I think is its own interesting thing.
 
-Speaker 2 | 05:34 - 05:42
-So maybe an orthogonal question for you. Do you think users are systematically, like, not thinking long enough with their models about problems?
+Speaker 2 | 06:04 - 06:19
+And so is the premise then that my Notion agent will be a custom agent that is LoRa fine tuned or some way with an adapter tuned so that it's constantly learning on new content that's added into my Notion workspace. Is that Yeah, the
 
-Speaker 1 | 05:42 - 05:44
-What do you mean by not thinking long enough?
+Speaker 3 | 06:20 - 06:26
+and they're working with many models, they're the early users of all the frontier models, and they're probably going to keep doing that.
 
-Speaker 2 | 05:44 - 06:08
-If you can build an agent or control the amount of test time compute being used, like, there's what is done by the model itself, and there's what the user can do. Do you think that, you know, the industry is using test time compute an optimal amount, way undershooting it, or it's, you know, it's a problem in the models where they just need to be able to do that thinking faster?
+Speaker 2 | 06:26 - 06:30
+Does this approach work on the frontier models, are the closed frontier models or not?
 
-Speaker 1 | 06:08 - 06:32
-I I think it depends on the problem. I think this idea that the models, you just let them think for a week or whatever, then they respond. It's it sounds nice, and, yes, the benchmarks look great, but it's not very practical when working because, like, okay, you ask the model a question, then you sit there for a week waiting for it to come back to you. Mhmm. I think what people have have found most effective is to kind of, like, iterate quickly with the models.
+Speaker 3 | 06:30 - 06:49
+We need white box access to the weights, right? So, we can partner with companies that have closed source weights and do this with them. But it's easiest for us to do it with open source models. But any model that's a transformer model, we can do our thing to it.
 
-Speaker 1 | 06:32 - ...</description>
-      <pubDate>Fri, 26 Jun 2026 10:13:00 +0000</pubDate>
-      <guid>https://www.youtube.com/watch?v=AZrU6y3pUcU</guid>
+Speaker 2 | 06:49 - 07:10
+And what's the trade off then when people are comparing the before and after using you? Is it that they're no longer sending so much context? And so the trade off is like you burn more compute upfront to learn your company's way of doing things into the weights, and then you're sending less context to the model on every inference pass. Is that the rough trade Yeah,
+
+Speaker 3 | 07:10 - 07:53
+that's one thing. The fact that you don't have to research things and reread things and the fact that you don't have to write like monstrous system prompts, can give you, you know, two orders of magnitude reduction in token inference consumption....</description>
+      <pubDate>Wed, 24 Jun 2026 14:22:00 +0000</pubDate>
+      <guid>https://www.youtube.com/watch?v=aiR7F4jqjXY</guid>
+    </item>
+    <item>
+      <title>Claude Code now supports artifacts</title>
+      <link>https://claude.com/blog/artifacts-in-claude-code</link>
+      <description>作者：Claude Blog
+
+Starting today, Claude Code can capture work progress as an artifact, which turn Claude Code&amp;#x27;s work into live, shareable visual pages— including PR walkthroughs, system explainers, dashboards, and release checklists—that update themselves as your session works. A Claude Code session can range from investigating an incident to refactoring a service to analyzing months of data. Artifacts translate the work into a web page anyone can open and explore, like a pull request walkthrough, a dashboard you can filter and sort, or even a release checklist that fills itself out as work gets done. Artifacts make it easier to collaborate on shared work, so teams can spend more time building and less time communicating status updates. Built on the context from your session Claude Code builds an artifact using the full context of your session, including your codebase, your connectors, and the conversation itself. A single incident page can bring together the failing test and the function behind it from your code, the error spike from a connected monitoring tool, and the root-cause reasoning from the session you just ran. With artifacts, you don&amp;#x27;t need to wire up data sources or stand up infrastructure. You ask for a page, and Claude Code builds it from what already exists. Live pages that update in place When Claude Code updates an artifact, the open page refreshes in place and teammates see the updates the moment they’re published. Every publish is a new version at the same link, with version history so you can restore at any time, and a gallery lets you browse and manage all artifacts you&amp;#x27;ve made. From our internal testing, one of our most common use cases has been debugging. These typically look something like: An engineer kicks off an incident investigation before standup. Claude Code works through the logs and publishes an artifact: a timeline, the suspect commits, and an error-rate chart. She shares the link with her team from the page header. By the time standup begins, Claude has republished it twice as the investigation progressed, incorporating the latest information. With artifacts, team members and stakeholders don’t have to &quot;walk us through what the agent found&quot; because they&amp;#x27;re all looking at the same view, with the same context. Private to your organization Every artifact is private to its author by default. When you&amp;#x27;re ready, share it with your teammates and your organization directly from the page. Artifacts are viewable only by authenticated members of your org and cannot be made public. Admins manage access with an org-level toggle and role-based scoping, set retention policies, and get org-wide visibility through the compliance API. Getting started Ask your session for an artifact — or just ask for something visual, h ere are some ideas by role: Legal / open source : A license audit of every dependency, flagging copyleft, straight from the repo. &quot;Build an artifact listing every third-party dependency and its license, flagging anything copyleft.&quot; Privacy : A data-flow map of where personal data is collected, stored, and logged across the code. &quot;Trace where we touch personal data across the codebase into an artifact for the privacy review.&quot; Security : Findings that link to the exact line, so the fix is unambiguous. &quot;Build an artifact of the auth findings from this review, each linked to the code.&quot; FinOps / platform finance : Cloud resources and cost drivers mapped from your infrastructure-as-code. &quot;Map our cloud resources from the Terraform into an artifact, grouped by service, with the big cost drivers.&quot; Software engineers : A PR or bug walkthrough reviewers can actually follow, pulled from the diff and the code around it. &quot;Make an artifact walking through this PR — the diff, the reasoning, and what I tested.&quot; Designers &amp; frontend engineers : Several UX directions for a screen, each built from your real components so the one you pick is shippable. &quot;Give me an artifact with 5 UX variations of this signup form, built from our component library.&quot; Staff engineers &amp; architects : A map of how a service actually fits together, drawn from the real import graph instead of a whiteboard. &quot;Map how the payments service fits together into an artifact, from the code.&quot; SRE &amp; on-call : An incident page that grows as you investigate and becomes the postmortem. &quot;Turn this incident into an artifact — timeline, suspect commits, error spike from our monitoring — and republish as I work through it.&quot; Engineering managers : A page of what actually shipped, built from the merged PRs. &quot;Build an artifact of what merged on my team this week from the PRs, grouped by project.&quot; Claude Code builds the page and gives you a link. Open it in your browser or the desktop app, share it from the header—updates publish to the same URL automatically. Availability Artifacts is available in beta to Claude Team and Enterprise orgs, from the Claude Code CLI and desktop app, with pages viewable in any browser. Get started today with Claude Code.</description>
+      <pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
+      <guid>https://claude.com/blog/artifacts-in-claude-code</guid>
     </item>
   </channel>
 </rss>
