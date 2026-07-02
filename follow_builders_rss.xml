@@ -5,271 +5,10 @@
     <link>https://github.com/zarazhangrui/follow-builders</link>
     <description>聚合 AI 领域建设者的 X、播客和博客内容。</description>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 02 Jul 2026 02:06:30 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2026 08:39:34 +0000</lastBuildDate>
     <item>
-      <title>making some last minute changes to my deck- see you tomorrow at AIE! https://t.co/rhxcTGRnTh https://t.co/gGElhLW1Zw</title>
-      <link>https://x.com/trq212/status/2072202267563082180</link>
-      <description>作者：Thariq
-账号：@trq212
-简介：Claude Code @anthropicai.   prev YC W20, @southpkcommons, @medialab
-
-making some last minute changes to my deck- see you tomorrow at AIE! https://t.co/rhxcTGRnTh https://t.co/gGElhLW1Zw</description>
-      <pubDate>Wed, 01 Jul 2026 06:14:54 +0000</pubDate>
-      <guid isPermaLink="false">2072202267563082180</guid>
-    </item>
-    <item>
-      <title>&quot;Taste isn’t valuable because it’s impossible to copy. Taste is valuable exactly because it defines what everyone else chooses to copy.&quot; https://t.co/kDs4ibnvbL</title>
-      <link>https://x.com/zarazhangrui/status/2072197929138602079</link>
-      <description>作者：Zara Zhang
-账号：@zarazhangrui
-简介：Builder. Dangerously skips permissions. Harvard’17. GitHub: https://t.co/KCuEajezlL YouTube: https://t.co/8xzbGWtf6w
-
-&quot;Taste isn’t valuable because it’s impossible to copy. Taste is valuable exactly because it defines what everyone else chooses to copy.&quot; https://t.co/kDs4ibnvbL</description>
-      <pubDate>Wed, 01 Jul 2026 05:57:40 +0000</pubDate>
-      <guid isPermaLink="false">2072197929138602079</guid>
-    </item>
-    <item>
-      <title>And as we say in our blog, we're continuing to refine these safeguards to better distinguish genuine misuse from legitimate requests and reduce false positives.</title>
-      <link>https://x.com/trq212/status/2072185566695977161</link>
-      <description>作者：Thariq
-账号：@trq212
-简介：Claude Code @anthropicai.   prev YC W20, @southpkcommons, @medialab
-
-And as we say in our blog, we're continuing to refine these safeguards to better distinguish genuine misuse from legitimate requests and reduce false positives.</description>
-      <pubDate>Wed, 01 Jul 2026 05:08:33 +0000</pubDate>
-      <guid isPermaLink="false">2072185566695977161</guid>
-    </item>
-    <item>
-      <title>Have seen some questions about the updated classifiers and wanted to clarify.  As with the original classifiers, a small fraction of routine coding and debugging tasks will be flagged and fall back to Opus.   We're excited for guys to get access back tomorrow. https://t.co/qPzfqVy65Y</title>
-      <link>https://x.com/trq212/status/2072185565076988326</link>
-      <description>作者：Thariq
-账号：@trq212
-简介：Claude Code @anthropicai.   prev YC W20, @southpkcommons, @medialab
-
-Have seen some questions about the updated classifiers and wanted to clarify.
-
-As with the original classifiers, a small fraction of routine coding and debugging tasks will be flagged and fall back to Opus. 
-
-We're excited for guys to get access back tomorrow. https://t.co/qPzfqVy65Y</description>
-      <pubDate>Wed, 01 Jul 2026 05:08:32 +0000</pubDate>
-      <guid isPermaLink="false">2072185565076988326</guid>
-    </item>
-    <item>
-      <title>🙃 https://t.co/zTXNISaICx</title>
-      <link>https://x.com/steipete/status/2072183656739983397</link>
-      <description>作者：Peter Steinberger
-账号：@steipete
-简介：Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world.
-@OpenClaw🦞 + @OpenAI
-
-🙃 https://t.co/zTXNISaICx</description>
-      <pubDate>Wed, 01 Jul 2026 05:00:57 +0000</pubDate>
-      <guid isPermaLink="false">2072183656739983397</guid>
-    </item>
-    <item>
-      <title>Things seem to be ending up in a better spot with Fable, and presumably GPT-5.6 next. What we have now is the initial precedent for what frontier model releases (or at least those that have significant coding and cyber capabilities) could look like going forward. This would presumably apply to bio a...</title>
-      <link>https://x.com/levie/status/2072172275017879829</link>
-      <description>作者：Aaron Levie
-账号：@levie
-简介：ceo @box - your business lives in content. unleash it with AI
-
-Things seem to be ending up in a better spot with Fable, and presumably GPT-5.6 next. What we have now is the initial precedent for what frontier model releases (or at least those that have significant coding and cyber capabilities) could look like going forward. This would presumably apply to bio and other categories of risk that have been identified by AI safety groups. 
-
-From the Anthropic post:
-
-“3. A shared industry framework. Although we have reached a constructive resolution, these events have made clear that the industry needs a consistent way to assess and fix potential “jailbreaks” of AI models (techniques that bypass a model’s safeguards).2 A shared standard for judging the severity of a given jailbreak would help AI developers triage new findings as they arise, launch highly-capable models with greater safety, and communicate the level of risk consistently to government and industry partners. Together with Amazon, Microsoft, Google, and other Glasswing partners, we’ve started to develop such a framework, and we outline it below.
-
-4. Deeper government collaboration. We’re also strengthening our level of collaboration with the US government on new pre-release testing, information sharing, and research collaboration. We describe this deeper collaboration in the final section.”
-
-It’s been a messy process to get here, but at least there’s some semblance of a framework that could be practical. The only note of caution here would be that there’s a lot of subjectivity that goes into various risks and their actual levels of exploitability in practice. We’re likely going to be living with a framework that requires heavy judgment and back and forth between labs and the government for major releases.
-
-The best we can hope for is that this is a relatively efficient process, and hopefully has ways of being sped up for incremental version updates in models. It would be a bad outcome if every release after this level of threshold of capability required the same review process, and we don’t get the same rate of breakthroughs we’ve been seeing.</description>
-      <pubDate>Wed, 01 Jul 2026 04:15:44 +0000</pubDate>
-      <guid isPermaLink="false">2072172275017879829</guid>
-    </item>
-    <item>
-      <title>What does this mean btw? After I hit 50% weekly usage Fable is no longer available? https://t.co/nU5J9p9KsC</title>
-      <link>https://x.com/petergyang/status/2072165346476511583</link>
-      <description>作者：Peter Yang
-账号：@petergyang
-简介：Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6
-
-What does this mean btw? After I hit 50% weekly usage Fable is no longer available? https://t.co/nU5J9p9KsC</description>
-      <pubDate>Wed, 01 Jul 2026 03:48:12 +0000</pubDate>
-      <guid isPermaLink="false">2072165346476511583</guid>
-    </item>
-    <item>
-      <title>btw I have no idea if it's coming out midnight or not</title>
-      <link>https://x.com/petergyang/status/2072159132908695772</link>
-      <description>作者：Peter Yang
-账号：@petergyang
-简介：Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6
-
-btw I have no idea if it's coming out midnight or not</description>
-      <pubDate>Wed, 01 Jul 2026 03:23:30 +0000</pubDate>
-      <guid isPermaLink="false">2072159132908695772</guid>
-    </item>
-    <item>
-      <title>How can someone be THIS early https://t.co/3LN79FPJ28</title>
-      <link>https://x.com/zarazhangrui/status/2072145334428680365</link>
-      <description>作者：Zara Zhang
-账号：@zarazhangrui
-简介：Builder. Dangerously skips permissions. Harvard’17. GitHub: https://t.co/KCuEajezlL YouTube: https://t.co/8xzbGWtf6w
-
-How can someone be THIS early https://t.co/3LN79FPJ28</description>
-      <pubDate>Wed, 01 Jul 2026 02:28:40 +0000</pubDate>
-      <guid isPermaLink="false">2072145334428680365</guid>
-    </item>
-    <item>
-      <title>Price per token != cost per task https://t.co/dxuXgri7nD</title>
-      <link>https://x.com/steipete/status/2072144627474579925</link>
-      <description>作者：Peter Steinberger
-账号：@steipete
-简介：Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world.
-@OpenClaw🦞 + @OpenAI
-
-Price per token != cost per task https://t.co/dxuXgri7nD</description>
-      <pubDate>Wed, 01 Jul 2026 02:25:52 +0000</pubDate>
-      <guid isPermaLink="false">2072144627474579925</guid>
-    </item>
-    <item>
-      <title>Apparently we didn't talk enough about  w̶o̶r̶k̶f̶l̶o̶w̶s̶ loops yet! See ya there! https://t.co/A9mc4pKPC4</title>
-      <link>https://x.com/steipete/status/2072143124496097302</link>
-      <description>作者：Peter Steinberger
-账号：@steipete
-简介：Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world.
-@OpenClaw🦞 + @OpenAI
-
-Apparently we didn't talk enough about  w̶o̶r̶k̶f̶l̶o̶w̶s̶ loops yet! See ya there! https://t.co/A9mc4pKPC4</description>
-      <pubDate>Wed, 01 Jul 2026 02:19:54 +0000</pubDate>
-      <guid isPermaLink="false">2072143124496097302</guid>
-    </item>
-    <item>
-      <title>At dinner, tech executive is relaying his company’s @vercel feedback, and then his 12-year-old son’s @vercel feedback 😁   Vercel is for everyone.</title>
-      <link>https://x.com/rauchg/status/2072123264843886709</link>
-      <description>作者：Guillermo Rauch
-账号：@rauchg
-简介：@vercel CEO
-
-At dinner, tech executive is relaying his company’s @vercel feedback, and then his 12-year-old son’s @vercel feedback 😁 
-
-Vercel is for everyone.</description>
-      <pubDate>Wed, 01 Jul 2026 01:00:59 +0000</pubDate>
-      <guid isPermaLink="false">2072123264843886709</guid>
-    </item>
-    <item>
-      <title>https://t.co/En3GgSh3Eu</title>
-      <link>https://x.com/zarazhangrui/status/2072120868042641686</link>
-      <description>作者：Zara Zhang
-账号：@zarazhangrui
-简介：Builder. Dangerously skips permissions. Harvard’17. GitHub: https://t.co/KCuEajezlL YouTube: https://t.co/8xzbGWtf6w
-
-https://t.co/En3GgSh3Eu</description>
-      <pubDate>Wed, 01 Jul 2026 00:51:27 +0000</pubDate>
-      <guid isPermaLink="false">2072120868042641686</guid>
-    </item>
-    <item>
-      <title>Setting an alarm at midnight to get Fable to fix all my projects 😅 https://t.co/LUuH9x8vl3</title>
-      <link>https://x.com/petergyang/status/2072111311396438410</link>
-      <description>作者：Peter Yang
-账号：@petergyang
-简介：Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6
-
-Setting an alarm at midnight to get Fable to fix all my projects 😅 https://t.co/LUuH9x8vl3</description>
-      <pubDate>Wed, 01 Jul 2026 00:13:29 +0000</pubDate>
-      <guid isPermaLink="false">2072111311396438410</guid>
-    </item>
-    <item>
-      <title>Ok a day early. This is coming tomorrow!</title>
-      <link>https://x.com/nikunj/status/2072111272859246943</link>
-      <description>作者：Nikunj Kothari
-账号：@nikunj
-简介：partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian &amp; others. love @shimoleejhaveri + 👦👧
-
-Ok a day early. This is coming tomorrow!</description>
-      <pubDate>Wed, 01 Jul 2026 00:13:20 +0000</pubDate>
-      <guid isPermaLink="false">2072111272859246943</guid>
-    </item>
-    <item>
-      <title>LETS FUCKIN GO https://t.co/V11siBIHyo</title>
-      <link>https://x.com/danshipper/status/2072106715286225313</link>
-      <description>作者：Dan Shipper
-账号：@danshipper
-简介：ceo @every | the only subscription you need to stay at the edge of AI
-
-LETS FUCKIN GO https://t.co/V11siBIHyo</description>
-      <pubDate>Tue, 30 Jun 2026 23:55:13 +0000</pubDate>
-      <guid isPermaLink="false">2072106715286225313</guid>
-    </item>
-    <item>
-      <title>Every developer in SF right now running back to their desks post AIEWF after they heard Fable 5 is coming back.. https://t.co/HsCFU0Usz7</title>
-      <link>https://x.com/nikunj/status/2072106393256218883</link>
-      <description>作者：Nikunj Kothari
-账号：@nikunj
-简介：partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian &amp; others. love @shimoleejhaveri + 👦👧
-
-Every developer in SF right now running back to their desks post AIEWF after they heard Fable 5 is coming back.. https://t.co/HsCFU0Usz7</description>
-      <pubDate>Tue, 30 Jun 2026 23:53:56 +0000</pubDate>
-      <guid isPermaLink="false">2072106393256218883</guid>
-    </item>
-    <item>
-      <title>Agree https://t.co/HOYbxpkYwX</title>
-      <link>https://x.com/bcherny/status/2072105851457019944</link>
-      <description>作者：Boris Cherny
-账号：@bcherny
-简介：Claude Code @anthropicai
-
-Agree https://t.co/HOYbxpkYwX</description>
-      <pubDate>Tue, 30 Jun 2026 23:51:47 +0000</pubDate>
-      <guid isPermaLink="false">2072105851457019944</guid>
-    </item>
-    <item>
-      <title>We want a California that works. https://t.co/W2MkJEtPAY</title>
-      <link>https://x.com/garrytan/status/2072100337478160856</link>
-      <description>作者：Garry Tan
-账号：@garrytan
-简介：President &amp; CEO @ycombinator —Founder @garryslist—Creator of GStack &amp; GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop
-
-We want a California that works. https://t.co/W2MkJEtPAY</description>
-      <pubDate>Tue, 30 Jun 2026 23:29:52 +0000</pubDate>
-      <guid isPermaLink="false">2072100337478160856</guid>
-    </item>
-    <item>
-      <title>me, on a vacation in mexico, hearing that fable might be coming back tonight https://t.co/OHp0diROKl</title>
-      <link>https://x.com/danshipper/status/2072099953254584462</link>
-      <description>作者：Dan Shipper
-账号：@danshipper
-简介：ceo @every | the only subscription you need to stay at the edge of AI
-
-me, on a vacation in mexico, hearing that fable might be coming back tonight https://t.co/OHp0diROKl</description>
-      <pubDate>Tue, 30 Jun 2026 23:28:21 +0000</pubDate>
-      <guid isPermaLink="false">2072099953254584462</guid>
-    </item>
-    <item>
-      <title>if this happens im livestreaming and ripping tokens from my vacation in cabo tonight https://t.co/6jJZx8mOp2</title>
-      <link>https://x.com/danshipper/status/2072094163378622823</link>
-      <description>作者：Dan Shipper
-账号：@danshipper
-简介：ceo @every | the only subscription you need to stay at the edge of AI
-
-if this happens im livestreaming and ripping tokens from my vacation in cabo tonight https://t.co/6jJZx8mOp2</description>
-      <pubDate>Tue, 30 Jun 2026 23:05:20 +0000</pubDate>
-      <guid isPermaLink="false">2072094163378622823</guid>
-    </item>
-    <item>
-      <title>LE DICTATEUR #fraswe https://t.co/bS8ulCu9lG</title>
-      <link>https://x.com/mattturck/status/2072088791393669144</link>
-      <description>作者：Matt Turck
-账号：@mattturck
-简介：VC at @FirstMarkCap.  Host: MAD Podcast; Organizer: Data Driven NYC, Author: MAD Landscape.
-
-LE DICTATEUR #fraswe https://t.co/bS8ulCu9lG</description>
-      <pubDate>Tue, 30 Jun 2026 22:44:00 +0000</pubDate>
-      <guid isPermaLink="false">2072088791393669144</guid>
-    </item>
-    <item>
-      <title>very successful first poster sessions day at AIEWF, thanks to @heathercmiller and @ACM_President for the support!!  tomorrow: Poaster sessions! submit your hottest tweets to @vibhuuuus for printing!  spotted: left shark https://t.co/nv2I2l00Oe https://t.co/F7Ax9r5UK6</title>
-      <link>https://x.com/swyx/status/2072048730581405800</link>
+      <title>for what it's worth, i only invite double-length track keynotes when I'm very sure that both speaker and content deserve it. Today, @chrmanning and @abshkbh did double duty at AIE and by all accounts* people loved the opportunity to go deeper on sandboxing and world models. Look at this insane room ...</title>
+      <link>https://x.com/swyx/status/2072562702703046855</link>
       <description>作者：Swyx
 账号：@swyx
 简介：achieve ambition with intentionality, intensity, integrity &amp; insanity.
@@ -281,319 +20,548 @@ affiliations:
 - @aidotengineer
 - @latentspacepod
 
-very successful first poster sessions day at AIEWF, thanks to @heathercmiller and @ACM_President for the support!!
+for what it's worth, i only invite double-length track keynotes when I'm very sure that both speaker and content deserve it. Today, @chrmanning and @abshkbh did double duty at AIE and by all accounts* people loved the opportunity to go deeper on sandboxing and world models. Look at this insane room - and the online audience is going to be &gt;1000x this!!
 
-tomorrow: Poaster sessions! submit your hottest tweets to @vibhuuuus for printing!
-
-spotted: left shark https://t.co/nv2I2l00Oe https://t.co/F7Ax9r5UK6</description>
-      <pubDate>Tue, 30 Jun 2026 20:04:48 +0000</pubDate>
-      <guid isPermaLink="false">2072048730581405800</guid>
+*i unfortunately have to do show duties so rely on secondhand accounts</description>
+      <pubDate>Thu, 02 Jul 2026 06:07:09 +0000</pubDate>
+      <guid isPermaLink="false">2072562702703046855</guid>
     </item>
     <item>
-      <title>We've been running Anthropic's Claude Sonnet 5 through the Box AI Complex Work Eval, our agentic benchmark that puts models through real enterprise document work end-to-end.  Sonnet 5 holds frontier-class quality on complex multi-step work and pulls ahead of Sonnet 4.6 in several core enterprise dom...</title>
-      <link>https://x.com/levie/status/2072046374045249671</link>
+      <title>Never thought I give @Steve_Yegge a shoutout. He was just early, like most visionaries. Now everyone is building factories.</title>
+      <link>https://x.com/steipete/status/2072532278476148881</link>
+      <description>作者：Peter Steinberger
+账号：@steipete
+简介：Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world.
+@OpenClaw🦞 + @OpenAI
+
+Never thought I give @Steve_Yegge a shoutout. He was just early, like most visionaries. Now everyone is building factories.</description>
+      <pubDate>Thu, 02 Jul 2026 04:06:15 +0000</pubDate>
+      <guid isPermaLink="false">2072532278476148881</guid>
+    </item>
+    <item>
+      <title>As someone still trying to learn how to read code this is great! Installing the explain-diff skill asap https://t.co/lChjp2D7kS</title>
+      <link>https://x.com/petergyang/status/2072525669704384612</link>
+      <description>作者：Peter Yang
+账号：@petergyang
+简介：Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6
+
+As someone still trying to learn how to read code this is great! Installing the explain-diff skill asap https://t.co/lChjp2D7kS</description>
+      <pubDate>Thu, 02 Jul 2026 03:39:59 +0000</pubDate>
+      <guid isPermaLink="false">2072525669704384612</guid>
+    </item>
+    <item>
+      <title>Murica 🇺🇸⚽️ https://t.co/BWsqCu22Dw</title>
+      <link>https://x.com/nikunj/status/2072522778327371819</link>
+      <description>作者：Nikunj Kothari
+账号：@nikunj
+简介：partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian &amp; others. love @shimoleejhaveri + 👦👧
+
+Murica 🇺🇸⚽️ https://t.co/BWsqCu22Dw</description>
+      <pubDate>Thu, 02 Jul 2026 03:28:30 +0000</pubDate>
+      <guid isPermaLink="false">2072522778327371819</guid>
+    </item>
+    <item>
+      <title>If you’ve ever wondered why we will need 100X more AI inference in the future, and  what it’s going to be driven by, this is another good example.   Devin pushes forward an idea of agentic mapreduce, which means we’ll now have swarms of agents that are processing large amounts of data (code) to hand...</title>
+      <link>https://x.com/levie/status/2072519377371459836</link>
       <description>作者：Aaron Levie
 账号：@levie
 简介：ceo @box - your business lives in content. unleash it with AI
 
-We've been running Anthropic's Claude Sonnet 5 through the Box AI Complex Work Eval, our agentic benchmark that puts models through real enterprise document work end-to-end.
+If you’ve ever wondered why we will need 100X more AI inference in the future, and  what it’s going to be driven by, this is another good example. 
 
-Sonnet 5 holds frontier-class quality on complex multi-step work and pulls ahead of Sonnet 4.6 in several core enterprise domains like Energy (+4.7pp), Retail (+4.4pp), and Professional Services (+2.6pp), and other spaces where unstructured data is heavily complex.
+Devin pushes forward an idea of agentic mapreduce, which means we’ll now have swarms of agents that are processing large amounts of data (code) to handle tasks that humans never could have done before.
 
-Here are a few examples of wins compared to Sonnet 4.6 to get a sense of some of the more advanced reasoning capabilities in Sonnet 5:
+“Devin maps relevant signals across the repo, fans out focused agents over bounded shards, reduces their findings into one report, then verifies serious vulnerabilities in isolated sandboxes before marking them confirmed.”
 
-* Financing due diligence: It computed the company's liquidity and leverage ratios from the raw balance sheet, and caught that the source report's own stated debt-to-equity figure understated the leverage, flagging all three loan covenants as violated, not just the ones the document admitted.
+In this case it’s code security, but there are tons of other use-cases in code and knowledge work. We see this at Box with customers that want to process and understand millions of documents for risk, insights, relationships, and more. This will play out in pharma, banking, and many other industries across all forms of unstructured data.
 
-* Overhaul cost analysis: It scoped &quot;total cost&quot; to the company's own KPI definitions, correctly separating out Lost Production Cost because the guidance said to track it separately rather than naively summing every number on the sheet. It also caught and handled a broken reference cell in the spreadsheet.
-
-* SKU revenue analysis: On segmented sales data, it computed each product's contribution against the correct subcategory denominator, sidestepping the easy mistake of dividing by the category total, and flagged why no Pet-category SKU cracked the top 9.
-
-Sonnet 5 will be available in the Box AI Studio shortly for customers to build custom agents with.</description>
-      <pubDate>Tue, 30 Jun 2026 19:55:26 +0000</pubDate>
-      <guid isPermaLink="false">2072046374045249671</guid>
+As an aside, these types of capabilities are generally only possible when you can deploy a variety of models (both the frontier and lower cost) because of the sheer amount of tokens that go into these use-cases. This is going to be a major value proposition for the applied AI layer.</description>
+      <pubDate>Thu, 02 Jul 2026 03:14:59 +0000</pubDate>
+      <guid isPermaLink="false">2072519377371459836</guid>
     </item>
     <item>
-      <title>So great to get to work with @tobi and the wonderful @shopify team.  Excited to push the agentic web forward. https://t.co/2dke1MwSDS</title>
-      <link>https://x.com/rauchg/status/2072044844965400589</link>
+      <title>I’m looking for a semi-private hack space for a few days in SF for me and some of the OpenClaw maintainers. We need to cook. DM leads my way 🙏🦞</title>
+      <link>https://x.com/steipete/status/2072475858435276840</link>
+      <description>作者：Peter Steinberger
+账号：@steipete
+简介：Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world.
+@OpenClaw🦞 + @OpenAI
+
+I’m looking for a semi-private hack space for a few days in SF for me and some of the OpenClaw maintainers. We need to cook. DM leads my way 🙏🦞</description>
+      <pubDate>Thu, 02 Jul 2026 00:22:04 +0000</pubDate>
+      <guid isPermaLink="false">2072475858435276840</guid>
+    </item>
+    <item>
+      <title>Here's my Fable 5 vibe check:  It's still really ****ing good.   This is a step function above any other model. Hope GPT 5.6 can match. https://t.co/p9N7cG86QW</title>
+      <link>https://x.com/petergyang/status/2072470191511113732</link>
+      <description>作者：Peter Yang
+账号：@petergyang
+简介：Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6
+
+Here's my Fable 5 vibe check:
+
+It's still really ****ing good. 
+
+This is a step function above any other model. Hope GPT 5.6 can match. https://t.co/p9N7cG86QW</description>
+      <pubDate>Wed, 01 Jul 2026 23:59:32 +0000</pubDate>
+      <guid isPermaLink="false">2072470191511113732</guid>
+    </item>
+    <item>
+      <title>I really enjoyed using 𝚙𝚘𝚛𝚝𝚕𝚎𝚜𝚜 by @ctatedev – http was a non-starter for local wp development!</title>
+      <link>https://x.com/rauchg/status/2072463961597878762</link>
       <description>作者：Guillermo Rauch
 账号：@rauchg
 简介：@vercel CEO
 
-So great to get to work with @tobi and the wonderful @shopify team.
-
-Excited to push the agentic web forward. https://t.co/2dke1MwSDS</description>
-      <pubDate>Tue, 30 Jun 2026 19:49:22 +0000</pubDate>
-      <guid isPermaLink="false">2072044844965400589</guid>
+I really enjoyed using 𝚙𝚘𝚛𝚝𝚕𝚎𝚜𝚜 by @ctatedev – http was a non-starter for local wp development!</description>
+      <pubDate>Wed, 01 Jul 2026 23:34:47 +0000</pubDate>
+      <guid isPermaLink="false">2072463961597878762</guid>
     </item>
     <item>
-      <title>Sonnet 5 is now the default on Free and Pro, and available to Max, Team, and Enterprise users.  It's live across all Claude apps and the Claude Platform today, with introductory pricing through August 31: https://t.co/4nNWO80Er7</title>
-      <link>https://x.com/claudeai/status/2072017457057853480</link>
-      <description>作者：Claude
-账号：@claudeai
-简介：Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Talk to Claude on https://t.co/ZhTwG8d1e5 or download the app.
-
-Sonnet 5 is now the default on Free and Pro, and available to Max, Team, and Enterprise users.
-
-It's live across all Claude apps and the Claude Platform today, with introductory pricing through August 31: https://t.co/4nNWO80Er7</description>
-      <pubDate>Tue, 30 Jun 2026 18:00:32 +0000</pubDate>
-      <guid isPermaLink="false">2072017457057853480</guid>
-    </item>
-    <item>
-      <title>Early access partners found Sonnet 5 finishes complex tasks where previous Sonnets stopped short, checks its own output without being asked, and does all its agentic work at an attractive price point.</title>
-      <link>https://x.com/claudeai/status/2072017455833100494</link>
-      <description>作者：Claude
-账号：@claudeai
-简介：Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Talk to Claude on https://t.co/ZhTwG8d1e5 or download the app.
-
-Early access partners found Sonnet 5 finishes complex tasks where previous Sonnets stopped short, checks its own output without being asked, and does all its agentic work at an attractive price point.</description>
-      <pubDate>Tue, 30 Jun 2026 18:00:32 +0000</pubDate>
-      <guid isPermaLink="false">2072017455833100494</guid>
-    </item>
-    <item>
-      <title>Sonnet 5 is a substantial improvement over Sonnet 4.6 on reasoning, tool use, coding, and knowledge work.  Its performance is close to Opus 4.8, at lower prices. https://t.co/VOISbk14Lk</title>
-      <link>https://x.com/claudeai/status/2072017452335087996</link>
-      <description>作者：Claude
-账号：@claudeai
-简介：Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Talk to Claude on https://t.co/ZhTwG8d1e5 or download the app.
-
-Sonnet 5 is a substantial improvement over Sonnet 4.6 on reasoning, tool use, coding, and knowledge work.
-
-Its performance is close to Opus 4.8, at lower prices. https://t.co/VOISbk14Lk</description>
-      <pubDate>Tue, 30 Jun 2026 18:00:31 +0000</pubDate>
-      <guid isPermaLink="false">2072017452335087996</guid>
-    </item>
-    <item>
-      <title>tru tru  https://t.co/GCmvVpSNHq</title>
-      <link>https://x.com/thenanyu/status/2072003481779478848</link>
-      <description>作者：Nan Yu
-账号：@thenanyu
-简介：head of product @linear
-
-tru tru
-
-https://t.co/GCmvVpSNHq</description>
-      <pubDate>Tue, 30 Jun 2026 17:05:00 +0000</pubDate>
-      <guid isPermaLink="false">2072003481779478848</guid>
-    </item>
-    <item>
-      <title>You asked, we listened. Claude Desktop on Linux is here!  Download link: https://t.co/gjgHZvbKyi https://t.co/O3P6B3fuGk</title>
-      <link>https://x.com/bcherny/status/2072000214634742243</link>
-      <description>作者：Boris Cherny
-账号：@bcherny
-简介：Claude Code @anthropicai
-
-You asked, we listened. Claude Desktop on Linux is here!
-
-Download link: https://t.co/gjgHZvbKyi https://t.co/O3P6B3fuGk</description>
-      <pubDate>Tue, 30 Jun 2026 16:52:01 +0000</pubDate>
-      <guid isPermaLink="false">2072000214634742243</guid>
-    </item>
-    <item>
-      <title>More data is showing the opposite of what many people expected with AI adoption and jobs. Ramp found that the more AI adoption a company has the more their headcount grows.  At Box, we recently did a survey of 1,600+ mid and large sized companies, and the findings were similar. 58% of respondents ex...</title>
-      <link>https://x.com/levie/status/2071992799109824562</link>
-      <description>作者：Aaron Levie
-账号：@levie
-简介：ceo @box - your business lives in content. unleash it with AI
-
-More data is showing the opposite of what many people expected with AI adoption and jobs. Ramp found that the more AI adoption a company has the more their headcount grows.
-
-At Box, we recently did a survey of 1,600+ mid and large sized companies, and the findings were similar. 58% of respondents expected headcount to rise over the next three years. Interestingly, that figure climbs to 79% among the most mature adopters of AI. The more advanced AI adopters expected to grow their headcount at a greater rate in the future than others.
-
-Of course it's true that the companies that can afford to adopt AI the most are also the ones that likely are seeing growth in their business, leading to more headcount. So the point of the story isn't necessarily that by adopting AI you will inherently grow. 
-
-*But* the most important takeaway is that the opposite is not proving out. The fears a couple years ago would have been that the companies adopting AI the most would be hiring fewer people. 
-
-But in reality this is what actually you should expect to happen. If a company can get more customers because they use AI in sales for account or market intelligence, they hire more sales people not fewer. If you can build way more software than before, you end up hiring more engineers because the projects get bigger and you take on more. And so on.</description>
-      <pubDate>Tue, 30 Jun 2026 16:22:33 +0000</pubDate>
-      <guid isPermaLink="false">2071992799109824562</guid>
-    </item>
-    <item>
-      <title>World’s first subway hackathon! https://t.co/uRTezD2dak</title>
-      <link>https://x.com/amasad/status/2071992670394765407</link>
-      <description>作者：Amjad Masad
-账号：@amasad
-简介：ceo @replit. civilizationist
-
-World’s first subway hackathon! https://t.co/uRTezD2dak</description>
-      <pubDate>Tue, 30 Jun 2026 16:22:03 +0000</pubDate>
-      <guid isPermaLink="false">2071992670394765407</guid>
-    </item>
-    <item>
-      <title>AI is expensive to run partly because most workloads today run on generic hardware designed pre-LLMs. Etched is the first system designed from the ground up for modern inference. https://t.co/KluYZIZATE</title>
-      <link>https://x.com/amasad/status/2071992110132117740</link>
-      <description>作者：Amjad Masad
-账号：@amasad
-简介：ceo @replit. civilizationist
-
-AI is expensive to run partly because most workloads today run on generic hardware designed pre-LLMs. Etched is the first system designed from the ground up for modern inference. https://t.co/KluYZIZATE</description>
-      <pubDate>Tue, 30 Jun 2026 16:19:49 +0000</pubDate>
-      <guid isPermaLink="false">2071992110132117740</guid>
-    </item>
-    <item>
-      <title>It is a very strange state of the world where the models powering innovation in the USA are Chinese open source models.</title>
-      <link>https://x.com/adityaag/status/2071983952894837062</link>
-      <description>作者：Aditya Agarwal
-账号：@adityaag
-简介：General Partner @SouthPkCommons, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @Dropbox, Board @Flipkart | Optimist, Builder, Dad
-
-It is a very strange state of the world where the models powering innovation in the USA are Chinese open source models.</description>
-      <pubDate>Tue, 30 Jun 2026 15:47:24 +0000</pubDate>
-      <guid isPermaLink="false">2071983952894837062</guid>
-    </item>
-    <item>
-      <title>The definition of “distillation” is interesting. Going by this logic, the entirety of Cursor’s training data was distilled from Claude in the early days https://t.co/V08OTUG9QA</title>
-      <link>https://x.com/thenanyu/status/2071973229070033322</link>
-      <description>作者：Nan Yu
-账号：@thenanyu
-简介：head of product @linear
-
-The definition of “distillation” is interesting. Going by this logic, the entirety of Cursor’s training data was distilled from Claude in the early days https://t.co/V08OTUG9QA</description>
-      <pubDate>Tue, 30 Jun 2026 15:04:47 +0000</pubDate>
-      <guid isPermaLink="false">2071973229070033322</guid>
-    </item>
-    <item>
-      <title>The biggest challenge for trad PMs trying to adapt to AI native building is a lack of magical thinking. A decade of frameworks, “agile” and metric obsession has led to constraint-first, incremental thinking.  I used to combat this on my teams by asking them to  imagine we had tech from 100 yrs in th...</title>
-      <link>https://x.com/realmadhuguru/status/2071970221477470694</link>
-      <description>作者：Madhu Guru
-账号：@realmadhuguru
-简介：Prev: Product Leader at Google - Gemini, Veo, Nano Banana.
-
-The biggest challenge for trad PMs trying to adapt to AI native building is a lack of magical thinking. A decade of frameworks, “agile” and metric obsession has led to constraint-first, incremental thinking.
-
-I used to combat this on my teams by asking them to  imagine we had tech from 100 yrs in the future, the experiences it would enable and working backward from that. the ideas would always be far more creative.
-
-the funny thing is, that technology from the future is here.
-
-go build that magical thing!</description>
-      <pubDate>Tue, 30 Jun 2026 14:52:50 +0000</pubDate>
-      <guid isPermaLink="false">2071970221477470694</guid>
-    </item>
-    <item>
-      <title>Vercel Services  You can now collocate e.g.: a Python backend API, an ExpressJS server, and a React SPA in one Vercel project.  tl:dr; ▪️ You can run all locally with 𝚟𝚌 𝚍𝚎𝚟  ▪️ Deploy and rollback all at once ▪️ Observe, monitor, debug together ▪️ Internal networking</title>
-      <link>https://x.com/rauchg/status/2071966055308607765</link>
+      <title>WordPress on @vercel Fluid with Active CPU from a single 𝙳𝚘𝚌𝚔𝚎𝚛𝚏𝚒𝚕𝚎.𝚟𝚎𝚛𝚌𝚎𝚕. MySQL on @planetscale. 30s deployments incl. &quot;𝚍𝚘𝚌𝚔𝚎𝚛 𝚋𝚞𝚒𝚕𝚍&quot; in the cloud. Just one command: 𝚗̶𝚘̶𝚠̶ 𝚟𝚎𝚛𝚌𝚎𝚕. https://t.co/q1X5ZOFVIx</title>
+      <link>https://x.com/rauchg/status/2072463293654942090</link>
       <description>作者：Guillermo Rauch
 账号：@rauchg
 简介：@vercel CEO
 
-Vercel Services
-
-You can now collocate e.g.: a Python backend API, an ExpressJS server, and a React SPA in one Vercel project.
-
-tl:dr;
-▪️ You can run all locally with 𝚟𝚌 𝚍𝚎𝚟 
-▪️ Deploy and rollback all at once
-▪️ Observe, monitor, debug together
-▪️ Internal networking</description>
-      <pubDate>Tue, 30 Jun 2026 14:36:17 +0000</pubDate>
-      <guid isPermaLink="false">2071966055308607765</guid>
+WordPress on @vercel Fluid with Active CPU from a single 𝙳𝚘𝚌𝚔𝚎𝚛𝚏𝚒𝚕𝚎.𝚟𝚎𝚛𝚌𝚎𝚕. MySQL on @planetscale. 30s deployments incl. &quot;𝚍𝚘𝚌𝚔𝚎𝚛 𝚋𝚞𝚒𝚕𝚍&quot; in the cloud. Just one command: 𝚗̶𝚘̶𝚠̶ 𝚟𝚎𝚛𝚌𝚎𝚕. https://t.co/q1X5ZOFVIx</description>
+      <pubDate>Wed, 01 Jul 2026 23:32:08 +0000</pubDate>
+      <guid isPermaLink="false">2072463293654942090</guid>
     </item>
     <item>
-      <title>Gbrain is mostly useful at 10,000+ markdown files in your personal brain or company brain https://t.co/ifVPMxILhY</title>
-      <link>https://x.com/garrytan/status/2071910876496757145</link>
+      <title>The year is 2026 and the hot IPO brands right now are AOL, Evernote, Vimeo and Lime scooters</title>
+      <link>https://x.com/mattturck/status/2072462125474181623</link>
+      <description>作者：Matt Turck
+账号：@mattturck
+简介：VC at @FirstMarkCap.  Host: MAD Podcast; Organizer: Data Driven NYC, Author: MAD Landscape.
+
+The year is 2026 and the hot IPO brands right now are AOL, Evernote, Vimeo and Lime scooters</description>
+      <pubDate>Wed, 01 Jul 2026 23:27:29 +0000</pubDate>
+      <guid isPermaLink="false">2072462125474181623</guid>
+    </item>
+    <item>
+      <title>https://t.co/gTrjV7mcxf https://t.co/7r4wY0VvO0</title>
+      <link>https://x.com/garrytan/status/2072461457195950446</link>
       <description>作者：Garry Tan
 账号：@garrytan
 简介：President &amp; CEO @ycombinator —Founder @garryslist—Creator of GStack &amp; GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop
 
-Gbrain is mostly useful at 10,000+ markdown files in your personal brain or company brain https://t.co/ifVPMxILhY</description>
-      <pubDate>Tue, 30 Jun 2026 10:57:01 +0000</pubDate>
-      <guid isPermaLink="false">2071910876496757145</guid>
+https://t.co/gTrjV7mcxf https://t.co/7r4wY0VvO0</description>
+      <pubDate>Wed, 01 Jul 2026 23:24:50 +0000</pubDate>
+      <guid isPermaLink="false">2072461457195950446</guid>
     </item>
     <item>
-      <title>Why Hardware-Software Co-Design Is AI's Real 100x: Dylan Patel of SemiAnalysis</title>
-      <link>https://www.youtube.com/watch?v=f6D_aiy8qyU</link>
-      <description>播客：Training Data
+      <title>Claude Fable 5 is finally back, but you only have until July 7 to use it on your Claude subscription.  I made a new tutorial walking through 5 use cases worth trying Fable on:  → Find Fable-worthy work → Get life and business advice → Make projects ship-ready → Plan the next big thing → Refactor you...</title>
+      <link>https://x.com/petergyang/status/2072458983886205333</link>
+      <description>作者：Peter Yang
+账号：@petergyang
+简介：Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6
 
-Speaker 1 | 00:00 - 00:24
-I think it's really fun inside of Semi Analysis because we have 90 people, and a big chunk of them are technologist engineers across the whole supply chain, and then a big chunk is people who are formerly at hedge funds. And you see these arguments, people are like, Oh, that doesn't matter. Someone's like, well, but cost? And then the engineer's like, no, no, no, but this technology is the coolest. And you see this organically fight it out, and we're pretty informal.
+Claude Fable 5 is finally back, but you only have until July 7 to use it on your Claude subscription.
 
-Speaker 1 | 00:24 - 00:27
-And given the fact that I was a former moderator, you can imagine what
+I made a new tutorial walking through 5 use cases worth trying Fable on:
 
-Speaker 2 | 00:28 - 00:28
-Well, you're
+→ Find Fable-worthy work
+→ Get life and business advice
+→ Make projects ship-ready
+→ Plan the next big thing
+→ Refactor your project or codebase
 
-Speaker 1 | 00:28 - 00:32
-enjoying it. You don't wrestle with a pig because a pig enjoys it.
+As usual, it’s no BS, and I show you Fable’s actual output.
 
-Speaker 2 | 00:50 - 01:04
-We're here in the semi analysis office with Dylan Patel. I'm Sean from Sequoia. My partner Sonja Huang. It's pretty insane what you've done. Semi semis five years ago were not very sexy in the West.
+📌 Watch now: https://t.co/XElMEV3FwK</description>
+      <pubDate>Wed, 01 Jul 2026 23:15:00 +0000</pubDate>
+      <guid isPermaLink="false">2072458983886205333</guid>
+    </item>
+    <item>
+      <title>Every once in a while, I meet a very very smart but default-pessimistic person in SF. They are often from the growthy/wall-street part of the world.  And my first thought is: &quot;Why would you want to be in this city? We run on optimism. Are you here to be a contrarian in your sadness?&quot;</title>
+      <link>https://x.com/adityaag/status/2072449611550380526</link>
+      <description>作者：Aditya Agarwal
+账号：@adityaag
+简介：General Partner @SouthPkCommons, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @Dropbox, Board @Flipkart | Optimist, Builder, Dad
 
-Speaker 2 | 01:04 - 01:27
-They were sexy in the East, but, people here in the West had kind of forgotten about them. You did not forget about them, though. You went very long. You created probably the premier research company in the space that's been educating the world in in, know, state of the art from very technical details to supply chain, you know, to the bigger picture. There's rumors that semi analysis recently passed $100,000,000 of revenue.
+Every once in a while, I meet a very very smart but default-pessimistic person in SF. They are often from the growthy/wall-street part of the world.
 
-Speaker 2 | 01:27 - 01:30
-I don't know how accurate those are, but whatever the numbers are, you guys are crushing.
+And my first thought is: &quot;Why would you want to be in this city? We run on optimism. Are you here to be a contrarian in your sadness?&quot;</description>
+      <pubDate>Wed, 01 Jul 2026 22:37:46 +0000</pubDate>
+      <guid isPermaLink="false">2072449611550380526</guid>
+    </item>
+    <item>
+      <title>How did I ever function without AI?  cc chefcook @theo https://t.co/G0LJNvA3Kb</title>
+      <link>https://x.com/steipete/status/2072447453622882338</link>
+      <description>作者：Peter Steinberger
+账号：@steipete
+简介：Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world.
+@OpenClaw🦞 + @OpenAI
 
-Speaker 1 | 01:30 - 01:33
-It's as accurate as the information is. You
+How did I ever function without AI? 
+cc chefcook @theo https://t.co/G0LJNvA3Kb</description>
+      <pubDate>Wed, 01 Jul 2026 22:29:11 +0000</pubDate>
+      <guid isPermaLink="false">2072447453622882338</guid>
+    </item>
+    <item>
+      <title>IVE BEEN MEANING TO DO THIS  SO COOL https://t.co/eFxAG4GdYi</title>
+      <link>https://x.com/danshipper/status/2072436587665797518</link>
+      <description>作者：Dan Shipper
+账号：@danshipper
+简介：ceo @every | the only subscription you need to stay at the edge of AI
 
-Speaker 2 | 01:34 - 01:47
-never know. There's also rumors that you might start a venture fund. Like, you know, I hear all the time in the ecosystem, people wanting, you know, affiliation with semi analysis. You've built this trusted brand. And so whatever you do, it's working.
+IVE BEEN MEANING TO DO THIS
 
-Speaker 2 | 01:47 - 01:58
-This is clearly like just the beginning of the journey for you. Congratulations on all of that. But how did this happen? Like, how did you first question is, like, what is the background? How did you kind of get to where you are now?
+SO COOL https://t.co/eFxAG4GdYi</description>
+      <pubDate>Wed, 01 Jul 2026 21:46:01 +0000</pubDate>
+      <guid isPermaLink="false">2072436587665797518</guid>
+    </item>
+    <item>
+      <title>Fascinated by Lime going public - in an age where AI gets all the attention, how does a scooter company with $1B in debt pull off a successful IPO literally after expressing &quot;substantial doubt&quot; that they might not even survive the year?  * Impressive financial engineering - the IPO paid off the toxi...</title>
+      <link>https://x.com/mattturck/status/2072419592354529712</link>
+      <description>作者：Matt Turck
+账号：@mattturck
+简介：VC at @FirstMarkCap.  Host: MAD Podcast; Organizer: Data Driven NYC, Author: MAD Landscape.
 
-Speaker 1 | 01:58 - 02:33
-Well, when I was a young boy and, you know, coming out of the womb, so, so, okay, so I grew up in like a small business. My parents had a motel, we lived in the motel, we later had a gas station, so I was selling I joke a lot of times the first neural network I trained was racially and visually profiling people based on when they entered the gas station which cigarette to pick. Basically the cigarettes were all extruded across the top, and I was too short to actually reach them, and technically it wasn't legal to sell cigarettes at that age, but whatever. I had to move the step stool over to the right place.
+Fascinated by Lime going public - in an age where AI gets all the attention, how does a scooter company with $1B in debt pull off a successful IPO literally after expressing &quot;substantial doubt&quot; that they might not even survive the year?
 
-Speaker 2 | 02:33 - 02:37
-I started working my first job before it was legal too, so it was a good experience.
+* Impressive financial engineering - the IPO paid off the toxic loans and converted the rest to equity, so the slate is clean
 
-Speaker 1 | 02:37 - 03:06
-Well, didn't get paid, right? It's a family business. Same. Have our motel, and then across the street was our gas station, so sometimes someone would walk in, and so if an old white lady with curly hair walked in, I'd move the ladder or the step stool over to where the camels are. And if you know, in a different age, demographic, profession, race, etc, I would move the step stool over, and I joke this is the first neural network I trained, because if I waited for them to tell me I'd have to move it over and then I'd step up versus just being ready.
+* Uber owns 22% of Lime and refers riders directly to Lime, so obviously a great backstop and partner
 
-Speaker 1 | 03:06 - 03:29
-Menthols versus 100 slips and all these things. I joke this is the first neural network I trained, but I grew up in family businesses, lived in a motel, and it all really goes back to when I was like you know, it was my eighth birthday. My birthday is in May, and it was April when the Xbox three sixty was announced. For my birthday, I didn't ask for the Xbox or I didn't ask for a birthday gift. My parents asked what I wanted.
+* They've actually been FCF positive for 3 consecutive years with revenue growing nearly 30% YoY
 
-Speaker 1 | 03:30 - 03:56
-I asked for it for Christmas. We celebrated Christmas, but there was no way, at least at the time I thought there was no way they would ask, would give me the Xbox three sixty for Christmas, and so I asked for my birthday tab for Christmas. Anyways, Christmas comes around, I get it. Fast forward a couple months, my cousin who lives in Alabama, they also lived in a motel, was going to come over for spring break, for his spring break, and we were going to just hang out at my house, and he's in between me and my older brother and age. Brother's a bit more jockey, so he didn't really care too much about the Xbox.
+* Something about being the last man standing and surviging the micromobility bloodbath (RIP Bird).  Never give up!</description>
+      <pubDate>Wed, 01 Jul 2026 20:38:29 +0000</pubDate>
+      <guid isPermaLink="false">2072419592354529712</guid>
+    </item>
+    <item>
+      <title>Every good chord progression needs a resolution. 🎹  To focus on building @GoogleFlowMusic - our tool for creating, sharing, and remixing original music - we will be saying a fond farewell to MusicFX and MusicFX DJ on July 31, 2026.  These early experiments pushed the boundaries of AI for real-time m...</title>
+      <link>https://x.com/GoogleLabs/status/2072417166952136789</link>
+      <description>作者：Google Labs
+账号：@GoogleLabs
+简介：Google’s home for our latest AI tools and experiments.
 
-Speaker 1 | 03:56 - 04:08
-He played sometimes, but didn't really care. But my cousin, you know, I wanted him to think I was cool, right? Know, so I bragged many times on the phone. Was like, yeah, got an Xbox. And then the Xbox broke.
+Every good chord progression needs a resolution. 🎹
 
-Speaker 1 | 04:08 - 04:39
-There was something there was a hardware defect called the red ring of death. But long story short, I had to open it up and short the temperature sensor, and it fixed it. But there was many other tricks I tried first, then none of them worked. And so that's sort of how I got into hardware, is like open Pandora's box. By the time I was 12, I was on these forums a lot, reading, posting a lot, and this was around the time when Reddit ate all other forms, so I became a moderator of Android and Apple and Google, as well as hardware, looking at Intel, NVIDIA, AMD and all these other forms.
+To focus on building @GoogleFlowMusic - our tool for creating, sharing, and remixing original music - we will be saying a fond farewell to MusicFX and MusicFX DJ on July 31, 2026.
 
-Speaker 1 | 04:39 - 05:33
-Was building a PC, all these forms I was watching, reading, posting a lot, but some of them I was moderating a lot. Watching smartphones develop from very simple to speed racing to being technologically more advanced than PCs in many ways architecturally, same with GPUs, just tracking and watching that, reading every comment, always having the economic tinge because I grew up in a small business. So I was always looking at the economics. There was a time where all the neck beards on the internet loved AMD GPUs, and I personally had bought an AMD GPU too because price performance, but then when it came down to what's technically better, I'd always be like, no, no, NVIDIA's better because they use a smaller chip to get better performance at better power efficiencies and their margins better. So I would always talk about how NVIDIA's margins were better than than AMD's in the GPU landscape, and so I very focused 12 at the time?
+These early experiments pushed the boundaries of AI for real-time music creation, and we're taking everything we learned from them to provide a long-term home for musical projects.
 
-Speaker 1 | 05:33 - 05:39
-I started moderating when I was 12, but this is all through my teenage tweenage and high school years. Right? Do you
+Keep jamming at https://t.co/3XMUc2pkzU 🎵</description>
+      <pubDate>Wed, 01 Jul 2026 20:28:50 +0000</pubDate>
+      <guid isPermaLink="false">2072417166952136789</guid>
+    </item>
+    <item>
+      <title>It's happening https://t.co/PtS0ZoYL09</title>
+      <link>https://x.com/thsottiaux/status/2072410623380468190</link>
+      <description>作者：Thibault Sottiaux
+账号：@thsottiaux
+简介：Codex &amp; ChatGPT @OpenAI
 
-Speaker 3 | 05:39 - 05:41
-have any other weird hobbies, or was it just semis?
+It's happening https://t.co/PtS0ZoYL09</description>
+      <pubDate>Wed, 01 Jul 2026 20:02:50 +0000</pubDate>
+      <guid isPermaLink="false">2072410623380468190</guid>
+    </item>
+    <item>
+      <title>Fable is back https://t.co/ceX26h5PcT</title>
+      <link>https://x.com/nikunj/status/2072406317617262753</link>
+      <description>作者：Nikunj Kothari
+账号：@nikunj
+简介：partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian &amp; others. love @shimoleejhaveri + 👦👧
 
-Speaker 1 | 05:42 - 05:48
-I played a ton of Starcraft at one point, was grandmaster on the North American ladder. Oh, I'm serious. So
+Fable is back https://t.co/ceX26h5PcT</description>
+      <pubDate>Wed, 01 Jul 2026 19:45:44 +0000</pubDate>
+      <guid isPermaLink="false">2072406317617262753</guid>
+    </item>
+    <item>
+      <title>Welcome back to the world Fable!! https://t.co/krcdkuYId8</title>
+      <link>https://x.com/alexalbert__/status/2072404717490360727</link>
+      <description>作者：Alex Albert
+账号：@alexalbert__
+简介：Research @AnthropicAI. Opinions are my own!
 
-Speaker 3 | 05:49 - 05:50
-you've gotten just obsessively good at multiple things?
+Welcome back to the world Fable!! https://t.co/krcdkuYId8</description>
+      <pubDate>Wed, 01 Jul 2026 19:39:22 +0000</pubDate>
+      <guid isPermaLink="false">2072404717490360727</guid>
+    </item>
+    <item>
+      <title>LET'S RIP FABLE TOKENS FROM THE JACUZZI https://t.co/denvBof2Yp</title>
+      <link>https://x.com/danshipper/status/2072402843819212906</link>
+      <description>作者：Dan Shipper
+账号：@danshipper
+简介：ceo @every | the only subscription you need to stay at the edge of AI
 
-Speaker 1 | 05:51 - 06:08
-Mean, obsession is good. How were your grades? They were decent. I would say I had mostly As, but they're classes that I thought were really boring or I just didn't enjoy. Spanish, I got not the greatest grades.
+LET'S RIP FABLE TOKENS FROM THE JACUZZI https://t.co/denvBof2Yp</description>
+      <pubDate>Wed, 01 Jul 2026 19:31:56 +0000</pubDate>
+      <guid isPermaLink="false">2072402843819212906</guid>
+    </item>
+    <item>
+      <title>Read the Fable 5 blog post here: https://t.co/iQymY0jQvY</title>
+      <link>https://x.com/claudeai/status/2072402642836615273</link>
+      <description>作者：Claude
+账号：@claudeai
+简介：Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Talk to Claude on https://t.co/ZhTwG8d1e5 or download the app.
 
-Speaker 1 | 06:10 - 06:16
-But it was like, I speak fluent Spanish by the way, so it's really dumb. It's just sort of a
+Read the Fable 5 blog post here: https://t.co/iQymY0jQvY</description>
+      <pubDate>Wed, 01 Jul 2026 19:31:08 +0000</pubDate>
+      <guid isPermaLink="false">2072402642836615273</guid>
+    </item>
+    <item>
+      <title>If one of your requests is mistakenly flagged in Claude Code, run /feedback to file a report. On https://t.co/XSKiQaAUU9 and Cowork, you can share feedback through the thumbs buttons.   This feedback helps us further tune these classifiers and reduce false positives over time.</title>
+      <link>https://x.com/claudeai/status/2072402640907162072</link>
+      <description>作者：Claude
+账号：@claudeai
+简介：Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Talk to Claude on https://t.co/ZhTwG8d1e5 or download the app.
 
-Speaker 2 | 06:16 - 06:18
-simple Maybe that's why you didn't get a good grade.
+If one of your requests is mistakenly flagged in Claude Code, run /feedback to file a report. On https://t.co/XSKiQaAUU9 and Cowork, you can share feedback through the thumbs buttons. 
 
-Speaker 1 | 06:18 - 06:19
-I didn't learn
+This feedback helps us further tune these classifiers and reduce false positives over time.</description>
+      <pubDate>Wed, 01 Jul 2026 19:31:07 +0000</pubDate>
+      <guid isPermaLink="false">2072402640907162072</guid>
+    </item>
+    <item>
+      <title>All paid plans with usage included can access Fable 5 through July 7. You can use Fable 5 up to 50% of your weekly usage limit, after which you can switch to another model for the remainder of your usage. You can also continue using Fable via usage credits.  More here: https://t.co/5reBCfXAqy</title>
+      <link>https://x.com/claudeai/status/2072402639644766602</link>
+      <description>作者：Claude
+账号：@claudeai
+简介：Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Talk to Claude on https://t.co/ZhTwG8d1e5 or download the app.
 
-Speaker 2 | 06:19 - 06:20
-Spanish till later to be
+All paid plans with usage included can access Fable 5 through July 7. You can use Fable 5 up to 50% of your weekly usage limit, after which you can switch to another model for the remainder of your usage. You can also continue using Fable via usage credits.
 
-Speaker 1 | 06:20 - 06:33
-fair. My grades were fine. They were fine enough for Asian parents. I was better than most of school, but, you know, it wasn't like, you know, try hard maxing for like, you know, all As.
+More here: https://t.co/5reBCfXAqy</description>
+      <pubDate>Wed, 01 Jul 2026 19:31:07 +0000</pubDate>
+      <guid isPermaLink="false">2072402639644766602</guid>
+    </item>
+    <item>
+      <title>Most underreported story in all of tech https://t.co/IfhGLmHwuL</title>
+      <link>https://x.com/garrytan/status/2072402517397573717</link>
+      <description>作者：Garry Tan
+账号：@garrytan
+简介：President &amp; CEO @ycombinator —Founder @garryslist—Creator of GStack &amp; GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop
 
-Speaker 3 | 06:33 - 06:42
-Okay. So you're very much a student of the Internet then. This is how you, how you develop this expertise. At what point did you decide to start seminalysis and what's been the biggest surprise since starting the company?
+Most underreported story in all of tech https://t.co/IfhGLmHwuL</description>
+      <pubDate>Wed, 01 Jul 2026 19:30:38 +0000</pubDate>
+      <guid isPermaLink="false">2072402517397573717</guid>
+    </item>
+    <item>
+      <title>FABLE IS BACK!!! https://t.co/H7fsnFZQVV</title>
+      <link>https://x.com/danshipper/status/2072402230041272669</link>
+      <description>作者：Dan Shipper
+账号：@danshipper
+简介：ceo @every | the only subscription you need to stay at the edge of AI
 
-Speaker 1 | 06:42 - 07:15
-Yeah, so I went to school, I got a few degrees in stuff that wasn't related to semiconductors. I was a quant for two years at a small quan...</description>
-      <pubDate>Tue, 30 Jun 2026 09:00:00 +0000</pubDate>
-      <guid>https://www.youtube.com/watch?v=f6D_aiy8qyU</guid>
+FABLE IS BACK!!! https://t.co/H7fsnFZQVV</description>
+      <pubDate>Wed, 01 Jul 2026 19:29:29 +0000</pubDate>
+      <guid isPermaLink="false">2072402230041272669</guid>
+    </item>
+    <item>
+      <title>Agents love to check their work before they push.   You probably see it in the form of 𝚗𝚘𝚍𝚎 --𝚌𝚑𝚎𝚌𝚔, 𝚝𝚜𝚌 --𝚗𝚘𝙴𝚖𝚒𝚝, 𝚗𝚎𝚡𝚝 𝚋𝚞𝚒𝚕𝚍, etc all over your agent sessions.  We’re now shipping the dry-run step for agentic deployments, minimizing costs and risk. https://t.co/HpOXSROT3X</title>
+      <link>https://x.com/rauchg/status/2072398926175404250</link>
+      <description>作者：Guillermo Rauch
+账号：@rauchg
+简介：@vercel CEO
+
+Agents love to check their work before they push. 
+
+You probably see it in the form of 𝚗𝚘𝚍𝚎 --𝚌𝚑𝚎𝚌𝚔, 𝚝𝚜𝚌 --𝚗𝚘𝙴𝚖𝚒𝚝, 𝚗𝚎𝚡𝚝 𝚋𝚞𝚒𝚕𝚍, etc all over your agent sessions.
+
+We’re now shipping the dry-run step for agentic deployments, minimizing costs and risk. https://t.co/HpOXSROT3X</description>
+      <pubDate>Wed, 01 Jul 2026 19:16:21 +0000</pubDate>
+      <guid isPermaLink="false">2072398926175404250</guid>
+    </item>
+    <item>
+      <title>PSA: You can change Codex's model to GLM https://t.co/G3RQfWiS4j https://t.co/BeGZABjgTQ</title>
+      <link>https://x.com/zarazhangrui/status/2072391971721884073</link>
+      <description>作者：Zara Zhang
+账号：@zarazhangrui
+简介：Builder. Dangerously skips permissions. Harvard’17. GitHub: https://t.co/KCuEajezlL YouTube: https://t.co/8xzbGWtf6w
+
+PSA: You can change Codex's model to GLM https://t.co/G3RQfWiS4j https://t.co/BeGZABjgTQ</description>
+      <pubDate>Wed, 01 Jul 2026 18:48:43 +0000</pubDate>
+      <guid isPermaLink="false">2072391971721884073</guid>
+    </item>
+    <item>
+      <title>Now that building is easy, we’ve been increasingly focused on getting entrepreneurs to market, helping them reach their first customer and first dollar.  Whop is one of the best places on the internet to monetize your creations — and now you can sell your Replit apps on there. https://t.co/lEGZGn51W...</title>
+      <link>https://x.com/amasad/status/2072385092824260748</link>
+      <description>作者：Amjad Masad
+账号：@amasad
+简介：ceo @replit. civilizationist
+
+Now that building is easy, we’ve been increasingly focused on getting entrepreneurs to market, helping them reach their first customer and first dollar.
+
+Whop is one of the best places on the internet to monetize your creations — and now you can sell your Replit apps on there. https://t.co/lEGZGn51Wg</description>
+      <pubDate>Wed, 01 Jul 2026 18:21:23 +0000</pubDate>
+      <guid isPermaLink="false">2072385092824260748</guid>
+    </item>
+    <item>
+      <title>Full video on YouTube: https://t.co/FVBCFHXAqK</title>
+      <link>https://x.com/zarazhangrui/status/2072384777785888875</link>
+      <description>作者：Zara Zhang
+账号：@zarazhangrui
+简介：Builder. Dangerously skips permissions. Harvard’17. GitHub: https://t.co/KCuEajezlL YouTube: https://t.co/8xzbGWtf6w
+
+Full video on YouTube: https://t.co/FVBCFHXAqK</description>
+      <pubDate>Wed, 01 Jul 2026 18:20:08 +0000</pubDate>
+      <guid isPermaLink="false">2072384777785888875</guid>
+    </item>
+    <item>
+      <title>HOW TO BUILD A SKILL You don't START with a skill. You END with a skill. Building the skill is the last step of your workflow, not the first step https://t.co/ngvvnml9uQ https://t.co/dqohk7MJwT</title>
+      <link>https://x.com/zarazhangrui/status/2072381929366987087</link>
+      <description>作者：Zara Zhang
+账号：@zarazhangrui
+简介：Builder. Dangerously skips permissions. Harvard’17. GitHub: https://t.co/KCuEajezlL YouTube: https://t.co/8xzbGWtf6w
+
+HOW TO BUILD A SKILL
+You don't START with a skill. You END with a skill.
+Building the skill is the last step of your workflow, not the first step https://t.co/ngvvnml9uQ https://t.co/dqohk7MJwT</description>
+      <pubDate>Wed, 01 Jul 2026 18:08:49 +0000</pubDate>
+      <guid isPermaLink="false">2072381929366987087</guid>
+    </item>
+    <item>
+      <title>HTML mentioned https://t.co/lWYyfXjmWS</title>
+      <link>https://x.com/trq212/status/2072366310416425053</link>
+      <description>作者：Thariq
+账号：@trq212
+简介：Claude Code @anthropicai.   prev YC W20, @southpkcommons, @medialab
+
+HTML mentioned https://t.co/lWYyfXjmWS</description>
+      <pubDate>Wed, 01 Jul 2026 17:06:45 +0000</pubDate>
+      <guid isPermaLink="false">2072366310416425053</guid>
+    </item>
+    <item>
+      <title>hello from AI engineer! https://t.co/J8sFn5pbyC</title>
+      <link>https://x.com/trq212/status/2072360902964511171</link>
+      <description>作者：Thariq
+账号：@trq212
+简介：Claude Code @anthropicai.   prev YC W20, @southpkcommons, @medialab
+
+hello from AI engineer! https://t.co/J8sFn5pbyC</description>
+      <pubDate>Wed, 01 Jul 2026 16:45:16 +0000</pubDate>
+      <guid isPermaLink="false">2072360902964511171</guid>
+    </item>
+    <item>
+      <title>The AI Workflows Behind Every's Consulting Team</title>
+      <link>https://www.youtube.com/playlist?list=PLuMcoKK9mKgHtW_o9h5sGO2vXrffKHwJL</link>
+      <description>播客：AI &amp; I by Every
+
+Speaker 1 | 00:00 - 00:10
+You go and teach executives and other people at big companies how to use AI. And so I think what you're doing is a good window into how great operators and executives are starting to use this stuff.
+
+Speaker 2 | 00:10 - 00:16
+What Codex helped me do was basically create kind of like an operating system. My email knows what's going on
+
+Speaker 1 | 00:16 - 00:16
+Mhmm.
+
+Speaker 2 | 00:16 - 00:27
+More than I do. I'm just so bullish on all of the administrative tasks that will suddenly kind of like be taken care of because now we have this sort of like super alien tool that can support on those things.
+
+Speaker 1 | 00:27 - 01:03
+Knowledge work now is turning into something like gardening, where when you're gardening, you're creating the conditions for the growth to happen, but you're not like making the plant with your hands. Every is the only subscription you need to stay at the edge of AI. If you care about being on top of the latest models and using the latest tools, you have to subscribe to Every to separate out the signal from the noise. Go to every. Tosubscribe today.
+
+Speaker 1 | 01:03 - 01:05
+Natalia, welcome to the show.
+
+Speaker 2 | 01:05 - 01:06
+Thanks, Dan. Good to be back.
+
+Speaker 1 | 01:06 - 01:12
+So for people who missed your last episode, you are our head of consulting at Every.
+
+Speaker 2 | 01:12 - 01:13
+That's right.
+
+Speaker 1 | 01:13 - 01:22
+You are also the manager of Claudi, consulting's AI agent employee, which was, who was the star of our last episode together.
+
+Speaker 2 | 01:22 - 01:23
+Mhmm.
+
+Speaker 1 | 01:23 - 02:18
+And I wanted to bring you on because I feel like every couple months things shift so radically. And for me, you're one of the, like, bellwethers of how things are changing because you're an early adopter yourself, and you go and teach executives and other people at big companies how to use AI. And so I think what you're doing is a good, window into how, like, really great operators and executives are starting to use this stuff. So the last time we chatted, Claudie, which is the the internal AI employee agent that we built to basically help to run the consulting business, to, you know, send out sales proposals and manage the CRM and all that kind of stuff. Claudia was, like, this nascent thing that Mitesh, who's our senior, AI engineer, like, sort of, what's what's the word for it?
+
+Speaker 1 | 02:18 - 02:36
+He was, he was sort of, like, wizard avozing it in the background, like, making it work, minute by minute. And but I feel like now Claudia is, like, actually working. Like, the the model releases over the last couple months have have dramatically changed how much she's able to do. So give us an update on Claudie. How are things going there?
+
+Speaker 2 | 02:36 - 03:10
+You know, it's it's funny with the speed of AI. Claudie it feels like Claudie is, like, just not novel. You know, it's Claudie is an agent that does work for us every day. And Claudia has its own LinkedIn and Twitter feed and you know, manages our dashboards and you know, has a trust battery now that's new. So, you know, it's running on a loop to sort of like self evaluate performance and to improve itself given the feedback that we give it.
+
+Speaker 2 | 03:10 - 03:13
+And Claudie's thriving, I guess.
+
+Speaker 1 | 03:13 - 03:28
+One of the things that's interesting is you hired Claudie to do operations stuff, but you're also now hiring an operations person. So what have you learned about the uses and limits of these sorts of internal agents for stuff that you might want to hire a human for?
+
+Speaker 2 | 03:29 - 03:55
+Yeah, you know, it's really interesting. Think, you know, as we've all been using AI more, I think the thing that we keep coming back to is that AI is really good at executing against a standard operating procedure. And Claudia is exceptional at that. But Claudia still needs two things. One is it needs constant oversight and management to make sure that it's doing those things really well, actually.
+
+Speaker 2 | 03:55 - 04:20
+So you know, the sort of question of like taste and you know, reaching for excellence still requires direction and sort of managerial support, which, you know, can be quite tedious and time consuming. So there's still quite a bit of time involved there. And, and two is when you are working with people, you know, as much as I love working with Claudie, I want to interface with people, right? And I find that
+
+Speaker 1 | 04:20 - 04:25
+I can't really relate, but I, I see I see why someone might feel that way.
+
+Speaker 2 | 04:27 - 04:52
+And the reality is that, you know, while we do have all of these rich dashboards and all of this data that Claudia is populating, we need we need someone to surface what is interesting about that data, what the signals are, and to help lead those conversations. And so actually, I suspect that we will continue to expand the team to build on the data and information that Claudi surfaces so that we can actually do interesting things with it.
+
+Speaker 1 | 04:53 - 05:20
+One of the big things that you went through recently, which I think is super relevant to anyone inside of a big org or anyone running a software company, is you actually bought a CRM. And previously, it was all cloudy, glued together with Google Sheets, and I think there's this whole narrative running around. I think, honestly, SaaS docs are back, so maybe the narrative is a little bit less present than it used to. But it's still on people's minds. It's like, are you just gonna vibe code all SaaS?
+
+Speaker 1 | 05:20 - 05:41
+You know, like, Fable currently is banned, but I'm sure it will be back. Maybe it's even back by the time this episode comes out. But, like, if Fable can just one shot a c CMS, like, why would you use one? But you you you have the ability to make your own CMS, and we have enough resources internally for us to vibe code one, but you decided not to. Yeah.
+
+Speaker 1 | 05:41 - 05:47
+Or you decided to move off the the sort of homemade one onto a professional one. So why would you do that?
+
+Speaker 2 | 05:47 - 05:59
+Yeah. So despite my hopes and aspirations that I could do all of the things and, you know, become an engineer and maintain all of these engineering products that
+
+Speaker 1 | 05:59 - 06:01
+I've This one I can't relate to this one.
+
+Speaker 2 | 06:04 - 06:25
+It turns out there are actually private and public companies whose entire business it is to do these things really well. And sometimes these like very specific things really well. So, you know, we you know, I vibe coded a CRM tool that allowed us to manage our sort of like sales pipeline for a while.
+
+Speaker 1 | 06:25 - 06:33
+And It was managing in Google Sheets. So it was like Claude Claudia was the was the glue between what was going on in Slack and the meetings and Google Sheets.
+
+Speaker 2 | 06:33 - 07:04
+Yeah, exactly. So basically, Claudia had access to was able to read my email, was able to read our meeting note takers notes, was able to digest kind of like an inbound leads that came and then would track this all in a Google Sheet. And then, you know, eventually that became a database that we were managing. And these things just require maintenance, right? In order for the data quality to be good enough that you can do interesting things with it, you need to, you know, almost like Klaviyo need to be on top of the quality of the data.
+
+Speaker 2 | 07:04 - 07:33
+And so, it turns out, this is Atiyo's entire business. And so, know, think one of the challenges with AI, I certainly have is that in, you know, in the era of AI, you can build anything. I think I even said this in the last podcast. The question is, should you build and maintain whatever you actually build? And I think in this case, and probably in other use cases, also rolled out Asana for our project management system.
+
+Speaker 2 | 07:33 - 07:49
+I think we're able to do the scale of the work that we are able to do because of Atio, because of Asana, and be...</description>
+      <pubDate>Wed, 01 Jul 2026 15:57:56 +0000</pubDate>
+      <guid>https://www.youtube.com/playlist?list=PLuMcoKK9mKgHtW_o9h5sGO2vXrffKHwJL</guid>
+    </item>
+    <item>
+      <title>The talent vortex of @OpenAI and @AnthropicAI is only getting crazier.. in the last 2 months, four personal friends have left VERY established roles to join the labs.   The dual draw of building one of the most consequential companies plus it being pre-IPO and getting liquidity is just too hard to p...</title>
+      <link>https://x.com/nikunj/status/2072344802570756121</link>
+      <description>作者：Nikunj Kothari
+账号：@nikunj
+简介：partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian &amp; others. love @shimoleejhaveri + 👦👧
+
+The talent vortex of @OpenAI and @AnthropicAI is only getting crazier.. in the last 2 months, four personal friends have left VERY established roles to join the labs. 
+
+The dual draw of building one of the most consequential companies plus it being pre-IPO and getting liquidity is just too hard to pass up. 
+
+This means having strong conviction and MASSIVE ambition if you choose to do it on your own.
+
+My only counter to Xavi’s position will be that most VCs actually won’t make a lot of money.. at least life changing money. Some of them have actually deflected to the labs knowing this. Like any role the best ones will thrive and survive!</description>
+      <pubDate>Wed, 01 Jul 2026 15:41:17 +0000</pubDate>
+      <guid isPermaLink="false">2072344802570756121</guid>
+    </item>
+    <item>
+      <title>Mega get, head of UC Berkeley EECS omg  Anthropic is on a tear https://t.co/6lTQhG7BIo</title>
+      <link>https://x.com/garrytan/status/2072331451270606933</link>
+      <description>作者：Garry Tan
+账号：@garrytan
+简介：President &amp; CEO @ycombinator —Founder @garryslist—Creator of GStack &amp; GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop
+
+Mega get, head of UC Berkeley EECS omg
+
+Anthropic is on a tear https://t.co/6lTQhG7BIo</description>
+      <pubDate>Wed, 01 Jul 2026 14:48:14 +0000</pubDate>
+      <guid isPermaLink="false">2072331451270606933</guid>
     </item>
   </channel>
 </rss>
