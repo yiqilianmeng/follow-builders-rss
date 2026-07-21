@@ -5,32 +5,10 @@
     <link>https://github.com/zarazhangrui/follow-builders</link>
     <description>聚合 AI 领域建设者的 X、播客和博客内容。</description>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 21 Jul 2026 01:26:36 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 08:05:12 +0000</lastBuildDate>
     <item>
-      <title>if you've run into this, please restart Claude Code, fix should be propogating https://t.co/MJ49i4suEb</title>
-      <link>https://x.com/trq212/status/2079103743535280508</link>
-      <description>作者：Thariq
-账号：@trq212
-简介：Claude Code @anthropicai.   prev YC W20, @southpkcommons, @medialab
-
-if you've run into this, please restart Claude Code, fix should be propogating https://t.co/MJ49i4suEb</description>
-      <pubDate>Mon, 20 Jul 2026 07:18:54 +0000</pubDate>
-      <guid isPermaLink="false">2079103743535280508</guid>
-    </item>
-    <item>
-      <title>Consumers spend money on food, rent, and entertainment, phone &amp;amp; internet, and shopping. Software is typically bought by their companies. Which is why outside of Netflix, Spotify, etc it’s hard to think of *huge* consumer subscription businesses. https://t.co/OfpzUnpi6e</title>
-      <link>https://x.com/amasad/status/2079086360703680583</link>
-      <description>作者：Amjad Masad
-账号：@amasad
-简介：ceo @replit. civilizationist
-
-Consumers spend money on food, rent, and entertainment, phone &amp;amp; internet, and shopping. Software is typically bought by their companies. Which is why outside of Netflix, Spotify, etc it’s hard to think of *huge* consumer subscription businesses. https://t.co/OfpzUnpi6e</description>
-      <pubDate>Mon, 20 Jul 2026 06:09:50 +0000</pubDate>
-      <guid isPermaLink="false">2079086360703680583</guid>
-    </item>
-    <item>
-      <title>even as someone who is most definitely not a custom keyboards guy, i gotta admit this is pretty dang cool. https://t.co/NOKBYlX9D9</title>
-      <link>https://x.com/swyx/status/2079061713048199625</link>
+      <title>unironically this is happening right tf now https://t.co/8E0EI7Gq38 https://t.co/FxVx5B9jIi</title>
+      <link>https://x.com/swyx/status/2079438448956788964</link>
       <description>作者：Swyx
 账号：@swyx
 简介：achieve ambition with intentionality, intensity, integrity &amp; insanity.
@@ -42,446 +20,483 @@ affiliations:
 - @aidotengineer
 - @latentspacepod
 
-even as someone who is most definitely not a custom keyboards guy, i gotta admit this is pretty dang cool. https://t.co/NOKBYlX9D9</description>
-      <pubDate>Mon, 20 Jul 2026 04:31:54 +0000</pubDate>
-      <guid isPermaLink="false">2079061713048199625</guid>
+unironically this is happening right tf now https://t.co/8E0EI7Gq38 https://t.co/FxVx5B9jIi</description>
+      <pubDate>Tue, 21 Jul 2026 05:28:54 +0000</pubDate>
+      <guid isPermaLink="false">2079438448956788964</guid>
     </item>
     <item>
-      <title>I was so inspired reading all the DMs on how folks here use ChatGPT Work. Let’s try something else that will make the team smile.  What’s a time you saw ChatGPT have a deeply positive impact on your or someone’s life?</title>
-      <link>https://x.com/thsottiaux/status/2079058139207573541</link>
+      <title>Tools https://t.co/b8MxIORFp2</title>
+      <link>https://x.com/amasad/status/2079421913089335677</link>
+      <description>作者：Amjad Masad
+账号：@amasad
+简介：ceo @replit. civilizationist
+
+Tools https://t.co/b8MxIORFp2</description>
+      <pubDate>Tue, 21 Jul 2026 04:23:12 +0000</pubDate>
+      <guid isPermaLink="false">2079421913089335677</guid>
+    </item>
+    <item>
+      <title>very notable trajectory comparison writeup here buried in the RLM paper from @a1zhang and @lateinteraction.  an open secret of &quot;frontier&quot; model training is that even without training on test, you can basically cheat by training on test lookalikes, enabling you to goalseek almost any benchmark number...</title>
+      <link>https://x.com/swyx/status/2079411861150429402</link>
+      <description>作者：Swyx
+账号：@swyx
+简介：achieve ambition with intentionality, intensity, integrity &amp; insanity.
+
+affiliations:
+- @dxtipshq 
+- @cognition
+- @temporalio
+- @aidotengineer
+- @latentspacepod
+
+very notable trajectory comparison writeup here buried in the RLM paper from @a1zhang and @lateinteraction.
+
+an open secret of &quot;frontier&quot; model training is that even without training on test, you can basically cheat by training on test lookalikes, enabling you to goalseek almost any benchmark number you want.
+
+however when they are released open weights, 99% of the time the norm is that you do not get the datasets/rlenvs that would easily show you if someone was training on Temu Tbench, so there is plausible deniability. Alex and Omar discuss applying standard NLP distance metrics on hidden trajectories. There's no ultimate solution here, but they have some prelim explorations. It happens to support the finding that RLMs can generalize to unseen tasks that share latent structure observed in training.</description>
+      <pubDate>Tue, 21 Jul 2026 03:43:15 +0000</pubDate>
+      <guid isPermaLink="false">2079411861150429402</guid>
+    </item>
+    <item>
+      <title>If I were to hire today, this is how I would structure the interview process:  Round 1: in-person &amp; no AI allowed; test domain expertise and knowledge on the fly  Round 2: a project that must be done with AI (impossible to complete without AI). Candidate assessed not just on the result but also the ...</title>
+      <link>https://x.com/zarazhangrui/status/2079409165424799889</link>
+      <description>作者：Zara Zhang
+账号：@zarazhangrui
+简介：Builder. Dangerously skips permissions. Harvard’17. GitHub: https://t.co/KCuEajezlL YouTube: https://t.co/8xzbGWtf6w
+
+If I were to hire today, this is how I would structure the interview process:
+
+Round 1: in-person &amp; no AI allowed; test domain expertise and knowledge on the fly
+
+Round 2: a project that must be done with AI (impossible to complete without AI). Candidate assessed not just on the result but also the chat transcript with agents</description>
+      <pubDate>Tue, 21 Jul 2026 03:32:33 +0000</pubDate>
+      <guid isPermaLink="false">2079409165424799889</guid>
+    </item>
+    <item>
+      <title>Multi-model agentic systems clearly are the future. Great post by cursor. Their new research shows that a frontier model as a planner and orchestrator with a workhorse cheaper model can materially lower the cost of total tokens on a project, resulting in a 15X cost improvement.  “Few moments in a la...</title>
+      <link>https://x.com/levie/status/2079402164988895293</link>
+      <description>作者：Aaron Levie
+账号：@levie
+简介：ceo @box - your business lives in content. unleash it with AI
+
+Multi-model agentic systems clearly are the future. Great post by cursor. Their new research shows that a frontier model as a planner and orchestrator with a workhorse cheaper model can materially lower the cost of total tokens on a project, resulting in a 15X cost improvement.
+
+“Few moments in a large task genuinely require frontier intelligence, such as the original decomposition, the design decisions, and certain trade-offs. Once a frontier planner has collapsed the ambiguity into a detailed, explicit instruction, less expensive models simply have to follow it.”
+
+This is increasingly becoming the core design pattern of complex agents, because the tokens used on large amounts of work on many tasks don’t require the same intelligence threshold as the planning step. By routing to different models based on where you are in the task, you get much greater efficiency overall. 
+
+This provides the template for where the applied layer in AI will differentiate. You can only drive this efficiency if you know the domain well and have the ability to work with multiple model tiers; companies that can do this will across coding, finance, legal, healthcare, life sciences, and other critical spaces will be in a strong position to get larger workloads that would otherwise be too expensive for the customer to deploy.</description>
+      <pubDate>Tue, 21 Jul 2026 03:04:44 +0000</pubDate>
+      <guid isPermaLink="false">2079402164988895293</guid>
+    </item>
+    <item>
+      <title>“Being cancelled is a choice” turned out to be a nice sound bite. https://t.co/POBo82Kx6z</title>
+      <link>https://x.com/amasad/status/2079401256448340378</link>
+      <description>作者：Amjad Masad
+账号：@amasad
+简介：ceo @replit. civilizationist
+
+“Being cancelled is a choice” turned out to be a nice sound bite. https://t.co/POBo82Kx6z</description>
+      <pubDate>Tue, 21 Jul 2026 03:01:07 +0000</pubDate>
+      <guid isPermaLink="false">2079401256448340378</guid>
+    </item>
+    <item>
+      <title>https://t.co/74kfnYzuE9</title>
+      <link>https://x.com/swyx/status/2079400293075452195</link>
+      <description>作者：Swyx
+账号：@swyx
+简介：achieve ambition with intentionality, intensity, integrity &amp; insanity.
+
+affiliations:
+- @dxtipshq 
+- @cognition
+- @temporalio
+- @aidotengineer
+- @latentspacepod
+
+https://t.co/74kfnYzuE9</description>
+      <pubDate>Tue, 21 Jul 2026 02:57:17 +0000</pubDate>
+      <guid isPermaLink="false">2079400293075452195</guid>
+    </item>
+    <item>
+      <title>Just reached 80k followers 🙏🏻  “all signal no noise no slop no hacks and still finds a way to grow her audience” is what I do here https://t.co/pI8h5ImgnC</title>
+      <link>https://x.com/zarazhangrui/status/2079395028485488707</link>
+      <description>作者：Zara Zhang
+账号：@zarazhangrui
+简介：Builder. Dangerously skips permissions. Harvard’17. GitHub: https://t.co/KCuEajezlL YouTube: https://t.co/8xzbGWtf6w
+
+Just reached 80k followers 🙏🏻
+
+“all signal no noise no slop no hacks and still finds a way to grow her audience” is what I do here https://t.co/pI8h5ImgnC</description>
+      <pubDate>Tue, 21 Jul 2026 02:36:22 +0000</pubDate>
+      <guid isPermaLink="false">2079395028485488707</guid>
+    </item>
+    <item>
+      <title>it's literally the greatest time ever to have product sense https://t.co/BkzV0sLwgP</title>
+      <link>https://x.com/realmadhuguru/status/2079387984852668780</link>
+      <description>作者：Madhu Guru
+账号：@realmadhuguru
+简介：Sr Director, AI at Meta; Prev: Google - Led Gemini, Veo, Nano Banana.
+
+it's literally the greatest time ever to have product sense https://t.co/BkzV0sLwgP</description>
+      <pubDate>Tue, 21 Jul 2026 02:08:23 +0000</pubDate>
+      <guid isPermaLink="false">2079387984852668780</guid>
+    </item>
+    <item>
+      <title>The road to AGI is paved with economically valuable tasks.  That’s why enterprise AI is one of the most important frontiers. It’s where many of those tasks live.</title>
+      <link>https://x.com/realmadhuguru/status/2079369965569003691</link>
+      <description>作者：Madhu Guru
+账号：@realmadhuguru
+简介：Sr Director, AI at Meta; Prev: Google - Led Gemini, Veo, Nano Banana.
+
+The road to AGI is paved with economically valuable tasks.
+
+That’s why enterprise AI is one of the most important frontiers. It’s where many of those tasks live.</description>
+      <pubDate>Tue, 21 Jul 2026 00:56:47 +0000</pubDate>
+      <guid isPermaLink="false">2079369965569003691</guid>
+    </item>
+    <item>
+      <title>The asset seizure tax will only make California more impoverished  SEIU-UHW should be ashamed of itself for the naked cash grab for their own personal benefit https://t.co/wfG9MyVpzc</title>
+      <link>https://x.com/garrytan/status/2079369233218306285</link>
+      <description>作者：Garry Tan
+账号：@garrytan
+简介：President &amp; CEO @ycombinator —Founder @garryslist—Creator of GStack &amp; GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop
+
+The asset seizure tax will only make California more impoverished
+
+SEIU-UHW should be ashamed of itself for the naked cash grab for their own personal benefit https://t.co/wfG9MyVpzc</description>
+      <pubDate>Tue, 21 Jul 2026 00:53:52 +0000</pubDate>
+      <guid isPermaLink="false">2079369233218306285</guid>
+    </item>
+    <item>
+      <title>Never a dull moment when you work at OpenAI. Absolutely incredible place.</title>
+      <link>https://x.com/thsottiaux/status/2079355529101705264</link>
       <description>作者：Thibault Sottiaux
 账号：@thsottiaux
 简介：Codex &amp; ChatGPT @OpenAI
 
-I was so inspired reading all the DMs on how folks here use ChatGPT Work. Let’s try something else that will make the team smile.
-
-What’s a time you saw ChatGPT have a deeply positive impact on your or someone’s life?</description>
-      <pubDate>Mon, 20 Jul 2026 04:17:42 +0000</pubDate>
-      <guid isPermaLink="false">2079058139207573541</guid>
+Never a dull moment when you work at OpenAI. Absolutely incredible place.</description>
+      <pubDate>Mon, 20 Jul 2026 23:59:25 +0000</pubDate>
+      <guid isPermaLink="false">2079355529101705264</guid>
     </item>
     <item>
-      <title>On the plus side Codex is helping me fight this battle 🥲 https://t.co/VF1H24H2aW</title>
-      <link>https://x.com/petergyang/status/2079053957532655890</link>
-      <description>作者：Peter Yang
-账号：@petergyang
-简介：Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6
-
-On the plus side Codex is helping me fight this battle 🥲 https://t.co/VF1H24H2aW</description>
-      <pubDate>Mon, 20 Jul 2026 04:01:05 +0000</pubDate>
-      <guid isPermaLink="false">2079053957532655890</guid>
-    </item>
-    <item>
-      <title>It turns out that I still have this issue - at 100K+ YT subs and haven't been paid a single dollar by Google Adsense.   The customer support is truly bad. Have to work my Google connections elsewhere... https://t.co/QtfhYdA2h7 https://t.co/gZ3yBVsgyW</title>
-      <link>https://x.com/petergyang/status/2079053505969676404</link>
-      <description>作者：Peter Yang
-账号：@petergyang
-简介：Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6
-
-It turns out that I still have this issue - at 100K+ YT subs and haven't been paid a single dollar by Google Adsense. 
-
-The customer support is truly bad. Have to work my Google connections elsewhere... https://t.co/QtfhYdA2h7 https://t.co/gZ3yBVsgyW</description>
-      <pubDate>Mon, 20 Jul 2026 03:59:17 +0000</pubDate>
-      <guid isPermaLink="false">2079053505969676404</guid>
-    </item>
-    <item>
-      <title>I love using Claude Cowork to manage my calendar. Here's my prompt for it:  Manage my calendar for the week. Requirements: 1. &lt;20 hours of meetings 2. Dedupe conflicting meetings. Look at past weeks to see what kinds of meetings I decline. Dinners don't count against the 20 hours. Build a skill that...</title>
-      <link>https://x.com/_catwu/status/2079011428380602526</link>
-      <description>作者：Cat Wu
-账号：@_catwu
-简介：claude code + cowork @anthropicai, prev: @dagster, @scale_ai
-
-I love using Claude Cowork to manage my calendar. Here's my prompt for it:
-
-Manage my calendar for the week. Requirements: 1. &lt;20 hours of meetings 2. Dedupe conflicting meetings. Look at past weeks to see what kinds of meetings I decline. Dinners don't count against the 20 hours. Build a skill that you refine. Ask me before updating invites. 
-
-What do you use Cowork for?</description>
-      <pubDate>Mon, 20 Jul 2026 01:12:05 +0000</pubDate>
-      <guid isPermaLink="false">2079011428380602526</guid>
-    </item>
-    <item>
-      <title>2. I don't think the people using ChatGPT Work (e.g., non technical) know what &quot;run this chat in the cloud&quot; means.  On Codex it tells me to send to Codex Web and then I click the link and it just tells me to download the app again?   Copy matters. https://t.co/rYwqCeyu0h</title>
-      <link>https://x.com/petergyang/status/2079007381695172797</link>
-      <description>作者：Peter Yang
-账号：@petergyang
-简介：Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6
-
-2. I don't think the people using ChatGPT Work (e.g., non technical) know what &quot;run this chat in the cloud&quot; means.
-
-On Codex it tells me to send to Codex Web and then I click the link and it just tells me to download the app again? 
-
-Copy matters. https://t.co/rYwqCeyu0h</description>
-      <pubDate>Mon, 20 Jul 2026 00:56:00 +0000</pubDate>
-      <guid isPermaLink="false">2079007381695172797</guid>
-    </item>
-    <item>
-      <title>In a world where there are strong open source alternatives that are only just behind the frontier models, you make yourself less secure and competitive by gatekeeping access to frontier model capabilities.  If you play this out, even if America could fully ban access to open source models, other eco...</title>
-      <link>https://x.com/levie/status/2078992778449850769</link>
-      <description>作者：Aaron Levie
-账号：@levie
-简介：ceo @box - your business lives in content. unleash it with AI
-
-In a world where there are strong open source alternatives that are only just behind the frontier models, you make yourself less secure and competitive by gatekeeping access to frontier model capabilities.
-
-If you play this out, even if America could fully ban access to open source models, other ecosystems wouldn't have that ban and they'd have a leg up on access to those models. They could use them against us -or just use them to better defend themselves- and our own companies wouldn't be able to keep up.
-
-The calculus of what you do about AI regulation simply must change to account for the fact that open weights models are far stronger than many expected.</description>
-      <pubDate>Sun, 19 Jul 2026 23:57:58 +0000</pubDate>
-      <guid isPermaLink="false">2078992778449850769</guid>
-    </item>
-    <item>
-      <title>Thankful to 🇦🇷 Argentina for once again giving it all. Grit, passion, talent, faith. To Messi for proving he’s the best ever. And to America 🇺🇸 for hosting such a wonderful event. Enhorabuena tíos 🇪🇸!</title>
-      <link>https://x.com/rauchg/status/2078975602028106050</link>
-      <description>作者：Guillermo Rauch
-账号：@rauchg
-简介：@vercel CEO
-
-Thankful to 🇦🇷 Argentina for once again giving it all. Grit, passion, talent, faith. To Messi for proving he’s the best ever. And to America 🇺🇸 for hosting such a wonderful event. Enhorabuena tíos 🇪🇸!</description>
-      <pubDate>Sun, 19 Jul 2026 22:49:43 +0000</pubDate>
-      <guid isPermaLink="false">2078975602028106050</guid>
-    </item>
-    <item>
-      <title>A lot of people make the mistake of thinking that when AI costs drop, that spend on AI drops with it. Usually the opposite happens.   When you make AI cheaper, it will get consumed more. Because now you can afford to use for a wider of tasks than you did before. You start to write more code. You rev...</title>
-      <link>https://x.com/levie/status/2078968158006939716</link>
-      <description>作者：Aaron Levie
-账号：@levie
-简介：ceo @box - your business lives in content. unleash it with AI
-
-A lot of people make the mistake of thinking that when AI costs drop, that spend on AI drops with it. Usually the opposite happens. 
-
-When you make AI cheaper, it will get consumed more. Because now you can afford to use for a wider of tasks than you did before. You start to write more code. You review more code for bugs and security. You run agents on large data sets you couldn’t process before. And so on.
-
-Thus, for the foreseeable future, anything that lowers the cost of tokens will drive up inference demand.
-
-This also gives you some insight also into why even open source business models work in AI. No one is running these models on their devices; they’re running them in infra. Great time to be one of those providers.</description>
-      <pubDate>Sun, 19 Jul 2026 22:20:08 +0000</pubDate>
-      <guid isPermaLink="false">2078968158006939716</guid>
-    </item>
-    <item>
-      <title>“Thank you for that bath” https://t.co/tIwy2BbhF3</title>
-      <link>https://x.com/mattturck/status/2078966428208664631</link>
-      <description>作者：Matt Turck
-账号：@mattturck
-简介：VC at @FirstMarkCap.  Host: MAD Podcast; Organizer: Data Driven NYC, Author: MAD Landscape.
-
-“Thank you for that bath” https://t.co/tIwy2BbhF3</description>
-      <pubDate>Sun, 19 Jul 2026 22:13:16 +0000</pubDate>
-      <guid isPermaLink="false">2078966428208664631</guid>
-    </item>
-    <item>
-      <title>All the aggravation, attitude, fouls, taunting, vulgarity, fans throwing bottles at fans from the opposing team, to produce ZERO shot on goal during the final. https://t.co/YOcdR160r4</title>
-      <link>https://x.com/mattturck/status/2078964431225036896</link>
-      <description>作者：Matt Turck
-账号：@mattturck
-简介：VC at @FirstMarkCap.  Host: MAD Podcast; Organizer: Data Driven NYC, Author: MAD Landscape.
-
-All the aggravation, attitude, fouls, taunting, vulgarity, fans throwing bottles at fans from the opposing team, to produce ZERO shot on goal during the final. https://t.co/YOcdR160r4</description>
-      <pubDate>Sun, 19 Jul 2026 22:05:20 +0000</pubDate>
-      <guid isPermaLink="false">2078964431225036896</guid>
-    </item>
-    <item>
-      <title>Let’s go España!</title>
-      <link>https://x.com/amasad/status/2078964311985422463</link>
-      <description>作者：Amjad Masad
-账号：@amasad
-简介：ceo @replit. civilizationist
-
-Let’s go España!</description>
-      <pubDate>Sun, 19 Jul 2026 22:04:51 +0000</pubDate>
-      <guid isPermaLink="false">2078964311985422463</guid>
-    </item>
-    <item>
-      <title>Really frustrating that a talented team like Argentina is resorting to such dirty tactics..  Like each player is so SO good.   Why all the antics?   Constantly complaining and looking for a foul while playing haramball the entire game.   On a WC final too (sigh)  Vamos Spain 🇪🇸</title>
-      <link>https://x.com/nikunj/status/2078963708504465814</link>
-      <description>作者：Nikunj Kothari
-账号：@nikunj
-简介：partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian &amp; others. love @shimoleejhaveri + 👦👧
-
-Really frustrating that a talented team like Argentina is resorting to such dirty tactics..
-
-Like each player is so SO good. 
-
-Why all the antics? 
-
-Constantly complaining and looking for a foul while playing haramball the entire game. 
-
-On a WC final too (sigh)
-
-Vamos Spain 🇪🇸</description>
-      <pubDate>Sun, 19 Jul 2026 22:02:28 +0000</pubDate>
-      <guid isPermaLink="false">2078963708504465814</guid>
-    </item>
-    <item>
-      <title>Argentinian goalkeeper sure is earning his salary.</title>
-      <link>https://x.com/AmandaAskell/status/2078952214664798283</link>
-      <description>作者：Amanda Askell
-账号：@AmandaAskell
-简介：Philosopher &amp; ethicist trying to make AI be good @AnthropicAI.
-Personal account. All opinions come from my training data.
-
-Argentinian goalkeeper sure is earning his salary.</description>
-      <pubDate>Sun, 19 Jul 2026 21:16:47 +0000</pubDate>
-      <guid isPermaLink="false">2078952214664798283</guid>
-    </item>
-    <item>
-      <title>🟥 what a moron through and through https://t.co/HI6yWHI1PJ</title>
-      <link>https://x.com/mattturck/status/2078951464815174060</link>
-      <description>作者：Matt Turck
-账号：@mattturck
-简介：VC at @FirstMarkCap.  Host: MAD Podcast; Organizer: Data Driven NYC, Author: MAD Landscape.
-
-🟥 what a moron through and through https://t.co/HI6yWHI1PJ</description>
-      <pubDate>Sun, 19 Jul 2026 21:13:48 +0000</pubDate>
-      <guid isPermaLink="false">2078951464815174060</guid>
-    </item>
-    <item>
-      <title>Yes it just passed some barrier  Have been able to automatically do ~70% of the copy edits we would ordinarily do by hand internally @every for the last week   First time that’s happened and I’ve been trying it for years https://t.co/TgmIoJZWHt</title>
-      <link>https://x.com/danshipper/status/2078920115140358585</link>
+      <title>https://t.co/HfFp5SlucN</title>
+      <link>https://x.com/danshipper/status/2079338909801071021</link>
       <description>作者：Dan Shipper
 账号：@danshipper
 简介：ceo @every | the only subscription you need to stay at the edge of AI
 
-Yes it just passed some barrier
-
-Have been able to automatically do ~70% of the copy edits we would ordinarily do by hand internally @every for the last week 
-
-First time that’s happened and I’ve been trying it for years https://t.co/TgmIoJZWHt</description>
-      <pubDate>Sun, 19 Jul 2026 19:09:14 +0000</pubDate>
-      <guid isPermaLink="false">2078920115140358585</guid>
+https://t.co/HfFp5SlucN</description>
+      <pubDate>Mon, 20 Jul 2026 22:53:23 +0000</pubDate>
+      <guid isPermaLink="false">2079338909801071021</guid>
     </item>
     <item>
-      <title>Incidentally, I’m very bullish on cybersecurity as one of the best benchmarks for superintelligence. The “IQ test” of software engineering.  The best engineers I’ve worked with in my career have usually had a deep background or interest in security.  It’s actually easy for a model to “one-shot an XY...</title>
-      <link>https://x.com/rauchg/status/2078912929714356698</link>
-      <description>作者：Guillermo Rauch
-账号：@rauchg
-简介：@vercel CEO
+      <title>we’re hiring a senior engineer to help work on our agent @every   must love agents. dm if you’re interested (for now preferencing for people I know on here!) https://t.co/RNbNiBQVoL</title>
+      <link>https://x.com/danshipper/status/2079331654359818503</link>
+      <description>作者：Dan Shipper
+账号：@danshipper
+简介：ceo @every | the only subscription you need to stay at the edge of AI
 
-Incidentally, I’m very bullish on cybersecurity as one of the best benchmarks for superintelligence. The “IQ test” of software engineering.
+we’re hiring a senior engineer to help work on our agent @every 
 
-The best engineers I’ve worked with in my career have usually had a deep background or interest in security.
-
-It’s actually easy for a model to “one-shot an XYZ clone” and impress people on X. But that’s not a good test.
-
-Finding, patching, reversing, and exploiting require a cognitive skill that transcends programming languages, runtimes, frameworks… It demands true reasoning power from the model and “corner thinking”. Very, very few humans excel at this, let alone in ordinary day-to-day software writing.
-
-Seeing Kimi K3 do so well here bodes well for open models.</description>
-      <pubDate>Sun, 19 Jul 2026 18:40:41 +0000</pubDate>
-      <guid isPermaLink="false">2078912929714356698</guid>
+must love agents. dm if you’re interested (for now preferencing for people I know on here!) https://t.co/RNbNiBQVoL</description>
+      <pubDate>Mon, 20 Jul 2026 22:24:33 +0000</pubDate>
+      <guid isPermaLink="false">2079331654359818503</guid>
     </item>
     <item>
-      <title>here goes https://t.co/TMg4KbJTmb</title>
-      <link>https://x.com/swyx/status/2078912371901481110</link>
-      <description>作者：Swyx
-账号：@swyx
-简介：achieve ambition with intentionality, intensity, integrity &amp; insanity.
-
-affiliations:
-- @dxtipshq 
-- @cognition
-- @temporalio
-- @aidotengineer
-- @latentspacepod
-
-here goes https://t.co/TMg4KbJTmb</description>
-      <pubDate>Sun, 19 Jul 2026 18:38:28 +0000</pubDate>
-      <guid isPermaLink="false">2078912371901481110</guid>
-    </item>
-    <item>
-      <title>IYKYK https://t.co/w0L5l6MBkl</title>
-      <link>https://x.com/steipete/status/2078904784753729962</link>
-      <description>作者：Peter Steinberger
-账号：@steipete
-简介：Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world.
-@OpenClaw🦞 + @OpenAI
-
-IYKYK https://t.co/w0L5l6MBkl</description>
-      <pubDate>Sun, 19 Jul 2026 18:08:19 +0000</pubDate>
-      <guid isPermaLink="false">2078904784753729962</guid>
-    </item>
-    <item>
-      <title>working more on a post about what we learned doing this and how you can apply this to your skills and system prompts https://t.co/ChfVbKEGic</title>
-      <link>https://x.com/trq212/status/2078901672441790818</link>
-      <description>作者：Thariq
-账号：@trq212
-简介：Claude Code @anthropicai.   prev YC W20, @southpkcommons, @medialab
-
-working more on a post about what we learned doing this and how you can apply this to your skills and system prompts https://t.co/ChfVbKEGic</description>
-      <pubDate>Sun, 19 Jul 2026 17:55:57 +0000</pubDate>
-      <guid isPermaLink="false">2078901672441790818</guid>
-    </item>
-    <item>
-      <title>gm 🇦🇷 https://t.co/VvmH85aj3m</title>
-      <link>https://x.com/rauchg/status/2078896698869375396</link>
-      <description>作者：Guillermo Rauch
-账号：@rauchg
-简介：@vercel CEO
-
-gm 🇦🇷 https://t.co/VvmH85aj3m</description>
-      <pubDate>Sun, 19 Jul 2026 17:36:11 +0000</pubDate>
-      <guid isPermaLink="false">2078896698869375396</guid>
-    </item>
-    <item>
-      <title>Good post if you’re trying to understand AI diffusion. Progress driven by AI will ultimately be rate limited by its interaction with the real world.   The reason coding, for instance, has been adopted so quickly is you can write a near infinite amount of code, test it, and run it -and it can add val...</title>
-      <link>https://x.com/levie/status/2078864191683969212</link>
-      <description>作者：Aaron Levie
-账号：@levie
-简介：ceo @box - your business lives in content. unleash it with AI
-
-Good post if you’re trying to understand AI diffusion. Progress driven by AI will ultimately be rate limited by its interaction with the real world. 
-
-The reason coding, for instance, has been adopted so quickly is you can write a near infinite amount of code, test it, and run it -and it can add value- without anyone in the outside world ever having to do anything differently. A single person, from a computer, can just make something work end-to-end differently.
-
-This is not true for life sciences, where new drug development eventually needs to be tested for years. Doing a sale, which requires going back and forth with a prospect. Or even a contract, which has to be negotiated on the other side by your counterparty. 
-
-“An AI will hand you a genuinely clever design for a jet turbine blade. It might be far more likely to work than anything your engineers came up with. It'll still probably fail, because that's the base rate at the edge of what anyone knows. The only way to find out is to build the blade and try to break it.
-
-That's the real limit on learning, and it doesn't care how smart you are. Coming up with ideas was never the hard part. The hard part is how fast reality answers them.”
-
-Incidentally, this is why you need an applied AI that actually takes intelligence and makes it useful within the workflows of existing industries. Model outputs -alone- are not enough in most cases. You need to actually change the underlying workflows, and you need systems to deal with the realities of the real world feedback loops that are in these industries.
-
-This is why there’s so much opportunity in the applied AI layer.</description>
-      <pubDate>Sun, 19 Jul 2026 15:27:01 +0000</pubDate>
-      <guid isPermaLink="false">2078864191683969212</guid>
-    </item>
-    <item>
-      <title>Renoir paintings you can send to your better half saying “could be us”..  1. you want to ask someone out 2. you’re ready to get married 3. you’re ready to have a kid https://t.co/hFHY79q2pu</title>
-      <link>https://x.com/nikunj/status/2078845194934296745</link>
+      <title>Many founders in the last 18 months are going to realize that just because there are no “moats” in AI left anymore doesn’t mean “scale and capital” become your main moat.  We have seen this movie before.. all of us will benefit from reading a little bit of history.  Webvan Groupon MySpace Yahoo Alta...</title>
+      <link>https://x.com/nikunj/status/2079328912912355470</link>
       <description>作者：Nikunj Kothari
 账号：@nikunj
 简介：partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian &amp; others. love @shimoleejhaveri + 👦👧
 
-Renoir paintings you can send to your better half saying “could be us”..
+Many founders in the last 18 months are going to realize that just because there are no “moats” in AI left anymore doesn’t mean “scale and capital” become your main moat.
 
-1. you want to ask someone out
-2. you’re ready to get married
-3. you’re ready to have a kid https://t.co/hFHY79q2pu</description>
-      <pubDate>Sun, 19 Jul 2026 14:11:32 +0000</pubDate>
-      <guid isPermaLink="false">2078845194934296745</guid>
+We have seen this movie before.. all of us will benefit from reading a little bit of history.
+
+Webvan
+Groupon
+MySpace
+Yahoo
+AltaVista
+Blockbuster
+Nokia
+(zombiecorns of 2021)
+
+Each one was structurally and capital-wise in a very good position, but eventually got beat by a company with a much better unique insight. Or just collapsed under the weight of their own scale. 
+
+This is the needle founders have to thread: find a unique insight worth a 10+ year journey, while being prudent enough to not let capital &amp; scale become a substitute for it.</description>
+      <pubDate>Mon, 20 Jul 2026 22:13:39 +0000</pubDate>
+      <guid isPermaLink="false">2079328912912355470</guid>
     </item>
     <item>
-      <title>We need to get used to the idea that code/software can now be disposable  Some examples (all are discarded after usage): 1. Creating design playgrounds/modals for yourself to fine-tune the look and feel of a design 2. Creating HTML pages to help you understand the code 3. Spinning up a throwaway das...</title>
-      <link>https://x.com/zarazhangrui/status/2078835308905578660</link>
-      <description>作者：Zara Zhang
-账号：@zarazhangrui
-简介：Builder. Dangerously skips permissions. Harvard’17. GitHub: https://t.co/KCuEajezlL YouTube: https://t.co/8xzbGWtf6w
+      <title>1) What https://t.co/kHWwdn0ZQs</title>
+      <link>https://x.com/petergyang/status/2079324894320603619</link>
+      <description>作者：Peter Yang
+账号：@petergyang
+简介：Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6
 
-We need to get used to the idea that code/software can now be disposable
-
-Some examples (all are discarded after usage):
-1. Creating design playgrounds/modals for yourself to fine-tune the look and feel of a design
-2. Creating HTML pages to help you understand the code
-3. Spinning up a throwaway dashboard to inspect something once</description>
-      <pubDate>Sun, 19 Jul 2026 13:32:15 +0000</pubDate>
-      <guid isPermaLink="false">2078835308905578660</guid>
+1) What https://t.co/kHWwdn0ZQs</description>
+      <pubDate>Mon, 20 Jul 2026 21:57:41 +0000</pubDate>
+      <guid isPermaLink="false">2079324894320603619</guid>
     </item>
     <item>
-      <title>Whenever someone asks me &quot;I'm just getting started with posting content on social media; what should I talk about?&quot;  My answer is: What are the top 3 questions that you get asked most frequently by friends/acquaintances/colleagues? Turn those answers into videos/posts. Just say it like how you said ...</title>
-      <link>https://x.com/zarazhangrui/status/2078830510177128481</link>
-      <description>作者：Zara Zhang
-账号：@zarazhangrui
-简介：Builder. Dangerously skips permissions. Harvard’17. GitHub: https://t.co/KCuEajezlL YouTube: https://t.co/8xzbGWtf6w
+      <title>guys I’m basically Brian Johnson https://t.co/vgDGWhxBlZ</title>
+      <link>https://x.com/danshipper/status/2079320969802400200</link>
+      <description>作者：Dan Shipper
+账号：@danshipper
+简介：ceo @every | the only subscription you need to stay at the edge of AI
 
-Whenever someone asks me &quot;I'm just getting started with posting content on social media; what should I talk about?&quot;
-
-My answer is: What are the top 3 questions that you get asked most frequently by friends/acquaintances/colleagues? Turn those answers into videos/posts. Just say it like how you said it to them in real life. That is your positioning.
-
-If you have repeatedly said something for &gt;3 times, it's worth turning into a video
-
-One of my initial motivations for posting on social media was because I was tired of repeating myself in real life</description>
-      <pubDate>Sun, 19 Jul 2026 13:13:11 +0000</pubDate>
-      <guid isPermaLink="false">2078830510177128481</guid>
+guys I’m basically Brian Johnson https://t.co/vgDGWhxBlZ</description>
+      <pubDate>Mon, 20 Jul 2026 21:42:05 +0000</pubDate>
+      <guid isPermaLink="false">2079320969802400200</guid>
     </item>
     <item>
-      <title>Markdown files are universal and will survive millennia  Unsurprisingly they are a fantastic data format when the intelligence stack is in flux at this extreme pace https://t.co/yV6nhMnekU</title>
-      <link>https://x.com/garrytan/status/2078803803659452624</link>
+      <title>First physical product shipped by a coding agent? https://t.co/1PSIT9yvOT</title>
+      <link>https://x.com/amasad/status/2079282869063786541</link>
+      <description>作者：Amjad Masad
+账号：@amasad
+简介：ceo @replit. civilizationist
+
+First physical product shipped by a coding agent? https://t.co/1PSIT9yvOT</description>
+      <pubDate>Mon, 20 Jul 2026 19:10:41 +0000</pubDate>
+      <guid isPermaLink="false">2079282869063786541</guid>
+    </item>
+    <item>
+      <title>The big lesson from AI is that everything is code. A slide deck is code. Design is code. That cool promo video? Code. Excel automation? Code. The universe? Probably made of code too.</title>
+      <link>https://x.com/rauchg/status/2079274102129304026</link>
+      <description>作者：Guillermo Rauch
+账号：@rauchg
+简介：@vercel CEO
+
+The big lesson from AI is that everything is code. A slide deck is code. Design is code. That cool promo video? Code. Excel automation? Code. The universe? Probably made of code too.</description>
+      <pubDate>Mon, 20 Jul 2026 18:35:51 +0000</pubDate>
+      <guid isPermaLink="false">2079274102129304026</guid>
+    </item>
+    <item>
+      <title>Banning Chinese models will be the same self own as banning Chinese EVs.</title>
+      <link>https://x.com/petergyang/status/2079273815004303477</link>
+      <description>作者：Peter Yang
+账号：@petergyang
+简介：Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6
+
+Banning Chinese models will be the same self own as banning Chinese EVs.</description>
+      <pubDate>Mon, 20 Jul 2026 18:34:43 +0000</pubDate>
+      <guid isPermaLink="false">2079273815004303477</guid>
+    </item>
+    <item>
+      <title>it is good now! https://t.co/eiG0VDwrTe</title>
+      <link>https://x.com/sama/status/2079258683884917013</link>
+      <description>作者：Sam Altman
+账号：@sama
+简介：AI is cool i guess
+
+it is good now! https://t.co/eiG0VDwrTe</description>
+      <pubDate>Mon, 20 Jul 2026 17:34:35 +0000</pubDate>
+      <guid isPermaLink="false">2079258683884917013</guid>
+    </item>
+    <item>
+      <title>Use one agent to do the work and another to review it against a rubric.  @trq212 explains how this works for video shorts:  “For something like, ‘Is this a good video short or not?’ you don’t have a deterministic answer.  You should have a separate verification agent read a rubric, review the short,...</title>
+      <link>https://x.com/petergyang/status/2079257646939742542</link>
+      <description>作者：Peter Yang
+账号：@petergyang
+简介：Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6
+
+Use one agent to do the work and another to review it against a rubric.
+
+@trq212 explains how this works for video shorts:
+
+“For something like, ‘Is this a good video short or not?’ you don’t have a deterministic answer.
+
+You should have a separate verification agent read a rubric, review the short, and give feedback.
+
+We call it self-preferential bias. When a model prefers its own output, it’s going to be more lenient at verifying it.”
+
+📌 Watch the full episode here: https://t.co/mMrt4D5qU7</description>
+      <pubDate>Mon, 20 Jul 2026 17:30:28 +0000</pubDate>
+      <guid isPermaLink="false">2079257646939742542</guid>
+    </item>
+    <item>
+      <title>Compute rules everything around me CREAM https://t.co/LkOQBYaDfu</title>
+      <link>https://x.com/garrytan/status/2079240755135357356</link>
       <description>作者：Garry Tan
 账号：@garrytan
 简介：President &amp; CEO @ycombinator —Founder @garryslist—Creator of GStack &amp; GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop
 
-Markdown files are universal and will survive millennia
-
-Unsurprisingly they are a fantastic data format when the intelligence stack is in flux at this extreme pace https://t.co/yV6nhMnekU</description>
-      <pubDate>Sun, 19 Jul 2026 11:27:03 +0000</pubDate>
-      <guid isPermaLink="false">2078803803659452624</guid>
+Compute rules everything around me CREAM https://t.co/LkOQBYaDfu</description>
+      <pubDate>Mon, 20 Jul 2026 16:23:21 +0000</pubDate>
+      <guid isPermaLink="false">2079240755135357356</guid>
     </item>
     <item>
-      <title>GSkills anyone? https://t.co/bu5JO2dbbc</title>
-      <link>https://x.com/garrytan/status/2078803084785111120</link>
+      <title>Four years post peak web3 and crypto tokenomics debates…  turns out the tokenomics debate that matters is open vs closed weight, inference costs and model routing. https://t.co/THz3HEyx1d</title>
+      <link>https://x.com/realmadhuguru/status/2079227605031829700</link>
+      <description>作者：Madhu Guru
+账号：@realmadhuguru
+简介：Sr Director, AI at Meta; Prev: Google - Led Gemini, Veo, Nano Banana.
+
+Four years post peak web3 and crypto tokenomics debates…
+
+turns out the tokenomics debate that matters is open vs closed weight, inference costs and model routing. https://t.co/THz3HEyx1d</description>
+      <pubDate>Mon, 20 Jul 2026 15:31:05 +0000</pubDate>
+      <guid isPermaLink="false">2079227605031829700</guid>
+    </item>
+    <item>
+      <title>There are basically two kinds of companies now. The ones built before coding agents showed up, scrambling to retrofit. And the ones founded after.   The second type is different from day one: - Teams under ten people because they actually don't need more - Work organized by projects, not departments...</title>
+      <link>https://x.com/zarazhangrui/status/2079225776545968166</link>
+      <description>作者：Zara Zhang
+账号：@zarazhangrui
+简介：Builder. Dangerously skips permissions. Harvard’17. GitHub: https://t.co/KCuEajezlL YouTube: https://t.co/8xzbGWtf6w
+
+There are basically two kinds of companies now. The ones built before coding agents showed up, scrambling to retrofit. And the ones founded after. 
+
+The second type is different from day one:
+- Teams under ten people because they actually don't need more
+- Work organized by projects, not departments
+- Each person closes their own loop
+- Almost no internal meetings</description>
+      <pubDate>Mon, 20 Jul 2026 15:23:49 +0000</pubDate>
+      <guid isPermaLink="false">2079225776545968166</guid>
+    </item>
+    <item>
+      <title>This VC to “fast growing startup” train is insane to watch.. another three people just this past week.   I guess it’s similar to the IB/consultant to BizOps train I saw in 2012.   Top title for this cohort?   Special projects ⚡️ https://t.co/FqarRFC8Iw</title>
+      <link>https://x.com/nikunj/status/2079211477127291350</link>
+      <description>作者：Nikunj Kothari
+账号：@nikunj
+简介：partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian &amp; others. love @shimoleejhaveri + 👦👧
+
+This VC to “fast growing startup” train is insane to watch.. another three people just this past week. 
+
+I guess it’s similar to the IB/consultant to BizOps train I saw in 2012. 
+
+Top title for this cohort? 
+
+Special projects ⚡️ https://t.co/FqarRFC8Iw</description>
+      <pubDate>Mon, 20 Jul 2026 14:27:00 +0000</pubDate>
+      <guid isPermaLink="false">2079211477127291350</guid>
+    </item>
+    <item>
+      <title>OpenAI and Anthropic when a top free Chinese open source model drops  https://t.co/Dh3hjgv0y1</title>
+      <link>https://x.com/mattturck/status/2079198838741458989</link>
+      <description>作者：Matt Turck
+账号：@mattturck
+简介：VC at @FirstMarkCap.  Host: MAD Podcast; Organizer: Data Driven NYC, Author: MAD Landscape.
+
+OpenAI and Anthropic when a top free Chinese open source model drops  https://t.co/Dh3hjgv0y1</description>
+      <pubDate>Mon, 20 Jul 2026 13:36:47 +0000</pubDate>
+      <guid isPermaLink="false">2079198838741458989</guid>
+    </item>
+    <item>
+      <title>Great reminder to stay frosty https://t.co/mJNqrKnYt5</title>
+      <link>https://x.com/garrytan/status/2079196804315521332</link>
       <description>作者：Garry Tan
 账号：@garrytan
 简介：President &amp; CEO @ycombinator —Founder @garryslist—Creator of GStack &amp; GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop
 
-GSkills anyone? https://t.co/bu5JO2dbbc</description>
-      <pubDate>Sun, 19 Jul 2026 11:24:12 +0000</pubDate>
-      <guid isPermaLink="false">2078803084785111120</guid>
+Great reminder to stay frosty https://t.co/mJNqrKnYt5</description>
+      <pubDate>Mon, 20 Jul 2026 13:28:42 +0000</pubDate>
+      <guid isPermaLink="false">2079196804315521332</guid>
     </item>
     <item>
-      <title>Stripe's AI Chief: How AI Agents Will Buy, Sell, and Pay</title>
-      <link>https://www.youtube.com/@DataDrivenNYC/videos</link>
-      <description>播客：The MAD Podcast with Matt Turck
+      <title>this was a bug that was only live for a few minutes, ran into it on my personal account while doing some late night coding though</title>
+      <link>https://x.com/trq212/status/2079105479125741675</link>
+      <description>作者：Thariq
+账号：@trq212
+简介：Claude Code @anthropicai.   prev YC W20, @southpkcommons, @medialab
 
-Speaker 1 | 00:00 - 00:17
-Fraudsters have figured out that in AI, you actually don't really need to steal money or credentials. You can just steal tokens. And the scale of this actually shocked me when I looked at the data. So more than one in six signups at AI companies are this kind of abuse. Whatever.
+this was a bug that was only live for a few minutes, ran into it on my personal account while doing some late night coding though</description>
+      <pubDate>Mon, 20 Jul 2026 07:25:48 +0000</pubDate>
+      <guid isPermaLink="false">2079105479125741675</guid>
+    </item>
+    <item>
+      <title>Travel Through the Lens of AI with with Booking.com CEO Glenn Fogel</title>
+      <link>https://www.youtube.com/watch?v=8nj_0wZkbtA</link>
+      <description>播客：No Priors
 
-Speaker 1 | 00:17 - 00:41
-The dine and dash, but it's for token. When I go and ask my friends and family whether they'd be comfortable letting an agent buy things on their behalf, they usually jump straight to like, well, is it gonna overspend, and is it gonna buy the wrong thing, and can I stop it? And those are actually all legitimate concerns. And it's not Emily permissioning an agent to buy on her behalf. It's Emily has an agent who's tasked with running a business, and that includes buying some things and selling some things and making some profits.
+Speaker 1 | 00:00 - 00:13
+There is no such thing as a moat. There is no such thing as somewhere you're gonna be protected against innovation. Today, we have a competitive advantage on areas. Absolutely. But those can go away tomorrow.
 
-Speaker 1 | 00:41 - 00:45
-And that'll be the world that I would like to be talking about twelve months from now.
+Speaker 1 | 00:13 - 00:24
+The only one to win long term is to continue to develop new services, new ways to do things. How can we do your business better? What do you need? Where you need more demand? Where are you hurting?
 
-Speaker 2 | 00:45 - 00:58
-Hi. I'm Matt Turk. Welcome back to the Matt podcast. Today, I'm excited to be joined again by Emily Sense, head of data and AI at Stripe. The rise of agentic commerce has only accelerated since Emily and I talked about it last year.
+Speaker 1 | 00:24 - 00:36
+It's so much more complex. Complex. If you think you're just gonna come in and do this business and knock away these very big players, I'd say you should really understand what the business is before you decide to commit your capital.
 
-Speaker 2 | 00:58 - 01:40
-And in this conversation, we go deep on the economic stack for AI agents, how agents buy and sell on your behalf, why per seat pricing is breaking, token monetization, token theft, which Emily calls the most under discussed topic in all of AI, and finally, whether agents may eventually run entire businesses on their own. Please enjoy my conversation with the always excellent Emily Sense. All right, so welcome back. You and I chatted about a year ago and the theme of the discussion we had was all about the rise of organic commerce. Keeping in mind that obviously this is a long term trend that's going to take a while to play out.
+Speaker 2 | 00:43 - 01:16
+Today on our priors, we're talking with Glenn Fogel, the CEO of Booking Holdings, a twenty something year veteran of the company who joined when it was just Priceline and worth a few $100,000,000 in the year 2000 and has since helped grow it to a $100,000,000,000 plus company with multiple massive assets across travel that are now being used in the AI era. We will talk about a variety of topics with Glenn that span everything from, the growth and changes that have happened in bookings over time, as well as his own career and perspective on AI. So, Glenn, thank you so much for joining us today.
 
-Speaker 2 | 01:40 - 01:49
-I'm curious about what you've observed over the last twelve months. What has become reality and what is yet to be built?
+Speaker 1 | 01:16 - 01:18
+Well, thank you very much for having me.
 
-Speaker 1 | 01:49 - 02:14
-Yeah. I mean, a year ago, we were talking about agents as buyers in a pretty hypothetical way. I think that the canonical experiences, the consumer experiences, for example, weren't defined. We were largely reasoning kind of from first principles about what this might look like. Fast forward a year, as you know, like, still early innings, still a lot to do, but we have actual infrastructure deployed.
+Speaker 2 | 01:18 - 01:37
+Yeah. So you've had a really interesting career. You know, you went to Wharton, you went to Harvard Law. Along the way, you worked in, I think, the MIS program at Morgan Stanley. I'd love to just hear a little bit about your early background and how that led you eventually to booking.com and eventually Booking Holdings.
 
-Speaker 1 | 02:14 - 02:37
-We have real companies building on it. We have real patterns to learn from. And to be clear, like, the the shape of how this unfolds has become more clear and it's going to continue to evolve. So specifically, what we've come to believe is there's a full spectrum of how agentic commerce plays out. And that's actually really important for businesses in how they think about it.
+Speaker 1 | 01:37 - 02:00
+Sure. I can do that. So real short, I came out of work with Green Finance, and now I end up at the back office in MIS. My first job is putting tapes on a drive in a data center of IBM thirty eighty fours and the discs that went and and the tape drives and put the put the tapes on on the drive. That's where I started.
 
-Speaker 1 | 02:37 - 03:08
-So at one end, and this is where our machine payments protocol lives, but basically, have agents that are out autonomously discovering a service and deciding to buy it and handling the transactions, like, on their own. Right? Like, no human in the loop. And that's maybe what people think of when they say agent ecommerce, but that's just one end of the spectrum. There's also the whole other end of the spectrum where, like, people are looking for shoes for flat footed runners inside an AI surface, And the AI surface gives you an answer.
+Speaker 1 | 02:00 - 02:15
+There's an operator. Actually, being an operator of a mainframe, very different. Nothing that you prepared for that in college for that. And I then become you become a developer, and you but I basically learned that this is not a career for me. I should do something else.
 
-Speaker 1 | 03:08 - 03:33
-And increasingly, you know, that was true also in sort of traditional search, but now increasingly that answer comes with a buy button. And so, you know, this is already how a huge number of people are discovering products. If you're a business, you need to show up there. And we've been building the infrastructure to make it, a, easy for businesses to show up and, b, easy for agents, to execute those those transactions. So, you asked about sort of what's become more concrete.
+Speaker 1 | 02:15 - 02:41
+And all the people I knew, undergrad and were and were going off to investment bank and made all this money, and I thought, fuck. Try to do that, but you can't go. I've now gone down one shoot, and you can't just jump out of that one to go become an investment banker. So I said, oh, I I agree to finance warrant, Harvard let me into law school, so I'll do that because that's another route. I did that, and I end up getting a job on Wall Street as a banker.
 
-Speaker 1 | 03:33 - 03:59
-We recently partnered with Google so merchants can sell, right inside AI mode and the Gemini app. So, you know, maybe you shop at JD Sports because I was on the topic of running shoes or Fanatics or Quints. Those were all early adopters. Microsoft and OpenAI, we're doing something similar with them, like helping businesses make their products discoverable inside Copilot and ChatGPT. Meta is another example, a little bit of a different flavor, but we're powering checkout right inside ads.
+Speaker 1 | 02:41 - 03:04
+I did that for till '95 till 1995. And then the bank was bought by another bank, and they fired all the bankers almost, not every bank. Fired most, including me, but not everybody because they fired everybody because they well, they fired everybody. But they didn't fire everybody. So you there was a there was actually some people were picked to stay.
 
-Speaker 1 | 03:59 - 04:48
-So there's the discovery and then the one click and the agent actually goes and executes the transaction on your behalf. But really, I'd say, like, what we've learned over the last year, the through line is like whether we're talking about, like, fully agent led transactions transactions with with MPP MPP or these very sort of human led purchases inside AI surfaces, there's just a new set of infrastructure that needs to work no matter where you are in the spectrum. And and that includes I mean, it's it's the premise behind our agentic commerce suite. But briefly, like, businesses need to be able to expose their products and their catalogs and their prices. And then consumers need to be able to authorize agents to pay on their behalf, and then agents need to be able to safely execute, that transaction.
+Speaker 1 | 03:05 - 03:31
+That was not one of them. That that's pretty bad. So a real good lesson, though, having been fired and knowing what it's like, that is something that I've kept with me throughout my career about how to do it right and how to do it wrong and understand what goes through the other person when you tell them that I'm sorry, but there's no longer a room for you here and this is not the place for you to be. And I I really learned that firsthand being on that side of the table. And so now I'm unemployed.
 
-Speaker 1 | 04:48 - 05:05
-So, that is the infrastructure we have built. Those are some of the partners that we've been working with. And I would say, like, you know, the companies building on it probably give you a good read of where commerce is headed. Right? So companies like Wix and Shopify and BigCommerce and Commerce Tools sort of on the platform side.
+Speaker 1 | 03:31 - 03:50
+And my father had just died, not that long before this happened. My father's died, lost a job. My grandmother died, and he and the dog died, which was kind of sad. And I'm like, what do want to do with my life now? My young thirties, I'm alone, I'm saying no, whatever.
 
-Speaker 1 | 05:06 - 05:47
-And then, on the brand side, like Best Buy and Coach and URBN and Kate Spade. But again, it's still early and what the interaction patterns will be and how they'll evolve. And I'm particularly interested in, like, how quickly consumers will give up more of the decisioning process and really move from consumer happening over here where AI helps you find the product and the agent is the one sort of, helping you avoid going through cumbersome checkout flows, to a time when we say, I don't know, I have a $500 budget for back to school shopping, and you already know everything about my kids and their school and where I live. So, like, get it done. Or I don't even tell you when you just go do it for me.
+Speaker 1 | 03:50 - 04:03
+And I said, you know, I always wanted to write a book. So I start writing a book, I write a novel, I get it done, and now I'm going try and get it published. And it's not really self publishing, man. You weren't doing it on your own. You're trying to get some agent to pick it up.
 
-Speaker 1 | 05:47 - 05:50
-But but I think we will need to learn that over the coming year or two.
+Speaker 1 | 04:03 - 04:19
+And I was introduced to a woman as a a blind date girlfriend. And I think she was a lawyer, but I'm sorry. I don't know. They said, well, she used to work at Random House as an editor. I said, oh, I'm very interested in how you did the And so we have a date, and the book never gets published.
 
-Speaker 2 | 05:50 - 06:02
-Is there a framework for Urgente Commerce, that you guys came up with or, like, somebody in the industry came up with that? So that would almost be, like, the levels of autonomy for self driving cars, like, you know, l one, you discover
+Speaker 1 | 04:19 - 04:35
+But I do end up marrying her and have two great kids and has wonderful life. But while I was trying to get the book, you know, an agent to be interested in it, eventually, she said, you know, if this relationship's gonna go forward, you should get a job. I said, damn. Boy, I should. I didn't wanna go back to banking.
 
-Speaker 1 | 06:03 - 06:08
-We do. Literally. Yes. Oh my gosh. It's like we have, like, level one, level two, level three.
+Speaker 1 | 04:35 - 04:46
+And I said, I don't know. And a friend of mine from law school was a senior type person at Morgan Stanley. And he I told him, look. Amy says I have to get a job. How do thought?
 
-Speaker 1 | 06:08 - 06:45
-And it basically if you if you think about it, it's just like the the highest level is sort of the the MPP version that I talked about where the agent is, like, truly autonomous. And sort of the level one is, the human does basically all of the decisioning themselves, and it's the simple execution of the transaction. And I would say sort of on the consumer side, we're mostly hovering level two. People are delegating a little bit of the selection or leaning hard on the AI to help find the product, maybe a hint of level three, but, like, you know, we're not in a world where you're booking your summer vacation one shotting it with an LLM.
+Speaker 1 | 04:46 - 04:54
+She said, well, we have this trading position here that you could do. I never traded anything in my life. He said, don't worry. You'll be fine. It's like, okay.
 
-Speaker 2 | 06:45 - 06:59
-And what would you describe from a vendor standpoint? That's that would be sort of like level three, so that that's a reality as of today. Right? So you can already get a recommendation, and then you you press the the the button. That's sort of where are.
+Speaker 1 | 04:54 - 05:09
+So I end up being head trader for a guy named Barton Bay. He's kind of a Wall Street legend and stuff. I do that for a number of years, but I just don't like it. It's not that ex it's just not for me. And that's when the Internet was really taking off that first real explosion.
 
-Speaker 2 | 06:59 - 07:04
-And an example of this would be ChatGPT Instant Checkout, for example, where you get the recommendation.
+Speaker 1 | 05:09 - 05:33
+You know, the Internet boom. That's late nineties. So 1999, I started trying to interview, I think, well, I got some skills. But when I was an IT person, I got that. And I know a little bit about corporate development because being a trusted banker, and I started interviewing the only real company on the East Coast at the time of Internet, you know, abilities was Priceline.
 
-Speaker...</description>
-      <pubDate>Thu, 09 Jul 2026 11:30:01 +0000</pubDate>
-      <guid>https://www.youtube.com/@DataDrivenNYC/videos</guid>
+Speaker 1 | 05:33 - 05:53
+And they had a job for corporate development. It was perfect. So I get an offer from them, but I said, wanna wait. I wanna wait till I get my bonus for 1999 when it gets paid at the February 2000. So I go and I get my bonus check out, ready to start, And that's when, of course, that's when the Nasdaq peaked.
+
+Speaker 1 | 05:53 - 06:19
+Thereby having gotten long Internet a week before when the Nasdaq peaked and stopped. And it it proved that I shouldn't be a trader having just Yeah. The wrong way. And, know, Priceline has its difficulties after that. Our stock went from where we were when we went public, we in a week or so, we were 30,000,000,000, which back then was real money and that meant something back then.
+
+Speaker 1 | 06:19 - 06:36
+And by the time I joined I joined after the I you know, few months after the IPO, when I joined, we're probably down about 15,000,000,000. That's now, you know, February, March of 2,000. In nine months, our market cap is now down to just a couple of 100,000,000.
+
+Speaker 2 | 06:36 - 06:37
+Wow.
+
+Speaker 1 | 06:37 - 06:49
+And our stock is now trading at a dollar a share. We're gonna get delisted because it's dropping below a dollar a share. But stick with it. We do a reverse split to make sure we don't get delisted. So it goes to $6 a share.
+
+Speaker 1 | 06:49 - 07:07
+I stay, and I've been there twenty seven on my twenty seventh year. Wow. And we went from that that now reverse split $6. And in last summer, we came very close to $6,000 So over that Yeah. You know, a little more than a quarter of a century, up a thousand times.
+
+Speaker 1 | 07:08 - 07:13
+And, you know, market cap was peaking around 180,000,000,000. Remember, it's a few 100,000,000.
+
+Speaker 2 | 07:13 - 07:15
+Yeah. It's amazing.
+
+Speaker 1 | 07:15 - 07:26
+It's b...</description>
+      <pubDate>Thu, 09 Jul 2026 10:00:00 +0000</pubDate>
+      <guid>https://www.youtube.com/watch?v=8nj_0wZkbtA</guid>
     </item>
   </channel>
 </rss>
