@@ -5,47 +5,107 @@
     <link>https://github.com/zarazhangrui/follow-builders</link>
     <description>聚合 AI 领域建设者的 X、播客和博客内容。</description>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 29 Jul 2026 01:25:59 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2026 08:16:26 +0000</lastBuildDate>
     <item>
-      <title>We’re entering a new era of exploration.  Our ancestors mapped the Earth. Then they explored space.  Our generation may explore the computational universe: the vast space of algorithms, programs, proofs, and designs that AI agents can search. https://t.co/UWK6nBPVQ8</title>
-      <link>https://x.com/amasad/status/2082000490066592127</link>
+      <title>Serving large models is hard. https://t.co/nCbfTx9lp3</title>
+      <link>https://x.com/steipete/status/2082337130299457652</link>
+      <description>作者：Peter Steinberger
+账号：@steipete
+简介：Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world.
+@OpenClaw🦞 + @OpenAI
+
+Serving large models is hard. https://t.co/nCbfTx9lp3</description>
+      <pubDate>Wed, 29 Jul 2026 05:27:14 +0000</pubDate>
+      <guid isPermaLink="false">2082337130299457652</guid>
+    </item>
+    <item>
+      <title>One day we created the reset button and the rest is history.</title>
+      <link>https://x.com/thsottiaux/status/2082326593532473523</link>
+      <description>作者：Thibault Sottiaux
+账号：@thsottiaux
+简介：Codex &amp; ChatGPT @OpenAI
+
+One day we created the reset button and the rest is history.</description>
+      <pubDate>Wed, 29 Jul 2026 04:45:22 +0000</pubDate>
+      <guid isPermaLink="false">2082326593532473523</guid>
+    </item>
+    <item>
+      <title>These are all valid criticisms of Codex, even though I love the product too!  I actually had no idea that Sol Pro even existed - is this better than Sol High? Why isn’t it available in Codex? https://t.co/nrPsjAgfk1 https://t.co/nFmz6awv7d</title>
+      <link>https://x.com/petergyang/status/2082323512069685575</link>
+      <description>作者：Peter Yang
+账号：@petergyang
+简介：Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6
+
+These are all valid criticisms of Codex, even though I love the product too!
+
+I actually had no idea that Sol Pro even existed - is this better than Sol High? Why isn’t it available in Codex? https://t.co/nrPsjAgfk1 https://t.co/nFmz6awv7d</description>
+      <pubDate>Wed, 29 Jul 2026 04:33:07 +0000</pubDate>
+      <guid isPermaLink="false">2082323512069685575</guid>
+    </item>
+    <item>
+      <title>Hello people of Sol! I've reset usage limits for all ChatGPT Work and Codex users. Together with that, a quick update on GPT-5.6 Sol usage limits.  Over the past few weeks, many of you have told us that Sol was using your Codex limits faster than expected. To be clear, we have not reduced usage on a...</title>
+      <link>https://x.com/thsottiaux/status/2082317452755751098</link>
+      <description>作者：Thibault Sottiaux
+账号：@thsottiaux
+简介：Codex &amp; ChatGPT @OpenAI
+
+Hello people of Sol! I've reset usage limits for all ChatGPT Work and Codex users. Together with that, a quick update on GPT-5.6 Sol usage limits.
+
+Over the past few weeks, many of you have told us that Sol was using your Codex limits faster than expected. To be clear, we have not reduced usage on any subscription plans.
+
+We’ve been digging into what was happening and have landed several improvements. As a result, we expect your usage to last around 18% longer during typical use of Sol. Some of you should already see significantly larger improvements from today. Tomorrow, we’ll also restore the five-hour limit that we temporarily paused while investigating.
+
+Here’s what we found:
+- GPT-5.6 Sol is much more willing to work for longer, make additional tool calls, and coordinate complex workflows across tools and subagents. That makes it better at solving hard problems, but some tasks were using far more than we intended.
+- Sol also works harder at the same reasoning effort than previous models. High on Sol can use more tokens than High did on GPT-5.5.
+- Programmatic tool calling, also referred to as code mode, gives Sol much more flexibility to run tool calls in parallel or continue working while waiting. But it also led to more responses per turn, more cached input tokens, and higher usage than expected.
+- This was particularly noticeable when Sol was waiting for tool calls to finish or running many web searches. We’ve improved how we handle both cases and are continuing to make code mode more efficient.
+- The impact was also very uneven. The median user actually found Sol quite token efficient, while some power users working on harder tasks saw their usage drain much faster. We were very focused on average and median usage before launch and missed some cases where the long tail could use significantly more usage.
+
+Sol is a significant step forward in what Codex can do, but capability and efficiency do not always improve at the same pace, and some issues only become clear once people are using the model at real-world scale. We should have recognized this sooner and been more upfront about it.
+
+You keep pushing the frontier and we’ll keep improving efficiency and sharing updates as we go.</description>
+      <pubDate>Wed, 29 Jul 2026 04:09:02 +0000</pubDate>
+      <guid isPermaLink="false">2082317452755751098</guid>
+    </item>
+    <item>
+      <title>Who’s writing an open letter against destroying rare books? https://t.co/6xOyRREqw1</title>
+      <link>https://x.com/amasad/status/2082317323445387514</link>
       <description>作者：Amjad Masad
 账号：@amasad
 简介：ceo @replit. civilizationist
 
-We’re entering a new era of exploration.
-
-Our ancestors mapped the Earth. Then they explored space.
-
-Our generation may explore the computational universe: the vast space of algorithms, programs, proofs, and designs that AI agents can search. https://t.co/UWK6nBPVQ8</description>
-      <pubDate>Tue, 28 Jul 2026 07:09:33 +0000</pubDate>
-      <guid isPermaLink="false">2082000490066592127</guid>
+Who’s writing an open letter against destroying rare books? https://t.co/6xOyRREqw1</description>
+      <pubDate>Wed, 29 Jul 2026 04:08:32 +0000</pubDate>
+      <guid isPermaLink="false">2082317323445387514</guid>
     </item>
     <item>
-      <title>I used Claude Code as my primary interface for my two week trip and then asked it to do a full retrospective on what we can do better next time around.. https://t.co/o0ejibRT33</title>
-      <link>https://x.com/nikunj/status/2081992618649547100</link>
-      <description>作者：Nikunj Kothari
-账号：@nikunj
-简介：partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian &amp; others. love @shimoleejhaveri + 👦👧
+      <title>Imagine SETI@Home, where you donated compute to search for aliens, but instead you donate compute to search math proofs. https://t.co/5Stl475G4a</title>
+      <link>https://x.com/amasad/status/2082316553740284060</link>
+      <description>作者：Amjad Masad
+账号：@amasad
+简介：ceo @replit. civilizationist
 
-I used Claude Code as my primary interface for my two week trip and then asked it to do a full retrospective on what we can do better next time around.. https://t.co/o0ejibRT33</description>
-      <pubDate>Tue, 28 Jul 2026 06:38:16 +0000</pubDate>
-      <guid isPermaLink="false">2081992618649547100</guid>
+Imagine SETI@Home, where you donated compute to search for aliens, but instead you donate compute to search math proofs. https://t.co/5Stl475G4a</description>
+      <pubDate>Wed, 29 Jul 2026 04:05:28 +0000</pubDate>
+      <guid isPermaLink="false">2082316553740284060</guid>
     </item>
     <item>
-      <title>How I get endless content ideas, in one picture https://t.co/UFpOlNKd82</title>
-      <link>https://x.com/zarazhangrui/status/2081983750658044079</link>
-      <description>作者：Zara Zhang
-账号：@zarazhangrui
-简介：Builder. Dangerously skips permissions. Harvard’17. GitHub: https://t.co/KCuEajezlL YouTube: https://t.co/8xzbGWtf6w
+      <title>1300 Elo!  https://t.co/4WJ9SYmr1o https://t.co/87CcHf43N7 https://t.co/pk1AR8uNzd</title>
+      <link>https://x.com/amasad/status/2082316150273360316</link>
+      <description>作者：Amjad Masad
+账号：@amasad
+简介：ceo @replit. civilizationist
 
-How I get endless content ideas, in one picture https://t.co/UFpOlNKd82</description>
-      <pubDate>Tue, 28 Jul 2026 06:03:02 +0000</pubDate>
-      <guid isPermaLink="false">2081983750658044079</guid>
+1300 Elo!
+
+https://t.co/4WJ9SYmr1o https://t.co/87CcHf43N7 https://t.co/pk1AR8uNzd</description>
+      <pubDate>Wed, 29 Jul 2026 04:03:52 +0000</pubDate>
+      <guid isPermaLink="false">2082316150273360316</guid>
     </item>
     <item>
-      <title>@ArtificialAnlys i love you @Kimi_Moonshot https://t.co/4lLeh8OHbH</title>
-      <link>https://x.com/swyx/status/2081979163117052311</link>
+      <title>https://t.co/uwzHs4G1nt https://t.co/K6E6EHYPeh</title>
+      <link>https://x.com/swyx/status/2082287480687272053</link>
       <description>作者：Swyx
 账号：@swyx
 简介：achieve ambition with intentionality, intensity, integrity &amp; insanity.
@@ -57,444 +117,235 @@ affiliations:
 - @aidotengineer
 - @latentspacepod
 
-@ArtificialAnlys i love you @Kimi_Moonshot https://t.co/4lLeh8OHbH</description>
-      <pubDate>Tue, 28 Jul 2026 05:44:48 +0000</pubDate>
-      <guid isPermaLink="false">2081979163117052311</guid>
+https://t.co/uwzHs4G1nt https://t.co/K6E6EHYPeh</description>
+      <pubDate>Wed, 29 Jul 2026 02:09:57 +0000</pubDate>
+      <guid isPermaLink="false">2082287480687272053</guid>
     </item>
     <item>
-      <title>Update. I have decided to take a break from x to recharge a bit. See you back tomorrow for more ChatGPT and Codex fun. It's going to be a fun week.</title>
-      <link>https://x.com/thsottiaux/status/2081979033261412537</link>
-      <description>作者：Thibault Sottiaux
-账号：@thsottiaux
-简介：Codex &amp; ChatGPT @OpenAI
-
-Update. I have decided to take a break from x to recharge a bit. See you back tomorrow for more ChatGPT and Codex fun. It's going to be a fun week.</description>
-      <pubDate>Tue, 28 Jul 2026 05:44:17 +0000</pubDate>
-      <guid isPermaLink="false">2081979033261412537</guid>
-    </item>
-    <item>
-      <title>“The magic you’re looking for is in the work you’re avoiding” https://t.co/kWosMDyt3z</title>
-      <link>https://x.com/zarazhangrui/status/2081976736854737164</link>
-      <description>作者：Zara Zhang
-账号：@zarazhangrui
-简介：Builder. Dangerously skips permissions. Harvard’17. GitHub: https://t.co/KCuEajezlL YouTube: https://t.co/8xzbGWtf6w
-
-“The magic you’re looking for is in the work you’re avoiding” https://t.co/kWosMDyt3z</description>
-      <pubDate>Tue, 28 Jul 2026 05:35:09 +0000</pubDate>
-      <guid isPermaLink="false">2081976736854737164</guid>
-    </item>
-    <item>
-      <title>Back at the laptop. The usage limits have been reset for all paid users of Codex and ChatGPT Work. Weeeeeeeee. It's a good day! https://t.co/Li7De9EDHz</title>
-      <link>https://x.com/thsottiaux/status/2081940052154933696</link>
-      <description>作者：Thibault Sottiaux
-账号：@thsottiaux
-简介：Codex &amp; ChatGPT @OpenAI
-
-Back at the laptop. The usage limits have been reset for all paid users of Codex and ChatGPT Work. Weeeeeeeee. It's a good day! https://t.co/Li7De9EDHz</description>
-      <pubDate>Tue, 28 Jul 2026 03:09:23 +0000</pubDate>
-      <guid isPermaLink="false">2081940052154933696</guid>
-    </item>
-    <item>
-      <title>The negative AI jobs outcome just continues to not be happening as some predicted. A large portion of enterprises I talk with -across industries- are still hiring, just with a tilt in the kind of roles they’re going after.  They’re finding that AI is letting them do more, and Jevons paradox is actua...</title>
-      <link>https://x.com/levie/status/2081930301752942703</link>
-      <description>作者：Aaron Levie
-账号：@levie
-简介：ceo @box - your business lives in content. unleash it with AI
-
-The negative AI jobs outcome just continues to not be happening as some predicted. A large portion of enterprises I talk with -across industries- are still hiring, just with a tilt in the kind of roles they’re going after.
-
-They’re finding that AI is letting them do more, and Jevons paradox is actually playing out. They’re hiring engineers to go after problems they couldn’t tackle before. They’re hiring in sales because they can go deeper in client relationships now with the help of AI. They’re hiring in internal FDEs to help them deploy AI. And so on.
-
-Anyone using AI merely to cut costs eventually just gets outcompeted by companies that use AI to better serve their customers and drive more breakthroughs in their business. 
-
-Could this trend change at some point? Sure. But for now this appears to be the trajectory we’re on.</description>
-      <pubDate>Tue, 28 Jul 2026 02:30:38 +0000</pubDate>
-      <guid isPermaLink="false">2081930301752942703</guid>
-    </item>
-    <item>
-      <title>Eclipse where u at https://t.co/DM9r6rsOYH</title>
-      <link>https://x.com/thenanyu/status/2081926688250691884</link>
-      <description>作者：Nan Yu
-账号：@thenanyu
-简介：head of product @linear
-
-Eclipse where u at https://t.co/DM9r6rsOYH</description>
-      <pubDate>Tue, 28 Jul 2026 02:16:17 +0000</pubDate>
-      <guid isPermaLink="false">2081926688250691884</guid>
-    </item>
-    <item>
-      <title>incidentally, $ per input/output tokens died as a relevant cost measure sometime last year  if you haven’t updated your x axes to $/task per @ArtificialAnlys then idk if you can be taken seriously anymore these days https://t.co/EJPJiNwT8I</title>
-      <link>https://x.com/swyx/status/2081904230768816487</link>
-      <description>作者：Swyx
-账号：@swyx
-简介：achieve ambition with intentionality, intensity, integrity &amp; insanity.
-
-affiliations:
-- @smol_ai
-- @dxtipshq
-- @cognition
-- @aidotengineer
-- @latentspacepod
-
-incidentally, $ per input/output tokens died as a relevant cost measure sometime last year
-
-if you haven’t updated your x axes to $/task per @ArtificialAnlys then idk if you can be taken seriously anymore these days https://t.co/EJPJiNwT8I</description>
-      <pubDate>Tue, 28 Jul 2026 00:47:03 +0000</pubDate>
-      <guid isPermaLink="false">2081904230768816487</guid>
-    </item>
-    <item>
-      <title>We’re celebrating the fast adoption of chatGPT Work and all the incredible effort that went into it today. I’m feeling like a limit reset.  Hold on tight to your ultra and /fast and see you in a few hours when I’m back at the laptop!</title>
-      <link>https://x.com/thsottiaux/status/2081899343091843463</link>
-      <description>作者：Thibault Sottiaux
-账号：@thsottiaux
-简介：Codex &amp; ChatGPT @OpenAI
-
-We’re celebrating the fast adoption of chatGPT Work and all the incredible effort that went into it today. I’m feeling like a limit reset.
-
-Hold on tight to your ultra and /fast and see you in a few hours when I’m back at the laptop!</description>
-      <pubDate>Tue, 28 Jul 2026 00:27:37 +0000</pubDate>
-      <guid isPermaLink="false">2081899343091843463</guid>
-    </item>
-    <item>
-      <title>as the progenitor of the agent lab thesis which got the evals/routing/interactivity/ROI focus right   i gotta say the biggest argument against myself is that Claude Code got accidentally &quot;open sourced&quot; this year and approximately ~nothing happened to either it or its competitors' roadmaps</title>
-      <link>https://x.com/swyx/status/2081890955070980416</link>
-      <description>作者：Swyx
-账号：@swyx
-简介：achieve ambition with intentionality, intensity, integrity &amp; insanity.
-
-affiliations:
-- @smol_ai
-- @dxtipshq
-- @cognition
-- @aidotengineer
-- @latentspacepod
-
-as the progenitor of the agent lab thesis which got the evals/routing/interactivity/ROI focus right
-
- i gotta say the biggest argument against myself is that Claude Code got accidentally &quot;open sourced&quot; this year and approximately ~nothing happened to either it or its competitors' roadmaps</description>
-      <pubDate>Mon, 27 Jul 2026 23:54:18 +0000</pubDate>
-      <guid isPermaLink="false">2081890955070980416</guid>
-    </item>
-    <item>
-      <title>See you this weekend! https://t.co/zXgLnQvZJp</title>
-      <link>https://x.com/steipete/status/2081865727443902654</link>
-      <description>作者：Peter Steinberger
-账号：@steipete
-简介：Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world.
-@OpenClaw🦞 + @OpenAI
-
-See you this weekend! https://t.co/zXgLnQvZJp</description>
-      <pubDate>Mon, 27 Jul 2026 22:14:03 +0000</pubDate>
-      <guid isPermaLink="false">2081865727443902654</guid>
-    </item>
-    <item>
-      <title>In our latest https://t.co/p9AoezbuGt benchmarks, Grok 4.5 has emerged as the best cybersecurity AI model on price-performance.  It's 10x cheaper than Sol, 5.7x cheaper than Opus 5, and 2.2x cheaper than Kimi K3, yet at Kimi-like perf.  Sol remains the frontier, ahead of Opus 5. https://t.co/kcSDIqn...</title>
-      <link>https://x.com/rauchg/status/2081852481517318560</link>
-      <description>作者：Guillermo Rauch
-账号：@rauchg
-简介：@vercel CEO
-
-In our latest https://t.co/p9AoezbuGt benchmarks, Grok 4.5 has emerged as the best cybersecurity AI model on price-performance.
-
-It's 10x cheaper than Sol, 5.7x cheaper than Opus 5, and 2.2x cheaper than Kimi K3, yet at Kimi-like perf.
-
-Sol remains the frontier, ahead of Opus 5. https://t.co/kcSDIqnXsN</description>
-      <pubDate>Mon, 27 Jul 2026 21:21:25 +0000</pubDate>
-      <guid isPermaLink="false">2081852481517318560</guid>
-    </item>
-    <item>
-      <title>🇪🇺/acc https://t.co/mpwxrMi5FP</title>
-      <link>https://x.com/rauchg/status/2081845695112446364</link>
-      <description>作者：Guillermo Rauch
-账号：@rauchg
-简介：@vercel CEO
-
-🇪🇺/acc https://t.co/mpwxrMi5FP</description>
-      <pubDate>Mon, 27 Jul 2026 20:54:27 +0000</pubDate>
-      <guid isPermaLink="false">2081845695112446364</guid>
-    </item>
-    <item>
-      <title>Kimi's paper underlines the importance of the right security boundary for agents to run in.  tl:DR: container-level isolation is not enough. In their experiments, agents crashed the underlying machine (via kernel panics).  Firecracker microVMs (as in Vercel Sandbox) are safe. https://t.co/wvbdBo5Ng8...</title>
-      <link>https://x.com/rauchg/status/2081842439304995169</link>
-      <description>作者：Guillermo Rauch
-账号：@rauchg
-简介：@vercel CEO
-
-Kimi's paper underlines the importance of the right security boundary for agents to run in.
-
-tl:DR: container-level isolation is not enough. In their experiments, agents crashed the underlying machine (via kernel panics).
-
-Firecracker microVMs (as in Vercel Sandbox) are safe. https://t.co/wvbdBo5Ng8 https://t.co/OFCWYaiKw7</description>
-      <pubDate>Mon, 27 Jul 2026 20:41:30 +0000</pubDate>
-      <guid isPermaLink="false">2081842439304995169</guid>
-    </item>
-    <item>
-      <title>wrong https://t.co/RdhTY34gQW</title>
-      <link>https://x.com/sama/status/2081832600591892712</link>
-      <description>作者：Sam Altman
-账号：@sama
-简介：AI is cool i guess
-
-wrong https://t.co/RdhTY34gQW</description>
-      <pubDate>Mon, 27 Jul 2026 20:02:25 +0000</pubDate>
-      <guid isPermaLink="false">2081832600591892712</guid>
-    </item>
-    <item>
-      <title>TIL Micro, the company that makes those kids scooters you see everywhere , also makes a fully electric car that opens from the front..   It’s so freaking cute! https://t.co/pu3AqjMTLF</title>
-      <link>https://x.com/nikunj/status/2081805464757485706</link>
-      <description>作者：Nikunj Kothari
-账号：@nikunj
-简介：partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian &amp; others. love @shimoleejhaveri + 👦👧
-
-TIL Micro, the company that makes those kids scooters you see everywhere , also makes a fully electric car that opens from the front.. 
-
-It’s so freaking cute! https://t.co/pu3AqjMTLF</description>
-      <pubDate>Mon, 27 Jul 2026 18:14:35 +0000</pubDate>
-      <guid isPermaLink="false">2081805464757485706</guid>
-    </item>
-    <item>
-      <title>We do all the amazing security work with some of the best teams in the world and people still think we're unsafe. 🙃 https://t.co/S0m1yJVRtj</title>
-      <link>https://x.com/steipete/status/2081790109415002468</link>
-      <description>作者：Peter Steinberger
-账号：@steipete
-简介：Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world.
-@OpenClaw🦞 + @OpenAI
-
-We do all the amazing security work with some of the best teams in the world and people still think we're unsafe. 🙃 https://t.co/S0m1yJVRtj</description>
-      <pubDate>Mon, 27 Jul 2026 17:13:34 +0000</pubDate>
-      <guid isPermaLink="false">2081790109415002468</guid>
-    </item>
-    <item>
-      <title>Most product review meetings are annoying because they’re poorly run.  The best product reviews compress months of learnings into an hour by simulating the market reaction to your ideas.   That only works if the people in the room deeply understand the space, have great product sense, strong opinion...</title>
-      <link>https://x.com/realmadhuguru/status/2081781952437486052</link>
-      <description>作者：Madhu Guru
-账号：@realmadhuguru
-简介：Sr Director, AI at Meta; Prev: Google - Led Gemini, Veo, Nano Banana.
-
-Most product review meetings are annoying because they’re poorly run.
-
-The best product reviews compress months of learnings into an hour by simulating the market reaction to your ideas. 
-
-That only works if the people in the room deeply understand the space, have great product sense, strong opinions, and are often right.
-
-Too many product reviews have drifted toward status updates, leadership visibility, and cross-functional alignment.
-
-When that happens, people naturally resent them because it feels more like overhead and less like learning.</description>
-      <pubDate>Mon, 27 Jul 2026 16:41:09 +0000</pubDate>
-      <guid isPermaLink="false">2081781952437486052</guid>
-    </item>
-    <item>
-      <title>I asked @jxnlco (DevEx at OpenAI): “What’s the craziest thing Codex did for you?”  Here’s his answer:  “I was on a bike ride when a coworker asked me to fix a launch video. So I connected remotely from my phone and asked Codex to use computer use to edit the video, export it, and post it back to Sla...</title>
-      <link>https://x.com/petergyang/status/2081775399097549083</link>
-      <description>作者：Peter Yang
-账号：@petergyang
-简介：Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6
-
-I asked @jxnlco (DevEx at OpenAI): “What’s the craziest thing Codex did for you?”
-
-Here’s his answer:
-
-“I was on a bike ride when a coworker asked me to fix a launch video. So I connected remotely from my phone and asked Codex to use computer use to edit the video, export it, and post it back to Slack.
-
-Twenty minutes later, there was a new video in the Slack thread. Then I told Codex:
-
-‘Every 30 minutes, check the thread for feedback and export V2, V3, V4.’
-
-By the time I got home, the launch video was greenlit.”
-
-Codex had handled the revisions by repeatedly checking Slack for feedback.
-
-📌 Watch the full episode here: https://t.co/DulNtYvqGD</description>
-      <pubDate>Mon, 27 Jul 2026 16:15:07 +0000</pubDate>
-      <guid isPermaLink="false">2081775399097549083</guid>
-    </item>
-    <item>
-      <title>A lot of very smart people work very hard to make the product very good and nice to use.   If you have very smart people, you should have them make your own product very good and nice to use. And pay us a nominal fee to use our product. https://t.co/tS6cSzIUg0</title>
-      <link>https://x.com/thenanyu/status/2081768780045156358</link>
-      <description>作者：Nan Yu
-账号：@thenanyu
-简介：head of product @linear
-
-A lot of very smart people work very hard to make the product very good and nice to use. 
-
-If you have very smart people, you should have them make your own product very good and nice to use. And pay us a nominal fee to use our product. https://t.co/tS6cSzIUg0</description>
-      <pubDate>Mon, 27 Jul 2026 15:48:49 +0000</pubDate>
-      <guid isPermaLink="false">2081768780045156358</guid>
-    </item>
-    <item>
-      <title>My agent reported a bug, their agent fixed it. [in the same night] @jarredsumner's robobun setup is future. https://t.co/KQI5cqvzRP</title>
-      <link>https://x.com/steipete/status/2081767828278170002</link>
-      <description>作者：Peter Steinberger
-账号：@steipete
-简介：Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world.
-@OpenClaw🦞 + @OpenAI
-
-My agent reported a bug, their agent fixed it. [in the same night]
-@jarredsumner's robobun setup is future. https://t.co/KQI5cqvzRP</description>
-      <pubDate>Mon, 27 Jul 2026 15:45:02 +0000</pubDate>
-      <guid isPermaLink="false">2081767828278170002</guid>
-    </item>
-    <item>
-      <title>More takeaways and prompts in this written post: https://t.co/BgPIKOfA9L</title>
-      <link>https://x.com/petergyang/status/2081767570198401263</link>
-      <description>作者：Peter Yang
-账号：@petergyang
-简介：Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6
-
-More takeaways and prompts in this written post:
-https://t.co/BgPIKOfA9L</description>
-      <pubDate>Mon, 27 Jul 2026 15:44:00 +0000</pubDate>
-      <guid isPermaLink="false">2081767570198401263</guid>
-    </item>
-    <item>
-      <title>Jason walked through how he uses Codex throughout his workday in our interview.  📌 Watch it here if you missed it: https://t.co/K0gpWLQw4H</title>
-      <link>https://x.com/petergyang/status/2081767558408175867</link>
-      <description>作者：Peter Yang
-账号：@petergyang
-简介：Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6
-
-Jason walked through how he uses Codex throughout his workday in our interview.
-
-📌 Watch it here if you missed it: https://t.co/K0gpWLQw4H</description>
-      <pubDate>Mon, 27 Jul 2026 15:43:57 +0000</pubDate>
-      <guid isPermaLink="false">2081767558408175867</guid>
-    </item>
-    <item>
-      <title>The k3 weights have arrived https://t.co/3v8u3myvGA</title>
-      <link>https://x.com/levie/status/2081760710108012702</link>
-      <description>作者：Aaron Levie
-账号：@levie
-简介：ceo @box - your business lives in content. unleash it with AI
-
-The k3 weights have arrived https://t.co/3v8u3myvGA</description>
-      <pubDate>Mon, 27 Jul 2026 15:16:45 +0000</pubDate>
-      <guid isPermaLink="false">2081760710108012702</guid>
-    </item>
-    <item>
-      <title>if true, this sucks and shouldn't continue with rare books https://t.co/iRUJbl5UKR</title>
-      <link>https://x.com/danshipper/status/2081754482568835152</link>
+      <title>or the reason is you don’t have the illness i have where wading through dense, abstract sentences is extremely calming https://t.co/yZH95T9H6p</title>
+      <link>https://x.com/danshipper/status/2082273076352315440</link>
       <description>作者：Dan Shipper
 账号：@danshipper
 简介：ceo @every | the only subscription you need to stay at the edge of AI
 
-if true, this sucks and shouldn't continue with rare books https://t.co/iRUJbl5UKR</description>
-      <pubDate>Mon, 27 Jul 2026 14:52:00 +0000</pubDate>
-      <guid isPermaLink="false">2081754482568835152</guid>
+or the reason is you don’t have the illness i have where wading through dense, abstract sentences is extremely calming https://t.co/yZH95T9H6p</description>
+      <pubDate>Wed, 29 Jul 2026 01:12:42 +0000</pubDate>
+      <guid isPermaLink="false">2082273076352315440</guid>
     </item>
     <item>
-      <title>&amp;gt; be @santa_kaus  &amp;gt; be a rockstar engineer at @openai &amp;gt; have infinite rizz and taste &amp;gt; burns tokens like no one else &amp;gt; (sometimes) posts performative tennis photos to show he touches grass &amp;gt; but still refuses to get a gf &amp;gt; X do your thing, please slide into his DMs 🙏 https://t.c...</title>
-      <link>https://x.com/nikunj/status/2081750712761852341</link>
-      <description>作者：Nikunj Kothari
-账号：@nikunj
-简介：partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian &amp; others. love @shimoleejhaveri + 👦👧
+      <title>This is why i do anti depressants and stimulants.   Dynamism x2. Join me America! https://t.co/yXB5FbDGsJ</title>
+      <link>https://x.com/danshipper/status/2082270947793350785</link>
+      <description>作者：Dan Shipper
+账号：@danshipper
+简介：ceo @every | the only subscription you need to stay at the edge of AI
 
-&amp;gt; be @santa_kaus 
-&amp;gt; be a rockstar engineer at @openai
-&amp;gt; have infinite rizz and taste
-&amp;gt; burns tokens like no one else
-&amp;gt; (sometimes) posts performative tennis photos to show he touches grass
-&amp;gt; but still refuses to get a gf
-&amp;gt; X do your thing, please slide into his DMs 🙏 https://t.co/BHpood23Q7</description>
-      <pubDate>Mon, 27 Jul 2026 14:37:01 +0000</pubDate>
-      <guid isPermaLink="false">2081750712761852341</guid>
+This is why i do anti depressants and stimulants. 
+
+Dynamism x2. Join me America! https://t.co/yXB5FbDGsJ</description>
+      <pubDate>Wed, 29 Jul 2026 01:04:15 +0000</pubDate>
+      <guid isPermaLink="false">2082270947793350785</guid>
     </item>
     <item>
-      <title>New study shows that less than 40% of VCs have any successful investment  Every VC: “I’m so glad I’m in the 40%!” https://t.co/SosBeNiFrf</title>
-      <link>https://x.com/mattturck/status/2081679801769668980</link>
-      <description>作者：Matt Turck
-账号：@mattturck
-简介：VC at @FirstMarkCap.  Host: MAD Podcast; Organizer: Data Driven NYC, Author: MAD Landscape.
+      <title>i'm just reporting; many counter examples if you dislike this trend: https://t.co/YZ7z66bEVk  see Edison on @latentspacepod https://t.co/3BDUegJrWf here</title>
+      <link>https://x.com/swyx/status/2082255848492183583</link>
+      <description>作者：Swyx
+账号：@swyx
+简介：achieve ambition with intentionality, intensity, integrity &amp; insanity.
 
-New study shows that less than 40% of VCs have any successful investment
+affiliations:
+- @smol_ai
+- @dxtipshq
+- @cognition
+- @aidotengineer
+- @latentspacepod
 
-Every VC: “I’m so glad I’m in the 40%!” https://t.co/SosBeNiFrf</description>
-      <pubDate>Mon, 27 Jul 2026 09:55:15 +0000</pubDate>
-      <guid isPermaLink="false">2081679801769668980</guid>
+i'm just reporting; many counter examples if you dislike this trend: https://t.co/YZ7z66bEVk
+
+see Edison on @latentspacepod https://t.co/3BDUegJrWf here</description>
+      <pubDate>Wed, 29 Jul 2026 00:04:15 +0000</pubDate>
+      <guid isPermaLink="false">2082255848492183583</guid>
     </item>
     <item>
-      <title>The Founder of a $1.5B AI Company on What Comes After the First Wave of AI Apps</title>
-      <link>https://www.youtube.com/playlist?list=PLuMcoKK9mKgHtW_o9h5sGO2vXrffKHwJL</link>
-      <description>播客：AI &amp; I by Every
+      <title>I also built Tastemaker to see if I could turn a rough idea into a useful product with Claude Design and Claude Code.  I made a video walking through my full process, including:  1. Creating a design.md and HTML spec 2. Prototyping screens in Claude Design 3. Building and iterating with Claude Code ...</title>
+      <link>https://x.com/petergyang/status/2082254852600873376</link>
+      <description>作者：Peter Yang
+账号：@petergyang
+简介：Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6
 
-Speaker 1 | 00:00 - 00:07
-You are the cofounder and CEO of Granolah. One of the first new AI apps where people were like, holy shit. This actually works.
+I also built Tastemaker to see if I could turn a rough idea into a useful product with Claude Design and Claude Code.
 
-Speaker 2 | 00:07 - 00:24
-Meeting notes are not the end all, be all value that everyone's running after. There's something much bigger. I think we are in the very, very early steps of a computing revolution. What has come thus far will pale in comparison to what will come soon. Startups are like knife fights.
+I made a video walking through my full process, including:
 
-Speaker 2 | 00:24 - 00:29
-And I thought startups were just really hard when they weren't working. Turns out they're really hard even when they're working as well.
+1. Creating a design.md and HTML spec
+2. Prototyping screens in Claude Design
+3. Building and iterating with Claude Code
 
-Speaker 1 | 00:43 - 00:58
-Every is the only subscription you need to stay at the edge of AI. If you care about being on top of the latest models and using the latest tools, you have to subscribe to Every. We'll help you separate the signal from the noise. Go to every.to/ subscribe today. And now back to the episode.
+📌 Subscribe to get the full tutorial tomorrow: https://t.co/NSTj7ijxE0</description>
+      <pubDate>Wed, 29 Jul 2026 00:00:17 +0000</pubDate>
+      <guid isPermaLink="false">2082254852600873376</guid>
+    </item>
+    <item>
+      <title>I got tired of using IMDb to rate movies and TV shows, and Letterboxd doesn’t support video games.  So I built Tastemaker to let anyone curate their favorite movies, TV shows, and games all in one beautiful profile.  You can use it to:  → Rate and review your favorites → Create and share lists → Dis...</title>
+      <link>https://x.com/petergyang/status/2082254840655405293</link>
+      <description>作者：Peter Yang
+账号：@petergyang
+简介：Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6
 
-Speaker 1 | 00:58 - 01:00
-Chris, welcome to the show.
+I got tired of using IMDb to rate movies and TV shows, and Letterboxd doesn’t support video games.
 
-Speaker 2 | 01:00 - 01:02
-Hey, Dan. Great to see you.
+So I built Tastemaker to let anyone curate their favorite movies, TV shows, and games all in one beautiful profile.
 
-Speaker 1 | 01:03 - 01:23
-Good to see too. It's been a while. So for people who don't know, you are the cofounder and CEO of Granolah, one of my favorite AI apps. One of the apps that I think really kicked off the wave in the in, like, you know, I guess, two two or three years ago. It was the one of the first, like, new AI apps where people were like, holy shit.
+You can use it to:
 
-Speaker 1 | 01:23 - 01:45
-This actually works, and it's useful. And since then, you've gone on to I I think the team is about 55. You've you've you've raised at, a $1,500,000,000 valuation. You're just killing it. And we had a really good conversation in December 2024, so almost two and a half years ago about putting soul into your product and making products that are delightful.
+→ Rate and review your favorites
+→ Create and share lists
+→ Discover what to watch or play next
 
-Speaker 1 | 01:45 - 01:56
-And I'm just super curious to hear what's on your mind, how things are going, and to sort of share out both of our journeys over the last couple of years and and think about the future together.
+Because of API limits, I’m launching this as a limited release for the first 100 profiles only.
 
-Speaker 2 | 01:57 - 02:16
-Couldn't be more excited to chat. I I can I've been following all the different things you've been doing, from a distance. I'd to hear the latest from the inside on how that's going. Just to react on one thing you said, you said we're killing it, right? And we're very lucky, things are going well.
+📌 Claim your free profile now: https://t.co/HLkDespYE8</description>
+      <pubDate>Wed, 29 Jul 2026 00:00:15 +0000</pubDate>
+      <guid isPermaLink="false">2082254840655405293</guid>
+    </item>
+    <item>
+      <title>More opensource goodness. We have just released a CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities in your code. Scan repositories, review changes, track findings over time, and run security checks in CI.  https://t.co/nkfTbw8p7b</title>
+      <link>https://x.com/thsottiaux/status/2082241164850364555</link>
+      <description>作者：Thibault Sottiaux
+账号：@thsottiaux
+简介：Codex &amp; ChatGPT @OpenAI
 
-Speaker 2 | 02:17 - 02:41
-Something I was unprepared for, so I did a previous startup and startups are, they're knife fights, right? They're really, I don't know, maybe life's easy for you, but for me it's really hard. And I thought startups were just really hard when they weren't working. Turns out they're really hard when they're working as well. It's just, it's a knife fight when things are going well or not going well, and I was a bit unprepared for that.
+More opensource goodness. We have just released a CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities in your code. Scan repositories, review changes, track findings over time, and run security checks in CI.
 
-Speaker 2 | 02:41 - 03:03
-So it's just, I'm very, I had a professor in journalism school who, he was basically like the last thing the world needs is another profile that puts someone up, you know, it's like oh this person's so great. And it's like no, no, Everything's hard today. If I fight day in, day out, like that's that's my mentality. Just wanted to share that.
+https://t.co/nkfTbw8p7b</description>
+      <pubDate>Tue, 28 Jul 2026 23:05:54 +0000</pubDate>
+      <guid isPermaLink="false">2082241164850364555</guid>
+    </item>
+    <item>
+      <title>A decade ago…as I was going through my own Minus One journey and was lost in the fog of uncertainty, I got 2 pieces of deep personal insight:  1/ I want to build new things in the world 2/ I want to work with brilliant and intense people  On days such as this both feel abundant. https://t.co/muLvlHq...</title>
+      <link>https://x.com/adityaag/status/2082214798935326833</link>
+      <description>作者：Aditya Agarwal
+账号：@adityaag
+简介：General Partner @SouthPkCommons, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @Dropbox, Board @Flipkart | Optimist, Builder, Dad
 
-Speaker 1 | 03:03 - 03:24
-I feel you, man. I definitely feel the same way where I've been doing companies for a long time and Every is the first one that's, like, really growing and just really working in this way that feels like it's a real company. We have 30 people now, you know? Congrats. Thank you.
+A decade ago…as I was going through my own Minus One journey and was lost in the fog of uncertainty, I got 2 pieces of deep personal insight:
 
-Speaker 1 | 03:25 - 03:36
-And when it is working yeah. Like, a good example, clogged tag dropped yesterday. We've been working on a Slack agent. Clogged tag dropped yesterday. And so then everyone's looking at you like, what do we do?
+1/ I want to build new things in the world
+2/ I want to work with brilliant and intense people
 
-Speaker 1 | 03:36 - 04:07
-And I'm like, we've we've we're prepared for this. We've been thinking we know that we knew this was gonna happen. And the especially in AI, I feel like the ground shifts so quickly. And I I assume for you, like, one of the things you're you're talking to, and I'm talking about it, and I'm actually really curious, is you were the first one to do really great AI meeting notes and meeting transcriptions. And then immediately, everyone just, like, put meeting notes into their product.
+On days such as this both feel abundant. https://t.co/muLvlHqTp1</description>
+      <pubDate>Tue, 28 Jul 2026 21:21:08 +0000</pubDate>
+      <guid isPermaLink="false">2082214798935326833</guid>
+    </item>
+    <item>
+      <title>re: hiring right now  it's a huge bull market for AI-native IC's/player-coaches it's a huge bear market for &quot;heads of X&quot; managers  never seen such furious bifurcation. to oversimplify: 1 year experience managing 10 agents &amp;gt; 10 years experience managing 10-100 people</title>
+      <link>https://x.com/swyx/status/2082199414656127010</link>
+      <description>作者：Swyx
+账号：@swyx
+简介：achieve ambition with intentionality, intensity, integrity &amp; insanity.
 
-Speaker 1 | 04:08 - 04:12
-We actually we have a we have this product called Monologue that has me a meeting notes button, you know?
+affiliations:
+- @smol_ai
+- @dxtipshq
+- @cognition
+- @aidotengineer
+- @latentspacepod
 
-Speaker 2 | 04:12 - 04:12
-Oh, cool.
+re: hiring right now
 
-Speaker 1 | 04:12 - 04:27
-I didn't know that. So we're, like, slightly competitive. Yeah. I don't I don't really think of it as being an exact an exact one to one replacement. I actually have both on my computer, but but still, that's probably what you're referring to when you say knife fight.
+it's a huge bull market for AI-native IC's/player-coaches
+it's a huge bear market for &quot;heads of X&quot; managers
 
-Speaker 1 | 04:27 - 04:32
-So tell me about that. What is that like? How has that actually affected your business at all?
+never seen such furious bifurcation. to oversimplify: 1 year experience managing 10 agents &amp;gt; 10 years experience managing 10-100 people</description>
+      <pubDate>Tue, 28 Jul 2026 20:20:00 +0000</pubDate>
+      <guid isPermaLink="false">2082199414656127010</guid>
+    </item>
+    <item>
+      <title>It's OK to joke, but when it comes to your life, your intention, and your weltanschauung, be earnest as fuck https://t.co/cgQF2NPElz</title>
+      <link>https://x.com/garrytan/status/2082176112906711452</link>
+      <description>作者：Garry Tan
+账号：@garrytan
+简介：President &amp; CEO @ycombinator —Founder @garryslist—Creator of GStack &amp; GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop
 
-Speaker 2 | 04:32 - 05:02
-That's actually not what I was referring to as a knife fight. I mean, that's part of it. I think it's just, I guess what I was referring to is, I think by definition, a startup is, you're either fighting for survival. You're always fighting for survival and it's like, if things are going well, you're fighting to, it's like this big wave and you're like on the surfboard and you're trying desperately not to fall off that surfboard. And so you're kind of always just beyond the edge of your abilities.
+It's OK to joke, but when it comes to your life, your intention, and your weltanschauung, be earnest as fuck https://t.co/cgQF2NPElz</description>
+      <pubDate>Tue, 28 Jul 2026 18:47:24 +0000</pubDate>
+      <guid isPermaLink="false">2082176112906711452</guid>
+    </item>
+    <item>
+      <title>The original drafter of Sanctuary Cities never meant for this to happen   https://t.co/KqUOnhS8DG</title>
+      <link>https://x.com/garrytan/status/2082170934182756411</link>
+      <description>作者：Garry Tan
+账号：@garrytan
+简介：President &amp; CEO @ycombinator —Founder @garryslist—Creator of GStack &amp; GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop
 
-Speaker 2 | 05:03 - 05:47
-And it's almost like by definition and therefore I'm always doing, you always hear this as like, oh, it's like as a founder, you're always doing stuff you don't know how to do. It's like, oh yeah, actually that at least that had been my experience. It's like, I'm always just in the space where like it's stuff I've never done before or it's just more than we've ever like bit off in the past. Yeah, the competition, like here's my view and I feel like I've said this, let me think about it. When I think about this is going sound like one of those bullshit answers around competition.
+The original drafter of Sanctuary Cities never meant for this to happen 
+ https://t.co/KqUOnhS8DG</description>
+      <pubDate>Tue, 28 Jul 2026 18:26:50 +0000</pubDate>
+      <guid isPermaLink="false">2082170934182756411</guid>
+    </item>
+    <item>
+      <title>Sanctuary city policy was never meant to be used to protect fentanyl dealers or violent criminals https://t.co/jLsQzhfcuU</title>
+      <link>https://x.com/garrytan/status/2082169572212584877</link>
+      <description>作者：Garry Tan
+账号：@garrytan
+简介：President &amp; CEO @ycombinator —Founder @garryslist—Creator of GStack &amp; GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop
 
-Speaker 2 | 05:47 - 06:23
-There's always the interview where it's like, Hey, Microsoft just copied your product. How do you feel about it? And the founder has to come up with some answer. The way I view it is I think we are in the very, very early steps of a computing revolution and that there's What has come thus far will pale in comparison to what will come soon. I think that it doesn't Meeting notes are not the end all, be all value that everyone's running after.
+Sanctuary city policy was never meant to be used to protect fentanyl dealers or violent criminals https://t.co/jLsQzhfcuU</description>
+      <pubDate>Tue, 28 Jul 2026 18:21:25 +0000</pubDate>
+      <guid isPermaLink="false">2082169572212584877</guid>
+    </item>
+    <item>
+      <title>Great piece and vision for AI from Zuckerberg https://t.co/kO0oQbx3CC https://t.co/XjwKwvBZIu</title>
+      <link>https://x.com/levie/status/2082168124733116537</link>
+      <description>作者：Aaron Levie
+账号：@levie
+简介：ceo @box - your business lives in content. unleash it with AI
 
-Speaker 2 | 06:24 - 06:47
-There's something much bigger, and I think it's what interface we use for work and how we work and what does that look like in the AI native world. When I think about competition, I'm just kind of like, what people are fighting for today doesn't matter. There's this incredible opportunity ahead. And I think we have a shot at it and a few other companies have a shot at it, right? That's really what matters.
+Great piece and vision for AI from Zuckerberg https://t.co/kO0oQbx3CC https://t.co/XjwKwvBZIu</description>
+      <pubDate>Tue, 28 Jul 2026 18:15:40 +0000</pubDate>
+      <guid isPermaLink="false">2082168124733116537</guid>
+    </item>
+    <item>
+      <title>i spent the morning writing the definitive history of codex on my couch   it comes from hours of in-depth interviews with the team including @thsottiaux, @ajambrosino, and @gdb   my hands didn’t touch the keyboard or mouse once …i did the whole thing, including organizing the interviews, building a ...</title>
+      <link>https://x.com/danshipper/status/2082130836485259530</link>
+      <description>作者：Dan Shipper
+账号：@danshipper
+简介：ceo @every | the only subscription you need to stay at the edge of AI
 
-Speaker 2 | 06:47 - 07:08
-So in the same way where people are like, Oh, Granolah's doing really well. It's like, well, in my mind it's like easy come, easy go in a way, right? Like meeting notes are useful, but like a lot of things are going to change in the future. Just because people use us today doesn't mean they're going use us for that in the future if we're not the best at that next thing. So yeah, don't know, that's my zoomed out view.
+i spent the morning writing the definitive history of codex on my couch 
 
-Speaker 2 | 07:08 - 07:27
-And the other thing to say is we were not the first meeting notetaker, right? Meaning like AI notetakers have been around for ages. We were, let's say, heavily inspired by a lot of things that came before. So I can't be like, Oh, how dare you be inspired by what we did? It's just in an ecosystem.
+it comes from hours of in-depth interviews with the team including @thsottiaux, @ajambrosino, and @gdb 
 
-Speaker 2 | 07:28 - 07:50
-It has affected the company a lot less than I thought it would. I think within Notion copied or whatever, let's say launch something, I think heavily inspired by granola, OpenAI did, Zoom did recently. So it's like in some ways it's like I didn't have to sit with the nightmare submit scenario of like, what wou...</description>
-      <pubDate>Wed, 15 Jul 2026 15:08:19 +0000</pubDate>
-      <guid>https://www.youtube.com/playlist?list=PLuMcoKK9mKgHtW_o9h5sGO2vXrffKHwJL</guid>
+my hands didn’t touch the keyboard or mouse once …i did the whole thing, including organizing the interviews, building a timeline, writing, editing, and revising via ChatGPT for Work’s voice mode 
+
+absolutely goated for creative work. 
+
+whole piece will be published on @every in a few weeks</description>
+      <pubDate>Tue, 28 Jul 2026 15:47:30 +0000</pubDate>
+      <guid isPermaLink="false">2082130836485259530</guid>
+    </item>
+    <item>
+      <title>https://t.co/Zgd4HPRMyi https://t.co/qrbpAbZifu</title>
+      <link>https://x.com/levie/status/2082114876873597239</link>
+      <description>作者：Aaron Levie
+账号：@levie
+简介：ceo @box - your business lives in content. unleash it with AI
+
+https://t.co/Zgd4HPRMyi https://t.co/qrbpAbZifu</description>
+      <pubDate>Tue, 28 Jul 2026 14:44:05 +0000</pubDate>
+      <guid isPermaLink="false">2082114876873597239</guid>
+    </item>
+    <item>
+      <title>I saw a SWE at work today. No Claude. No wispr. No tab key.  Just writing code. With his bare hands. https://t.co/kfV3qV62T7</title>
+      <link>https://x.com/realmadhuguru/status/2082112941814661236</link>
+      <description>作者：Madhu Guru
+账号：@realmadhuguru
+简介：Sr Director, AI at Meta; Prev: Google - Led Gemini, Veo, Nano Banana.
+
+I saw a SWE at work today. No Claude. No wispr. No tab key.
+
+Just writing code. With his bare hands. https://t.co/kfV3qV62T7</description>
+      <pubDate>Tue, 28 Jul 2026 14:36:23 +0000</pubDate>
+      <guid isPermaLink="false">2082112941814661236</guid>
     </item>
   </channel>
 </rss>
