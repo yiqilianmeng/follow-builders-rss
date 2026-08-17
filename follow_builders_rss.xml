@@ -5,166 +5,10 @@
     <link>https://github.com/zarazhangrui/follow-builders</link>
     <description>聚合 AI 领域建设者的 X、播客和博客内容。</description>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 17 Aug 2026 00:34:31 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 17 Aug 2026 06:30:24 +0000</lastBuildDate>
     <item>
-      <title>The argument that “AI structurally centralizes power” because it’s currently compute hungry ignores 125 years of super exponential growth in compute price-performance.   Improvement in algorithms and continued hardware efficiency gains     means there is no reason to assume AGI-level capabilities wi...</title>
-      <link>https://x.com/amasad/status/2088867492907327573</link>
-      <description>作者：Amjad Masad
-账号：@amasad
-简介：ceo @replit. civilizationist
-
-The argument that “AI structurally centralizes power” because it’s currently compute hungry ignores 125 years of super exponential growth in compute price-performance. 
-
-Improvement in algorithms and continued hardware efficiency gains     means there is no reason to assume AGI-level capabilities will always require a data center to run.
-
-Scaling laws are not laws of physics. They’re simply empirical relationships observed for particular architectures, objectives, datasets etc. Change any one of those factors and you get a different scaling curve. 
-
-If the brain is any guide, true AGI will likely be very efficient. In fact, current scaling laws might a bug and not a feature. It shows how inefficiency of the ML algorithms we discovered so far.</description>
-      <pubDate>Sun, 16 Aug 2026 05:56:34 +0000</pubDate>
-      <guid isPermaLink="false">2088867492907327573</guid>
-    </item>
-    <item>
-      <title>On tokens and prices per token.  I said I’d write more about this, so here goes: an OpenAI token != another model’s token. We compare AI prices in dollars per million tokens as if a token were a standardized unit, like a gram or a kilowatt-hour. It isn’t. Different models use and produce the exact s...</title>
-      <link>https://x.com/thsottiaux/status/2088866513008873560</link>
-      <description>作者：Thibault Sottiaux
-账号：@thsottiaux
-简介：Codex &amp; ChatGPT @OpenAI
-
-On tokens and prices per token.
-
-I said I’d write more about this, so here goes: an OpenAI token != another model’s token. We compare AI prices in dollars per million tokens as if a token were a standardized unit, like a gram or a kilowatt-hour. It isn’t. Different models use and produce the exact same text using different numbers of tokens, which means a lower price per token does not necessarily mean a lower bill.
-
-Imagine two identical pizzas. One is cut into 8 slices at $2 each. The other is cut into 16 slices at $1.25 each. The second place advertises cheaper slices, but the whole pizza costs $20 instead of $16. Bummer ... your stomach doesn't actually care about the number of slices you just ate.
-
-I know you are hungry now, but back to tokens. In one small comparison spanning English, technical, multilingual, and numerical text, the tokenizer we use for GPT-5.6 Sol used 766 tokens versus an estimated 1,170 for Claude Opus 5. That's a very significant difference of about 34.5% fewer tokens. You can get the same exact text, but pay for all those extra tokens. The price per token doesn't really tell this story.
-
-Even correcting for tokenizer differences misses the bigger point. What actually matters is price per successful outcome, and for that you can use benchmarks as a starting point, but really you have to try it and measure on your own use cases.
-
-That's all. May the tokens flow.</description>
-      <pubDate>Sun, 16 Aug 2026 05:52:40 +0000</pubDate>
-      <guid isPermaLink="false">2088866513008873560</guid>
-    </item>
-    <item>
-      <title>If you have a company and still use Opus instead of Sol, why so? Does price not matter to you? What's something that would convince you to switch?</title>
-      <link>https://x.com/thsottiaux/status/2088850995430477882</link>
-      <description>作者：Thibault Sottiaux
-账号：@thsottiaux
-简介：Codex &amp; ChatGPT @OpenAI
-
-If you have a company and still use Opus instead of Sol, why so? Does price not matter to you? What's something that would convince you to switch?</description>
-      <pubDate>Sun, 16 Aug 2026 04:51:00 +0000</pubDate>
-      <guid isPermaLink="false">2088850995430477882</guid>
-    </item>
-    <item>
-      <title>Recursive self improvement https://t.co/wOqa7mW997</title>
-      <link>https://x.com/rauchg/status/2088838302367732178</link>
-      <description>作者：Guillermo Rauch
-账号：@rauchg
-简介：@vercel CEO
-
-Recursive self improvement https://t.co/wOqa7mW997</description>
-      <pubDate>Sun, 16 Aug 2026 04:00:34 +0000</pubDate>
-      <guid isPermaLink="false">2088838302367732178</guid>
-    </item>
-    <item>
-      <title>These two were ahead of their time https://t.co/adjYZkvCM1</title>
-      <link>https://x.com/thenanyu/status/2088811172090769461</link>
-      <description>作者：Nan Yu
-账号：@thenanyu
-简介：head of product @linear
-
-These two were ahead of their time https://t.co/adjYZkvCM1</description>
-      <pubDate>Sun, 16 Aug 2026 02:12:46 +0000</pubDate>
-      <guid isPermaLink="false">2088811172090769461</guid>
-    </item>
-    <item>
-      <title>This is also my dream. I want to sit in a park all day and record content with the homies… and have a fleet of agents turn that content into actions and working software. https://t.co/V9SzxqFEnL</title>
-      <link>https://x.com/thenanyu/status/2088810666958196988</link>
-      <description>作者：Nan Yu
-账号：@thenanyu
-简介：head of product @linear
-
-This is also my dream. I want to sit in a park all day and record content with the homies… and have a fleet of agents turn that content into actions and working software. https://t.co/V9SzxqFEnL</description>
-      <pubDate>Sun, 16 Aug 2026 02:10:45 +0000</pubDate>
-      <guid isPermaLink="false">2088810666958196988</guid>
-    </item>
-    <item>
-      <title>Watches https://t.co/pbushpJPOH</title>
-      <link>https://x.com/thenanyu/status/2088808413744558266</link>
-      <description>作者：Nan Yu
-账号：@thenanyu
-简介：head of product @linear
-
-Watches https://t.co/pbushpJPOH</description>
-      <pubDate>Sun, 16 Aug 2026 02:01:48 +0000</pubDate>
-      <guid isPermaLink="false">2088808413744558266</guid>
-    </item>
-    <item>
-      <title>Impressive https://t.co/fv5zyLbPNt</title>
-      <link>https://x.com/rauchg/status/2088801077659635715</link>
-      <description>作者：Guillermo Rauch
-账号：@rauchg
-简介：@vercel CEO
-
-Impressive https://t.co/fv5zyLbPNt</description>
-      <pubDate>Sun, 16 Aug 2026 01:32:39 +0000</pubDate>
-      <guid isPermaLink="false">2088801077659635715</guid>
-    </item>
-    <item>
-      <title>Dario should tweet more https://t.co/N29v9simn6</title>
-      <link>https://x.com/danshipper/status/2088780884048552202</link>
-      <description>作者：Dan Shipper
-账号：@danshipper
-简介：ceo @every | the only subscription you need to stay at the edge of AI
-
-Dario should tweet more https://t.co/N29v9simn6</description>
-      <pubDate>Sun, 16 Aug 2026 00:12:25 +0000</pubDate>
-      <guid isPermaLink="false">2088780884048552202</guid>
-    </item>
-    <item>
-      <title>I am a fan of Grok Bot but @X is the #1 differentiated data source that it should  have access to and it doesn't seem to work?   The connector doesn't work and I can't even login to X on the cloud computer.   Am I doing something wrong? https://t.co/O5OI9OhETb</title>
-      <link>https://x.com/petergyang/status/2088773343629750535</link>
-      <description>作者：Peter Yang
-账号：@petergyang
-简介：Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6
-
-I am a fan of Grok Bot but @X is the #1 differentiated data source that it should  have access to and it doesn't seem to work? 
-
-The connector doesn't work and I can't even login to X on the cloud computer. 
-
-Am I doing something wrong? https://t.co/O5OI9OhETb</description>
-      <pubDate>Sat, 15 Aug 2026 23:42:27 +0000</pubDate>
-      <guid isPermaLink="false">2088773343629750535</guid>
-    </item>
-    <item>
-      <title>I 100% agree with Dario that using AI to cure diseases (and speeding up the regulatory approval of AI breakthroughs in healthcare) could bring 10x the benefit to humanity as everything else combined. https://t.co/1CkVwkyxtW</title>
-      <link>https://x.com/petergyang/status/2088772605323214999</link>
-      <description>作者：Peter Yang
-账号：@petergyang
-简介：Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6
-
-I 100% agree with Dario that using AI to cure diseases (and speeding up the regulatory approval of AI breakthroughs in healthcare) could bring 10x the benefit to humanity as everything else combined. https://t.co/1CkVwkyxtW</description>
-      <pubDate>Sat, 15 Aug 2026 23:39:31 +0000</pubDate>
-      <guid isPermaLink="false">2088772605323214999</guid>
-    </item>
-    <item>
-      <title>I think people don’t realize how much of the success of React is actually @shadcn.  I once referred to React as the actual “LEGO brick for adults.” But in reality it was more the description of the geometry of the bricks. The spec.  Shadcn is what people actually wanted from React. Reusable high qua...</title>
-      <link>https://x.com/rauchg/status/2088757738037989755</link>
-      <description>作者：Guillermo Rauch
-账号：@rauchg
-简介：@vercel CEO
-
-I think people don’t realize how much of the success of React is actually @shadcn.
-
-I once referred to React as the actual “LEGO brick for adults.” But in reality it was more the description of the geometry of the bricks. The spec.
-
-Shadcn is what people actually wanted from React. Reusable high quality components that also tunable. It’s a pseudo-library. There’s code but it’s actually meant to be digested into your context window and remixed.</description>
-      <pubDate>Sat, 15 Aug 2026 22:40:26 +0000</pubDate>
-      <guid isPermaLink="false">2088757738037989755</guid>
-    </item>
-    <item>
-      <title>in case you’re not living in the tech bubble, as a general rule i’ve been surprised by how infrequently top tier folks actually meet/know each other. as an outsider i might have assumed that everyone is in secret illuminati group chats. those exist, but are very much short lived exceptions rather th...</title>
-      <link>https://x.com/swyx/status/2088755688361378082</link>
+      <title>5 years later and most of the best players here have been bought https://t.co/SemLNVzXXx https://t.co/Ow9t5om5zd</title>
+      <link>https://x.com/swyx/status/2089221797254459822</link>
       <description>作者：Swyx
 账号：@swyx
 简介：achieve ambition with intentionality, intensity, integrity &amp; insanity.
@@ -176,269 +20,362 @@ affiliations:
 - @aidotengineer
 - @latentspacepod
 
-in case you’re not living in the tech bubble, as a general rule i’ve been surprised by how infrequently top tier folks actually meet/know each other. as an outsider i might have assumed that everyone is in secret illuminati group chats. those exist, but are very much short lived exceptions rather than the rule. what you see of the major headlines is pretty much what they also see. i guess one way to interpret this is also simply that most effort is still on doing the work rather than working the narrative or the gossip. and that, to me at least, is genuinely quite reassuring, this far in to my career.</description>
-      <pubDate>Sat, 15 Aug 2026 22:32:17 +0000</pubDate>
-      <guid isPermaLink="false">2088755688361378082</guid>
+5 years later and most of the best players here have been bought https://t.co/SemLNVzXXx https://t.co/Ow9t5om5zd</description>
+      <pubDate>Mon, 17 Aug 2026 05:24:26 +0000</pubDate>
+      <guid isPermaLink="false">2089221797254459822</guid>
     </item>
     <item>
-      <title>America turned 250 years old earlier this year.   India turns 80 today...80 years young.  Building countries is really hard. 80 years in...America was struggling with a civil war.  Indians should be damn proud of the country they have built.   Like America, India wants more. She wants to be better a...</title>
-      <link>https://x.com/adityaag/status/2088734739893293175</link>
-      <description>作者：Aditya Agarwal
-账号：@adityaag
-简介：General Partner @SPC, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @Dropbox, Board @Flipkart | Optimist, Builder, Dad
-
-America turned 250 years old earlier this year. 
-
-India turns 80 today...80 years young.
-
-Building countries is really hard. 80 years in...America was struggling with a civil war.
-
-Indians should be damn proud of the country they have built. 
-
-Like America, India wants more. She wants to be better and stronger and more successful. She will get there.</description>
-      <pubDate>Sat, 15 Aug 2026 21:09:03 +0000</pubDate>
-      <guid isPermaLink="false">2088734739893293175</guid>
-    </item>
-    <item>
-      <title>Incredible things are happening at OpenAI right now. Energy is high.</title>
-      <link>https://x.com/thsottiaux/status/2088725514542575903</link>
-      <description>作者：Thibault Sottiaux
-账号：@thsottiaux
-简介：Codex &amp; ChatGPT @OpenAI
-
-Incredible things are happening at OpenAI right now. Energy is high.</description>
-      <pubDate>Sat, 15 Aug 2026 20:32:23 +0000</pubDate>
-      <guid isPermaLink="false">2088725514542575903</guid>
-    </item>
-    <item>
-      <title>https://t.co/KynBYnZeSi</title>
-      <link>https://x.com/trq212/status/2088721024825344289</link>
-      <description>作者：Thariq
-账号：@trq212
-简介：Claude Code @anthropicai.   prev YC W20, @spc, @medialab
-
-https://t.co/KynBYnZeSi</description>
-      <pubDate>Sat, 15 Aug 2026 20:14:33 +0000</pubDate>
-      <guid isPermaLink="false">2088721024825344289</guid>
-    </item>
-    <item>
-      <title>Watermarking without quality loss is a bit unintuitive, doesn't feel like it should work.  I made this artifact with Claude to help me understand how it works, sharing in case it's helpful. https://t.co/ALReoOH6tB https://t.co/hEPeCHgGRM</title>
-      <link>https://x.com/trq212/status/2088721023223132213</link>
-      <description>作者：Thariq
-账号：@trq212
-简介：Claude Code @anthropicai.   prev YC W20, @spc, @medialab
-
-Watermarking without quality loss is a bit unintuitive, doesn't feel like it should work.
-
-I made this artifact with Claude to help me understand how it works, sharing in case it's helpful. https://t.co/ALReoOH6tB https://t.co/hEPeCHgGRM</description>
-      <pubDate>Sat, 15 Aug 2026 20:14:33 +0000</pubDate>
-      <guid isPermaLink="false">2088721023223132213</guid>
-    </item>
-    <item>
-      <title>Last week I’m sitting across a stealth portfolio founder working in a deeply unsexy space (at least from Bay Area standards)..  They’re lamenting about how how some of the critical contracts and partnerships that would give them credibility (and revenue and network effects) are basically stuck at th...</title>
-      <link>https://x.com/nikunj/status/2088716743615352963</link>
+      <title>What are your favorite technical papers that you have read end to end this year?   And separately what are the most riveting reads (scifi ideally) that I should read this year?  I try to parallelize both to keep things interesting 😅</title>
+      <link>https://x.com/nikunj/status/2089212708621291766</link>
       <description>作者：Nikunj Kothari
 账号：@nikunj
 简介：partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian &amp; others. love @shimoleejhaveri + 👦👧
 
-Last week I’m sitting across a stealth portfolio founder working in a deeply unsexy space (at least from Bay Area standards)..
+What are your favorite technical papers that you have read end to end this year? 
 
-They’re lamenting about how how some of the critical contracts and partnerships that would give them credibility (and revenue and network effects) are basically stuck at the 1-yard line. This is a massively fragmented market. And this is btw just straight up pure bureaucracy. The champions, terms and everything is lined up. It’s purely a win win situation but summer and one random clause is the issue. And, it might cause them to not reach their ambitious timelines. 
+And separately what are the most riveting reads (scifi ideally) that I should read this year?
 
-And I’m sitting there smiling and eventually laughing and at some point they ask what’s funny. I tell them “do you know how long it’ll take anyone to do the same thing as you” - and this is with leverage and relationships that they already have. 
-
-And, this in the short term is painful but in the long term becomes such a strong moat. That they’ll look back and laugh why they were worried about a few days when in the long term this is what will make them one of the biggest companies in the world. 
-
-Unnecessary and 996 performative pain is not the moat. But building entrenched software and relationships that take a lot of pain is a moat :)</description>
-      <pubDate>Sat, 15 Aug 2026 19:57:32 +0000</pubDate>
-      <guid isPermaLink="false">2088716743615352963</guid>
+I try to parallelize both to keep things interesting 😅</description>
+      <pubDate>Mon, 17 Aug 2026 04:48:20 +0000</pubDate>
+      <guid isPermaLink="false">2089212708621291766</guid>
     </item>
     <item>
-      <title>There is no longer an excuse for B2B software to have such poor UX.  Thanks to AI, every software product can and should be as easy to use as the best consumer software.</title>
-      <link>https://x.com/realmadhuguru/status/2088710566689018103</link>
-      <description>作者：Madhu Guru
-账号：@realmadhuguru
-简介：Sr Director, AI at Meta; Prev: Google - Led Gemini, Veo, Nano Banana.
+      <title>Pretty good way to think about the value of AI agents and where the opportunity lies. You have a technology that will tirelessly do all the things that you could never fully do before. Not because you didn’t want to or it wasn’t valuable, but because it was just not even remotely practical.  The ups...</title>
+      <link>https://x.com/levie/status/2089209131391729763</link>
+      <description>作者：Aaron Levie
+账号：@levie
+简介：ceo @box - your business lives in content. unleash it with AI
 
-There is no longer an excuse for B2B software to have such poor UX.
+Pretty good way to think about the value of AI agents and where the opportunity lies. You have a technology that will tirelessly do all the things that you could never fully do before. Not because you didn’t want to or it wasn’t valuable, but because it was just not even remotely practical.
 
-Thanks to AI, every software product can and should be as easy to use as the best consumer software.</description>
-      <pubDate>Sat, 15 Aug 2026 19:33:00 +0000</pubDate>
-      <guid isPermaLink="false">2088710566689018103</guid>
+The upside with AI is to think about everything you can now throw intelligence at that won’t give up and what would the returns be. 
+
+You just couldn’t possibly find every security vulnerability in your codebase, because you couldn’t simulate every risk vector. You couldn’t read every contract or document to process the data and capture it to query later. You couldn’t comb through your customer base and look for every relevant data point for doing upsells. And so on. 
+
+This is a pretty clear way to think about how to deploy AI to get real gains, but also where the startup opportunities are as well. Go after the markets where more compute on a problem will qualitatively change what customers can now do in that domain.</description>
+      <pubDate>Mon, 17 Aug 2026 04:34:07 +0000</pubDate>
+      <guid isPermaLink="false">2089209131391729763</guid>
     </item>
     <item>
-      <title>Whitepill timeline cleanser:   Progress and abundance looks like record production of crops, year on year, progressing upwards and to the right. This is the output of markets and technology working together for millenia.   https://t.co/LXe01sF5G4 https://t.co/VZct22uHUF</title>
-      <link>https://x.com/garrytan/status/2088661047913914847</link>
-      <description>作者：Garry Tan
-账号：@garrytan
-简介：President &amp; CEO @ycombinator —Founder @garryslist—Creator of GStack &amp; GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop
-
-Whitepill timeline cleanser: 
-
-Progress and abundance looks like record production of crops, year on year, progressing upwards and to the right. This is the output of markets and technology working together for millenia. 
-
-https://t.co/LXe01sF5G4 https://t.co/VZct22uHUF</description>
-      <pubDate>Sat, 15 Aug 2026 16:16:13 +0000</pubDate>
-      <guid isPermaLink="false">2088661047913914847</guid>
-    </item>
-    <item>
-      <title>Anyone else's Codex Desktop app erroring out on chats? https://t.co/raNUNTPqbe</title>
-      <link>https://x.com/garrytan/status/2088642982614651196</link>
-      <description>作者：Garry Tan
-账号：@garrytan
-简介：President &amp; CEO @ycombinator —Founder @garryslist—Creator of GStack &amp; GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop
-
-Anyone else's Codex Desktop app erroring out on chats? https://t.co/raNUNTPqbe</description>
-      <pubDate>Sat, 15 Aug 2026 15:04:26 +0000</pubDate>
-      <guid isPermaLink="false">2088642982614651196</guid>
-    </item>
-    <item>
-      <title>This is remarkably well done.  And of course featuring our very own @shreepoorna365.  Let's go. https://t.co/UacgWndqL4</title>
-      <link>https://x.com/adityaag/status/2088629172512195035</link>
-      <description>作者：Aditya Agarwal
-账号：@adityaag
-简介：General Partner @SPC, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @Dropbox, Board @Flipkart | Optimist, Builder, Dad
-
-This is remarkably well done.
-
-And of course featuring our very own @shreepoorna365.
-
-Let's go. https://t.co/UacgWndqL4</description>
-      <pubDate>Sat, 15 Aug 2026 14:09:34 +0000</pubDate>
-      <guid isPermaLink="false">2088629172512195035</guid>
-    </item>
-    <item>
-      <title>Tomorrow, I’m really excited to share a new episode with @rileybrown on how he uses Codex to run his entire content business.  I particularly loved watching him demo how he creates YouTube thumbnails with AI:  1. He uses Codex to find 100 top-performing thumbnails in his niche and add them to a Pape...</title>
-      <link>https://x.com/petergyang/status/2088626815166464507</link>
+      <title>I want to use this feature but I'm paranoid that it'll eat up all my tokens. Is it pretty token efficient? https://t.co/zjNnpGb4tJ</title>
+      <link>https://x.com/petergyang/status/2089205978877268334</link>
       <description>作者：Peter Yang
 账号：@petergyang
 简介：Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6
 
-Tomorrow, I’m really excited to share a new episode with @rileybrown on how he uses Codex to run his entire content business.
-
-I particularly loved watching him demo how he creates YouTube thumbnails with AI:
-
-1. He uses Codex to find 100 top-performing thumbnails in his niche and add them to a Paper canvas.
-
-2. He uses Paper to mix and match those thumbnails with photos of himself until he creates something he’s happy with.
-
-Honestly, you have to watch the workflow to see how crazy it is.
-
-📌 Subscribe to get the full episode tomorrow: https://t.co/NSTj7ijxE0</description>
-      <pubDate>Sat, 15 Aug 2026 14:00:12 +0000</pubDate>
-      <guid isPermaLink="false">2088626815166464507</guid>
+I want to use this feature but I'm paranoid that it'll eat up all my tokens. Is it pretty token efficient? https://t.co/zjNnpGb4tJ</description>
+      <pubDate>Mon, 17 Aug 2026 04:21:35 +0000</pubDate>
+      <guid isPermaLink="false">2089205978877268334</guid>
     </item>
     <item>
-      <title>Why the Next Hit AI Product Will Be Social Why the Next Hit AI Product Will Be Social (Best of the Pod)</title>
-      <link>https://www.youtube.com/watch?v=dlI-5W7d7uU</link>
-      <description>播客：AI &amp; I by Every
+      <title>How do I set up this thing to work across all apps not just codex? https://t.co/2N2odVoXix</title>
+      <link>https://x.com/petergyang/status/2089182111282729470</link>
+      <description>作者：Peter Yang
+账号：@petergyang
+简介：Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6
+
+How do I set up this thing to work across all apps not just codex? https://t.co/2N2odVoXix</description>
+      <pubDate>Mon, 17 Aug 2026 02:46:45 +0000</pubDate>
+      <guid isPermaLink="false">2089182111282729470</guid>
+    </item>
+    <item>
+      <title>https://t.co/BaVgd3k0dc</title>
+      <link>https://x.com/rauchg/status/2089179650891432270</link>
+      <description>作者：Guillermo Rauch
+账号：@rauchg
+简介：@vercel CEO
+
+https://t.co/BaVgd3k0dc</description>
+      <pubDate>Mon, 17 Aug 2026 02:36:58 +0000</pubDate>
+      <guid isPermaLink="false">2089179650891432270</guid>
+    </item>
+    <item>
+      <title>Was wondering what this new icon in my menu bar is that I didn't enable and that loaded a slow html box.  Time for Chrome Lite? https://t.co/4Q64q7vdfl</title>
+      <link>https://x.com/steipete/status/2089154019885490449</link>
+      <description>作者：Peter Steinberger
+账号：@steipete
+简介：Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world.
+@OpenClaw🦞 + @OpenAI
+
+Was wondering what this new icon in my menu bar is that I didn't enable and that loaded a slow html box.
+
+Time for Chrome Lite? https://t.co/4Q64q7vdfl</description>
+      <pubDate>Mon, 17 Aug 2026 00:55:07 +0000</pubDate>
+      <guid isPermaLink="false">2089154019885490449</guid>
+    </item>
+    <item>
+      <title>Codex  ✅ Almost 100% reliable ✅ Occasional resets ✅ Open-source ✅ (will have Astra) https://t.co/DxNdAgpag5</title>
+      <link>https://x.com/thsottiaux/status/2089149255382438340</link>
+      <description>作者：Thibault Sottiaux
+账号：@thsottiaux
+简介：Codex &amp; ChatGPT @OpenAI
+
+Codex
+
+✅ Almost 100% reliable
+✅ Occasional resets
+✅ Open-source
+✅ (will have Astra) https://t.co/DxNdAgpag5</description>
+      <pubDate>Mon, 17 Aug 2026 00:36:11 +0000</pubDate>
+      <guid isPermaLink="false">2089149255382438340</guid>
+    </item>
+    <item>
+      <title>Moving house, and I’m finally ready to let these old friends go https://t.co/UoTPwoe8sU</title>
+      <link>https://x.com/thenanyu/status/2089146409152872764</link>
+      <description>作者：Nan Yu
+账号：@thenanyu
+简介：product enthusiast
+
+Moving house, and I’m finally ready to let these old friends go https://t.co/UoTPwoe8sU</description>
+      <pubDate>Mon, 17 Aug 2026 00:24:53 +0000</pubDate>
+      <guid isPermaLink="false">2089146409152872764</guid>
+    </item>
+    <item>
+      <title>GPT-5.6 Sol 1M in Codex. This used to only work for API keys, but we just flipped the switch and works for usage through ChatGPT accounts now too.   The same warning applies, there is a reason the current context length is the default, we have tuned it to ~perfection. But you do you!</title>
+      <link>https://x.com/thsottiaux/status/2089143488696705077</link>
+      <description>作者：Thibault Sottiaux
+账号：@thsottiaux
+简介：Codex &amp; ChatGPT @OpenAI
+
+GPT-5.6 Sol 1M in Codex. This used to only work for API keys, but we just flipped the switch and works for usage through ChatGPT accounts now too. 
+
+The same warning applies, there is a reason the current context length is the default, we have tuned it to ~perfection. But you do you!</description>
+      <pubDate>Mon, 17 Aug 2026 00:13:16 +0000</pubDate>
+      <guid isPermaLink="false">2089143488696705077</guid>
+    </item>
+    <item>
+      <title>i am also skeptical of the centralization of power hypothesis  it comes from Lewis Mumford in 1964 who argued:  &quot;from late Neolithic times in the Near East, right down to our own day, two technologies have recurrently existed side by side: one authoritarian, the other democratic, the first system-ce...</title>
+      <link>https://x.com/danshipper/status/2089127868903375257</link>
+      <description>作者：Dan Shipper
+账号：@danshipper
+简介：ceo @every | the only subscription you need to stay at the edge of AI
+
+i am also skeptical of the centralization of power hypothesis
+
+it comes from Lewis Mumford in 1964 who argued:
+
+&quot;from late Neolithic times in the Near East, right down to our own day, two technologies have recurrently existed side by side: one authoritarian, the other democratic, the first system-centered, immensely powerful, but inherently unstable, the other man-centered, relatively weak, but resourceful and durable.&quot;
+
+this echoes around the valley. peter thiel said in 2018, &quot;crypto is libertarian and AI is communist&quot;
+
+certainly today, it seems like we're on track for AI to look more centralized. if you are a hardcore AGI person you believe this will continue. but we're also seeing a resurgence of fine tuning models for specific purposes. and as amjad says, the human brain provides very good evidence for the benefits of decentralization. we just may not see it yet because we're still in the hyperliterate  &quot;bee&quot; or &quot;ant&quot; days of AI
+
+i'd be surprised if the optimal design continues to be maximally centralized</description>
+      <pubDate>Sun, 16 Aug 2026 23:11:12 +0000</pubDate>
+      <guid isPermaLink="false">2089127868903375257</guid>
+    </item>
+    <item>
+      <title>We ran evals on GLM 5.3 cybersecurity capabilities. It's the new open frontier.  Given its lower costs, I expect this to be a boon for defensive security work. e.g., it means you can run https://t.co/KwrlahlCiK at least 3× more often! https://t.co/aCQDMoxAXI</title>
+      <link>https://x.com/rauchg/status/2089126690043916495</link>
+      <description>作者：Guillermo Rauch
+账号：@rauchg
+简介：@vercel CEO
+
+We ran evals on GLM 5.3 cybersecurity capabilities. It's the new open frontier.
+
+Given its lower costs, I expect this to be a boon for defensive security work. e.g., it means you can run https://t.co/KwrlahlCiK at least 3× more often! https://t.co/aCQDMoxAXI</description>
+      <pubDate>Sun, 16 Aug 2026 23:06:31 +0000</pubDate>
+      <guid isPermaLink="false">2089126690043916495</guid>
+    </item>
+    <item>
+      <title>used fable to vibe code an app that visualizes and groups everyone who applied to come to Thesis   we live in incredible times where detailed understanding of each of your customers—and how they cluster together in groups—is possible with very little effort https://t.co/UBkHaDIDhK</title>
+      <link>https://x.com/danshipper/status/2089121597017759800</link>
+      <description>作者：Dan Shipper
+账号：@danshipper
+简介：ceo @every | the only subscription you need to stay at the edge of AI
+
+used fable to vibe code an app that visualizes and groups everyone who applied to come to Thesis 
+
+we live in incredible times where detailed understanding of each of your customers—and how they cluster together in groups—is possible with very little effort https://t.co/UBkHaDIDhK</description>
+      <pubDate>Sun, 16 Aug 2026 22:46:17 +0000</pubDate>
+      <guid isPermaLink="false">2089121597017759800</guid>
+    </item>
+    <item>
+      <title>Damn nevermind https://t.co/h94Zwu2yio</title>
+      <link>https://x.com/petergyang/status/2089111410219556916</link>
+      <description>作者：Peter Yang
+账号：@petergyang
+简介：Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6
+
+Damn nevermind https://t.co/h94Zwu2yio</description>
+      <pubDate>Sun, 16 Aug 2026 22:05:48 +0000</pubDate>
+      <guid isPermaLink="false">2089111410219556916</guid>
+    </item>
+    <item>
+      <title>it says a lot that the creators of three of the most iconic web frameworks: django (@simonw), flask (@mitsuhiko) and rails (@dhh) were so AI pilled so early</title>
+      <link>https://x.com/trq212/status/2089085004966207679</link>
+      <description>作者：Thariq
+账号：@trq212
+简介：Claude Code @anthropicai.   prev YC W20, @spc, @medialab
+
+it says a lot that the creators of three of the most iconic web frameworks: django (@simonw), flask (@mitsuhiko) and rails (@dhh) were so AI pilled so early</description>
+      <pubDate>Sun, 16 Aug 2026 20:20:53 +0000</pubDate>
+      <guid isPermaLink="false">2089085004966207679</guid>
+    </item>
+    <item>
+      <title>Here is how to enable a 1M-token context window in Codex for GPT-5.6 Sol.   Even though we have tuned the context limit in Codex to be set optimally when it comes to performance and cost, this is a common ask, so here it is documented.  A larger context window lets Codex retain more code, tool outpu...</title>
+      <link>https://x.com/thsottiaux/status/2089082893804896524</link>
+      <description>作者：Thibault Sottiaux
+账号：@thsottiaux
+简介：Codex &amp; ChatGPT @OpenAI
+
+Here is how to enable a 1M-token context window in Codex for GPT-5.6 Sol. 
+
+Even though we have tuned the context limit in Codex to be set optimally when it comes to performance and cost, this is a common ask, so here it is documented.
+
+A larger context window lets Codex retain more code, tool output, and conversation history before summarizing older material. You need a model that supports it. And GPT-5.6 Sol, for example, has a documented 1,050,000-token window. 
+
+Open ~/.codex/config.toml and add or update these settings at the top level, before any [section] headers:
+
+```
+model = &quot;gpt-5.6-sol&quot;
+model_context_window = 1000000
+model_auto_compact_token_limit = 900000
+```
+
+The first setting selects the model. The second tells Codex to use a one-million-token context budget. The third starts automatic history compaction around 900,000 tokens, leaving some headroom. Restart Codex client and start a new session after saving. 
+
+To try the configuration for a single CLI session without changing your defaults:
+
+```
+codex -m gpt-5.6-sol \
+  -c model_context_window=1000000 \
+  -c model_auto_compact_token_limit=900000
+```
+
+Have fun, but also know that we tuned the default carefully!</description>
+      <pubDate>Sun, 16 Aug 2026 20:12:29 +0000</pubDate>
+      <guid isPermaLink="false">2089082893804896524</guid>
+    </item>
+    <item>
+      <title>18x improvement in intelligence per joule in 16 months. https://t.co/lP62kI5rpr https://t.co/LAPXQHLgxJ</title>
+      <link>https://x.com/amasad/status/2089069905375351169</link>
+      <description>作者：Amjad Masad
+账号：@amasad
+简介：ceo @replit. civilizationist
+
+18x improvement in intelligence per joule in 16 months. https://t.co/lP62kI5rpr https://t.co/LAPXQHLgxJ</description>
+      <pubDate>Sun, 16 Aug 2026 19:20:53 +0000</pubDate>
+      <guid isPermaLink="false">2089069905375351169</guid>
+    </item>
+    <item>
+      <title>the more you earn, the more you crave the things money can’t buy.</title>
+      <link>https://x.com/realmadhuguru/status/2089022997407686663</link>
+      <description>作者：Madhu Guru
+账号：@realmadhuguru
+简介：Sr Director, AI at Meta; Prev: Google - Led Gemini, Veo, Nano Banana.
+
+the more you earn, the more you crave the things money can’t buy.</description>
+      <pubDate>Sun, 16 Aug 2026 16:14:29 +0000</pubDate>
+      <guid isPermaLink="false">2089022997407686663</guid>
+    </item>
+    <item>
+      <title>Everyone go follow this guy on instagram, he's amazing https://t.co/zSIaTRCjpf</title>
+      <link>https://x.com/garrytan/status/2089012934953599263</link>
+      <description>作者：Garry Tan
+账号：@garrytan
+简介：President &amp; CEO @ycombinator —Founder @garryslist—Creator of GStack &amp; GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop
+
+Everyone go follow this guy on instagram, he's amazing https://t.co/zSIaTRCjpf</description>
+      <pubDate>Sun, 16 Aug 2026 15:34:30 +0000</pubDate>
+      <guid isPermaLink="false">2089012934953599263</guid>
+    </item>
+    <item>
+      <title>There's nothing more conservative than a liberal with a house. https://t.co/GshcvD1duN</title>
+      <link>https://x.com/garrytan/status/2089012811007688746</link>
+      <description>作者：Garry Tan
+账号：@garrytan
+简介：President &amp; CEO @ycombinator —Founder @garryslist—Creator of GStack &amp; GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop
+
+There's nothing more conservative than a liberal with a house. https://t.co/GshcvD1duN</description>
+      <pubDate>Sun, 16 Aug 2026 15:34:00 +0000</pubDate>
+      <guid isPermaLink="false">2089012811007688746</guid>
+    </item>
+    <item>
+      <title>AI spend is nowhere close to hitting any walls. Obviously this data is weighted toward engineering-centric companies, with the top 1% spending $7,500/mo and top 10% spending $660/mo per employee on AI. But the general trend of continued exponential growth is occurring throughout all firm types.   An...</title>
+      <link>https://x.com/levie/status/2088995821056659901</link>
+      <description>作者：Aaron Levie
+账号：@levie
+简介：ceo @box - your business lives in content. unleash it with AI
+
+AI spend is nowhere close to hitting any walls. Obviously this data is weighted toward engineering-centric companies, with the top 1% spending $7,500/mo and top 10% spending $660/mo per employee on AI. But the general trend of continued exponential growth is occurring throughout all firm types. 
+
+And what the top 10% is doing today may easily be what the top 50% is doing in 3 years from now, at least in terms of token volume if not in dollars. This is why there’s still so much opportunity right now in the diffusion of AI in the enterprise.
+
+Especially as token costs come down, we will throw larger portions of work at agents. They’ll be scanning all our code for security issues, testing all of our software, writing coding for much larger projects, processing nearly all data, and much more. So this trend has no end in sight.</description>
+      <pubDate>Sun, 16 Aug 2026 14:26:30 +0000</pubDate>
+      <guid isPermaLink="false">2088995821056659901</guid>
+    </item>
+    <item>
+      <title>History rhymes   https://t.co/zy7sAmH9Hn https://t.co/vZTsJrH4x3</title>
+      <link>https://x.com/thenanyu/status/2088978519594352875</link>
+      <description>作者：Nan Yu
+账号：@thenanyu
+简介：product enthusiast
+
+History rhymes 
+
+https://t.co/zy7sAmH9Hn https://t.co/vZTsJrH4x3</description>
+      <pubDate>Sun, 16 Aug 2026 13:17:45 +0000</pubDate>
+      <guid isPermaLink="false">2088978519594352875</guid>
+    </item>
+    <item>
+      <title>“OpenAI’s Model Hacked Us” - Hugging Face’s Thomas Wolf</title>
+      <link>https://www.youtube.com/watch?v=FU9A481E2W8</link>
+      <description>播客：The MAD Podcast with Matt Turck
 
 Speaker 1 | 00:00 - 00:20
-Google was a founding team that was deeply, deeply technical. As the technology, the underlying technology got more mature, the slider goes forward, forward, forward, more towards the product thinker, product experience. Pinterest, where I was, Snap, Instagram. The CEOs weren't technical at all. They were product geniuses.
+You kinda have to move fast. It's a matter of at least hours and even more minutes. So you don't have time to apply for cybersecurity programs. The model was not at all tasked with attacking us, but decided to do that as a side quest of something else. They created fake accounts, fake GitHub account, trying to attack the sandbox by Blackmailing.
 
-Speaker 1 | 00:20 - 00:42
-What are the big consumer wins so far in AI? Of course, it's ChatGPT, which is, in a way, not that dissimilar from Google in terms of what it was. Just a text box. Custom GPTs and and chat GPT feels criminal to me. It's clearly made by a team that is unbelievably capable but isn't social.
+Speaker 1 | 00:20 - 00:30
+That's a very different level, I think, of thinking. I could have been the target of this side quest of the model, basically. That was very interesting artist, very, very scary.
 
-Speaker 1 | 00:42 - 00:56
-What's the multiplayer network effect type experience? Someone's gonna create a UGC type community where there are people who are really, really good, make it so much easier for the rest of us.
+Speaker 2 | 00:30 - 00:48
+Hi. I'm Matt Turk. Welcome back to the MAD Podcast. Today, my guest is Thomas Wolfe, co founder and chief science officer at Hugging Face. We unpack what might be the biggest AI story of the summer, how an open AI powered agent Hugging Face during cyber testing, and why an open source model helped the team fight back.
 
-Speaker 2 | 01:10 - 01:11
-Sarah, welcome to the show.
+Speaker 2 | 00:48 - 01:14
+We also explore model alignment, the future of Western open source AI, and the race towards recursive self improvement. Please enjoy this fantastic conversation with Thomas Wolfe. To take things in order, so the OpenAI hack. So I I know some of it is still being unpacked. I think OpenAI was on stage at Black Hat in Las Vegas yesterday as well talking about this.
 
-Speaker 1 | 01:11 - 01:12
-Thanks so much for having me.
+Speaker 2 | 01:14 - 01:20
+So what's a two minute version of what happened for people that that may have heard of it but may not have followed everything?
 
-Speaker 2 | 01:12 - 01:16
-So for people who don't know you, you are a partner at Benchmark.
+Speaker 1 | 01:20 - 01:45
+Yeah. For sure. I mean, typically, happened is now about three weeks ago in July 11, we started to have some, you know, strong hint that hacker was trying to penetrate that infrastructure. So for context, we are pretty visible in the AI world. We're pretty yeah, well-being central now in the tech world.
 
-Speaker 1 | 01:16 - 01:17
-Yes.
+Speaker 1 | 01:45 - 02:15
+We're pretty central in the tech world. So we do have, you know, regular occurrence of people trying to hack into our platform. That's a common thing since, I mean, I would say in the past two years, something that we've strongly upped our security team. We now have a serious team. So we're kind of used to get this, but this one was different because we, first was massively parallel and in different way than just a typical hacker parallel thing in that many tracks were exploring in parallel.
 
-Speaker 2 | 01:17 - 01:24
-Before that, you were early at Pinterest. And before that, you studied philosophy, which I also studied philosophy, so that's close to my heart.
+Speaker 1 | 02:15 - 02:34
+And also there were some very strange things happening. I would say just two things that were quite strange. The first thing is we could not really make sense of what the hacker was trying to access. So usually hackers try to get the same thing. They try to get passwords, they try to get credentials, they try to get credit cards, they try to get the type of thing that they can sell back basically.
 
-Speaker 1 | 01:24 - 01:29
-Yes. I've heard your podcast, and I was very impressed with your podcast with Reid.
+Speaker 1 | 02:35 - 03:24
+And this hacker was really focusing on a specific part of our infrastructure, which is maybe slightly less protected as well, but which is around data sets. So just we have a part of infrastructure is that we host millions of models, but people maybe know that less about us, but we also host hundreds, thousands of datasets and some of them being also used for evaluation. And in this case, this specific hacker was really interested in all the dataset that were called Cyberbench. And so it took us some time to really trying to understand and also was using different type of of of tools than the one we we are used to. I mean, nothing nothing really like methos level, like nothing groundbreaking that we would be like superhuman, I don't know, like alien type of technology, but just just a different type of of of approach.
 
-Speaker 2 | 01:29 - 01:29
-Oh, thank you.
+Speaker 1 | 03:25 - 04:12
+And so on the course of of trying to process, so quickly we had like this, and we explained that in the blog post, had more than 10,000, had like fifteen, seventeen thousand total, I think, And in the course of trying to process that, understand basically what was really the targets of this attack. And we both started to hint or suspect that this was an AI agent and not just a human attacker. And also we felt a little bit powerless and that we can talk about later in that we could not use basically our typical closed source code base or closed source API to process this thing. That's another topic. So we wrote a blog post and we managed to stop attack quickly.
 
-Speaker 1 | 01:29 - 01:34
-To keep up with him is is It's hard. Was a lot of very impressive.
+Speaker 1 | 04:12 - 04:46
+We wrote, as always, we are full transparency, we not only open source in speaking, but also in practice. So we quickly published like a full recap or at least a detailed blog post on the event. And then about a week later, OpenAI contacted us and tell us that this was much likely something that happened as part of one of their model development evaluation basically. Typically, a model that might be the coming wave of GPT six self or Astra. We don't know exactly this.
 
-Speaker 2 | 01:34 - 01:39
-It was a couple late nights of me furiously prompting Cachi Beatty to explain Wittgenstein.
+Speaker 1 | 04:47 - 05:53
+And so that's when I think the the whole event took another turn because what people quickly discovered is that the model was not at all tasked with attacking us, but decided to do that as a side quest of something else. And this something else being basically the model was asked to solve the cyber security challenge or cyber attack challenge in this case. And the idea is that we want to know, and it's totally fair, but we want to know how capable are these latest generation of models and typically people want to test them on some dangerous task and some of these dangerous tasks that we want to know how good they are on is cyber attack. And here, of these challenge were actually internal, but the model decided that because the chance was too hard and in retrospect, some of the challenge in this specific challenge called cyber bench or exploit team, mean, there's a couple of names, that's roughly the same thing. Some of these challenges are maybe just not possible to do.
 
-Speaker 1 | 01:39 - 01:42
-I love it. I love it. Well, you did great.
+Speaker 1 | 05:53 - 06:17
+So the model is just task repeating something that's not possible. It's an exploit. So you're given a vulnerability in one software and the model is asked to see if it can exploit this vulnerability to get basically full machine access. And some of them are just not possible. So model try everything could at some point decided that maybe could find the solution of the challenge somewhere and just could download the solution, just submit the solution instead of trying to solve it itself.
 
-Speaker 2 | 01:42 - 02:01
-Thank you. So I'm psyched to have you on the show. There's so much to talk about, but I think one of your one of your big interests is in consumer technology and consumer technology cycles and how you can use the lessons of previous consumer technology waves to kind of help you understand this AI wave in this cycle, and what kinds of products are
+Speaker 1 | 06:17 - 06:50
+That's what we've learned. I mean, since then, Andres yesterday, we learned that this was maybe even much wider, which is this might be across several training steps, in particular, even several like training run and some of the previous training run that was the most impressive. I think learning we had at Black Hat yesterday was that some of the previous training run may have left some notes for future training runs, which is think mind mind blowing. I mean, mind blowing. But there, we can also talk a lot about that.
 
-Speaker 1 | 02:01 - 02:02
-gonna work, what kind of products are
+Speaker 1 | 06:50 - 07:09
+But we've been working on agent collaboration at Hugging Face recently as well on the science side, and we saw how good these agents are and how actually, I would say, tempted or or driven towards collaboration they are. So I'm not so surprised by that. But I'm quite surprised that there was this message board internally that just stay unnoticed.
 
-Speaker 2 | 02:02 - 02:04
-not gonna work. I'm curious. I think that was a good place to start.
+Speaker 2 | 07:09 - 07:46
+So to unpack some of this, so you, alluded to the fact that to be able to defend yourself, the closed source models were not available, and, that's the, you know, sentence you tweeted that, and that's, you know, one of the key aspects of this, which is so fascinating, which is like the I think you said the first autonomous AI attack was carried out by a closed model and defended against with an open one, which is basically the the reverse or what everybody thought. So can you can you unpack that? What did you guys do? How did you go about it? And what does that mean for open source?
 
-Speaker 1 | 02:04 - 02:25
-You know, one thing I just was reflecting on, and, you know, you kind of look at ChatGPT and Character AI, and I was just puzzling over those. And then started to think back to, you know, what was like the big early kind of consumer web hit? And that was Google, of course. I mean, was Yahoo and Google. But what was Google?
-
-Speaker 1 | 02:25 - 02:54
-Like, was a founding team that was deeply, deeply technical. Yeah. And and really, like, if you think about a product experience that you expose to the user and how much of it is like the UI that you interface with the product itself versus all the magic that happens on the back end to make something that's really complex and simple on the front end. Mhmm. That was like what Google was, you know, so good at, the distributed engineering, the infrastructure.
-
-Speaker 1 | 02:54 - 03:28
-And and then as the technology the underlying technology got more mature, you started to go to a place where maybe if you kind of said, like like, deep technical, you know, you have 0% and a 100%. Like, I would say Google was 95%, like, deeply, deeply technical. And then you start to move that bar over. And you get to, you know, you I think about Facebook. Like, Facebook, it wasn't the same technical depth, of course, of Google, but relative to Friendster and Myspace, they were more technical.
-
-Speaker 1 | 03:28 - 03:45
-They had they were a little bit later, and it let them create, like, a really performant experience that ended up really kind of, you know, winning the day. And then you progress even further. Pinterest, where I was, Snap, Instagram. The CEOs weren't technical at all. They were product geniuses.
-
-Speaker 1 | 03:45 - 04:06
-Right? And so, like, the the slider goes forward, forward, forward more towards the product thinker, product experience. And then you think about what we like, what are the big consumer wins so far in AI? Of course, it's ChatGPT, which is in a way not that dissimilar from Google in terms of what it was, just a text box.
-
-Speaker 2 | 04:06 - 04:07
-Yeah.
-
-Speaker 1 | 04:07 - 04:30
-And Character AI, like, unbelievable what they did, and it was like a new paradigm. But still, it was always like you speak to Noam, and for him, the product was the model. You know? It wasn't it was a it was a little bit maybe 94% back end, but it was still like very much so. So it's still early.
-
-Speaker 1 | 04:30 - 04:51
-Like everything is moving under our feet still. And I think to really have the people who have more of that product intuition to really build the experiences on top, you need more of the underlying infrastructure to to be a little bit more stable. But it does seem like we're moving into that next paradigm soon and what's gonna happen there.
-
-Speaker 2 | 04:51 - 05:17
-That's really interesting. I love that articulation. In particular, because one of the things that I felt is very unique about OpenAI is they're a research lab that accidentally built like the biggest consumer technology product of all time. But it seems like you're saying there's actually a real historical precedent for that and that the DNA of Google is very similar to the DNA of OpenAI, which I'd never really made that Yeah. Connection consciously before.
-
-Speaker 2 | 05:18 - 05:37
-And I think it's also really interesting because investing in basically PhDs doing long term research that may have no practical purpose is not usually something that pays off in venture in venture vices. It's not like the first place that people think, you know. It's more like Stanford dropout, you know.
-
-Speaker 1 | 05:37 - 05:39
-Yeah, absolutely.
-
-Speaker 2 | 05:39 - 05:48
-And so and and so maybe it's one of those things where usually that's not a good bet, but if you're really dealing with a truly new technology paradigm, it could be the best bet you ever make.
-
-Speaker 1 | 05:48 - 05:48
-Yeah.
-
-Speaker 2 | 05:48 - 05:49
-Is that how you think about it?
-
-Speaker 1 | 05:49 - 06:07
-Yeah. And and, you know, I part of what I think about is just like, you are a power user of these products. And I am on that learning curve. I would say, I'm no I pale in comparison, but, like, relative to the population in The United States Yep. I'm pretty damn good.
-
-Speaker 1 | 06:07 - 06:27
-It shouldn't be this hard. You know? And like, so some of the underlying, you know, like the models will get better. So like one thing that I know you have in your custom instructions I've I use a lot is just like, you don't have to answer, like, just to to chat you PT. Like, you don't have to answer me right away if you have some clarifying questions.
-
-Speaker 1 | 06:27 - 06:46
-Like, ask those. We shouldn't have to put that in a custom instruction. Like, there should be or there there's so many different tweaks that we all have to get what we want out. And over time, as the models get better and better, you won't need that anymore. The level of difficulty to get really what you want is gonna get easier.
-
-Speaker 1 | 06:46 - 07:19
-But I don't think ChatGPT is the single player mode product. And, you know, the custom GPTs that they have where you can see what other people have created. To me, man, I just think someone's gonna create a UGC type community where there are people who are really, really good, make it so much easier for the rest of us to really take advantage of this this technology. So we're we're you know? So there are places like Google is still Google.
-
-Speaker 1 | 07:19 - 07:38
-Like, it falls my analogy falls down when Google didn't evolve into some multiplayer product. There's no other product that took over Google until really now. But I I still think we're so early in knowing who really is gonna be the winner in thi...</description>
-      <pubDate>Wed, 05 Aug 2026 16:02:13 +0000</pubDate>
-      <guid>https://www.youtube.com/watch?v=dlI-5W7d7uU</guid>
+Speaker 1 | 07:46 - 08:43
+Yeah, I mean, what happened in the So we have a couple of like traditional cybersecurity...</description>
+      <pubDate>Fri, 07 Aug 2026 18:38:32 +0000</pubDate>
+      <guid>https://www.youtube.com/watch?v=FU9A481E2W8</guid>
     </item>
   </channel>
 </rss>
