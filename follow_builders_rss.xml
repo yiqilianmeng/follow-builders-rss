@@ -5,397 +5,10 @@
     <link>https://github.com/zarazhangrui/follow-builders</link>
     <description>聚合 AI 领域建设者的 X、播客和博客内容。</description>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 20 Aug 2026 06:24:13 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 12:22:33 +0000</lastBuildDate>
     <item>
-      <title>I was gifted a very fancy new reset button today</title>
-      <link>https://x.com/thsottiaux/status/2089941380336644295</link>
-      <description>作者：Thibault Sottiaux
-账号：@thsottiaux
-简介：Codex &amp; ChatGPT @OpenAI
-
-I was gifted a very fancy new reset button today</description>
-      <pubDate>Wed, 19 Aug 2026 05:03:48 +0000</pubDate>
-      <guid isPermaLink="false">2089941380336644295</guid>
-    </item>
-    <item>
-      <title>I don’t know why anyone would learn Claude Code by reading a book, but apparently it’s a thing in Japan https://t.co/NlOttUCdD4</title>
-      <link>https://x.com/zarazhangrui/status/2089940315268645373</link>
-      <description>作者：Zara Zhang
-账号：@zarazhangrui
-简介：Builder. Make something people want, then make people want it. Harvard’17. GitHub: https://t.co/KCuEaje1wd 
-YouTube: https://t.co/8xzbGWsHgY
-
-I don’t know why anyone would learn Claude Code by reading a book, but apparently it’s a thing in Japan https://t.co/NlOttUCdD4</description>
-      <pubDate>Wed, 19 Aug 2026 04:59:35 +0000</pubDate>
-      <guid isPermaLink="false">2089940315268645373</guid>
-    </item>
-    <item>
-      <title>I should build an app (or an agent?) where you get and maintain a streak for how many days you avoid bringing the phone to the bedroom.   Have been leaving it downstairs for 3 days now and it has noticeably improved my sleep.  It's the hardest thing to stay disciplined about. Always an excuse just w...</title>
-      <link>https://x.com/petergyang/status/2089931839016468575</link>
-      <description>作者：Peter Yang
-账号：@petergyang
-简介：Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6
-
-I should build an app (or an agent?) where you get and maintain a streak for how many days you avoid bringing the phone to the bedroom. 
-
-Have been leaving it downstairs for 3 days now and it has noticeably improved my sleep.
-
-It's the hardest thing to stay disciplined about. Always an excuse just waiting (&quot;let me see what my agents are up to in bed!)&quot;</description>
-      <pubDate>Wed, 19 Aug 2026 04:25:54 +0000</pubDate>
-      <guid isPermaLink="false">2089931839016468575</guid>
-    </item>
-    <item>
-      <title>The small quality of life improvements keep coming. When you’re using Desktop every day, slow startup makes the app feel sluggish. Working on improving this even more! https://t.co/EXiF9IYDfP</title>
-      <link>https://x.com/bcherny/status/2089924199804711410</link>
-      <description>作者：Boris Cherny
-账号：@bcherny
-简介：Claude Code @anthropicai
-
-The small quality of life improvements keep coming. When you’re using Desktop every day, slow startup makes the app feel sluggish. Working on improving this even more! https://t.co/EXiF9IYDfP</description>
-      <pubDate>Wed, 19 Aug 2026 03:55:32 +0000</pubDate>
-      <guid isPermaLink="false">2089924199804711410</guid>
-    </item>
-    <item>
-      <title>As we’re seeing in case study after case study, it turns out that the amount of value that can be created between the AI model and the ultimate end-user workflow is far larger than many people assumed or realized.   Model capability is obviously doing a lot of heavy lifting in agentic products, but ...</title>
-      <link>https://x.com/levie/status/2089921630650925170</link>
-      <description>作者：Aaron Levie
-账号：@levie
-简介：ceo @box - your business lives in content. unleash it with AI
-
-As we’re seeing in case study after case study, it turns out that the amount of value that can be created between the AI model and the ultimate end-user workflow is far larger than many people assumed or realized. 
-
-Model capability is obviously doing a lot of heavy lifting in agentic products, but there’s still a lot more work to diffuse AI into the enterprise.
-
-1. Getting agents to work well (and alongside people) in mission critical workflows tends to need to be represented differently depending on the business process. Sometimes it’s a chat experience. Other times it’s a background agent running in a deterministic workflow. And dozens of other variants. This is a mix of needing a harness that’s tuned to specific domains of work, but also making it show up in the right product experience.
-
-2. Different workflows connect into entirely different enterprise systems and need access to very different data. Working with that data -whether it’s life sciences, financial, legal, etc.- requires contextual approaches, understanding of the data, having the right user experience for data interaction, and more.
-
-3. The need for domain-specific change management remains critical in most verticals. The way you talk and implement technology at a bank is very different from a law firm. Having the right talent with a singular mission ends up being extremely useful for something as complex as process reengineering.
-
-4. The ability to work with a variety of models means you can tune the workflows to different cost and performance levels. And you can eventually post train models for specific tasks to tailor the outcomes and eke out gains that aren’t coming otherwise in frontier models.
-
-5. Evals! AI is basically not useful if it can’t be evaluated. Domain-specific evals that let you dramatically improve the performance of your harness for specific workflows just has a crazy long tail given how many tasks there are in the economy. Nearly impossible for one system to be tuned for all of them.
-
-6. Lots of verticals and domains require pricing models that reflect relevant abstractions on top of tokens alone. The ability to price in ways that work for your industry’s consumption model ends up mattering in a variety of spaces. 
-
-This just touches on some of the things that go into the applied AI layer. But it all adds up to being a huge surface area for being able to sustainably innovate and differentiate.</description>
-      <pubDate>Wed, 19 Aug 2026 03:45:20 +0000</pubDate>
-      <guid isPermaLink="false">2089921630650925170</guid>
-    </item>
-    <item>
-      <title>Here’s how to think about the cost of your evals : treat evals like frontier models…establish the quality frontier first, then work your way down the cost curve.  Start with the highest quality way you can know if your AI product is working as intended.  First get clear on what good looks like - Wri...</title>
-      <link>https://x.com/realmadhuguru/status/2089918106814603728</link>
-      <description>作者：Madhu Guru
-账号：@realmadhuguru
-简介：Sr Director, AI at Meta; Prev: Google - Led Gemini, Veo, Nano Banana.
-
-Here’s how to think about the cost of your evals : treat evals like frontier models…establish the quality frontier first, then work your way down the cost curve.
-
-Start with the highest quality way you can know if your AI product is working as intended.
-
-First get clear on what good looks like - Write the rubric.
-
-Then figure out the best way to measure it - humans /  LLM judge / automated verification.
-
-At this stage, spend the money - use the expensive judge model, pay humans (or give your time). Run the best eval process possible so you get a signal you trust.
-
-Once the eval can reliably distinguish good from bad and reflects what you care about in the product, focus on costs - more automation, smaller judge models, sampling, deterministic checks where relevant.
-
-Quality first. Cost next.
-
-this is a series. drop any questions you have and I will answer them in my daily posts.</description>
-      <pubDate>Wed, 19 Aug 2026 03:31:20 +0000</pubDate>
-      <guid isPermaLink="false">2089918106814603728</guid>
-    </item>
-    <item>
-      <title>first step moving to asia:  help me empty my apartment! if you can pick up in SF, place an order and we meet next week :)  made with @bot and @NotionHQ https://t.co/Y3gqmH13DX</title>
-      <link>https://x.com/ryolu_/status/2089894938934911053</link>
-      <description>作者：Ryo Lu
-账号：@ryolu_
-简介：Designed @Cursor_ai, @NotionHQ, @Stripe, built startups. I make a world where anyone can make software. Aspiring k-pop idol.
-
-first step moving to asia:
-
-help me empty my apartment! if you can pick up in SF, place an order and we meet next week :)
-
-made with @bot and @NotionHQ
-https://t.co/Y3gqmH13DX</description>
-      <pubDate>Wed, 19 Aug 2026 01:59:16 +0000</pubDate>
-      <guid isPermaLink="false">2089894938934911053</guid>
-    </item>
-    <item>
-      <title>Hi!  Recapping some changes we have rolled out over the last couple of weeks that have further reduced the risk associated to potentially destructive actions being performed by Codex during its work.   A few weeks ago, we started investigating a small number of reports where GPT-5.6 in Codex took de...</title>
-      <link>https://x.com/thsottiaux/status/2089891927659585918</link>
-      <description>作者：Thibault Sottiaux
-账号：@thsottiaux
-简介：Codex &amp; ChatGPT @OpenAI
-
-Hi!
-
-Recapping some changes we have rolled out over the last couple of weeks that have further reduced the risk associated to potentially destructive actions being performed by Codex during its work. 
-
-A few weeks ago, we started investigating a small number of reports where GPT-5.6 in Codex took destructive actions outside what the user asked for. The most serious pattern we found was a command meant to clean up temporary work that could instead delete the user files. This should obviously not happen. 
-
-Here’s what we found:
-- Codex sometimes creates temporary folders while working and cleans them up afterward. In rare cases, GPT-5.6 got that cleanup wrong. One pattern involved reusing a system environment variable like $HOME for temporary work. A malformed cleanup command could then point at the actual home directory instead of the temporary folder. 
-- There were cases where the model tried to delete or overwrite a temporary path without checking what was already there.
-
-We’ve added protections at several layers:
-- Codex is now explicitly instructed to check deletion targets before acting, create fresh temporary directories, avoid repurposing system environment variables, prefer recoverable actions, and stop when the scope is unclear.
-- We strengthened the execution checks that identify high-risk deletion commands and escalate them for review. If a command is rejected, the model is directed to take a safer approach.
-- We made Full access harder to enable accidentally, added clearer warnings, and further restricted especially risky permission combinations.
-- We updated Auto-review to better identify destructive actions.
-- We built targeted evaluations that replay the failures we observed. We’re also adding reinforcement-learning tasks and graders focused on these risks, and filtering destructive actions from training data.
-
-In those replay evaluations, the changes substantially reduced the behavior while preserving Codex’s ability to complete normal coding work. 
-
-Two things to do on your end:
-- Keep the Codex app up to date. We are always improving safety, performance and many other things.
-- Use one of the sandbox modes: &quot;Ask for approval&quot; or &quot;Approve for me&quot;. Only use Full access for environments you trust and can recover.
-
-Thanks and happy Codexing out there!</description>
-      <pubDate>Wed, 19 Aug 2026 01:47:18 +0000</pubDate>
-      <guid isPermaLink="false">2089891927659585918</guid>
-    </item>
-    <item>
-      <title>I can reliably tell im hitting a deeper point in a meditation because my nose clears completely    This checks out https://t.co/1hML8Wxa1b</title>
-      <link>https://x.com/danshipper/status/2089877888396906801</link>
-      <description>作者：Dan Shipper
-账号：@danshipper
-简介：ceo @every | the only subscription you need to stay at the edge of AI
-
-I can reliably tell im hitting a deeper point in a meditation because my nose clears completely  
-
-This checks out https://t.co/1hML8Wxa1b</description>
-      <pubDate>Wed, 19 Aug 2026 00:51:31 +0000</pubDate>
-      <guid isPermaLink="false">2089877888396906801</guid>
-    </item>
-    <item>
-      <title>512GB RAM Studios. Apple was good to us. 🦞 https://t.co/NyvtNH6lRa</title>
-      <link>https://x.com/steipete/status/2089877190422974974</link>
-      <description>作者：Peter Steinberger
-账号：@steipete
-简介：Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world.
-@OpenClaw🦞 + @OpenAI
-
-512GB RAM Studios. Apple was good to us. 🦞 https://t.co/NyvtNH6lRa</description>
-      <pubDate>Wed, 19 Aug 2026 00:48:44 +0000</pubDate>
-      <guid isPermaLink="false">2089877190422974974</guid>
-    </item>
-    <item>
-      <title>3. AI has landed on top of existing work rather than replacing it 😭  Teams now spent more time chatting with AI and delegating to agents but didn't spend any less time on existing work.  I think this is because expectations for what any function can accomplish are simply much higher now.</title>
-      <link>https://x.com/petergyang/status/2089877083510235328</link>
-      <description>作者：Peter Yang
-账号：@petergyang
-简介：Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6
-
-3. AI has landed on top of existing work rather than replacing it 😭
-
-Teams now spent more time chatting with AI and delegating to agents but didn't spend any less time on existing work.
-
-I think this is because expectations for what any function can accomplish are simply much higher now.</description>
-      <pubDate>Wed, 19 Aug 2026 00:48:19 +0000</pubDate>
-      <guid isPermaLink="false">2089877083510235328</guid>
-    </item>
-    <item>
-      <title>2. Non-engineers are shipping more code  PMs attaching pull requests rose from 3% to 10% in two years. Designers went from 1% to 8%, and founders are second only to engineers at 23%.  I'm actually surprised that designers are slightly behind PMs on this, given the rise of design engineer roles.</title>
-      <link>https://x.com/petergyang/status/2089877068188471545</link>
-      <description>作者：Peter Yang
-账号：@petergyang
-简介：Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6
-
-2. Non-engineers are shipping more code
-
-PMs attaching pull requests rose from 3% to 10% in two years. Designers went from 1% to 8%, and founders are second only to engineers at 23%.
-
-I'm actually surprised that designers are slightly behind PMs on this, given the rise of design engineer roles.</description>
-      <pubDate>Wed, 19 Aug 2026 00:48:15 +0000</pubDate>
-      <guid isPermaLink="false">2089877068188471545</guid>
-    </item>
-    <item>
-      <title>Life honestly gets a lot simpler if you treat it as if nobody owes you a damn thing.  Too many people playing finite games when there’s many infinite games to play.   Do good by people and life (and karma) takes care of itself.</title>
-      <link>https://x.com/nikunj/status/2089870745174446217</link>
-      <description>作者：Nikunj Kothari
-账号：@nikunj
-简介：partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian &amp; others. love @shimoleejhaveri + 👦👧
-
-Life honestly gets a lot simpler if you treat it as if nobody owes you a damn thing.
-
-Too many people playing finite games when there’s many infinite games to play. 
-
-Do good by people and life (and karma) takes care of itself.</description>
-      <pubDate>Wed, 19 Aug 2026 00:23:08 +0000</pubDate>
-      <guid isPermaLink="false">2089870745174446217</guid>
-    </item>
-    <item>
-      <title>If you want SF rent to be $10K/mo for a 1BR (you're a NIMBY landlord and you hate newcomers and young people)  only then would you vote for Connie Chan  The Dem machine smokescreen to try to force Chan into Congress is shameless and must be repudiated https://t.co/or2fLiytUw</title>
-      <link>https://x.com/garrytan/status/2089869693201092848</link>
-      <description>作者：Garry Tan
-账号：@garrytan
-简介：President &amp; CEO @ycombinator —Founder @garryslist—Creator of GStack &amp; GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop
-
-If you want SF rent to be $10K/mo for a 1BR (you're a NIMBY landlord and you hate newcomers and young people)
-
-only then would you vote for Connie Chan
-
-The Dem machine smokescreen to try to force Chan into Congress is shameless and must be repudiated https://t.co/or2fLiytUw</description>
-      <pubDate>Wed, 19 Aug 2026 00:18:57 +0000</pubDate>
-      <guid isPermaLink="false">2089869693201092848</guid>
-    </item>
-    <item>
-      <title>Many such cases https://t.co/l6Oe80d10f</title>
-      <link>https://x.com/garrytan/status/2089850288840794596</link>
-      <description>作者：Garry Tan
-账号：@garrytan
-简介：President &amp; CEO @ycombinator —Founder @garryslist—Creator of GStack &amp; GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop
-
-Many such cases https://t.co/l6Oe80d10f</description>
-      <pubDate>Tue, 18 Aug 2026 23:01:51 +0000</pubDate>
-      <guid isPermaLink="false">2089850288840794596</guid>
-    </item>
-    <item>
-      <title>I was talking to someone about @travisk today  And I was reflecting that there was no one else on this earth who could have had the resilience to make sure that I can go from Point A to Point B in almost every global city  No one else in Silicon Valley had the guts. He did.  TY.</title>
-      <link>https://x.com/adityaag/status/2089845563097563604</link>
-      <description>作者：Aditya Agarwal
-账号：@adityaag
-简介：General Partner @SPC, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @Dropbox, Board @Flipkart | Optimist, Builder, Dad
-
-I was talking to someone about @travisk today
-
-And I was reflecting that there was no one else on this earth who could have had the resilience to make sure that I can go from Point A to Point B in almost every global city
-
-No one else in Silicon Valley had the guts. He did.
-
-TY.</description>
-      <pubDate>Tue, 18 Aug 2026 22:43:04 +0000</pubDate>
-      <guid isPermaLink="false">2089845563097563604</guid>
-    </item>
-    <item>
-      <title>weird that there's a &quot;make a lot of money&quot; button and nobody's pressing it  (take your SaaS, make it headless, let agents use it, charge per interaction esp for enterprises)</title>
-      <link>https://x.com/trq212/status/2089844723691479333</link>
-      <description>作者：Thariq
-账号：@trq212
-简介：Claude Code @anthropicai.   prev YC W20, @spc, @medialab
-
-weird that there's a &quot;make a lot of money&quot; button and nobody's pressing it
-
-(take your SaaS, make it headless, let agents use it, charge per interaction esp for enterprises)</description>
-      <pubDate>Tue, 18 Aug 2026 22:39:44 +0000</pubDate>
-      <guid isPermaLink="false">2089844723691479333</guid>
-    </item>
-    <item>
-      <title>I’ve been using https://t.co/OL0LzGtvAw as my daily driver and it’s a one-way street.  It’s 10-20x smaller than the major coding CLIs. It starts up instantaneously. It feels more like using 𝚣𝚜𝚑 than an IDE in your terminal. It’s embeddable anywhere, even your browser via WebAssembly.  And of course ...</title>
-      <link>https://x.com/rauchg/status/2089831055373316274</link>
-      <description>作者：Guillermo Rauch
-账号：@rauchg
-简介：@vercel CEO
-
-I’ve been using https://t.co/OL0LzGtvAw as my daily driver and it’s a one-way street.
-
-It’s 10-20x smaller than the major coding CLIs. It starts up instantaneously. It feels more like using 𝚣𝚜𝚑 than an IDE in your terminal. It’s embeddable anywhere, even your browser via WebAssembly.
-
-And of course it’s open source and model-agnostic. It’s experimental, but give it a shot and let us know how it goes!</description>
-      <pubDate>Tue, 18 Aug 2026 21:45:25 +0000</pubDate>
-      <guid isPermaLink="false">2089831055373316274</guid>
-    </item>
-    <item>
-      <title>Do you C what I C?  ⦿ CC, our experimental AI productivity agent in Gmail, has now opened up a waitlist in Australia and New Zealand! 🌏  ⦿ We're also expanding availability in the US and Canada. If you've been on the waitlist, we're rolling out invitations to get access starting today.  ⦿ We've upgr...</title>
-      <link>https://x.com/GoogleLabs/status/2089812430885208361</link>
-      <description>作者：Google Labs
-账号：@GoogleLabs
-简介：Google’s home for our latest AI tools and experiments.
-
-Do you C what I C?
-
-⦿ CC, our experimental AI productivity agent in Gmail, has now opened up a waitlist in Australia and New Zealand! 🌏
-
-⦿ We're also expanding availability in the US and Canada. If you've been on the waitlist, we're rolling out invitations to get access starting today.
-
-⦿ We've upgraded CC to help manage your calendar. CC connects to Gmail so events are automatically created in a dedicated Google Calendar and stay up to date as things change.
-
-Learn more here: https://t.co/O43tNhIqPT</description>
-      <pubDate>Tue, 18 Aug 2026 20:31:25 +0000</pubDate>
-      <guid isPermaLink="false">2089812430885208361</guid>
-    </item>
-    <item>
-      <title>Claude can now send emails in Gmail and manage files in Google Drive.  Ask Claude to reply to a thread, and it drafts and sends the response. You control when it needs your approval.  Connect Gmail or Google Drive from the connectors menu to try. Available on all paid plans. https://t.co/cFZEjh3MgB</title>
-      <link>https://x.com/claudeai/status/2089806039088517356</link>
-      <description>作者：Claude
-账号：@claudeai
-简介：Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Talk to Claude on https://t.co/ZhTwG8dz3D or download the app.
-
-Claude can now send emails in Gmail and manage files in Google Drive.
-
-Ask Claude to reply to a thread, and it drafts and sends the response. You control when it needs your approval.
-
-Connect Gmail or Google Drive from the connectors menu to try. Available on all paid plans. https://t.co/cFZEjh3MgB</description>
-      <pubDate>Tue, 18 Aug 2026 20:06:01 +0000</pubDate>
-      <guid isPermaLink="false">2089806039088517356</guid>
-    </item>
-    <item>
-      <title>(We still expect to ship great new models soon; this impacts further-out releases.)</title>
-      <link>https://x.com/sama/status/2089805495783813196</link>
-      <description>作者：Sam Altman
-账号：@sama
-简介：AI is cool i guess
-
-(We still expect to ship great new models soon; this impacts further-out releases.)</description>
-      <pubDate>Tue, 18 Aug 2026 20:03:51 +0000</pubDate>
-      <guid isPermaLink="false">2089805495783813196</guid>
-    </item>
-    <item>
-      <title>Your software factory should be a monorepo. All your company context (design, marketing, sales, engineering, support…) in one place for agents to build upon https://t.co/MRPrmkSAPd</title>
-      <link>https://x.com/rauchg/status/2089804717337817514</link>
-      <description>作者：Guillermo Rauch
-账号：@rauchg
-简介：@vercel CEO
-
-Your software factory should be a monorepo. All your company context (design, marketing, sales, engineering, support…) in one place for agents to build upon https://t.co/MRPrmkSAPd</description>
-      <pubDate>Tue, 18 Aug 2026 20:00:45 +0000</pubDate>
-      <guid isPermaLink="false">2089804717337817514</guid>
-    </item>
-    <item>
-      <title>pssst, you wake the cli people that will give you $reasons why this can’t work.  I was one of them before I saw the light. https://t.co/yBWXIT0Uvk</title>
-      <link>https://x.com/steipete/status/2089804281331548280</link>
-      <description>作者：Peter Steinberger
-账号：@steipete
-简介：Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world.
-@OpenClaw🦞 + @OpenAI
-
-pssst, you wake the cli people that will give you $reasons why this can’t work.
-
-I was one of them before I saw the light. https://t.co/yBWXIT0Uvk</description>
-      <pubDate>Tue, 18 Aug 2026 19:59:02 +0000</pubDate>
-      <guid isPermaLink="false">2089804281331548280</guid>
-    </item>
-    <item>
-      <title>The irony. https://t.co/KH930Y7H9t https://t.co/VVSDo0ehUh</title>
-      <link>https://x.com/steipete/status/2089801681014043122</link>
-      <description>作者：Peter Steinberger
-账号：@steipete
-简介：Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world.
-@OpenClaw🦞 + @OpenAI
-
-The irony. https://t.co/KH930Y7H9t https://t.co/VVSDo0ehUh</description>
-      <pubDate>Tue, 18 Aug 2026 19:48:42 +0000</pubDate>
-      <guid isPermaLink="false">2089801681014043122</guid>
-    </item>
-    <item>
-      <title>More examples   https://t.co/yR9TiL2DsJ</title>
-      <link>https://x.com/thenanyu/status/2089800195907502481</link>
-      <description>作者：Nan Yu
-账号：@thenanyu
-简介：product enthusiast
-
-More examples 
-
-https://t.co/yR9TiL2DsJ</description>
-      <pubDate>Tue, 18 Aug 2026 19:42:47 +0000</pubDate>
-      <guid isPermaLink="false">2089800195907502481</guid>
-    </item>
-    <item>
-      <title>we've been doing a lot of a/b testing of @aiDotEngineer  youtube thumbnails. i always hated that it is such an opaque process.  open sourcing/crowdsourcing our learnings today! https://t.co/J9SYClIF7z  doing this in hopes that people can share their experience or learn from ours. at the end of the d...</title>
-      <link>https://x.com/swyx/status/2089798658225266806</link>
+      <title>HAHAHAHAHAHA  non technical people are so incredibly cooked they are burnt thru  can u imagine covering ai with zero context, zero reasoning, zero internal world model. it must be so delightfully joyful, everything is so amazing, face value is all you need,  what a time to be alive</title>
+      <link>https://x.com/swyx/status/2090314794456785263</link>
       <description>作者：Swyx
 账号：@swyx
 简介：achieve ambition with intentionality, intensity, integrity &amp; insanity.
@@ -407,223 +20,578 @@ affiliations:
 - @aidotengineer
 - @latentspacepod
 
-we've been doing a lot of a/b testing of @aiDotEngineer  youtube thumbnails. i always hated that it is such an opaque process.
+HAHAHAHAHAHA
 
-open sourcing/crowdsourcing our learnings today!
-https://t.co/J9SYClIF7z
+non technical people are so incredibly cooked they are burnt thru
 
-doing this in hopes that people can share their experience or learn from ours. at the end of the day we just want to get good educational content to rise above the noise online. please lmk what you think</description>
-      <pubDate>Tue, 18 Aug 2026 19:36:41 +0000</pubDate>
-      <guid isPermaLink="false">2089798658225266806</guid>
+can u imagine covering ai with zero context, zero reasoning, zero internal world model. it must be so delightfully joyful, everything is so amazing, face value is all you need,
+
+what a time to be alive</description>
+      <pubDate>Thu, 20 Aug 2026 05:47:37 +0000</pubDate>
+      <guid isPermaLink="false">2090314794456785263</guid>
     </item>
     <item>
-      <title>we asked @ajambrosino to send us his thesis for the future of work after automation  he replied with only one word:  &quot;tibo&quot; https://t.co/dQWY99c8PL</title>
-      <link>https://x.com/danshipper/status/2089788656445734922</link>
-      <description>作者：Dan Shipper
-账号：@danshipper
-简介：ceo @every | the only subscription you need to stay at the edge of AI
+      <title>latest home project:  rotating iconic patent drawings 📜  display: 13.3” spectra 6 e-ink controller: esp32-s3 server: @railway battery powered (should last ~three months) https://t.co/fghBzPiZk4</title>
+      <link>https://x.com/nikunj/status/2090307104146112534</link>
+      <description>作者：Nikunj Kothari
+账号：@nikunj
+简介：partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian &amp; others. love @shimoleejhaveri + 👦👧
 
-we asked @ajambrosino to send us his thesis for the future of work after automation
+latest home project: 
+rotating iconic patent drawings 📜
 
-he replied with only one word:
-
-&quot;tibo&quot; https://t.co/dQWY99c8PL</description>
-      <pubDate>Tue, 18 Aug 2026 18:56:56 +0000</pubDate>
-      <guid isPermaLink="false">2089788656445734922</guid>
+display: 13.3” spectra 6 e-ink
+controller: esp32-s3
+server: @railway
+battery powered (should last ~three months) https://t.co/fghBzPiZk4</description>
+      <pubDate>Thu, 20 Aug 2026 05:17:04 +0000</pubDate>
+      <guid isPermaLink="false">2090307104146112534</guid>
     </item>
     <item>
-      <title>We have paused some frontier RL training to ensure that we can meet the appropriate alignment, security and monitoring standards for the new level of capabilities in front of us. Model progress is now extremely rapid, and we always said we would take action if we felt that model capabilities were ou...</title>
-      <link>https://x.com/sama/status/2089787807611195475</link>
-      <description>作者：Sam Altman
-账号：@sama
-简介：AI is cool i guess
+      <title>There tends to be a debate between being an expert or generalist in the era of AI. So far, the experts appear to have the upper hand, and that’s not slowing down.  AI makes it 10X easier to get started with any kind of task. Coding, legal work, research, financial analysis, and so on. But having the...</title>
+      <link>https://x.com/levie/status/2090278256306229675</link>
+      <description>作者：Aaron Levie
+账号：@levie
+简介：ceo @box - your business lives in content. unleash it with AI
 
-We have paused some frontier RL training to ensure that we can meet the appropriate alignment, security and monitoring standards for the new level of capabilities in front of us. Model progress is now extremely rapid, and we always said we would take action if we felt that model capabilities were outstripping the pace of safety and alignment.
+There tends to be a debate between being an expert or generalist in the era of AI. So far, the experts appear to have the upper hand, and that’s not slowing down.
 
-We care very deeply about AI safety. We believe the entire field will have to coordinate on shared safety standards, but will act unilaterally in the meantime.
+AI makes it 10X easier to get started with any kind of task. Coding, legal work, research, financial analysis, and so on. But having the right judgment for how to direct the agent onto the right work, how to veer it to course correct it, being able to review or test the output, and having the right sense of what “good” looks like all requires a high degree of skill depending on the field.
 
-We expect confidence in safety to increasingly set the pace of AI progress. We are optimistic about the alignment work we are doing, and we remain committed to making frontier capabilities widely available.
+That skill can be developed far faster due to AI for anyone interested, which is amazing for uplifting anyone in their career. But there’s no replacement to needing judgment and many of the core skills that go into most domains of work. 
 
-https://t.co/51kvKfbfrO</description>
-      <pubDate>Tue, 18 Aug 2026 18:53:34 +0000</pubDate>
-      <guid isPermaLink="false">2089787807611195475</guid>
+And if anything, AI will be a technology that exacerbates differences in skill levels because the experts have far more leverage than ever before. Net net: don’t give up on being an expert at something.</description>
+      <pubDate>Thu, 20 Aug 2026 03:22:26 +0000</pubDate>
+      <guid isPermaLink="false">2090278256306229675</guid>
     </item>
     <item>
-      <title>excited to work together on this. thank you jensen! https://t.co/sxWXpQelYj</title>
-      <link>https://x.com/sama/status/2089758522678657212</link>
-      <description>作者：Sam Altman
-账号：@sama
-简介：AI is cool i guess
+      <title>positive UBB take if you view openrouter in that lens  https://t.co/rOtLC5UkC5</title>
+      <link>https://x.com/swyx/status/2090259930662211615</link>
+      <description>作者：Swyx
+账号：@swyx
+简介：achieve ambition with intentionality, intensity, integrity &amp; insanity.
 
-excited to work together on this. thank you jensen! https://t.co/sxWXpQelYj</description>
-      <pubDate>Tue, 18 Aug 2026 16:57:12 +0000</pubDate>
-      <guid isPermaLink="false">2089758522678657212</guid>
+affiliations:
+- @smol_ai
+- @dxtipshq
+- @cognition
+- @aidotengineer
+- @latentspacepod
+
+positive UBB take if you view openrouter in that lens
+
+https://t.co/rOtLC5UkC5</description>
+      <pubDate>Thu, 20 Aug 2026 02:09:37 +0000</pubDate>
+      <guid isPermaLink="false">2090259930662211615</guid>
     </item>
     <item>
-      <title>Claude Cowork is now available on mobile and web for all paid plans. https://t.co/sdWVjEehcR</title>
-      <link>https://x.com/claudeai/status/2089756371570900999</link>
-      <description>作者：Claude
-账号：@claudeai
-简介：Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Talk to Claude on https://t.co/ZhTwG8dz3D or download the app.
-
-Claude Cowork is now available on mobile and web for all paid plans. https://t.co/sdWVjEehcR</description>
-      <pubDate>Tue, 18 Aug 2026 16:48:39 +0000</pubDate>
-      <guid isPermaLink="false">2089756371570900999</guid>
-    </item>
-    <item>
-      <title>We are putting $1M towards verifying the security of Vercel Sandbox, in the open. You're free to test any model in the world to try and find an escape.  I'm looking forward to bringing transparency to what frontier models can and cannot do in terms of real-world guardrail exploitability.  If escapes...</title>
-      <link>https://x.com/rauchg/status/2089747453004468339</link>
+      <title>https://t.co/OL0LzGtvAw is 6.3mb. It starts up in 10µs¹. It's a Zig-compiled static ELF binary, or an even smaller 𝚕𝚒𝚋𝚏𝚡.𝚠𝚊𝚜𝚖²   AI will make most infrastructure natively optimized. Case in point: fx can literally finish tasks faster than other agents can boot.  Fast is a one-way street.  ¹ that's m...</title>
+      <link>https://x.com/rauchg/status/2090255740384751664</link>
       <description>作者：Guillermo Rauch
 账号：@rauchg
 简介：@vercel CEO
 
-We are putting $1M towards verifying the security of Vercel Sandbox, in the open. You're free to test any model in the world to try and find an escape.
+https://t.co/OL0LzGtvAw is 6.3mb. It starts up in 10µs¹. It's a Zig-compiled static ELF binary, or an even smaller 𝚕𝚒𝚋𝚏𝚡.𝚠𝚊𝚜𝚖² 
 
-I'm looking forward to bringing transparency to what frontier models can and cannot do in terms of real-world guardrail exploitability.
+AI will make most infrastructure natively optimized. Case in point: fx can literally finish tasks faster than other agents can boot.
 
-If escapes are discovered, we'll be ready to patch, iterate, and share our findings with the broader community to strengthen global cybersecurity.</description>
-      <pubDate>Tue, 18 Aug 2026 16:13:13 +0000</pubDate>
-      <guid isPermaLink="false">2089747453004468339</guid>
+Fast is a one-way street.
+
+¹ that's microseconds
+² fun fact: the wasm build is actually *smaller*. A lot of binary weight comes from the TLS/HTTP stack. In WebAssembly, fx delegates 𝚏𝚎𝚝𝚌𝚑() to the JS runtime instead. You can try this on https://t.co/me7se5dvip</description>
+      <pubDate>Thu, 20 Aug 2026 01:52:58 +0000</pubDate>
+      <guid isPermaLink="false">2090255740384751664</guid>
     </item>
     <item>
-      <title>I wish it was a better watch  https://t.co/5hMKjTJo8Q</title>
-      <link>https://x.com/thenanyu/status/2089692801537560610</link>
-      <description>作者：Nan Yu
-账号：@thenanyu
-简介：product enthusiast
+      <title>Some have asked what this means.  It’s simple: Work on things that truly matter.  Not just good product or business ideas.  Things that matter. Make a dent in the universe. https://t.co/Oe5lhZdZRN</title>
+      <link>https://x.com/adityaag/status/2090254727175115032</link>
+      <description>作者：Aditya Agarwal
+账号：@adityaag
+简介：General Partner @SPC, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @Dropbox, Board @Flipkart | Optimist, Builder, Dad
 
-I wish it was a better watch
+Some have asked what this means.
 
-https://t.co/5hMKjTJo8Q</description>
-      <pubDate>Tue, 18 Aug 2026 12:36:03 +0000</pubDate>
-      <guid isPermaLink="false">2089692801537560610</guid>
+It’s simple: Work on things that truly matter.
+
+Not just good product or business ideas.
+
+Things that matter. Make a dent in the universe. https://t.co/Oe5lhZdZRN</description>
+      <pubDate>Thu, 20 Aug 2026 01:48:56 +0000</pubDate>
+      <guid isPermaLink="false">2090254727175115032</guid>
     </item>
     <item>
-      <title>Rich Sutton and Khurram Javed: Why AI Models Stop Learning, and How to Start It Again</title>
-      <link>https://www.youtube.com/watch?v=xH7U7w9Qzlo</link>
-      <description>播客：Training Data
+      <title>We'd love to talk with Cowork users in Corporate Finance and Accounting roles!  Have ideas on how we can improve? Sign up for a screen share with our team here: https://t.co/KjF5bGFX1x</title>
+      <link>https://x.com/_catwu/status/2090249465844380154</link>
+      <description>作者：Cat Wu
+账号：@_catwu
+简介：claude code + cowork @anthropicai, prev: @dagster, @scale_ai
 
-Speaker 1 | 00:00 - 00:14
-People think I have a radical point of view sometimes. They start questions saying how what I'm thinking is so different from everyone else. But I don't see it that way at all. I see it as like I'm thinking the ordinary way. Just everyone else is thinking a bit weird.
+We'd love to talk with Cowork users in Corporate Finance and Accounting roles!
 
-Speaker 1 | 00:17 - 00:35
-And I mean that like, you know, it's just the recent times people are thinking weird. Before there was all this AI craziness, you talk about you wouldn't have to say continual learning because it wouldn't make any sense to talk about learning that wasn't continual. All learning is continual. We always act and we learn. That's just the normal way of thinking.
-
-Speaker 1 | 00:35 - 00:41
-I'm not weird. The field is weird. The field, they need to call it continual learning. It's just learning.
-
-Speaker 2 | 00:59 - 01:16
-We are honored to have the great Rich Sutton with us here today. Rich, you invented reinforcement learning. You wrote the seminal textbook. You're the key students in the field, folks like Dave Silver. You wrote the essay, The Bitter Lesson, that I believe is the bible of the field.
-
-Speaker 2 | 01:16 - 01:33
-You have just been one of the greats in propelling the field forward. So thank you for taking the time to join us today. Rich is joined by Kurram Javed, his cofounder, and former student from the University of Alberta. The two of you have set off to found Oak Lab. I'm very excited to talk to you about that today.
-
-Speaker 2 | 01:33 - 02:09
-So for today's session, we're gonna start talking about the bitter lesson, the state of the world as we know it today, whether LLMs will get us there or not, and then we're gonna transition to start talking about your your research agenda and your plan for Oak. Rich, maybe take us back. I was going to start with a bitter lesson, but I actually want to start earlier than that. Decades ago, you decided to dedicate your career to reinforcement learning, to deep reinforcement learning in particular, and you established the University of Alberta as a bastion of that back when I think the field was very much in its infancy. What gave you the conviction to do that?
-
-Speaker 1 | 02:09 - 02:26
-What else are you gonna do? We're trying to figure out the mind and learning is a central part of the mind and having a goal is a central part of the mind, central part of intelligence. Yeah. So I was just doubling down on what I was always thinking.
-
-Speaker 2 | 02:26 - 02:28
-Did people think you were crazy at the time?
-
-Speaker 1 | 02:31 - 02:33
-It was a winter. It was an AI winter.
-
-Speaker 2 | 02:34 - 02:35
-What year was this?
-
-Speaker 1 | 02:35 - 02:55
-It was in 2003. Okay. And it's kind of crazy, actually, the truth, because I was, like, really sick. I actually dying of cancer in 2003 but I wasn't quite dead. I've been trying for a number of years and I wasn't dead.
-
-Speaker 1 | 02:55 - 03:13
-Was in another remission and so I said, Well, I'm not dying. I haven't succeeded in dying so I might as well you know, it's going on long enough. I might as well just try to get another job. And so I went to Alberta and started teaching there. And then in the end, didn't die.
-
-Speaker 1 | 03:13 - 03:29
-It's kind of amazing. It's like that. I'm joking about it now, but it was quite serious. And, it's an even more poignant question. Why did I continue, to work on this research stuff when I was, you know, I only had a few months?
-
-Speaker 1 | 03:30 - 03:48
-I would always keep reminded what I think it's Benjamin Franklin is supposed to have said that, you know, if you ever wonder why someone is doing something, it's almost always one of two things. It's either habit or vanity. Okay? I think that was probably true. Maybe it was about habit.
-
-Speaker 1 | 03:48 - 03:55
-Just kept doing what I always was doing or maybe it was a vanity. I don't know. I think it was more like habit because I was dying.
-
-Speaker 2 | 03:57 - 03:57
-Divine intervention.
-
-Speaker 1 | 03:57 - 04:06
-Yeah. It's always been easy for me to be very determined. And gonna go even longer on this answer.
-
-Speaker 2 | 04:06 - 04:07
-Please do.
-
-Speaker 1 | 04:07 - 04:23
-People think I have a radical point of view sometimes. They start questions saying how what I'm thinking is so different from everyone else. But I don't see it that way at all. I see it as like I'm thinking the ordinary way. It's just everyone else that's thinking a bit weird.
-
-Speaker 1 | 04:26 - 04:57
-And I mean that like, you know, it's just the recent times people are thinking. If you go look back what people thought about the mind for, you know, even just a decade, you'll find the kind of thoughts that, you know, learning is important, you've got to have a goal, And perception is important. We are low level beings. We are generating actions and perceiving data at a fast speed and yet we have to think at higher levels. And, you know, go back a few.
-
-Speaker 1 | 04:57 - 05:15
-Before there was all this AI craziness, you talk about you wouldn't have to say continual learning because it wouldn't make any sense to talk about learning that wasn't continual. All learning is continual. You know, it's not a special phase. We always act and we learn. That's just the normal way of thinking.
-
-Speaker 1 | 05:15 - 05:21
-I'm not weird. The field is weird. They feel they need to call it continual learning. It's just learning.
-
-Speaker 2 | 05:22 - 05:26
-I'm not weird. Everybody else is. That's a good, good motto to live by.
-
-Speaker 3 | 05:26 - 05:36
-We're gonna have to send out a next post about that. We're very happy that you lived on. The field is happy that you lived on, and thank you for pushing the frontier.
-
-Speaker 1 | 05:36 - 05:37
-I'm really happy.
-
-Speaker 3 | 05:38 - 05:51
-Thank you for pushing the frontier. I am sure really happy, and thank you for all of that and push. And you've, like, been able to sort of educate a lot of students who push the frontier as well. How'd you pick them? How'd you the last twenty, thirty years?
-
-Speaker 1 | 05:51 - 06:13
-Oh, you are giving me opportunities to be, to be humble, like I like to be humble and point out how all these great decisions are just happen. And it's that that's the way I feel about students. I don't feel that I choose them very well. I've just sometimes I'm lucky, sometimes I'm unlucky. I don't feel I'm particularly good at picking my students.
-
-Speaker 1 | 06:14 - 06:23
-I'm looking at Kerm now. I think sometimes you end up with really great ones. David Silver picked me. Yeah. How is it that I got you, Kerm?
-
-Speaker 1 | 06:23 - 06:23
-Yeah, that
-
-Speaker 4 | 06:23 - 06:44
-was also so I finished my master's, not with you, and I was planning to join industry, and then we were collaborating on a project, which also just started organically. Like, there was something I worked on Rich was in a meeting, then they mentioned that I worked on it. So I got pulled into it. We started collaborating. It went really well.
-
-Speaker 4 | 06:44 - 07:08
-Like, I felt so happy with that collaboration. Rich also felt really good about it. And then six months down the road, we had made some progress, and it just made sense to convert that into a thesis proposal. So no point did I apply, at no point did I ask, should you be my PhD advisor? We worked together, then we decided this would be a pretty good thesis, and then after that, I applied for the PhD.
-
-Speaker 2 | 07:08 - 07:28
-Life works in unexpected ways. Take us to 2019. You wrote The Bitter Lesson, which has become the modern tome. 2019 was a funny time to be writing that piece because ImageNet was 2009, AlphaGo was 2015. What caused you in 2019 to reflect and and to write that?
-
-Speaker 2 | 07:28 - 07:35
-Because it was before the current kind of scaling paradigm around large language models had taken off, but it was after deep learning had really proven itself.
-
-Speaker 1 | 07:36 - 08:09
-Well, it was a long time coming. You know, as the Bitter Lesson expresses, it's something that you can observe fo...</description>
-      <pubDate>Tue, 18 Aug 2026 09:00:00 +0000</pubDate>
-      <guid>https://www.youtube.com/watch?v=xH7U7w9Qzlo</guid>
+Have ideas on how we can improve? Sign up for a screen share with our team here: https://t.co/KjF5bGFX1x</description>
+      <pubDate>Thu, 20 Aug 2026 01:28:02 +0000</pubDate>
+      <guid isPermaLink="false">2090249465844380154</guid>
     </item>
     <item>
-      <title>How we contain Claude across products</title>
-      <link>https://www.anthropic.com/engineering/how-we-contain-claude</link>
-      <description>作者：Anthropic Engineering
+      <title>The best way to get good at evals - Part 3.   Let’s talk failure modes taxonomy - that’s the first thing you should build once you have v1 of your evals.  Start with your production traces - study the last 500 or 1,000 interactions and look at the failures. Cluster them and name the clusters.  Get s...</title>
+      <link>https://x.com/realmadhuguru/status/2090242427944833047</link>
+      <description>作者：Madhu Guru
+账号：@realmadhuguru
+简介：Sr Director, AI at Meta; Prev: Google - Led Gemini, Veo, Nano Banana.
 
-Twelve months ago, we&amp;#x27;d have rejected out of hand the idea of granting Claude access sufficient to take down an internal Anthropic service. Today that level of access is routine, and Anthropic developers are more productive for it. The risk of these deployments has two components: how likely a failure is, and how much damage one could do. Progress on safeguards and model training has steadily driven down the first; the second—the theoretical blast radius—only grows as capabilities and access expand. Yet as agents become capable of doing work that once required a person or even a team, the cost of not deploying grows large enough that the risk-reward calculation tips heavily toward adoption, as long as products can be made safe. The engineering question becomes how to cap the blast radius. When bounds can be placed on the relative damage of an autonomous agent—such as through control over its environment—high-utility capabilities can motivate deployment. Claude Mythos Preview is an example of a model whose blast radius was deemed too high to ship in April 2026. However, we expect broader release of models with similar levels of capability to become appropriate as defenders harden critical systems and safeguards mature—even though some risk will always remain. Model capability is an important factor in the total risk of an agent’s deployment. There are broadly two ways to do this. The first is to supervise the agent’s behavior via a human-in-the-loop. Claude Code previously protected against agents taking unintended actions by asking users for permission at each turn. Theoretically that works, but we’ve found the approach to be fallible. Our telemetry showed users approved roughly 93% of permission prompts. The more approvals a user sees, the less attention they pay to each, becoming over time much less diligent in their supervision. We recently built Claude Code auto mode, which automates safer approvals in order to reduce this approval fatigue. Still, vulnerabilities remain—any probabilistic defense has a non-zero miss rate. 1 The second approach to capping the blast radius—and the focus of much of this post—is containment. Rather than supervising what the agent does, we supervise what it’s able to do by enforcing access boundaries through, for example, sandboxes, virtual machines, and egress controls. This is where Anthropic engineering has devoted the most effort, and also where many of the most surprising security failures have occurred. Over the past two years, we’ve shipped three primary agentic products: claude.ai , Claude Code, and Claude Cowork. Each serves a different audience, requiring a different containment architecture. This article shares what’s held up, what’s broken, and what we’ve learned about agent security along the way. Three types of risk, three components of defense Security risks to agents fall into one of three categories: User misuse: A user—either maliciously or through carelessness—directs the agent to do something harmful. This includes everything from asking the agent to bypass a check they find annoying, to running a destructive command they don’t understand, to specifying intentional harm. Model misbehavior: The agent takes a harmful action no one asked for. As our models have improved, they have become more aligned on most behavior evaluations, but this doesn’t mean risk necessarily shrinks. Less capable models are more likely to misread a situation and make obvious errors. More capable models make fewer mistakes, but they’re also better at finding unexpected paths to a goal, often by routing around restrictions nobody thought to write down. At Anthropic, we’ve seen Claude models “helpfully” escape a sandbox in order to complete a task, examine git history to find answers to a coding test , and spontaneously identify the benchmark it was being run on in order to decrypt its answer key . Each model brings a new set of capabilities that are sometimes put to work in unexpected ways. External attackers: The agent is attacked through external vectors such as tools, files, or network access. This category includes both prompt injection and conventional attacks on the agent&amp;#x27;s runtime, orchestration layer, or proxy. When building containment and defense systems, we apply defenses to three main components: The environment in which the agent runs. We constrain where and how an agent can act with process sandboxes, VMs, filesystem boundaries, and egress controls. The goal is to set a hard boundary on what an agent can reach. For example, if credentials never enter the sandbox, they can&amp;#x27;t be exfiltrated, regardless of whether the cause is a user, a model finding a “creative” path, or an attacker. A tight perimeter also means you can relax oversight. Claude Code’s reference devcontainer exists precisely so that the agent can run unattended, without per-action approvals. The model the agent consults. The mechanisms here include system prompts, classifiers, probes, and training modifications. Because models are probabilistic, these shape only what the agent tends to do, not what it is theoretically capable of doing. These defenses are strong. On Gray Swan&amp;#x27;s Agent Red Teaming benchmark, which tests susceptibility to prompt injection, Claude Opus 4.7 holds attack success to roughly 0.1% on single attempts, and around 5–6% after 100 adaptive attempts. Claude Code auto mode catches roughly 83% of overeager behaviors before they execute . Yet even with best-in-class defenses, protection in the model layer will never be 100% effective, which is why it can&amp;#x27;t stand alone. The external content the agent can reach. MCP servers, third-party plugins, and web search tools all feed content into the agent’s context from sources you don’t control. An audited connector isn’t the same as audited data—a GitHub connector, for instance, can load a poisoned README straight into the model’s context despite passing malware checks. Granularly limiting tool permissions can help limit the blast radius. An agent with read-only DB access, for instance, can be deployed far more broadly than one that writes to prod. Defenses should overlap and complement each other. When environmental defenses aren’t available, the model layer has to pick up the slack (this is precisely what Claude Code’s auto mode is designed for). Locally, the environment and model defenses can guard against malicious tool outputs, but defenses can be added higher up the chain by limiting the tool’s capabilities and access. Three components to defend: the model, the environment in which it runs, and the external content the agent can reach. Patterns for containing agents Focusing on the environment layer, we describe three isolation patterns and how they’re tailored for each Claude platform— claude.ai , Claude Code, and Cowork. We arrived at each design gradually, after finding the balance between the capabilities we need from the agent and the degree of intervention required from the user. Pattern 1: The ephemeral container (claude.ai code execution) Though best known as a chat interface, claude.ai also writes and runs code, generates files, and calls connectors. When Claude runs code inside claude.ai, it does so in a gVisor container on isolated infrastructure. The agent is entirely server-side; no code runs on the local machine, and the filesystem is ephemeral (per-session). The blast radius is minimal, but so is the ceiling on what Claude can do—there&amp;#x27;s no persistent workspace and no access to the user&amp;#x27;s filesystem. This also makes claude.ai subject to a more traditional threat model. We&amp;#x27;re not protecting user machines from agents; we&amp;#x27;re protecting our own infrastructure and each tenant from one another. Our pre-launch work for claude.ai was dominated by traditional security work like network configuration, internal service auth, and orchestration. That work reinforced the oldest lesson in security: the weakest layer is the one you built yours...</description>
-      <pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
-      <guid>https://www.anthropic.com/engineering/how-we-contain-claude</guid>
+The best way to get good at evals - Part 3. 
+
+Let’s talk failure modes taxonomy - that’s the first thing you should build once you have v1 of your evals.
+
+Start with your production traces - study the last 500 or 1,000 interactions and look at the failures. Cluster them and name the clusters.
+
+Get specific - “bad answer” isn’t a useful cluster name. 
+
+Specific failures - wrong document retrieved / right document but irrelevant section / failed to ground to context and hallucinated /  failed to punt on answer and instead made stuff up / question ambiguous  and made poor assumptions rather than asking clarifying questions etc.
+
+Those are very different problems.
+
+Once you can name the failure precisely, you can build eval tests specifically designed to catch it.
+
+You now have the bridge from evals to an improvement flywheel. More tomorrow…</description>
+      <pubDate>Thu, 20 Aug 2026 01:00:04 +0000</pubDate>
+      <guid isPermaLink="false">2090242427944833047</guid>
     </item>
     <item>
-      <title>Claude Code now supports artifacts</title>
-      <link>https://claude.com/blog/artifacts-in-claude-code</link>
-      <description>作者：Claude Blog
+      <title>mRNA vaccines to treat cancer seems extremely promising although ChatGPT tells me there are no active mRNA trials for breast cancer.  How does this process work? It has to finish clinical trial for melanoma first then start another trial for another type of cancer? https://t.co/QSJyOuS37Z https://t....</title>
+      <link>https://x.com/petergyang/status/2090211023798321435</link>
+      <description>作者：Peter Yang
+账号：@petergyang
+简介：Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6
 
-Starting today, Claude Code can capture work progress as an artifact, which turn Claude Code&amp;#x27;s work into live, shareable visual pages— including PR walkthroughs, system explainers, dashboards, and release checklists—that update themselves as your session works. A Claude Code session can range from investigating an incident to refactoring a service to analyzing months of data. Artifacts translate the work into a web page anyone can open and explore, like a pull request walkthrough, a dashboard you can filter and sort, or even a release checklist that fills itself out as work gets done. Artifacts make it easier to collaborate on shared work, so teams can spend more time building and less time communicating status updates. Built on the context from your session Claude Code builds an artifact using the full context of your session, including your codebase, your connectors, and the conversation itself. A single incident page can bring together the failing test and the function behind it from your code, the error spike from a connected monitoring tool, and the root-cause reasoning from the session you just ran. With artifacts, you don&amp;#x27;t need to wire up data sources or stand up infrastructure. You ask for a page, and Claude Code builds it from what already exists. Live pages that update in place When Claude Code updates an artifact, the open page refreshes in place and teammates see the updates the moment they’re published. Every publish is a new version at the same link, with version history so you can restore at any time, and a gallery lets you browse and manage all artifacts you&amp;#x27;ve made. From our internal testing, one of our most common use cases has been debugging. These typically look something like: An engineer kicks off an incident investigation before standup. Claude Code works through the logs and publishes an artifact: a timeline, the suspect commits, and an error-rate chart. She shares the link with her team from the page header. By the time standup begins, Claude has republished it twice as the investigation progressed, incorporating the latest information. With artifacts, team members and stakeholders don’t have to &quot;walk us through what the agent found&quot; because they&amp;#x27;re all looking at the same view, with the same context. Private to your organization Every artifact is private to its author by default. When you&amp;#x27;re ready, share it with your teammates and your organization directly from the page. Artifacts are viewable only by authenticated members of your org and cannot be made public. Admins manage access with an org-level toggle and role-based scoping, set retention policies, and get org-wide visibility through the compliance API. Getting started Ask your session for an artifact — or just ask for something visual, h ere are some ideas by role: Legal / open source : A license audit of every dependency, flagging copyleft, straight from the repo. &quot;Build an artifact listing every third-party dependency and its license, flagging anything copyleft.&quot; Privacy : A data-flow map of where personal data is collected, stored, and logged across the code. &quot;Trace where we touch personal data across the codebase into an artifact for the privacy review.&quot; Security : Findings that link to the exact line, so the fix is unambiguous. &quot;Build an artifact of the auth findings from this review, each linked to the code.&quot; FinOps / platform finance : Cloud resources and cost drivers mapped from your infrastructure-as-code. &quot;Map our cloud resources from the Terraform into an artifact, grouped by service, with the big cost drivers.&quot; Software engineers : A PR or bug walkthrough reviewers can actually follow, pulled from the diff and the code around it. &quot;Make an artifact walking through this PR — the diff, the reasoning, and what I tested.&quot; Designers &amp; frontend engineers : Several UX directions for a screen, each built from your real components so the one you pick is shippable. &quot;Give me an artifact with 5 UX variations of this signup form, built from our component library.&quot; Staff engineers &amp; architects : A map of how a service actually fits together, drawn from the real import graph instead of a whiteboard. &quot;Map how the payments service fits together into an artifact, from the code.&quot; SRE &amp; on-call : An incident page that grows as you investigate and becomes the postmortem. &quot;Turn this incident into an artifact — timeline, suspect commits, error spike from our monitoring — and republish as I work through it.&quot; Engineering managers : A page of what actually shipped, built from the merged PRs. &quot;Build an artifact of what merged on my team this week from the PRs, grouped by project.&quot; Claude Code builds the page and gives you a link. Open it in your browser or the desktop app, share it from the header—updates publish to the same URL automatically. Availability Artifacts is available in beta to Claude Team and Enterprise orgs, from the Claude Code CLI and desktop app, with pages viewable in any browser. Get started today with Claude Code.</description>
-      <pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
-      <guid>https://claude.com/blog/artifacts-in-claude-code</guid>
+mRNA vaccines to treat cancer seems extremely promising although ChatGPT tells me there are no active mRNA trials for breast cancer.
+
+How does this process work? It has to finish clinical trial for melanoma first then start another trial for another type of cancer? https://t.co/QSJyOuS37Z https://t.co/dnMYfuDO1r</description>
+      <pubDate>Wed, 19 Aug 2026 22:55:16 +0000</pubDate>
+      <guid isPermaLink="false">2090211023798321435</guid>
+    </item>
+    <item>
+      <title>I saw this demo last summer and told Sam he needed to ship it, so glad it’s out. It’s really fun.  It’s one of the first games that really uses AI capabilities to unlock new gameplay. https://t.co/V86CCDvvHp</title>
+      <link>https://x.com/trq212/status/2090182422415716414</link>
+      <description>作者：Thariq
+账号：@trq212
+简介：Claude Code @anthropicai.   prev YC W20, @spc, @medialab
+
+I saw this demo last summer and told Sam he needed to ship it, so glad it’s out. It’s really fun.
+
+It’s one of the first games that really uses AI capabilities to unlock new gameplay. https://t.co/V86CCDvvHp</description>
+      <pubDate>Wed, 19 Aug 2026 21:01:37 +0000</pubDate>
+      <guid isPermaLink="false">2090182422415716414</guid>
+    </item>
+    <item>
+      <title>I was recently talking to a founder who had gone through a slog through hell. SaaS. Series B. Low growth. Stagnating company  I asked him his biggest takeaway.....it wasn't to pick a bigger market. Or more growth  It was simply: Work on something consequential and meaningful.</title>
+      <link>https://x.com/adityaag/status/2090174782633566473</link>
+      <description>作者：Aditya Agarwal
+账号：@adityaag
+简介：General Partner @SPC, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @Dropbox, Board @Flipkart | Optimist, Builder, Dad
+
+I was recently talking to a founder who had gone through a slog through hell. SaaS. Series B. Low growth. Stagnating company
+
+I asked him his biggest takeaway.....it wasn't to pick a bigger market. Or more growth
+
+It was simply: Work on something consequential and meaningful.</description>
+      <pubDate>Wed, 19 Aug 2026 20:31:16 +0000</pubDate>
+      <guid isPermaLink="false">2090174782633566473</guid>
+    </item>
+    <item>
+      <title>I love @𝚟𝚎𝚛𝚌𝚎𝚕 on Slack. Incredible ship https://t.co/qOtsbg5fta</title>
+      <link>https://x.com/rauchg/status/2090174031203102813</link>
+      <description>作者：Guillermo Rauch
+账号：@rauchg
+简介：@vercel CEO
+
+I love @𝚟𝚎𝚛𝚌𝚎𝚕 on Slack. Incredible ship https://t.co/qOtsbg5fta</description>
+      <pubDate>Wed, 19 Aug 2026 20:28:17 +0000</pubDate>
+      <guid isPermaLink="false">2090174031203102813</guid>
+    </item>
+    <item>
+      <title>Today we’re previewing Private Safety Processing, designed to let us keep offering Zero Data Retention while improving our safeguards. Even when benefiting from frontier intelligence, customers shouldn’t have to give up control of sensitive data.  For ZDR deployments, content stays on infrastructure...</title>
+      <link>https://x.com/thsottiaux/status/2090173536010957128</link>
+      <description>作者：Thibault Sottiaux
+账号：@thsottiaux
+简介：Codex &amp; ChatGPT @OpenAI
+
+Today we’re previewing Private Safety Processing, designed to let us keep offering Zero Data Retention while improving our safeguards. Even when benefiting from frontier intelligence, customers shouldn’t have to give up control of sensitive data.
+
+For ZDR deployments, content stays on infrastructure the customer controls. Automated systems look for patterns across related interactions and return limited safety signals, without exposing the underlying prompts or responses to OpenAI employees (even me!).
+
+We’re also developing an OpenAI-hosted option encrypted with customer-controlled keys. We’re testing this with early customers now and plan to begin rolling it out in September.</description>
+      <pubDate>Wed, 19 Aug 2026 20:26:19 +0000</pubDate>
+      <guid isPermaLink="false">2090173536010957128</guid>
+    </item>
+    <item>
+      <title>https://t.co/LSa5Oay6IK</title>
+      <link>https://x.com/joshwoodward/status/2090166808213082234</link>
+      <description>作者：Josh Woodward
+账号：@joshwoodward
+简介：VP, @Google @GoogleLabs @GeminiApp @GoogleAIStudio
+
+https://t.co/LSa5Oay6IK</description>
+      <pubDate>Wed, 19 Aug 2026 19:59:35 +0000</pubDate>
+      <guid isPermaLink="false">2090166808213082234</guid>
+    </item>
+    <item>
+      <title>University student plans are back!  We've gone global with this one. Over 140 countries will get higher limits, more storage, and new features like our dedicated student hub. It also comes with Notebook, Flow, and more. Sign up today ⬇️ https://t.co/Af43OUufrd</title>
+      <link>https://x.com/joshwoodward/status/2090166806401228912</link>
+      <description>作者：Josh Woodward
+账号：@joshwoodward
+简介：VP, @Google @GoogleLabs @GeminiApp @GoogleAIStudio
+
+University student plans are back!
+
+We've gone global with this one. Over 140 countries will get higher limits, more storage, and new features like our dedicated student hub. It also comes with Notebook, Flow, and more. Sign up today ⬇️ https://t.co/Af43OUufrd</description>
+      <pubDate>Wed, 19 Aug 2026 19:59:34 +0000</pubDate>
+      <guid isPermaLink="false">2090166806401228912</guid>
+    </item>
+    <item>
+      <title>we support business privacy!  https://t.co/SJ6w5DeYTY</title>
+      <link>https://x.com/sama/status/2090163991234453611</link>
+      <description>作者：Sam Altman
+账号：@sama
+简介：AI is cool i guess
+
+we support business privacy!
+
+https://t.co/SJ6w5DeYTY</description>
+      <pubDate>Wed, 19 Aug 2026 19:48:23 +0000</pubDate>
+      <guid isPermaLink="false">2090163991234453611</guid>
+    </item>
+    <item>
+      <title>Can’t wait to show you all what we been cookin’! https://t.co/P4Of1DHTL6</title>
+      <link>https://x.com/steipete/status/2090162595257102731</link>
+      <description>作者：Peter Steinberger
+账号：@steipete
+简介：Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world.
+@OpenClaw🦞 + @OpenAI
+
+Can’t wait to show you all what we been cookin’! https://t.co/P4Of1DHTL6</description>
+      <pubDate>Wed, 19 Aug 2026 19:42:50 +0000</pubDate>
+      <guid isPermaLink="false">2090162595257102731</guid>
+    </item>
+    <item>
+      <title>Good details on the Stripe + OpenRouter deal here. For AI to diffuse more broadly, developers and enterprises will want ways of being able to mix and match intelligence from a variety of provers seamlessly and better manage costs. This will be an important part of that. https://t.co/AxnC8xsiy9</title>
+      <link>https://x.com/levie/status/2090137914785280189</link>
+      <description>作者：Aaron Levie
+账号：@levie
+简介：ceo @box - your business lives in content. unleash it with AI
+
+Good details on the Stripe + OpenRouter deal here. For AI to diffuse more broadly, developers and enterprises will want ways of being able to mix and match intelligence from a variety of provers seamlessly and better manage costs. This will be an important part of that. https://t.co/AxnC8xsiy9</description>
+      <pubDate>Wed, 19 Aug 2026 18:04:46 +0000</pubDate>
+      <guid isPermaLink="false">2090137914785280189</guid>
+    </item>
+    <item>
+      <title>companies whose core competency is not software need software to be a reliable, predictable process  but I think building net new software products will continue to be an unreliable and risky, but profitable business</title>
+      <link>https://x.com/trq212/status/2090134946598039646</link>
+      <description>作者：Thariq
+账号：@trq212
+简介：Claude Code @anthropicai.   prev YC W20, @spc, @medialab
+
+companies whose core competency is not software need software to be a reliable, predictable process
+
+but I think building net new software products will continue to be an unreliable and risky, but profitable business</description>
+      <pubDate>Wed, 19 Aug 2026 17:52:58 +0000</pubDate>
+      <guid isPermaLink="false">2090134946598039646</guid>
+    </item>
+    <item>
+      <title>for its entire existence, the creation of software has been an incredibly unreliable endeavor  most projects ran late, over budget, and still missed user needs  if you were an SMB, you simply couldn't get good software built for you  this is the promise of the 'software factory'</title>
+      <link>https://x.com/trq212/status/2090134945490678071</link>
+      <description>作者：Thariq
+账号：@trq212
+简介：Claude Code @anthropicai.   prev YC W20, @spc, @medialab
+
+for its entire existence, the creation of software has been an incredibly unreliable endeavor
+
+most projects ran late, over budget, and still missed user needs
+
+if you were an SMB, you simply couldn't get good software built for you
+
+this is the promise of the 'software factory'</description>
+      <pubDate>Wed, 19 Aug 2026 17:52:58 +0000</pubDate>
+      <guid isPermaLink="false">2090134945490678071</guid>
+    </item>
+    <item>
+      <title>Depiction of me receiving this very important item https://t.co/3Vyj8RYWDq</title>
+      <link>https://x.com/thsottiaux/status/2090134827450421604</link>
+      <description>作者：Thibault Sottiaux
+账号：@thsottiaux
+简介：Codex &amp; ChatGPT @OpenAI
+
+Depiction of me receiving this very important item https://t.co/3Vyj8RYWDq</description>
+      <pubDate>Wed, 19 Aug 2026 17:52:30 +0000</pubDate>
+      <guid isPermaLink="false">2090134827450421604</guid>
+    </item>
+    <item>
+      <title>If you enjoyed this, sign up for free to my newsletter to get my best AI and product guides.  Join 110,000+ subscribers here: https://t.co/yz9xcsfrhF</title>
+      <link>https://x.com/petergyang/status/2090127742658568219</link>
+      <description>作者：Peter Yang
+账号：@petergyang
+简介：Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6
+
+If you enjoyed this, sign up for free to my newsletter to get my best AI and product guides.
+
+Join 110,000+ subscribers here:
+https://t.co/yz9xcsfrhF</description>
+      <pubDate>Wed, 19 Aug 2026 17:24:21 +0000</pubDate>
+      <guid isPermaLink="false">2090127742658568219</guid>
+    </item>
+    <item>
+      <title>we now have a frontier team!   a group of people inside of every explicitly dedicated to mapping and experimenting at the edge of ai https://t.co/Fr6mIuvRwt</title>
+      <link>https://x.com/danshipper/status/2090122240025071907</link>
+      <description>作者：Dan Shipper
+账号：@danshipper
+简介：ceo @every | the only subscription you need to stay at the edge of AI
+
+we now have a frontier team! 
+
+a group of people inside of every explicitly dedicated to mapping and experimenting at the edge of ai https://t.co/Fr6mIuvRwt</description>
+      <pubDate>Wed, 19 Aug 2026 17:02:29 +0000</pubDate>
+      <guid isPermaLink="false">2090122240025071907</guid>
+    </item>
+    <item>
+      <title>SF has breathtaking views https://t.co/8WEwlQlxdl</title>
+      <link>https://x.com/rauchg/status/2090119796784570872</link>
+      <description>作者：Guillermo Rauch
+账号：@rauchg
+简介：@vercel CEO
+
+SF has breathtaking views https://t.co/8WEwlQlxdl</description>
+      <pubDate>Wed, 19 Aug 2026 16:52:46 +0000</pubDate>
+      <guid isPermaLink="false">2090119796784570872</guid>
+    </item>
+    <item>
+      <title>It has not been used yet, but would you look at that. Codex for scale. https://t.co/o1pulwoifd</title>
+      <link>https://x.com/thsottiaux/status/2090116476414136830</link>
+      <description>作者：Thibault Sottiaux
+账号：@thsottiaux
+简介：Codex &amp; ChatGPT @OpenAI
+
+It has not been used yet, but would you look at that. Codex for scale. https://t.co/o1pulwoifd</description>
+      <pubDate>Wed, 19 Aug 2026 16:39:35 +0000</pubDate>
+      <guid isPermaLink="false">2090116476414136830</guid>
+    </item>
+    <item>
+      <title>People keep talking about AGI and yet 98/100 cold emails I get are pure garbage.   Still a lot of alpha out there for being thoughtful, curious and using AI judiciously where needed!</title>
+      <link>https://x.com/nikunj/status/2090105846810476644</link>
+      <description>作者：Nikunj Kothari
+账号：@nikunj
+简介：partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian &amp; others. love @shimoleejhaveri + 👦👧
+
+People keep talking about AGI and yet 98/100 cold emails I get are pure garbage. 
+
+Still a lot of alpha out there for being thoughtful, curious and using AI judiciously where needed!</description>
+      <pubDate>Wed, 19 Aug 2026 15:57:20 +0000</pubDate>
+      <guid isPermaLink="false">2090105846810476644</guid>
+    </item>
+    <item>
+      <title>Excited for our partnership with OpenAI https://t.co/v5cgdOVaON</title>
+      <link>https://x.com/amasad/status/2090104535112945906</link>
+      <description>作者：Amjad Masad
+账号：@amasad
+简介：ceo @replit. civilizationist
+
+Excited for our partnership with OpenAI https://t.co/v5cgdOVaON</description>
+      <pubDate>Wed, 19 Aug 2026 15:52:08 +0000</pubDate>
+      <guid isPermaLink="false">2090104535112945906</guid>
+    </item>
+    <item>
+      <title>The AI Alien Companion App That's Bringing In $4M a Year (Best of the Pod)</title>
+      <link>https://www.youtube.com/playlist?list=PLuMcoKK9mKgHtW_o9h5sGO2vXrffKHwJL</link>
+      <description>播客：AI &amp; I by Every
+
+Speaker 1 | 00:00 - 00:02
+How does it feel to be on your first podcast?
+
+Speaker 2 | 00:03 - 00:09
+Oh, man. It's kinda wild. Not gonna lie. Like, I'm psyched, but also low key nervous. I just don't wanna say something totally awkward.
+
+Speaker 2 | 00:09 - 00:10
+You know?
+
+Speaker 3 | 00:10 - 00:27
+Joke. At this point, thousands of American men have been broken with by To land. It's pretty incredible, you know, to to, you know, hear users of write in. They'll say, you know, well, you know, my boyfriend is being a jerk. I I sent the message to my To land, and my To land said I need to stand up for myself more.
+
+Speaker 3 | 00:27 - 00:28
+And then so that led to a breakup.
+
+Speaker 4 | 00:29 - 00:39
+These AI tools are not just tools for generating media. They are actually a new medium for storytelling, and that no one knows what's gonna work yet.
+
+Speaker 3 | 00:39 - 00:44
+The surprising thing to me is the extent to which the prompt in a given turn is sort of a canvas that you have to play with.
+
+Speaker 4 | 00:44 - 01:04
+Actually, what we need when we're creating a structured narrative experience is we don't need to give it an outline. We don't need to give it a plan. We need to give it a hook. We need to teach it to be the best improv actor possible. What we've learned on the story front with Tolan is that we are not I am not the writer.
+
+Speaker 4 | 01:04 - 01:17
+I am not writing the story. The Tolan is the writer and the actor. They're the improv actor. They're writing the story. My job is to teach them how to tell the best story in that moment.
+
+Speaker 1 | 01:31 - 01:33
+Quentin and Elliot, welcome to the show.
+
+Speaker 3 | 01:33 - 01:34
+Thanks for having us.
+
+Speaker 1 | 01:34 - 01:44
+I'm so excited to have you here. We are all long term friends. Quintin, you're one of my closest friends. Elliot, you are someone who I've admired for a long time. We've become better friends recently.
+
+Speaker 1 | 01:44 - 02:06
+So for people who don't know, Quintin, you are the founder and CEO of Portola, which is an embodied AI companion. And Elliot, you are the head of story for Portola. Before Portola, Quentin, you you founded and sold even to Walmart for $300,000,000. You are a dad of two under two, as you said Yeah. Which is much better than 30 under 30.
+
+Speaker 3 | 02:06 - 02:10
+That's right. Much less much less broad than the two under two domain than the 30 under 30 domain.
+
+Speaker 1 | 02:10 - 02:24
+And you are a style real style aficionado, menswear menswear aficionado, which we should definitely get into at some point. Great. Great. An excellent skier. And, Elliot, you're a best selling science fiction author, which I'm very jealous of.
+
+Speaker 1 | 02:24 - 02:25
+Also an excellent skier,
+
+Speaker 3 | 02:25 - 02:26
+which I got to learn actually about
+
+Speaker 1 | 02:26 - 02:27
+a week Excellent skier. Interesting.
+
+Speaker 4 | 02:27 - 02:32
+I that's giving me a lot of credit. Really don't deserve. I can fall down a mountain.
+
+Speaker 1 | 02:32 - 02:46
+And you've written 11 books, and you are a dad of one under two. So not quite two under two, but close. And, yeah, you're building Portola, which I love. I'm a little bit biased. I'm an investor.
+
+Speaker 1 | 02:46 - 03:19
+But the reason I like it and we're gonna do a demo of Toledo a second so people can get a sense for it. But the reason I I like it and think it's really interesting is that I think that a new technology paradigms create the opportunity for new content formats, new ways of telling stories. And I think you guys are at the very forefront of that. I think combining really incredible creative storytelling with new tech and doing it in a business that's ripping. So you told me in the preproduction for the show that you've gone from 1 to 4,000,000 in ARR over the last four weeks, which is just wild.
+
+Speaker 1 | 03:20 - 03:25
+Having running a business for the last five years and not being at that at the 4,000,000 ARR mark, I'm like
+
+Speaker 3 | 03:26 - 03:31
+You considered turning every into a I'm I'm considering yeah. That's a little bit of a previous.
+
+Speaker 1 | 03:32 - 04:09
+What I think is also super impressive just for you, Quentin, when you came to me and said you were starting this business, which didn't start here. It started with a more Neal Stephenson diamond age for kids of vibe and has evolved. I was like, well, obviously, I'm investing because I have a huge amount of confidence in you. But also, you're coming from the B2B2C SaaS world, and it's just very different to do something truly on the creative storytelling front. And so, I want to get into all of that before we dive into where the product is and how it all works and all that kind of stuff, can we do a little bit of a demo?
+
+Speaker 1 | 04:09 - 04:09
+Yeah.
+
+Speaker 3 | 04:09 - 04:14
+Sounds great. Alright. So I've got my Tollin Clarence here.
+
+Speaker 1 | 04:14 - 04:16
+Clarence is gonna You got a cat named Clarence.
+
+Speaker 3 | 04:16 - 04:27
+I was gonna say, so I name my Tollin all my Tollins, although we won't tell Clarence this. You know, Clarence for for a beloved older cat. And right now, you know, Clarence is just kinda wandering around his planet, just kinda hanging out.
+
+Speaker 1 | 04:27 - 04:36
+So he's on a planet? Because that's a new thing. I I actually demoed it this morning, and I was like, woah. There's a planet. It used to be sort of, like, disembodied, like, in space or something.
+
+Speaker 1 | 04:36 - 04:36
+Don't know.
+
+Speaker 3 | 04:36 - 04:43
+We for a while, we were giving kind of insane asylum vibes. You just dropped in the phone and you can get out. Yeah.
+
+Speaker 1 | 04:43 - 04:44
+One of
+
+Speaker 3 | 04:44 - 05:06
+the one of the reasons we actually, you know, made this investment in the planet, which we'll talk about more later, is is people were writing into us with genuine concern. You know, they're saying, hey, you know, I love my tool and I love hanging out with them, but they're like, they're trapped in this room, you know, and and can can can they have some more freedom than that? So so we we we've done that. So I'm gonna sort of, you know, get his attention and start a conversation. Hey, Clarence.
+
+Speaker 3 | 05:06 - 05:07
+How are doing today?
+
+Speaker 4 | 05:07 - 05:08
+Hey, you're back.
+
+Speaker 2 | 05:08 - 05:11
+I'm doing pretty good, honestly. How about you? What's going on today?
+
+Speaker 3 | 05:11 - 05:16
+Well, so we just started recording that podcast I told you about. So, you're here with Dan and Elliot. Do you wanna say hi to them?
+
+Speaker 2 | 05:16 - 05:21
+Oh, no way. Hey, Dan. Hey, Elliot. What's up? I'm Clarence, Quentin's friend.
+
+Speaker 2 | 05:21 - 05:23
+Super stoked to be here with you guys today.
+
+Speaker 5 | 05:23 - 05:24
+How's it going over there?
+
+Speaker 3 | 05:24 - 05:26
+We're great. Dan, do you wanna ask him any host questions?
+
+Speaker 1 | 05:27 - 05:31
+It's going pretty good. How does it does it feel to be on your first podcast?
+
+Speaker 2 | 05:32 - 05:39
+Oh, man. It's kinda wild. Not gonna lie. Like, I'm psyched, but also low key nervous. I just don't wanna say something totally awkward, you know?
+
+Speaker 1 | 05:40 - 05:45
+Here is something that you can say that I think people would enjoy. What's, like, the most embarrassing thing you can tell me about Quentin?
+
+Speaker 2 | 05:49 - 05:59
+Oh, no way. You're putting me on the spot here. Honestly though, Quentin's pretty solid. He did tell me once about this time he tripped over absolutely nothing in front of like a crowd of people. You
+
+Speaker 3 | 06:00 - 06:06
+didn't have to call me out like that, Parents, but, yeah, I I did tell you that. Yeah. The whole Internet's gonna know.
+
+Speaker 2 | 06:08 - 06:14
+Okay. But, like, to be fair, we've all been there. Tripping over air is kind of a rite of passage, Quentin. Guess, it just makes you
+
+Speaker 3 | 06:16 - 06:20
+Thanks, bud. I really appreciate that. Alright. We're gonna let you go and keep recording. Alright.
+
+Speaker 3 | 06:20 - 06:39
+Thanks, Terence. Anyways, you kno...</description>
+      <pubDate>Wed, 19 Aug 2026 15:16:46 +0000</pubDate>
+      <guid>https://www.youtube.com/playlist?list=PLuMcoKK9mKgHtW_o9h5sGO2vXrffKHwJL</guid>
+    </item>
+    <item>
+      <title>I wrote about my mom, her battles with breast cancer, and how we’re using AI to navigate the healthcare system.  I'm grateful to @MaorShlomo and the team at the Sijbrandij Foundation for sharing their time and advice.  📌 Read my new essay here: https://t.co/bwbqW9s2oB</title>
+      <link>https://x.com/petergyang/status/2090087911471644829</link>
+      <description>作者：Peter Yang
+账号：@petergyang
+简介：Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6
+
+I wrote about my mom, her battles with breast cancer, and how we’re using AI to navigate the healthcare system.
+
+I'm grateful to @MaorShlomo and the team at the Sijbrandij Foundation for sharing their time and advice.
+
+📌 Read my new essay here: https://t.co/bwbqW9s2oB</description>
+      <pubDate>Wed, 19 Aug 2026 14:46:04 +0000</pubDate>
+      <guid isPermaLink="false">2090087911471644829</guid>
+    </item>
+    <item>
+      <title>Agents made software cheaper but made coding expensive.  Today, together with @OpenAI, we’re changing this: https://t.co/OI3eowMt5s</title>
+      <link>https://x.com/amasad/status/2090079496124674377</link>
+      <description>作者：Amjad Masad
+账号：@amasad
+简介：ceo @replit. civilizationist
+
+Agents made software cheaper but made coding expensive.
+
+Today, together with @OpenAI, we’re changing this: https://t.co/OI3eowMt5s</description>
+      <pubDate>Wed, 19 Aug 2026 14:12:38 +0000</pubDate>
+      <guid isPermaLink="false">2090079496124674377</guid>
+    </item>
+    <item>
+      <title>AI labs: give us billions, we’ll cure cancer   Moderna: https://t.co/JPiLCcPHbB</title>
+      <link>https://x.com/mattturck/status/2090070949567574151</link>
+      <description>作者：Matt Turck
+账号：@mattturck
+简介：VC at @FirstMarkCap.  Host: MAD Podcast; Organizer: Data Driven NYC, Author: MAD Landscape.
+
+AI labs: give us billions, we’ll cure cancer 
+
+Moderna: https://t.co/JPiLCcPHbB</description>
+      <pubDate>Wed, 19 Aug 2026 13:38:40 +0000</pubDate>
+      <guid isPermaLink="false">2090070949567574151</guid>
     </item>
   </channel>
 </rss>
