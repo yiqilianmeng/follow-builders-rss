@@ -5,7 +5,7 @@
     <link>https://github.com/zarazhangrui/follow-builders</link>
     <description>聚合 AI 领域建设者的 X、播客和博客内容。</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 23 Aug 2026 12:16:45 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 18:12:29 +0000</lastBuildDate>
     <item>
       <title>Update on rate limits in Codex.   We’ve found (a) some inefficiencies when using images in long sessions with multiple compactions (b) high p95+ usage for Computer History (c) a feature that was meant to generate conversation titles that was draining a bit more usage than intended. And we have a tig...</title>
       <link>https://x.com/thsottiaux/status/2091407991736332689</link>
