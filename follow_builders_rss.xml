@@ -5,418 +5,620 @@
     <link>https://github.com/zarazhangrui/follow-builders</link>
     <description>聚合 AI 领域建设者的 X、播客和博客内容。</description>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 26 Aug 2026 06:27:13 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 12:26:34 +0000</lastBuildDate>
     <item>
-      <title>OpenAI DevDay 2026 will be our best DevDay in the history of the company. It will not be close.</title>
-      <link>https://x.com/thsottiaux/status/2092117461646856505</link>
+      <title>PSA: do not use codex &quot;locked use&quot; capabilities right now. it is currently relying on unstable mac features and has completely locked me out of my macos keychain twice this week.   thx @_chenglou for linking to apple developer forums acknowledging this is a &quot;known bug&quot;. just avoid. ofc, would be nic...</title>
+      <link>https://x.com/swyx/status/2092492963435946494</link>
+      <description>作者：Swyx
+账号：@swyx
+简介：achieve ambition with intentionality, intensity, integrity &amp; insanity.
+
+affiliations:
+- @smol_ai
+- @dxtipshq
+- @cognition
+- @aidotengineer
+- @latentspacepod
+
+PSA: do not use codex &quot;locked use&quot; capabilities right now. it is currently relying on unstable mac features and has completely locked me out of my macos keychain twice this week. 
+
+thx @_chenglou for linking to apple developer forums acknowledging this is a &quot;known bug&quot;. just avoid. ofc, would be nice to do everything in cloud, but cloud isn't there yet.</description>
+      <pubDate>Wed, 26 Aug 2026 06:02:53 +0000</pubDate>
+      <guid isPermaLink="false">2092492963435946494</guid>
+    </item>
+    <item>
+      <title>Good products take time. At least 34 days.</title>
+      <link>https://x.com/thsottiaux/status/2092487667426738179</link>
       <description>作者：Thibault Sottiaux
 账号：@thsottiaux
 简介：Codex &amp; ChatGPT @OpenAI
 
-OpenAI DevDay 2026 will be our best DevDay in the history of the company. It will not be close.</description>
-      <pubDate>Tue, 25 Aug 2026 05:10:47 +0000</pubDate>
-      <guid isPermaLink="false">2092117461646856505</guid>
+Good products take time. At least 34 days.</description>
+      <pubDate>Wed, 26 Aug 2026 05:41:51 +0000</pubDate>
+      <guid isPermaLink="false">2092487667426738179</guid>
     </item>
     <item>
-      <title>Systems of record have never been more important than in a world where you have AI agents that will do 100X more work on these platforms than people ever did.   Agents will be querying the data in these systems, processing tasks, executing workflows, collaborating with human and agent users, and mor...</title>
-      <link>https://x.com/levie/status/2092087679240569126</link>
-      <description>作者：Aaron Levie
-账号：@levie
-简介：ceo @box - your business lives in content. unleash it with AI
-
-Systems of record have never been more important than in a world where you have AI agents that will do 100X more work on these platforms than people ever did. 
-
-Agents will be querying the data in these systems, processing tasks, executing workflows, collaborating with human and agent users, and more. 
-
-Thus, the governance, reliability, security, access controls, and business logic remain critical more than ever — the OpenAI Hugging Face incident is just a small peek into what the future will look like with agents running around trying to execute on their goals.
-
-But this only works for the systems of record that respond with the right product experiences, APIs, and business models to support agents on and off their platform executing in these systems.
-
-Huge moment of opportunity and disruption right now in all of software.</description>
-      <pubDate>Tue, 25 Aug 2026 03:12:26 +0000</pubDate>
-      <guid isPermaLink="false">2092087679240569126</guid>
-    </item>
-    <item>
-      <title>It's faster, cheaper, more capable, and… smaller.  As software evolves, it tends to get slower, more bloated, buggier, and bigger.   https://t.co/3Z4NESzNKd is architected from the outset to prevent this. https://t.co/w00UuR0URa</title>
-      <link>https://x.com/rauchg/status/2092081554814320677</link>
-      <description>作者：Guillermo Rauch
-账号：@rauchg
-简介：@vercel CEO
-
-It's faster, cheaper, more capable, and… smaller.
-
-As software evolves, it tends to get slower, more bloated, buggier, and bigger. 
-
-https://t.co/3Z4NESzNKd is architected from the outset to prevent this. https://t.co/w00UuR0URa</description>
-      <pubDate>Tue, 25 Aug 2026 02:48:06 +0000</pubDate>
-      <guid isPermaLink="false">2092081554814320677</guid>
-    </item>
-    <item>
-      <title>Whenever I have to login to a new website/app or even use an agent that's trapped in a website /app I usually just prefer to stop using the product (the only exception is entertainment or gaming).  I can't be the only one.</title>
-      <link>https://x.com/petergyang/status/2092080901094248474</link>
-      <description>作者：Peter Yang
-账号：@petergyang
-简介：Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6
-
-Whenever I have to login to a new website/app or even use an agent that's trapped in a website /app I usually just prefer to stop using the product (the only exception is entertainment or gaming).
-
-I can't be the only one.</description>
-      <pubDate>Tue, 25 Aug 2026 02:45:30 +0000</pubDate>
-      <guid isPermaLink="false">2092080901094248474</guid>
-    </item>
-    <item>
-      <title>Unpopular opinion: hackathons are an outdated event format (at least the way they’re traditionally held)</title>
-      <link>https://x.com/zarazhangrui/status/2092079390301556883</link>
-      <description>作者：Zara Zhang
-账号：@zarazhangrui
-简介：Builder. Make something people want, then make people want it. Harvard’17. GitHub: https://t.co/KCuEaje1wd 
-YouTube: https://t.co/8xzbGWsHgY
-
-Unpopular opinion: hackathons are an outdated event format (at least the way they’re traditionally held)</description>
-      <pubDate>Tue, 25 Aug 2026 02:39:30 +0000</pubDate>
-      <guid isPermaLink="false">2092079390301556883</guid>
-    </item>
-    <item>
-      <title>Every (unconventional) deal that’s officially wired dies a 100 times in venture..  It usually takes one champion sticking their neck out for the founder - and quietly steering it to the completion line.   Founders it’s in your benefit to figure out who your real champion is to help steer the fund dy...</title>
-      <link>https://x.com/nikunj/status/2092079149028716877</link>
+      <title>find someone who loves you as much as the VC who loves posting photos of an “exclusive” dinner 🙈</title>
+      <link>https://x.com/nikunj/status/2092476274312933634</link>
       <description>作者：Nikunj Kothari
 账号：@nikunj
 简介：partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian &amp; others. love @shimoleejhaveri + 👦👧
 
-Every (unconventional) deal that’s officially wired dies a 100 times in venture..
-
-It usually takes one champion sticking their neck out for the founder - and quietly steering it to the completion line. 
-
-Founders it’s in your benefit to figure out who your real champion is to help steer the fund dynamics and arm them with whatever info you can to make your case. 
-
-This is where associates and non-voting partners are extraordinarily useful as they are incentivized to help you - and it’s a good test of how they’d partner with you as they come on your cap table!</description>
-      <pubDate>Tue, 25 Aug 2026 02:38:32 +0000</pubDate>
-      <guid isPermaLink="false">2092079149028716877</guid>
+find someone who loves you as much as the VC who loves posting photos of an “exclusive” dinner 🙈</description>
+      <pubDate>Wed, 26 Aug 2026 04:56:34 +0000</pubDate>
+      <guid isPermaLink="false">2092476274312933634</guid>
     </item>
     <item>
-      <title>Datacenters create jobs and prosperity, actually  https://t.co/l1ilGEu4Lh https://t.co/oFc8CNsOnj https://t.co/CaoduT9zRO</title>
-      <link>https://x.com/garrytan/status/2092062820229890209</link>
-      <description>作者：Garry Tan
-账号：@garrytan
-简介：President &amp; CEO @ycombinator —Founder @garryslist—Creator of GStack &amp; GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop
-
-Datacenters create jobs and prosperity, actually
-
-https://t.co/l1ilGEu4Lh https://t.co/oFc8CNsOnj https://t.co/CaoduT9zRO</description>
-      <pubDate>Tue, 25 Aug 2026 01:33:39 +0000</pubDate>
-      <guid isPermaLink="false">2092062820229890209</guid>
-    </item>
-    <item>
-      <title>Conductor Cloud has made me so much more productive and I don't have to keep my Macbook Pro cracked open anymore</title>
-      <link>https://x.com/garrytan/status/2092062231488061584</link>
-      <description>作者：Garry Tan
-账号：@garrytan
-简介：President &amp; CEO @ycombinator —Founder @garryslist—Creator of GStack &amp; GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop
-
-Conductor Cloud has made me so much more productive and I don't have to keep my Macbook Pro cracked open anymore</description>
-      <pubDate>Tue, 25 Aug 2026 01:31:19 +0000</pubDate>
-      <guid isPermaLink="false">2092062231488061584</guid>
-    </item>
-    <item>
-      <title>Form a view. Turn it into an artifact or experiment. Put it in contact with reality. Read the result without self-deception. Revise and run again.</title>
-      <link>https://x.com/garrytan/status/2092059517446156640</link>
-      <description>作者：Garry Tan
-账号：@garrytan
-简介：President &amp; CEO @ycombinator —Founder @garryslist—Creator of GStack &amp; GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop
-
-Form a view.
-Turn it into an artifact or experiment.
-Put it in contact with reality.
-Read the result without self-deception.
-Revise and run again.</description>
-      <pubDate>Tue, 25 Aug 2026 01:20:32 +0000</pubDate>
-      <guid isPermaLink="false">2092059517446156640</guid>
-    </item>
-    <item>
-      <title>Tomorrow we will bring back the 5h limit for Plus accounts across ChatGPT Work and Codex. I had mentioned this a while ago, but then postponed it.  This is necessary as (a) the 5h limit allows us to smoothen the load on our compute, allowing to keep the plan generous in terms of weekly usage and (b)...</title>
-      <link>https://x.com/thsottiaux/status/2092058556707344708</link>
-      <description>作者：Thibault Sottiaux
-账号：@thsottiaux
-简介：Codex &amp; ChatGPT @OpenAI
-
-Tomorrow we will bring back the 5h limit for Plus accounts across ChatGPT Work and Codex. I had mentioned this a while ago, but then postponed it.
-
-This is necessary as (a) the 5h limit allows us to smoothen the load on our compute, allowing to keep the plan generous in terms of weekly usage and (b) users on the Plus plan are relatively casual and new users, but then also just accidentally eat through their whole weeks usage and then are confused, making it not a great experience.
-
-We are for the upcoming months keeping the 5h limit not enabled for Pro $100 and Pro $200 subscriptions.</description>
-      <pubDate>Tue, 25 Aug 2026 01:16:43 +0000</pubDate>
-      <guid isPermaLink="false">2092058556707344708</guid>
-    </item>
-    <item>
-      <title>How to build great evals - part 8.  The discriminatory property of evals. A hill-climbing eval is useful when it can separate AI systems that are meaningfully different.  Imagine you run an eval on five AI systems:  A: 94 B: 93 C: 95 D: 94 E: 92  Now suppose you already know A and C are substantiall...</title>
-      <link>https://x.com/realmadhuguru/status/2092058332735693264</link>
-      <description>作者：Madhu Guru
-账号：@realmadhuguru
-简介：Sr Director, AI at Meta; Prev: Google - Led Gemini, Veo, Nano Banana.
-
-How to build great evals - part 8.
-
-The discriminatory property of evals.
-A hill-climbing eval is useful when it can separate AI systems that are meaningfully different.
-
-Imagine you run an eval on five AI systems:
-
-A: 94
-B: 93
-C: 95
-D: 94
-E: 92
-
-Now suppose you already know A and C are substantially better systems than D and E.
-
-The eval is bad cos it doesn’t tell you that. It has low discriminatory power.
-
-It’s like giving a fifth-grade math test to a group of PhDs - everyone aces it and  you’ve learned nothing about who is the smartest.
-
-That doesn’t mean making evals arbitrarily hard. Then everyone fails and you’re not measuring what your systems are meant for.
-
-The sweet spot for an eval is:
-Realistic + difficult + sensitive to differences in capability.
-
-Over time, your good evals will saturate as your harness and underlying models improve. What do you do then?
-
-Drop your guesses in the comments.
-
-Share this with your teammates.</description>
-      <pubDate>Tue, 25 Aug 2026 01:15:49 +0000</pubDate>
-      <guid isPermaLink="false">2092058332735693264</guid>
-    </item>
-    <item>
-      <title>I really appreciate how @davidsenra immediately cuts to the chase and gets his guests to be their most natural selves  I've watched lots of Sam Altman interviews; I feel like he's his most comfortable self during this one https://t.co/x8DG8BGTeu</title>
-      <link>https://x.com/zarazhangrui/status/2092053829772881972</link>
-      <description>作者：Zara Zhang
-账号：@zarazhangrui
-简介：Builder. Make something people want, then make people want it. Harvard’17. GitHub: https://t.co/KCuEaje1wd 
-YouTube: https://t.co/8xzbGWsHgY
-
-I really appreciate how @davidsenra immediately cuts to the chase and gets his guests to be their most natural selves
-
-I've watched lots of Sam Altman interviews; I feel like he's his most comfortable self during this one https://t.co/x8DG8BGTeu</description>
-      <pubDate>Tue, 25 Aug 2026 00:57:56 +0000</pubDate>
-      <guid isPermaLink="false">2092053829772881972</guid>
-    </item>
-    <item>
-      <title>I got 3 AI chief of staffs now, clearly the next step is to add one more https://t.co/noC4KIsLtE</title>
-      <link>https://x.com/petergyang/status/2092048940732682395</link>
-      <description>作者：Peter Yang
-账号：@petergyang
-简介：Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6
-
-I got 3 AI chief of staffs now, clearly the next step is to add one more https://t.co/noC4KIsLtE</description>
-      <pubDate>Tue, 25 Aug 2026 00:38:30 +0000</pubDate>
-      <guid isPermaLink="false">2092048940732682395</guid>
-    </item>
-    <item>
-      <title>setting up a new computer with Codex is kind of nice... &quot;download and install handy, slack, chrome, cleanshot, rectangle&quot;  makes you wish siri was good</title>
-      <link>https://x.com/thenanyu/status/2092048044502192374</link>
-      <description>作者：Nan Yu
-账号：@thenanyu
-简介：product enthusiast
-
-setting up a new computer with Codex is kind of nice... &quot;download and install handy, slack, chrome, cleanshot, rectangle&quot;
-
-makes you wish siri was good</description>
-      <pubDate>Tue, 25 Aug 2026 00:34:56 +0000</pubDate>
-      <guid isPermaLink="false">2092048044502192374</guid>
-    </item>
-    <item>
-      <title>@Google @YouTube @every @YouTubeCreators can you help?</title>
-      <link>https://x.com/danshipper/status/2092034751037096260</link>
-      <description>作者：Dan Shipper
-账号：@danshipper
-简介：ceo @every | the only subscription you need to stay at the edge of AI
-
-@Google @YouTube @every @YouTubeCreators can you help?</description>
-      <pubDate>Mon, 24 Aug 2026 23:42:07 +0000</pubDate>
-      <guid isPermaLink="false">2092034751037096260</guid>
-    </item>
-    <item>
-      <title>I'd like to try using AI to call customer support phone numbers using voice, navigate the terrible automated phone systems, and talk to a human to book appointments or cancel subscriptions.  What's the easiest way to try this?</title>
-      <link>https://x.com/petergyang/status/2092031413319266382</link>
-      <description>作者：Peter Yang
-账号：@petergyang
-简介：Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6
-
-I'd like to try using AI to call customer support phone numbers using voice, navigate the terrible automated phone systems, and talk to a human to book appointments or cancel subscriptions.
-
-What's the easiest way to try this?</description>
-      <pubDate>Mon, 24 Aug 2026 23:28:51 +0000</pubDate>
-      <guid isPermaLink="false">2092031413319266382</guid>
-    </item>
-    <item>
-      <title>so it looks @google disabled the @youtube account for @every with 0 notice and no reason given...  anyone have any experience with this or know how to help us get it back? https://t.co/5yR7vQxHm1</title>
-      <link>https://x.com/danshipper/status/2092026065644335446</link>
-      <description>作者：Dan Shipper
-账号：@danshipper
-简介：ceo @every | the only subscription you need to stay at the edge of AI
-
-so it looks @google disabled the @youtube account for @every with 0 notice and no reason given...
-
-anyone have any experience with this or know how to help us get it back? https://t.co/5yR7vQxHm1</description>
-      <pubDate>Mon, 24 Aug 2026 23:07:36 +0000</pubDate>
-      <guid isPermaLink="false">2092026065644335446</guid>
-    </item>
-    <item>
-      <title>Feel the agi https://t.co/Uvr0TCMKyg</title>
-      <link>https://x.com/thenanyu/status/2092013239643394076</link>
-      <description>作者：Nan Yu
-账号：@thenanyu
-简介：product enthusiast
-
-Feel the agi https://t.co/Uvr0TCMKyg</description>
-      <pubDate>Mon, 24 Aug 2026 22:16:38 +0000</pubDate>
-      <guid isPermaLink="false">2092013239643394076</guid>
-    </item>
-    <item>
-      <title>“L7 promo: shipped emoji reactions to Gmail that show up as ugly random one character emails with metadata to anyone using another mail app including iPhone mail app the most common mail app on Earth”  https://t.co/bQkjEBJIB4</title>
-      <link>https://x.com/thenanyu/status/2091993558018572434</link>
-      <description>作者：Nan Yu
-账号：@thenanyu
-简介：product enthusiast
-
-“L7 promo: shipped emoji reactions to Gmail that show up as ugly random one character emails with metadata to anyone using another mail app including iPhone mail app the most common mail app on Earth”
-
-https://t.co/bQkjEBJIB4</description>
-      <pubDate>Mon, 24 Aug 2026 20:58:26 +0000</pubDate>
-      <guid isPermaLink="false">2091993558018572434</guid>
-    </item>
-    <item>
-      <title>Only a few have reached this milestone! https://t.co/FEmlDPmJfj</title>
-      <link>https://x.com/amasad/status/2091963442186092639</link>
-      <description>作者：Amjad Masad
-账号：@amasad
-简介：ceo @replit. civilizationist
-
-Only a few have reached this milestone! https://t.co/FEmlDPmJfj</description>
-      <pubDate>Mon, 24 Aug 2026 18:58:46 +0000</pubDate>
-      <guid isPermaLink="false">2091963442186092639</guid>
-    </item>
-    <item>
-      <title>True. Replit Agent completely replaced Claude CoWork in my day-to-day work. It's much more persistent and fastidious, and it uses code/software more effectively to complete tasks. https://t.co/QZ89DvogmZ</title>
-      <link>https://x.com/amasad/status/2091962601907638352</link>
-      <description>作者：Amjad Masad
-账号：@amasad
-简介：ceo @replit. civilizationist
-
-True. Replit Agent completely replaced Claude CoWork in my day-to-day work. It's much more persistent and fastidious, and it uses code/software more effectively to complete tasks. https://t.co/QZ89DvogmZ</description>
-      <pubDate>Mon, 24 Aug 2026 18:55:25 +0000</pubDate>
-      <guid isPermaLink="false">2091962601907638352</guid>
-    </item>
-    <item>
-      <title>Apply to SPC if you'd like to join us https://t.co/xWaXyqC7Rj</title>
-      <link>https://x.com/adityaag/status/2091958077591347630</link>
-      <description>作者：Aditya Agarwal
-账号：@adityaag
-简介：General Partner @SPC, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @Dropbox, Board @Flipkart | Optimist, Builder, Dad
-
-Apply to SPC if you'd like to join us https://t.co/xWaXyqC7Rj</description>
-      <pubDate>Mon, 24 Aug 2026 18:37:27 +0000</pubDate>
-      <guid isPermaLink="false">2091958077591347630</guid>
-    </item>
-    <item>
-      <title>Hans Robertson was early at @VMware, co-founded @meraki and sold it to Cisco for $1.2B, and co-founded Verkada in 2016.   He's still running it today.   He's coming by @spc this week. https://t.co/6D6dhVIEJ5</title>
-      <link>https://x.com/adityaag/status/2091958074827313523</link>
-      <description>作者：Aditya Agarwal
-账号：@adityaag
-简介：General Partner @SPC, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @Dropbox, Board @Flipkart | Optimist, Builder, Dad
-
-Hans Robertson was early at @VMware, co-founded @meraki and sold it to Cisco for $1.2B, and co-founded Verkada in 2016. 
-
-He's still running it today. 
-
-He's coming by @spc this week. https://t.co/6D6dhVIEJ5</description>
-      <pubDate>Mon, 24 Aug 2026 18:37:26 +0000</pubDate>
-      <guid isPermaLink="false">2091958074827313523</guid>
-    </item>
-    <item>
-      <title>If your terminal ever gets into a 'bad state', like garbled outputs, you run 𝚛𝚎𝚜𝚎𝚝. I noticed it was… oddly slow.  Turns out in 1979 3BSD's 𝚝𝚜𝚎𝚝 had a 𝚜𝚕𝚎𝚎𝚙(𝟷) to let mechanical printer-and-ink terminals 'settle down' 😂  I asked 𝚏𝚡 to write me a faster alternative in Zig. It takes 1ms instead of 1s....</title>
-      <link>https://x.com/rauchg/status/2091957823945216474</link>
-      <description>作者：Guillermo Rauch
-账号：@rauchg
-简介：@vercel CEO
-
-If your terminal ever gets into a 'bad state', like garbled outputs, you run 𝚛𝚎𝚜𝚎𝚝. I noticed it was… oddly slow.
-
-Turns out in 1979 3BSD's 𝚝𝚜𝚎𝚝 had a 𝚜𝚕𝚎𝚎𝚙(𝟷) to let mechanical printer-and-ink terminals 'settle down' 😂
-
-I asked 𝚏𝚡 to write me a faster alternative in Zig. It takes 1ms instead of 1s. It was really cool to dive deeper into 𝚗𝚌𝚞𝚛𝚜𝚎𝚜, 𝚝𝚜𝚎𝚝, 𝚝𝚎𝚛𝚖𝚒𝚗𝚏𝚘, and the myriad ways in which your terminal can get… cursed.
-
-It's legit fascinating how far back our technology stack goes, and how enduring good system design is, even with the occasional 'spider webs' you can find.
-
-Check out https://t.co/7EH0lothku for a fun explainer (and some alternative solutions.)
-
-ps: once you start using 𝚏𝚡, you'll notice slowness like this everywhere :D</description>
-      <pubDate>Mon, 24 Aug 2026 18:36:26 +0000</pubDate>
-      <guid isPermaLink="false">2091957823945216474</guid>
-    </item>
-    <item>
-      <title>Cool! https://t.co/11uSkCUPrc</title>
-      <link>https://x.com/amasad/status/2091937147473551474</link>
-      <description>作者：Amjad Masad
-账号：@amasad
-简介：ceo @replit. civilizationist
-
-Cool! https://t.co/11uSkCUPrc</description>
-      <pubDate>Mon, 24 Aug 2026 17:14:16 +0000</pubDate>
-      <guid isPermaLink="false">2091937147473551474</guid>
-    </item>
-    <item>
-      <title>We need to get away from software that we can’t change with a prompt. https://t.co/Fthfm8WYGH</title>
-      <link>https://x.com/steipete/status/2091923535513928015</link>
-      <description>作者：Peter Steinberger
-账号：@steipete
-简介：Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world.
-@OpenClaw🦞 + @OpenAI
-
-We need to get away from software that we can’t change with a prompt. https://t.co/Fthfm8WYGH</description>
-      <pubDate>Mon, 24 Aug 2026 16:20:11 +0000</pubDate>
-      <guid isPermaLink="false">2091923535513928015</guid>
-    </item>
-    <item>
-      <title>It’s not fully appreciated that ZDR is responsible for a substantial amount of the growth of AI, because it dramatically simplified the compliance process most companies deal with in handling data with subprocessors. The alternative path would have been a far slower adoption rate.  For the applied A...</title>
-      <link>https://x.com/levie/status/2091909170308296950</link>
+      <title>Good post on what the applied AI strategy looks like at scale. It’s clear that there’s a wide gap between the AI models and the underlying workflows of an enterprise, which leaves a ton of opportunity for applied AI companies.  “The world doesn’t just want raw models and agents; it wants problems re...</title>
+      <link>https://x.com/levie/status/2092466424694649066</link>
       <description>作者：Aaron Levie
 账号：@levie
 简介：ceo @box - your business lives in content. unleash it with AI
 
-It’s not fully appreciated that ZDR is responsible for a substantial amount of the growth of AI, because it dramatically simplified the compliance process most companies deal with in handling data with subprocessors. The alternative path would have been a far slower adoption rate.
+Good post on what the applied AI strategy looks like at scale. It’s clear that there’s a wide gap between the AI models and the underlying workflows of an enterprise, which leaves a ton of opportunity for applied AI companies.
 
-For the applied AI tools that are primarily responsible for driving AI growth, they generally have agreements in place with their customers to only offer models with ZDR to ensure that customers don’t have to inspect each model they turn on. Anything else is an exception process that takes far longer.
+“The world doesn’t just want raw models and agents; it wants problems resolved and outcomes achieved. The premium will sit with the companies that can diffuse this intelligence through every aspect of civilization, converting raw tokens into real world outcomes, transforming industries, and creating economies in the process.”
 
-And then inside enterprises directly, most companies have internal governance requirements that say they can only use ZDR models because they have no way of explicitly separating PII and other sensitive or confidential data they put in the context window across their enterprise.
+This requires understanding the context, driving the change management, having a harness that can route to various models, connecting to the critical business systems in that vertical, solving the UX challenges of connecting users to agents in the right way in a workflow, understanding the evals in the space, and so on.  
 
-Now, all of this could change if the entire industry went this direction, but with one off models hold outs it would take years for these policies to change. Without ZDR, AI diffusion grinds to a halt.</description>
-      <pubDate>Mon, 24 Aug 2026 15:23:06 +0000</pubDate>
-      <guid isPermaLink="false">2091909170308296950</guid>
+That’s a ton of value that goes beyond just the model intelligence itself. And there’s a window of opportunity right now to build the defining companies that can bring intelligence to the critical domains in an enterprise.</description>
+      <pubDate>Wed, 26 Aug 2026 04:17:26 +0000</pubDate>
+      <guid isPermaLink="false">2092466424694649066</guid>
     </item>
     <item>
-      <title>More blog posts should come with theme songs.</title>
-      <link>https://x.com/steipete/status/2091779461650006514</link>
+      <title>Full eval series so far:  1/ Getting started with evals https://t.co/fh4yQR64Ta  2/ Quality first, then cost https://t.co/hqNaE2ykTQ  3/ Failure modes taxonomy https://t.co/MM2wgiAnoF  4/ Laddered eval strategy https://t.co/2ioAe4hvqb  5/ Tyranny of the average https://t.co/QPiGbxxb72  6/ Hill climb...</title>
+      <link>https://x.com/realmadhuguru/status/2092461206783373758</link>
+      <description>作者：Madhu Guru
+账号：@realmadhuguru
+简介：Sr Director, AI at Meta; Prev: Google - Led Gemini, Veo, Nano Banana.
+
+Full eval series so far:
+
+1/ Getting started with evals
+https://t.co/fh4yQR64Ta
+
+2/ Quality first, then cost
+https://t.co/hqNaE2ykTQ
+
+3/ Failure modes taxonomy
+https://t.co/MM2wgiAnoF
+
+4/ Laddered eval strategy
+https://t.co/2ioAe4hvqb
+
+5/ Tyranny of the average
+https://t.co/QPiGbxxb72
+
+6/ Hill climbing on evals
+https://t.co/EtxbF1kqgD
+
+7/ The Goldilocks principle
+https://t.co/PXSX3jsLtk
+
+8/ Discriminatory power of evals
+https://t.co/epINGK6dGV
+
+9/ The Eval Roadmap Problem
+https://t.co/nw2U3R6U1Y</description>
+      <pubDate>Wed, 26 Aug 2026 03:56:42 +0000</pubDate>
+      <guid isPermaLink="false">2092461206783373758</guid>
+    </item>
+    <item>
+      <title>How to build great evals — Part 9  The Eval Roadmap Problem   Most evals fail because teams treat them as static artifacts while their users  expectations and behaviors have evolved.   Your evals need a roadmap that evolves with your product and actual usage patterns.  Take a financial research agen...</title>
+      <link>https://x.com/realmadhuguru/status/2092426017118028266</link>
+      <description>作者：Madhu Guru
+账号：@realmadhuguru
+简介：Sr Director, AI at Meta; Prev: Google - Led Gemini, Veo, Nano Banana.
+
+How to build great evals — Part 9
+
+The Eval Roadmap Problem 
+
+Most evals fail because teams treat them as static artifacts while their users  expectations and behaviors have evolved.
+ 
+Your evals need a roadmap that evolves with your product and actual usage patterns.
+
+Take a financial research agent. Here is how use cases will evolve over time.
+
+Early user: Summarize this 5-page earnings report.
+
+3 weeks later: review the last 5 earnings reports and explain their growth story.
+
+2 months later: Here are 15 filings, earnings transcripts and research reports. Build an investment thesis.
+
+Eventually: Monitor my stock portfolio and tell send me alerts when something materially changes my thesis.
+
+Each stage requires different capabilities and hence different evals.
+
+Your evals should change with usage patterns:
+
+short-context -&gt; long-context
+single-turn QA -&gt; multi-turn
+passage citations -&gt; doc and line citations 
+Simple QA -&gt; complex synthesis
+reactive chat -&gt; proactive agent
+
+If your evals are stuck in week 1 while users are in week 3, it will show in your product and churn metrics.
+
+Here’s a practical way to build the roadmap:
+1/ Map the dimensions along which usage will evolve (eg # turns, document size, tool use, autonomy, journey coverage).
+2/ Prioritize the use cases and dimensions that matter most for your product.
+3/ Talk to your users, mine production traces to look for shifts.
+4/ Build P0 evals for the next stage of usage.
+5/ Run the evals, find failure modes (remember the taxonomy from Part 3), and hill-climb (from part 6).
+
+The goal is to stay ahead of usage patterns. PM 101.
+
+Drop your questions and I will address in future posts.
+
+Share this with your teammates who think your evals are perfect.</description>
+      <pubDate>Wed, 26 Aug 2026 01:36:52 +0000</pubDate>
+      <guid isPermaLink="false">2092426017118028266</guid>
+    </item>
+    <item>
+      <title>Originally inspired by the @TheStalwart’s Odd Lots episode.   Built using @ChatGPT codex and @Railway   Design polish courtesy of @emilkowalski skills and @itskasturiii generative loaders.   Direct link here: https://t.co/L0zbiLPH55  Feedback always welcome!</title>
+      <link>https://x.com/nikunj/status/2092384774459674957</link>
+      <description>作者：Nikunj Kothari
+账号：@nikunj
+简介：partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian &amp; others. love @shimoleejhaveri + 👦👧
+
+Originally inspired by the @TheStalwart’s Odd Lots episode. 
+
+Built using @ChatGPT codex and @Railway 
+
+Design polish courtesy of @emilkowalski skills and @itskasturiii generative loaders. 
+
+Direct link here: https://t.co/L0zbiLPH55
+
+Feedback always welcome!</description>
+      <pubDate>Tue, 25 Aug 2026 22:52:59 +0000</pubDate>
+      <guid isPermaLink="false">2092384774459674957</guid>
+    </item>
+    <item>
+      <title>Introducing the El Niño situation monitor (elneenyo dot com)..  &gt; real time updates, news and what’s happening straight from government sources &gt; impact per region and costs &gt; historical records and what’s the importance &gt; glossary and FAQ on all the different readings  If this topic pops up in your...</title>
+      <link>https://x.com/nikunj/status/2092383834470002922</link>
+      <description>作者：Nikunj Kothari
+账号：@nikunj
+简介：partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian &amp; others. love @shimoleejhaveri + 👦👧
+
+Introducing the El Niño situation monitor (elneenyo dot com)..
+
+&gt; real time updates, news and what’s happening straight from government sources
+&gt; impact per region and costs
+&gt; historical records and what’s the importance
+&gt; glossary and FAQ on all the different readings
+
+If this topic pops up in your group chat, you know where to go now!</description>
+      <pubDate>Tue, 25 Aug 2026 22:49:15 +0000</pubDate>
+      <guid isPermaLink="false">2092383834470002922</guid>
+    </item>
+    <item>
+      <title>(Not affiliated with Denny's)</title>
+      <link>https://x.com/rauchg/status/2092383119248884043</link>
+      <description>作者：Guillermo Rauch
+账号：@rauchg
+简介：@vercel CEO
+
+(Not affiliated with Denny's)</description>
+      <pubDate>Tue, 25 Aug 2026 22:46:24 +0000</pubDate>
+      <guid isPermaLink="false">2092383119248884043</guid>
+    </item>
+    <item>
+      <title>We're introducing Run SDK: secure 𝚎𝚟𝚊𝚕 for dynamic Code Mode execution.  When agents write code, you don't always need a full sandbox. You can 𝚛𝚞𝚗 their code in a lightweight QuickJS secure context. Faster and more cost-efficient.  𝚗𝚙𝚖 𝚒 𝚛𝚞𝚗 https://t.co/br24j8Qp4r https://t.co/ZLqpkwqTT5 https://t....</title>
+      <link>https://x.com/rauchg/status/2092382653161107534</link>
+      <description>作者：Guillermo Rauch
+账号：@rauchg
+简介：@vercel CEO
+
+We're introducing Run SDK: secure 𝚎𝚟𝚊𝚕 for dynamic Code Mode execution.
+
+When agents write code, you don't always need a full sandbox. You can 𝚛𝚞𝚗 their code in a lightweight QuickJS secure context. Faster and more cost-efficient.
+
+𝚗𝚙𝚖 𝚒 𝚛𝚞𝚗
+https://t.co/br24j8Qp4r https://t.co/ZLqpkwqTT5 https://t.co/6ElyxieLme</description>
+      <pubDate>Tue, 25 Aug 2026 22:44:33 +0000</pubDate>
+      <guid isPermaLink="false">2092382653161107534</guid>
+    </item>
+    <item>
+      <title>I want to see the polymarket</title>
+      <link>https://x.com/thsottiaux/status/2092359619075314102</link>
+      <description>作者：Thibault Sottiaux
+账号：@thsottiaux
+简介：Codex &amp; ChatGPT @OpenAI
+
+I want to see the polymarket</description>
+      <pubDate>Tue, 25 Aug 2026 21:13:02 +0000</pubDate>
+      <guid isPermaLink="false">2092359619075314102</guid>
+    </item>
+    <item>
+      <title>https://t.co/pQqzn5Ctfg https://t.co/pB0vQbF8yV</title>
+      <link>https://x.com/danshipper/status/2092356580930945029</link>
+      <description>作者：Dan Shipper
+账号：@danshipper
+简介：ceo @every | the only subscription you need to stay at the edge of AI
+
+https://t.co/pQqzn5Ctfg https://t.co/pB0vQbF8yV</description>
+      <pubDate>Tue, 25 Aug 2026 21:00:57 +0000</pubDate>
+      <guid isPermaLink="false">2092356580930945029</guid>
+    </item>
+    <item>
+      <title>A small improvement: memory is now simpler and more powerful. Enjoy! https://t.co/11wCkgPyfJ</title>
+      <link>https://x.com/bcherny/status/2092355642363453943</link>
+      <description>作者：Boris Cherny
+账号：@bcherny
+简介：Claude Code @anthropicai
+
+A small improvement: memory is now simpler and more powerful. Enjoy! https://t.co/11wCkgPyfJ</description>
+      <pubDate>Tue, 25 Aug 2026 20:57:13 +0000</pubDate>
+      <guid isPermaLink="false">2092355642363453943</guid>
+    </item>
+    <item>
+      <title>The hardest problem in building agents is secure connectivity to services and data.  Excited for Vercel Connect to be GA. Run e.g: 𝚟𝚎𝚛𝚌𝚎𝚕 𝚌𝚘𝚗𝚗𝚎𝚌𝚝 𝚌𝚛𝚎𝚊𝚝𝚎 𝚗𝚘𝚝𝚒𝚘𝚗, then get an MCP client you can query on behalf of the authenticated user. https://t.co/UrQxaEDfHx</title>
+      <link>https://x.com/rauchg/status/2092352411839193234</link>
+      <description>作者：Guillermo Rauch
+账号：@rauchg
+简介：@vercel CEO
+
+The hardest problem in building agents is secure connectivity to services and data.
+
+Excited for Vercel Connect to be GA. Run e.g: 𝚟𝚎𝚛𝚌𝚎𝚕 𝚌𝚘𝚗𝚗𝚎𝚌𝚝 𝚌𝚛𝚎𝚊𝚝𝚎 𝚗𝚘𝚝𝚒𝚘𝚗, then get an MCP client you can query on behalf of the authenticated user. https://t.co/UrQxaEDfHx</description>
+      <pubDate>Tue, 25 Aug 2026 20:44:23 +0000</pubDate>
+      <guid isPermaLink="false">2092352411839193234</guid>
+    </item>
+    <item>
+      <title>Ok apparently this guy came up with it  Don’t really care though  Clout chaser lmao he is the one who blocked me https://t.co/oltJDirXcZ</title>
+      <link>https://x.com/garrytan/status/2092351492397383908</link>
+      <description>作者：Garry Tan
+账号：@garrytan
+简介：President &amp; CEO @ycombinator —Founder @garryslist—Creator of GStack &amp; GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop
+
+Ok apparently this guy came up with it
+
+Don’t really care though
+
+Clout chaser lmao he is the one who blocked me https://t.co/oltJDirXcZ</description>
+      <pubDate>Tue, 25 Aug 2026 20:40:44 +0000</pubDate>
+      <guid isPermaLink="false">2092351492397383908</guid>
+    </item>
+    <item>
+      <title>So much demand for this one. Works similar to the Pro $100 plan but designed for teams and small companies.  ✅ All ChatGPT, ChatGPT Work, and Codex features ✅ Connect to Google Workspace, Slack, GitHub, Microsoft 365, and more ✅ Secure workspace with SAML, SSO, and MFA ✅ Centralized billing and admi...</title>
+      <link>https://x.com/thsottiaux/status/2092345330272780499</link>
+      <description>作者：Thibault Sottiaux
+账号：@thsottiaux
+简介：Codex &amp; ChatGPT @OpenAI
+
+So much demand for this one. Works similar to the Pro $100 plan but designed for teams and small companies.
+
+✅ All ChatGPT, ChatGPT Work, and Codex features
+✅ Connect to Google Workspace, Slack, GitHub, Microsoft 365, and more
+✅ Secure workspace with SAML, SSO, and MFA
+✅ Centralized billing and administration
+✅ Usage analytics and spend controls
+✅ No 5h limits</description>
+      <pubDate>Tue, 25 Aug 2026 20:16:15 +0000</pubDate>
+      <guid isPermaLink="false">2092345330272780499</guid>
+    </item>
+    <item>
+      <title>we made a chip and it is fast</title>
+      <link>https://x.com/sama/status/2092339694210040187</link>
+      <description>作者：Sam Altman
+账号：@sama
+简介：AI is cool i guess
+
+we made a chip and it is fast</description>
+      <pubDate>Tue, 25 Aug 2026 19:53:51 +0000</pubDate>
+      <guid isPermaLink="false">2092339694210040187</guid>
+    </item>
+    <item>
+      <title>Thanks to your feedback, we’ve unified memory across Chat and Cowork. Now, you can tell Claude to remember something once and it’ll have that context across surfaces!  Tell us what you’d like to see next :) https://t.co/0Vw2o4zeaB</title>
+      <link>https://x.com/_catwu/status/2092337156455051345</link>
+      <description>作者：Cat Wu
+账号：@_catwu
+简介：claude code + cowork @anthropicai, prev: @dagster, @scale_ai
+
+Thanks to your feedback, we’ve unified memory across Chat and Cowork. Now, you can tell Claude to remember something once and it’ll have that context across surfaces!
+
+Tell us what you’d like to see next :) https://t.co/0Vw2o4zeaB</description>
+      <pubDate>Tue, 25 Aug 2026 19:43:46 +0000</pubDate>
+      <guid isPermaLink="false">2092337156455051345</guid>
+    </item>
+    <item>
+      <title>lmao https://t.co/y6BqsiuTQs</title>
+      <link>https://x.com/garrytan/status/2092321194037195022</link>
+      <description>作者：Garry Tan
+账号：@garrytan
+简介：President &amp; CEO @ycombinator —Founder @garryslist—Creator of GStack &amp; GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop
+
+lmao https://t.co/y6BqsiuTQs</description>
+      <pubDate>Tue, 25 Aug 2026 18:40:20 +0000</pubDate>
+      <guid isPermaLink="false">2092321194037195022</guid>
+    </item>
+    <item>
+      <title>Here's an example brief that the /fuck-cancer skill creates and updates.  I’ve found it really useful to have a single source of truth doc with patient information, what to do next, what we know, definitions of medical terms, and an update log.  📌 Get the free skill here: https://t.co/YUGoFbhnNc</title>
+      <link>https://x.com/petergyang/status/2092311110871617915</link>
+      <description>作者：Peter Yang
+账号：@petergyang
+简介：Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6
+
+Here's an example brief that the /fuck-cancer skill creates and updates.
+
+I’ve found it really useful to have a single source of truth doc with patient information, what to do next, what we know, definitions of medical terms, and an update log.
+
+📌 Get the free skill here:
+https://t.co/YUGoFbhnNc</description>
+      <pubDate>Tue, 25 Aug 2026 18:00:16 +0000</pubDate>
+      <guid isPermaLink="false">2092311110871617915</guid>
+    </item>
+    <item>
+      <title>excited to share more on how we’re making Claude Code more hackable soon https://t.co/liQ5rQG887</title>
+      <link>https://x.com/trq212/status/2092303682616627311</link>
+      <description>作者：Thariq
+账号：@trq212
+简介：Claude Code @anthropicai.   prev YC W20, @spc, @medialab
+
+excited to share more on how we’re making Claude Code more hackable soon https://t.co/liQ5rQG887</description>
+      <pubDate>Tue, 25 Aug 2026 17:30:45 +0000</pubDate>
+      <guid isPermaLink="false">2092303682616627311</guid>
+    </item>
+    <item>
+      <title>Topics some consider sensitive, like health or religious beliefs, stay out of memory unless you turn them on in Settings.  Memory is on by default on Free, Pro, and Max plans. Review yours anytime in Settings &amp;gt; Memory.  Read more: https://t.co/2y4B3am1RX</title>
+      <link>https://x.com/claudeai/status/2092299710002319742</link>
+      <description>作者：Claude
+账号：@claudeai
+简介：Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Talk to Claude on https://t.co/ZhTwG8d1e5 or download the app.
+
+Topics some consider sensitive, like health or religious beliefs, stay out of memory unless you turn them on in Settings.
+
+Memory is on by default on Free, Pro, and Max plans. Review yours anytime in Settings &amp;gt; Memory.
+
+Read more: https://t.co/2y4B3am1RX</description>
+      <pubDate>Tue, 25 Aug 2026 17:14:58 +0000</pubDate>
+      <guid isPermaLink="false">2092299710002319742</guid>
+    </item>
+    <item>
+      <title>Everything Claude remembers is saved as a list of topics in Settings, where you can read, edit, or delete each one.  Memory also updates on its own as you chat, saving new details as they come up. You can also say &quot;remember this&quot; to save something specific. https://t.co/ExpQAHkyhu</title>
+      <link>https://x.com/claudeai/status/2092299707653439497</link>
+      <description>作者：Claude
+账号：@claudeai
+简介：Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Talk to Claude on https://t.co/ZhTwG8d1e5 or download the app.
+
+Everything Claude remembers is saved as a list of topics in Settings, where you can read, edit, or delete each one.
+
+Memory also updates on its own as you chat, saving new details as they come up. You can also say &quot;remember this&quot; to save something specific. https://t.co/ExpQAHkyhu</description>
+      <pubDate>Tue, 25 Aug 2026 17:14:58 +0000</pubDate>
+      <guid isPermaLink="false">2092299707653439497</guid>
+    </item>
+    <item>
+      <title>Claude now has one memory across chat and Claude Cowork, and you decide what's in it.  Hand Cowork a task and it starts from what Claude already knows from your chats: the project you talked through, your manager's preferences, or the client from last quarter. https://t.co/ViKapsT8K6</title>
+      <link>https://x.com/claudeai/status/2092299704864284888</link>
+      <description>作者：Claude
+账号：@claudeai
+简介：Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Talk to Claude on https://t.co/ZhTwG8d1e5 or download the app.
+
+Claude now has one memory across chat and Claude Cowork, and you decide what's in it.
+
+Hand Cowork a task and it starts from what Claude already knows from your chats: the project you talked through, your manager's preferences, or the client from last quarter. https://t.co/ViKapsT8K6</description>
+      <pubDate>Tue, 25 Aug 2026 17:14:57 +0000</pubDate>
+      <guid isPermaLink="false">2092299704864284888</guid>
+    </item>
+    <item>
+      <title>This week. https://t.co/AM08qn6Zfd</title>
+      <link>https://x.com/steipete/status/2092294123638362346</link>
       <description>作者：Peter Steinberger
 账号：@steipete
 简介：Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world.
 @OpenClaw🦞 + @OpenAI
 
-More blog posts should come with theme songs.</description>
-      <pubDate>Mon, 24 Aug 2026 06:47:41 +0000</pubDate>
-      <guid isPermaLink="false">2091779461650006514</guid>
+This week. https://t.co/AM08qn6Zfd</description>
+      <pubDate>Tue, 25 Aug 2026 16:52:46 +0000</pubDate>
+      <guid isPermaLink="false">2092294123638362346</guid>
     </item>
     <item>
-      <title>TIL: prompt kiddie https://t.co/N92Q7aIzPq</title>
-      <link>https://x.com/steipete/status/2091778518531395927</link>
-      <description>作者：Peter Steinberger
-账号：@steipete
-简介：Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world.
-@OpenClaw🦞 + @OpenAI
+      <title>🚨 NEW LABS EXPERIMENT 🚨  Great minds t̵h̵i̵n̵k̵  play alike!  Play with Putty is a collaborative vibe coding tool that lets you build tools and websites together in real time. 🫟  Ready for your imagination to go multiplayer? Join the waitlist at https://t.co/v4m5iiYt9T and share your feedback with u...</title>
+      <link>https://x.com/GoogleLabs/status/2092293667688173593</link>
+      <description>作者：Google Labs
+账号：@GoogleLabs
+简介：Google’s home for our latest AI tools and experiments.
 
-TIL: prompt kiddie https://t.co/N92Q7aIzPq</description>
-      <pubDate>Mon, 24 Aug 2026 06:43:56 +0000</pubDate>
-      <guid isPermaLink="false">2091778518531395927</guid>
+🚨 NEW LABS EXPERIMENT 🚨
+
+Great minds t̵h̵i̵n̵k̵  play alike!
+
+Play with Putty is a collaborative vibe coding tool that lets you build tools and websites together in real time. 🫟
+
+Ready for your imagination to go multiplayer? Join the waitlist at https://t.co/v4m5iiYt9T and share your feedback with us!
+
+US only, ages 18+</description>
+      <pubDate>Tue, 25 Aug 2026 16:50:57 +0000</pubDate>
+      <guid isPermaLink="false">2092293667688173593</guid>
+    </item>
+    <item>
+      <title>It's totally unsurprising that the general population hates datacenter buildout.   AI today primarily helps knowledge workers and the highest paid segments of the country.   I suspect that the big change will happen when AI is able to find cures for diseases that ail everyone. We are starting to see...</title>
+      <link>https://x.com/adityaag/status/2092290497826173186</link>
+      <description>作者：Aditya Agarwal
+账号：@adityaag
+简介：General Partner @SPC, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @Dropbox, Board @Flipkart | Optimist, Builder, Dad
+
+It's totally unsurprising that the general population hates datacenter buildout. 
+
+AI today primarily helps knowledge workers and the highest paid segments of the country. 
+
+I suspect that the big change will happen when AI is able to find cures for diseases that ail everyone. We are starting to see light at the end of the tunnel here.
+
+Also makes sense why some of the brightest minds now want to focus there.
+
+Our industry also hasn't done ourselves any favors by all our fear-mongering. Instead of painting a positive version of the future, we have instead talked about all the reasons why we should be afraid 🤦‍♂️.</description>
+      <pubDate>Tue, 25 Aug 2026 16:38:22 +0000</pubDate>
+      <guid isPermaLink="false">2092290497826173186</guid>
+    </item>
+    <item>
+      <title>Very excited to attend @OpenAI Dev Day.  ChatGPT / Codex is basically the OS I use for everything I do on my computer.  Can't wait to see what updates the team has in store. https://t.co/0mvJVeQqFa https://t.co/rhxpVhn7Ue</title>
+      <link>https://x.com/petergyang/status/2092281120650047746</link>
+      <description>作者：Peter Yang
+账号：@petergyang
+简介：Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6
+
+Very excited to attend @OpenAI Dev Day.
+
+ChatGPT / Codex is basically the OS I use for everything I do on my computer.
+
+Can't wait to see what updates the team has in store. https://t.co/0mvJVeQqFa https://t.co/rhxpVhn7Ue</description>
+      <pubDate>Tue, 25 Aug 2026 16:01:06 +0000</pubDate>
+      <guid isPermaLink="false">2092281120650047746</guid>
+    </item>
+    <item>
+      <title>GET DOT https://t.co/EG90vQX7nR</title>
+      <link>https://x.com/danshipper/status/2092279611988050181</link>
+      <description>作者：Dan Shipper
+账号：@danshipper
+简介：ceo @every | the only subscription you need to stay at the edge of AI
+
+GET DOT https://t.co/EG90vQX7nR</description>
+      <pubDate>Tue, 25 Aug 2026 15:55:06 +0000</pubDate>
+      <guid isPermaLink="false">2092279611988050181</guid>
+    </item>
+    <item>
+      <title>You need to be cross-harness memory maxxing https://t.co/sauwBL6tYK</title>
+      <link>https://x.com/garrytan/status/2092277912053657722</link>
+      <description>作者：Garry Tan
+账号：@garrytan
+简介：President &amp; CEO @ycombinator —Founder @garryslist—Creator of GStack &amp; GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop
+
+You need to be cross-harness memory maxxing https://t.co/sauwBL6tYK</description>
+      <pubDate>Tue, 25 Aug 2026 15:48:21 +0000</pubDate>
+      <guid isPermaLink="false">2092277912053657722</guid>
+    </item>
+    <item>
+      <title>I got one of these to test  @every vibe check forthcoming! https://t.co/YvEcro1WLZ</title>
+      <link>https://x.com/danshipper/status/2092277639591461056</link>
+      <description>作者：Dan Shipper
+账号：@danshipper
+简介：ceo @every | the only subscription you need to stay at the edge of AI
+
+I got one of these to test
+
+@every vibe check forthcoming! https://t.co/YvEcro1WLZ</description>
+      <pubDate>Tue, 25 Aug 2026 15:47:16 +0000</pubDate>
+      <guid isPermaLink="false">2092277639591461056</guid>
+    </item>
+    <item>
+      <title>Today, I’m open-sourcing /fuck-cancer, an AI skill that helps patients and caregivers navigate cancer diagnosis and treatment and advocate for themselves and their loved ones.  Here’s what patients and caregivers have told me since I shared my mom’s story:  “You have to be a huge patient advocate. A...</title>
+      <link>https://x.com/petergyang/status/2092249012913258946</link>
+      <description>作者：Peter Yang
+账号：@petergyang
+简介：Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6
+
+Today, I’m open-sourcing /fuck-cancer, an AI skill that helps patients and caregivers navigate cancer diagnosis and treatment and advocate for themselves and their loved ones.
+
+Here’s what patients and caregivers have told me since I shared my mom’s story:
+
+“You have to be a huge patient advocate. Ask questions and push for answers, biopsies, and proper testing.”
+
+“I need help navigating difficult conversations and advocating for myself.”
+
+“The volume of doctors, documents, and insurance paperwork can quickly become overwhelming.”
+
+I built the skill to help with these problems. It creates and updates a practical brief with five sections:
+
+1. Patient and care-team information for easy reference during calls
+
+2. What to do next, limited to three specific actions
+
+3. What we know, separating confirmed facts from what remains unclear
+
+4. Medical terms explained in plain English
+
+5. A care log with recent updates and decisions
+
+It builds this brief from documents, and context you provide. When research is needed, it uses trusted sources such as the National Cancer Institute and the ClinicalTrials gov API.
+
+I use it with ChatGPT/Codex and Claude Code to prepare for conversations and research. It can save the brief locally as a Markdown file or update a shareable Google Doc so the whole family can work from the same information.
+
+📌 Get the free, open-source skill here:
+https://t.co/YUGoFbhnNc
+
+If you find it useful, please ⭐ the repo and share it with someone going through this BS disease.</description>
+      <pubDate>Tue, 25 Aug 2026 13:53:31 +0000</pubDate>
+      <guid isPermaLink="false">2092249012913258946</guid>
+    </item>
+    <item>
+      <title>Parallel’s Parag Agrawal: Building a New Web for AI Agents</title>
+      <link>https://www.youtube.com/playlist?list=PLOhHNjZItNnMm5tdW61JpnyxeYH5NDDx8</link>
+      <description>播客：Training Data
+
+Speaker 1 | 00:00 - 00:40
+Our view at Parallel is that human click data is a bug, and agent doing work with search should rely on agent feedback, not human feedback. We believe that these models are really good at compressing information and we can benefit from a lot of the research that have gone into building models and apply it to search indexing and ranking. And so you can now make many, many arguments. And that's the arguments we made back then that actually now it's way more tractable as a problem because of the existence of agents, not just as in technology, but as a distinct customer.
+
+Speaker 2 | 00:57 - 01:23
+Parag, thank you so much for joining us today. We're delighted to have you on the show. For those who don't know, Parag of Twitter CEO fame was the CEO for of Twitter before selling it to Elon and is now back on the founder arc. You founded a company called Parallel Web Systems, which is scaling up agentic search for the agentic web. We're very excited to have you here today to talk about the future of search and the future of the Internet.
+
+Speaker 2 | 01:23 - 01:25
+So let's get started. What's Parallel?
+
+Speaker 1 | 01:25 - 01:50
+Thank you, Sonia, for having me. Thanks, Andrew, for joining us. I'm really excited about this conversation. At Parallel, we're building a bunch of technology in order to allow agents to search and use the web. So just like humans forever have figured out how to use browsers and search engines and clicking and browsing on the web to access information, agents need to do the same things.
+
+Speaker 1 | 01:50 - 02:07
+We started parallel with the bet that agents would do it a thousand x more than humans ever have. And as a result, we need to reinvent the technology that can power search for agents, but also the business models that go alongside it. And that's what we're doing at Parallel.
+
+Speaker 2 | 02:07 - 02:21
+Okay. I wanna go back into what's what makes human and agent search so different. But before we get there, you've told us that, you know, you're you're unlearning a lot of the lessons that you learned from running Twitter as you build build Parallel. Why is that?
+
+Speaker 1 | 02:21 - 03:07
+Listen. When I was at Twitter in leadership roles, Twitter was a post product market fit extraordinarily scaled business where your feedback loops were from the hundreds of millions of customers using the product for thirty plus minutes every day. Right? In that world, you operate differently than a pre product market fit company based on the premise that in a few years a new customer is going to show up on the internet and let's go build technology for the not yet here customer that we are all learning every day and every week.
+
+Speaker 2 | 03:07 - 03:10
+Fantastic. Okay. Let's talk about let's talk about parallel.
+
+Speaker 3 | 03:11 - 03:12
+I have a question, actually. Can can I
+
+Speaker 1 | 03:12 - 03:13
+jump in? Yeah.
+
+Speaker 2 | 03:13 - 03:14
+No. No. You cannot, Andrew.
+
+Speaker 3 | 03:14 - 03:19
+I'm Andrew. I didn't get an introduction, but I'm also happy to be an inaugural guest on the Training Data podcast.
+
+Speaker 2 | 03:19 - 03:24
+Andrew is making his podcast debut We on Training are we are honored to have you finally here.
+
+Speaker 3 | 03:24 - 03:48
+Thank you. I feel like all of us in Silicon Valley have a very surface level idea of search. Like, what is search? Like, the job to be done is, you know, getting the answer makes sense, but we all know there's crawling and there's an index and there's ranking, but maybe just take a big step back and explain what is the problem of web search, be it for a human or an agent, and then we can dive into the differences.
+
+Speaker 1 | 03:48 - 04:41
+The problem of web search, and we all know it and experience it, when we want to find something and we do not know where it is on the web, we go to a search engine like Google and the search engine then hopefully surfaces the answer to us in the most convenient of locations. That's the base problem. Now in order to do this, what is the search engine doing? The search engine is going and crawling the web which is finding every URL that's out there, trying to read it, trying to organize that information in what might be called an index so that by having all of this stuff in memory in one location, you don't have to once the query comes in, don't have to spend time loading up pages because you already have them, you've already done preprocessing to organize them. And then when the query does come in, you quickly understand the query.
+
+Speaker 1 | 04:41 - 05:10
+You find the most relevant results and then there are many, many because you're essentially taking hundreds of billions of pages and narrowing it down to what five or 10 or ideally one in terms of what someone is looking for right now. So you go through these multiple stages of retrieval and ranking in order to surface the most relevant result. So that's the broad problem. One way to think about it is it's a billion to billion matching problem. Right?
+
+Speaker 1 | 05:10 - 05:17
+So you have hundreds of billions of pages and hundreds of billions of queries over time, and you need to figure out how to matchmake across these two.
+
+Speaker 2 | 05:17 - 05:36
+That sounds like an enormously expensive infrastructure challenge. And I think for the longest time, basically only Google and Bing had done full web scale crawls and indices. Why did you think about you as a young company could go off and tackle that problem? It seems like a problem to giants.
+
+Speaker 1 | 05:37 - 06:09
+So it is expensive in the long term. So what's actually interesting is that when I was starting the company three years ago, you could imagine a world where, one, some of the reasons it was difficult for others to compete, which was not having access to great feedback in terms of, is this a better search result than this? To collect that feedback at scale, there was a problem around human ratings. There's a problem around click data. You need to access those.
+
+Speaker 1 | 06:09 - 06:54
+Now it is, of course, expensive to crawl the entire web and index it. But as you think about what agents and the large models that we now have access to have enabled is the ratings data can be now created by experts way more cheaply. Our view at Parallel is that human click data is a bug. An agent doing work with search should rely on agent feedback, not human feedback. We believe that these models are really good at compressing information and we can benefit from a lot of the research that have gone into building models and apply it to search indexing and ranking.
+
+Speaker 1 | 06:54 - 07:44
+And so you can now make many, many arguments and that's the arguments we made back then that actually now it's way more tractable as a problem because of the existence of agents. Not just as in technology but as a distinct customer. And then we figured out a way to go about building this business which did not require us to go spend all of the money on infrastructure upfront before we could service a customer. Right? So if you can paint a path of incrementally being able to build an increasingly larger and more sophisticated index over time as you solve problems for more and more customers, that's the insight that actually convinced me that this was a viable problem for us to take on.
+
+Speaker 2 | 07:44 - 07:52
+And how do you make that happen? Because I imagine this is one of those things where customers want full coverage day one. So how do you go about making that happen?
+
+Speaker 1 | 07:52 - 08:17
+When we first launched the product, right, we launched an we did not launch a search product first. We launched a search agent product first. Our search agent could go essentially crawl the web after a query arrived. So if you're doing deep research, you have patience to the extent of a minute. And we've had products which sometimes do ten minutes of research.
+
+Speaker 1 | 08:18 - 08:42
+That's a lot of time to be able to crawl a lot of pag...</description>
+      <pubDate>Tue, 25 Aug 2026 09:00:00 +0000</pubDate>
+      <guid>https://www.youtube.com/playlist?list=PLOhHNjZItNnMm5tdW61JpnyxeYH5NDDx8</guid>
     </item>
   </channel>
 </rss>
