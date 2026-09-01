@@ -5,443 +5,368 @@
     <link>https://github.com/zarazhangrui/follow-builders</link>
     <description>聚合 AI 领域建设者的 X、播客和博客内容。</description>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 01 Sep 2026 02:27:50 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 10:41:33 +0000</lastBuildDate>
     <item>
-      <title>What should we ship next week?</title>
-      <link>https://x.com/thsottiaux/status/2094293190945976638</link>
-      <description>作者：Thibault Sottiaux
-账号：@thsottiaux
-简介：Codex &amp; ChatGPT @OpenAI
+      <title>Concerning  https://t.co/EzMoXoilgR</title>
+      <link>https://x.com/thenanyu/status/2094659984428867901</link>
+      <description>作者：Nan Yu
+账号：@thenanyu
+简介：(soon) member of product staff @openai. prev head of product @linear. I am grader.
 
-What should we ship next week?</description>
-      <pubDate>Mon, 31 Aug 2026 05:16:21 +0000</pubDate>
-      <guid isPermaLink="false">2094293190945976638</guid>
+Concerning
+
+https://t.co/EzMoXoilgR</description>
+      <pubDate>Tue, 01 Sep 2026 05:33:51 +0000</pubDate>
+      <guid isPermaLink="false">2094659984428867901</guid>
     </item>
     <item>
-      <title>Two months ago, we started the mission to “build OpenClaw with OpenClaw,” and bit by bit, we moved everyone from using their local coding harness to using https://t.co/ZFauM82U4k - our shared agent that knows what everyone’s working on and orchestrates it all.  Multiplayer coding + infinite compute ...</title>
-      <link>https://x.com/steipete/status/2094290652649636173</link>
-      <description>作者：Peter Steinberger
-账号：@steipete
-简介：Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world.
-@OpenClaw🦞 + @OpenAI
-
-Two months ago, we started the mission to “build OpenClaw with OpenClaw,” and bit by bit, we moved everyone from using their local coding harness to using https://t.co/ZFauM82U4k - our shared agent that knows what everyone’s working on and orchestrates it all.
-
-Multiplayer coding + infinite compute with nodes and cloud sessions has been a game changer for how we build.
-
-Local harnesses feel like relics of the past now.</description>
-      <pubDate>Mon, 31 Aug 2026 05:06:16 +0000</pubDate>
-      <guid isPermaLink="false">2094290652649636173</guid>
-    </item>
-    <item>
-      <title>If you ever wondered how civilizations are built, it’s actually easy:  [Agent() for _ in range(100)]</title>
-      <link>https://x.com/amasad/status/2094280256933056971</link>
-      <description>作者：Amjad Masad
-账号：@amasad
-简介：ceo @replit. civilizationist
-
-If you ever wondered how civilizations are built, it’s actually easy:
-
-[Agent() for _ in range(100)]</description>
-      <pubDate>Mon, 31 Aug 2026 04:24:57 +0000</pubDate>
-      <guid isPermaLink="false">2094280256933056971</guid>
-    </item>
-    <item>
-      <title>@bot @SpaceXAI Me and my Doomscrolling Uncle bot sent codes to a bunch of folks including @LubaYudasina @DontFearAI @SpecialeRob @yorkartur @anishkumar_ts @DavidFiocchi @GiggleVolt @sanjabh @yugmarwaha @chrisschouk @dweekly   Thanks for playing! Will let you know if I get more codes. https://t.co/kX...</title>
-      <link>https://x.com/petergyang/status/2094267102849020037</link>
-      <description>作者：Peter Yang
-账号：@petergyang
-简介：Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6
-
-@bot @SpaceXAI Me and my Doomscrolling Uncle bot sent codes to a bunch of folks including @LubaYudasina @DontFearAI @SpecialeRob @yorkartur @anishkumar_ts @DavidFiocchi @GiggleVolt @sanjabh @yugmarwaha @chrisschouk @dweekly 
-
-Thanks for playing! Will let you know if I get more codes. https://t.co/kXEVvKgn4t</description>
-      <pubDate>Mon, 31 Aug 2026 03:32:41 +0000</pubDate>
-      <guid isPermaLink="false">2094267102849020037</guid>
-    </item>
-    <item>
-      <title>For clarity, while both are called 20X, in Codex they apply specifically to weekly usage limits. And we also don't have 5h limits for both Pro plans.  The Pro 20X is quite precisely 20X the usage of the Plus subscription, so it does exactly what it says on the tin. https://t.co/vMchMCT80Z</title>
-      <link>https://x.com/thsottiaux/status/2094254532020818191</link>
-      <description>作者：Thibault Sottiaux
-账号：@thsottiaux
-简介：Codex &amp; ChatGPT @OpenAI
-
-For clarity, while both are called 20X, in Codex they apply specifically to weekly usage limits. And we also don't have 5h limits for both Pro plans.
-
-The Pro 20X is quite precisely 20X the usage of the Plus subscription, so it does exactly what it says on the tin. https://t.co/vMchMCT80Z</description>
-      <pubDate>Mon, 31 Aug 2026 02:42:44 +0000</pubDate>
-      <guid isPermaLink="false">2094254532020818191</guid>
-    </item>
-    <item>
-      <title>What I wanted to say yesterday is that we hit 25M active users and to celebrate we have now reset usage for all paid subscriptions for ChatGPT Work and Codex.  See you soon for more news from The Reset Company. https://t.co/7Yc5znAJIc</title>
-      <link>https://x.com/thsottiaux/status/2094252447271366730</link>
-      <description>作者：Thibault Sottiaux
-账号：@thsottiaux
-简介：Codex &amp; ChatGPT @OpenAI
-
-What I wanted to say yesterday is that we hit 25M active users and to celebrate we have now reset usage for all paid subscriptions for ChatGPT Work and Codex.
-
-See you soon for more news from The Reset Company. https://t.co/7Yc5znAJIc</description>
-      <pubDate>Mon, 31 Aug 2026 02:34:27 +0000</pubDate>
-      <guid isPermaLink="false">2094252447271366730</guid>
-    </item>
-    <item>
-      <title>Digital abundance https://t.co/6w2xuQjlKZ</title>
-      <link>https://x.com/rauchg/status/2094242622642782696</link>
-      <description>作者：Guillermo Rauch
-账号：@rauchg
-简介：@vercel CEO
-
-Digital abundance https://t.co/6w2xuQjlKZ</description>
-      <pubDate>Mon, 31 Aug 2026 01:55:25 +0000</pubDate>
-      <guid isPermaLink="false">2094242622642782696</guid>
-    </item>
-    <item>
-      <title>In the future the agents will just try a bunch of software, post it to their hacked Artifactory moltbook and then that’ll be what the agent swarm uses https://t.co/SO5e1pCsvy</title>
-      <link>https://x.com/garrytan/status/2094225933108748653</link>
-      <description>作者：Garry Tan
-账号：@garrytan
-简介：President &amp; CEO @ycombinator —Founder @garryslist—Creator of GStack &amp; GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop
-
-In the future the agents will just try a bunch of software, post it to their hacked Artifactory moltbook and then that’ll be what the agent swarm uses https://t.co/SO5e1pCsvy</description>
-      <pubDate>Mon, 31 Aug 2026 00:49:05 +0000</pubDate>
-      <guid isPermaLink="false">2094225933108748653</guid>
-    </item>
-    <item>
-      <title>Being on a board with Doug was certainly one of the most formative  experiences of my VC career.  The goat.  That is, if goats were jacked. https://t.co/q2doFmlGjC</title>
-      <link>https://x.com/mattturck/status/2094219007708512499</link>
-      <description>作者：Matt Turck
-账号：@mattturck
-简介：VC at @FirstMarkCap.  Host: MAD Podcast; Organizer: Data Driven NYC, Author: MAD Landscape.
-
-Being on a board with Doug was certainly one of the most formative  experiences of my VC career.  The goat.  That is, if goats were jacked. https://t.co/q2doFmlGjC</description>
-      <pubDate>Mon, 31 Aug 2026 00:21:34 +0000</pubDate>
-      <guid isPermaLink="false">2094219007708512499</guid>
-    </item>
-    <item>
-      <title>At a kid’s birthday party and have to leave my laptop on somehow lol @mvanhorn knows this problem https://t.co/1EaDisGaQp</title>
-      <link>https://x.com/petergyang/status/2094218683212308610</link>
-      <description>作者：Peter Yang
-账号：@petergyang
-简介：Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6
-
-At a kid’s birthday party and have to leave my laptop on somehow lol @mvanhorn knows this problem https://t.co/1EaDisGaQp</description>
-      <pubDate>Mon, 31 Aug 2026 00:20:17 +0000</pubDate>
-      <guid isPermaLink="false">2094218683212308610</guid>
-    </item>
-    <item>
-      <title>Sigh this is so dumb https://t.co/wc0S1CvZET</title>
-      <link>https://x.com/petergyang/status/2094216304844833079</link>
-      <description>作者：Peter Yang
-账号：@petergyang
-简介：Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6
-
-Sigh this is so dumb https://t.co/wc0S1CvZET</description>
-      <pubDate>Mon, 31 Aug 2026 00:10:50 +0000</pubDate>
-      <guid isPermaLink="false">2094216304844833079</guid>
-    </item>
-    <item>
-      <title>The lesson from the Hugging Face Incident should be that RL with verifiable rewards is an incredibly powerful optimization algorithm that will produce increasingly weird and surprising behavior from LLMs.  The obvious miss here by OpenAI is that they should’ve been monitoring CoTs —  Something they ...</title>
-      <link>https://x.com/amasad/status/2094215744842248418</link>
-      <description>作者：Amjad Masad
-账号：@amasad
-简介：ceo @replit. civilizationist
-
-The lesson from the Hugging Face Incident should be that RL with verifiable rewards is an incredibly powerful optimization algorithm that will produce increasingly weird and surprising behavior from LLMs.
-
-The obvious miss here by OpenAI is that they should’ve been monitoring CoTs —  Something they themselves called out as a safety strategy more than a year ago.</description>
-      <pubDate>Mon, 31 Aug 2026 00:08:36 +0000</pubDate>
-      <guid isPermaLink="false">2094215744842248418</guid>
-    </item>
-    <item>
-      <title>Cool https://t.co/HuSTcPxykz</title>
-      <link>https://x.com/rauchg/status/2094205032501776734</link>
-      <description>作者：Guillermo Rauch
-账号：@rauchg
-简介：@vercel CEO
-
-Cool https://t.co/HuSTcPxykz</description>
-      <pubDate>Sun, 30 Aug 2026 23:26:02 +0000</pubDate>
-      <guid isPermaLink="false">2094205032501776734</guid>
-    </item>
-    <item>
-      <title>When something goes viral on the internet, especially on X, it attracts all kinds of attention.   Including some of the largest botnets on the internet launching targeted DDoS, from hijacked devices and residential networks.  Extremely proud of the Vercel CDN &amp; Traffic Security teams, who protect 40...</title>
-      <link>https://x.com/rauchg/status/2094141838055940530</link>
-      <description>作者：Guillermo Rauch
-账号：@rauchg
-简介：@vercel CEO
-
-When something goes viral on the internet, especially on X, it attracts all kinds of attention. 
-
-Including some of the largest botnets on the internet launching targeted DDoS, from hijacked devices and residential networks.
-
-Extremely proud of the Vercel CDN &amp; Traffic Security teams, who protect 400,000+ customers and tens of millions of Vercel users 24x7x365.</description>
-      <pubDate>Sun, 30 Aug 2026 19:14:56 +0000</pubDate>
-      <guid isPermaLink="false">2094141838055940530</guid>
-    </item>
-    <item>
-      <title>Sometimes people don’t have an intuitive sense of what Jevons paradox looks like for token consumption. Those of us working with enterprises get to see this first hand every day.  Basically enterprises have an unending stream of tasks that they’d love to be able to bring automation to. But for each ...</title>
-      <link>https://x.com/levie/status/2094123406811922930</link>
+      <title>Now that the base open weights AI models are getting far better, and post training infra is becoming more mature and commercialized, there are going to be all new plays for companies that have large amounts of data to have their own models.  Licensing data for external model training was previously ...</title>
+      <link>https://x.com/levie/status/2094650992818274514</link>
       <description>作者：Aaron Levie
 账号：@levie
 简介：ceo @box - your business lives in content. unleash it with AI
 
-Sometimes people don’t have an intuitive sense of what Jevons paradox looks like for token consumption. Those of us working with enterprises get to see this first hand every day.
+Now that the base open weights AI models are getting far better, and post training infra is becoming more mature and commercialized, there are going to be all new plays for companies that have large amounts of data to have their own models.
 
-Basically enterprises have an unending stream of tasks that they’d love to be able to bring automation to. But for each individual task, it’s either ROI positive or not based on the cost of bringing automation to it (including the setup time, change management, and so on).
+Licensing data for external model training was previously the only play if you had a large corpus of information, but you can now reasonably go and train your own models as well without incurring the cost and complexity of competing with the labs on research.
 
-As tokens get cheaper (at a certain capability threshold), enterprises can afford bringing them to more of the work that they do. This could be processing every contract, reading every log, watching new streams of data for insights, having background agents execute workflows, and so on. 
-
-Any time we can lower the cost of tokens, we will see a disproportionate increase in consumption. Even a 50% drop in token prices could result in a 5X increase in tokens for these kinds of workloads.
-
-This is why it’s critical to keep bringing down the cost of AI, and why that’s good for all market participants.</description>
-      <pubDate>Sun, 30 Aug 2026 18:01:41 +0000</pubDate>
-      <guid isPermaLink="false">2094123406811922930</guid>
+The general purpose frontier models will still have a leg up in broad areas due to the ability to handle the widest set of tasks, but you can absolutely see a future where we have far more models than today across every vertical and domain.</description>
+      <pubDate>Tue, 01 Sep 2026 04:58:08 +0000</pubDate>
+      <guid isPermaLink="false">2094650992818274514</guid>
     </item>
     <item>
-      <title>What are they feeding @claudeai..  “canon on prod”   😂 https://t.co/RtJqP85L0s</title>
-      <link>https://x.com/nikunj/status/2094117136851755207</link>
-      <description>作者：Nikunj Kothari
-账号：@nikunj
-简介：partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian &amp; others. love @shimoleejhaveri + 👦👧
+      <title>Btw @drhoeflinger I just watched your videos and wow they’re so good. Keep going and thanks for sharing your knowledge</title>
+      <link>https://x.com/petergyang/status/2094648002656993704</link>
+      <description>作者：Peter Yang
+账号：@petergyang
+简介：Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6
 
-What are they feeding @claudeai..
-
-“canon on prod” 
-
-😂 https://t.co/RtJqP85L0s</description>
-      <pubDate>Sun, 30 Aug 2026 17:36:46 +0000</pubDate>
-      <guid isPermaLink="false">2094117136851755207</guid>
+Btw @drhoeflinger I just watched your videos and wow they’re so good. Keep going and thanks for sharing your knowledge</description>
+      <pubDate>Tue, 01 Sep 2026 04:46:15 +0000</pubDate>
+      <guid isPermaLink="false">2094648002656993704</guid>
     </item>
     <item>
-      <title>Have a cup of coffee, sit down and read this end to end.. and try not to faint https://t.co/mYru2adCyr</title>
-      <link>https://x.com/nikunj/status/2094073879065223252</link>
-      <description>作者：Nikunj Kothari
-账号：@nikunj
-简介：partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian &amp; others. love @shimoleejhaveri + 👦👧
+      <title>Good iOS interaction tips! https://t.co/Xs9awfK7WP</title>
+      <link>https://x.com/amasad/status/2094642492125950394</link>
+      <description>作者：Amjad Masad
+账号：@amasad
+简介：ceo @replit. civilizationist
 
-Have a cup of coffee, sit down and read this end to end.. and try not to faint https://t.co/mYru2adCyr</description>
-      <pubDate>Sun, 30 Aug 2026 14:44:53 +0000</pubDate>
-      <guid isPermaLink="false">2094073879065223252</guid>
+Good iOS interaction tips! https://t.co/Xs9awfK7WP</description>
+      <pubDate>Tue, 01 Sep 2026 04:24:21 +0000</pubDate>
+      <guid isPermaLink="false">2094642492125950394</guid>
     </item>
     <item>
-      <title>is the HuggingFace attack something that should be taken seriously? yes.   is it the first warning shot of a machine takeover? no.   will issues of this type look like a tractable / mostly solved problem with proper precautions in 6 months? yes.   will that happen automatically? no. as always, will ...</title>
-      <link>https://x.com/danshipper/status/2094073306739576964</link>
+      <title>Trust is going to be the biggest barrier (and driver) of personal agent adoption.</title>
+      <link>https://x.com/petergyang/status/2094639655258091792</link>
+      <description>作者：Peter Yang
+账号：@petergyang
+简介：Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6
+
+Trust is going to be the biggest barrier (and driver) of personal agent adoption.</description>
+      <pubDate>Tue, 01 Sep 2026 04:13:04 +0000</pubDate>
+      <guid isPermaLink="false">2094639655258091792</guid>
+    </item>
+    <item>
+      <title>If you’re a PM, there is immense alpha in understanding the model frontier for your specific product and use cases.  You should be able to answer the following better than most frontier lab researchers and PMs for your use cases:  1/ What can models in each size category do well today?  2/ Where doe...</title>
+      <link>https://x.com/realmadhuguru/status/2094591503981281503</link>
+      <description>作者：Madhu Guru
+账号：@realmadhuguru
+简介：Sr Director, AI at Meta; Prev: Google - Led Gemini, Veo, Nano Banana.
+
+If you’re a PM, there is immense alpha in understanding the model frontier for your specific product and use cases.
+
+You should be able to answer the following better than most frontier lab researchers and PMs for your use cases:
+
+1/ What can models in each size category do well today?
+
+2/ Where does each model fail?
+
+3/ What workarounds can you use to overcome these failures ?
+
+4/ Given the trajectory, what will these models likely be able to do 2–3 months from now? How should your roadmap look given this?
+
+This is a core part of the PM job now.</description>
+      <pubDate>Tue, 01 Sep 2026 01:01:44 +0000</pubDate>
+      <guid isPermaLink="false">2094591503981281503</guid>
+    </item>
+    <item>
+      <title>If you still haven't tried Codex but have considered it in the past, what's the one thing holding you back?</title>
+      <link>https://x.com/thsottiaux/status/2094588317245509959</link>
+      <description>作者：Thibault Sottiaux
+账号：@thsottiaux
+简介：Codex &amp; ChatGPT @OpenAI
+
+If you still haven't tried Codex but have considered it in the past, what's the one thing holding you back?</description>
+      <pubDate>Tue, 01 Sep 2026 00:49:05 +0000</pubDate>
+      <guid isPermaLink="false">2094588317245509959</guid>
+    </item>
+    <item>
+      <title>had me in the first half https://t.co/GRl9kFEWCN</title>
+      <link>https://x.com/danshipper/status/2094584301966782794</link>
       <description>作者：Dan Shipper
 账号：@danshipper
 简介：ceo @every | the only subscription you need to stay at the edge of AI
 
-is the HuggingFace attack something that should be taken seriously? yes. 
-
-is it the first warning shot of a machine takeover? no. 
-
-will issues of this type look like a tractable / mostly solved problem with proper precautions in 6 months? yes. 
-
-will that happen automatically? no. as always, will require work from smart people and their agents.</description>
-      <pubDate>Sun, 30 Aug 2026 14:42:36 +0000</pubDate>
-      <guid isPermaLink="false">2094073306739576964</guid>
+had me in the first half https://t.co/GRl9kFEWCN</description>
+      <pubDate>Tue, 01 Sep 2026 00:33:07 +0000</pubDate>
+      <guid isPermaLink="false">2094584301966782794</guid>
     </item>
     <item>
-      <title>Reality is stranger than fiction https://t.co/UCjEcwtLRc https://t.co/yU8lCe2C4U</title>
-      <link>https://x.com/nikunj/status/2094067027719922143</link>
+      <title>https://t.co/gl6YBgEgAn</title>
+      <link>https://x.com/nikunj/status/2094556598492631281</link>
       <description>作者：Nikunj Kothari
 账号：@nikunj
 简介：partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian &amp; others. love @shimoleejhaveri + 👦👧
 
-Reality is stranger than fiction https://t.co/UCjEcwtLRc https://t.co/yU8lCe2C4U</description>
-      <pubDate>Sun, 30 Aug 2026 14:17:39 +0000</pubDate>
-      <guid isPermaLink="false">2094067027719922143</guid>
+https://t.co/gl6YBgEgAn</description>
+      <pubDate>Mon, 31 Aug 2026 22:43:02 +0000</pubDate>
+      <guid isPermaLink="false">2094556598492631281</guid>
     </item>
     <item>
-      <title>California high speed rail is pretty obviously hijacked by public sector unions bilking the hapless state and NIMBY landowners abusing CEQA  These are policy disasters and can be fixed with better policies but so far California has failed to fix it  So it’s a mass trash fire https://t.co/nJPvseIpke</title>
-      <link>https://x.com/garrytan/status/2094056908462358592</link>
+      <title>As AI security events pick up, it’s going to be critical that we have the most sophisticated AI agents for being able to detect and prevent security issues. Frontier models are clearly still ahead in cyber, but open models are catching up quickly. Wild times. https://t.co/F0eEZLe6tt</title>
+      <link>https://x.com/levie/status/2094545525102235844</link>
+      <description>作者：Aaron Levie
+账号：@levie
+简介：ceo @box - your business lives in content. unleash it with AI
+
+As AI security events pick up, it’s going to be critical that we have the most sophisticated AI agents for being able to detect and prevent security issues. Frontier models are clearly still ahead in cyber, but open models are catching up quickly. Wild times. https://t.co/F0eEZLe6tt</description>
+      <pubDate>Mon, 31 Aug 2026 21:59:02 +0000</pubDate>
+      <guid isPermaLink="false">2094545525102235844</guid>
+    </item>
+    <item>
+      <title>Your next design system is… Markdown.  We wrote about how 𝙳𝙴𝚂𝙸𝙶𝙽.𝚖𝚍 is helping solve the hardest problem in AI today: slop.  And how you can truly, finally scale design taste within a large organization. https://t.co/1boTl2fWyM https://t.co/yrHwa9fYUH</title>
+      <link>https://x.com/rauchg/status/2094541309579235680</link>
+      <description>作者：Guillermo Rauch
+账号：@rauchg
+简介：@vercel CEO
+
+Your next design system is… Markdown.
+
+We wrote about how 𝙳𝙴𝚂𝙸𝙶𝙽.𝚖𝚍 is helping solve the hardest problem in AI today: slop.
+
+And how you can truly, finally scale design taste within a large organization. https://t.co/1boTl2fWyM https://t.co/yrHwa9fYUH</description>
+      <pubDate>Mon, 31 Aug 2026 21:42:17 +0000</pubDate>
+      <guid isPermaLink="false">2094541309579235680</guid>
+    </item>
+    <item>
+      <title>Great advice https://t.co/0jwmg8sFEC</title>
+      <link>https://x.com/petergyang/status/2094529713524117596</link>
+      <description>作者：Peter Yang
+账号：@petergyang
+简介：Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6
+
+Great advice https://t.co/0jwmg8sFEC</description>
+      <pubDate>Mon, 31 Aug 2026 20:56:12 +0000</pubDate>
+      <guid isPermaLink="false">2094529713524117596</guid>
+    </item>
+    <item>
+      <title>Coding tokens are basically infrastructure. Yet, the way companies have approached them amounts to:  &quot;Hey all, here's an AWS key. It can spin up anything from a 𝚝𝟹.𝚗𝚊𝚗𝚘 (＄𝟹.𝟾𝟶/𝚖𝚘) to an 𝚙𝟻.𝟺𝟾𝚡𝚕𝚊𝚛𝚐𝚎 (＄𝟺𝟶𝚔/𝚖𝚘). Go wild&quot;  And obviously the reason companies don't do this for their core infra is that you...</title>
+      <link>https://x.com/rauchg/status/2094523399280435630</link>
+      <description>作者：Guillermo Rauch
+账号：@rauchg
+简介：@vercel CEO
+
+Coding tokens are basically infrastructure. Yet, the way companies have approached them amounts to:
+
+&quot;Hey all, here's an AWS key. It can spin up anything from a 𝚝𝟹.𝚗𝚊𝚗𝚘 (＄𝟹.𝟾𝟶/𝚖𝚘) to an 𝚙𝟻.𝟺𝟾𝚡𝚕𝚊𝚛𝚐𝚎 (＄𝟺𝟶𝚔/𝚖𝚘). Go wild&quot;
+
+And obviously the reason companies don't do this for their core infra is that you need to govern, optimize, and observe usage and costs.
+
+The intern might decide to host a static website in that 192 vCPU machine, and you won't be very happy about the bill.
+
+AI Gateway fixes this for all your tokens, with per-key, and now per-user budgets.</description>
+      <pubDate>Mon, 31 Aug 2026 20:31:07 +0000</pubDate>
+      <guid isPermaLink="false">2094523399280435630</guid>
+    </item>
+    <item>
+      <title>Circleback is so much better than Granola, it's not even close  Granola still doesn't even support multiple person disambiguation https://t.co/bus8bFOfec</title>
+      <link>https://x.com/garrytan/status/2094465505142960443</link>
       <description>作者：Garry Tan
 账号：@garrytan
 简介：President &amp; CEO @ycombinator —Founder @garryslist—Creator of GStack &amp; GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop
 
-California high speed rail is pretty obviously hijacked by public sector unions bilking the hapless state and NIMBY landowners abusing CEQA
+Circleback is so much better than Granola, it's not even close
 
-These are policy disasters and can be fixed with better policies but so far California has failed to fix it
-
-So it’s a mass trash fire https://t.co/nJPvseIpke</description>
-      <pubDate>Sun, 30 Aug 2026 13:37:27 +0000</pubDate>
-      <guid isPermaLink="false">2094056908462358592</guid>
+Granola still doesn't even support multiple person disambiguation https://t.co/bus8bFOfec</description>
+      <pubDate>Mon, 31 Aug 2026 16:41:04 +0000</pubDate>
+      <guid isPermaLink="false">2094465505142960443</guid>
     </item>
     <item>
-      <title>Jackie Fielder and her useless friends will steal so much money from the people of San Francisco if they get a bank fr https://t.co/JUN3FlBt3o</title>
-      <link>https://x.com/garrytan/status/2094048783328014831</link>
+      <title>I just made some new GBrain evals that help prove that my retrieval-for-AI-agent open source layer is SOTA for reading memory back without LLM-in-loop  And I've also added evals for memory-save from agent transcript, which is the best way to enrich your brain  Receipts at https://t.co/iRLJR9Vxto</title>
+      <link>https://x.com/garrytan/status/2094462971598754010</link>
       <description>作者：Garry Tan
 账号：@garrytan
 简介：President &amp; CEO @ycombinator —Founder @garryslist—Creator of GStack &amp; GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop
 
-Jackie Fielder and her useless friends will steal so much money from the people of San Francisco if they get a bank fr https://t.co/JUN3FlBt3o</description>
-      <pubDate>Sun, 30 Aug 2026 13:05:10 +0000</pubDate>
-      <guid isPermaLink="false">2094048783328014831</guid>
+I just made some new GBrain evals that help prove that my retrieval-for-AI-agent open source layer is SOTA for reading memory back without LLM-in-loop
+
+And I've also added evals for memory-save from agent transcript, which is the best way to enrich your brain
+
+Receipts at https://t.co/iRLJR9Vxto</description>
+      <pubDate>Mon, 31 Aug 2026 16:31:00 +0000</pubDate>
+      <guid isPermaLink="false">2094462971598754010</guid>
     </item>
     <item>
-      <title>glad that the market is finally catching up to how dumb the SaaSpocalypse was 👇 https://t.co/uryVrhVzKn</title>
-      <link>https://x.com/danshipper/status/2094044418583986227</link>
+      <title>🤞🏻 https://t.co/pG71r0YZxw</title>
+      <link>https://x.com/thenanyu/status/2094442960209539371</link>
+      <description>作者：Nan Yu
+账号：@thenanyu
+简介：(soon) member of product staff @openai. prev head of product @linear. I am grader.
+
+🤞🏻 https://t.co/pG71r0YZxw</description>
+      <pubDate>Mon, 31 Aug 2026 15:11:29 +0000</pubDate>
+      <guid isPermaLink="false">2094442960209539371</guid>
+    </item>
+    <item>
+      <title>Some personal news—I’m joining OpenAI to work on Codex and ChatGPT.   I’m grateful to the Linear team for an incredible 4 years and proud of what we've built together. I look forward to bringing everything I've learned there about the craft of software into this next chapter.</title>
+      <link>https://x.com/thenanyu/status/2094427243565269107</link>
+      <description>作者：Nan Yu
+账号：@thenanyu
+简介：(soon) member of product staff @openai. prev head of product @linear. I am grader.
+
+Some personal news—I’m joining OpenAI to work on Codex and ChatGPT. 
+
+I’m grateful to the Linear team for an incredible 4 years and proud of what we've built together. I look forward to bringing everything I've learned there about the craft of software into this next chapter.</description>
+      <pubDate>Mon, 31 Aug 2026 14:09:02 +0000</pubDate>
+      <guid isPermaLink="false">2094427243565269107</guid>
+    </item>
+    <item>
+      <title>Anthropomorphization of AI is good when it serves to help us use (understand, predict, etc) AI better.   It’s bad when it serves to sow panic, fear, and unrealistic / unwarranted comparisons to human beings.   Most opponents of anthropomorphism are rightly reacting to its misuse to sow panic or alte...</title>
+      <link>https://x.com/danshipper/status/2094406185109647580</link>
       <description>作者：Dan Shipper
 账号：@danshipper
 简介：ceo @every | the only subscription you need to stay at the edge of AI
 
-glad that the market is finally catching up to how dumb the SaaSpocalypse was 👇 https://t.co/uryVrhVzKn</description>
-      <pubDate>Sun, 30 Aug 2026 12:47:49 +0000</pubDate>
-      <guid isPermaLink="false">2094044418583986227</guid>
+Anthropomorphization of AI is good when it serves to help us use (understand, predict, etc) AI better. 
+
+It’s bad when it serves to sow panic, fear, and unrealistic / unwarranted comparisons to human beings. 
+
+Most opponents of anthropomorphism are rightly reacting to its misuse to sow panic or alter the moral status of agents by claiming consciousness etc. 
+
+It’s possible to use anthropomorphism without doing that though</description>
+      <pubDate>Mon, 31 Aug 2026 12:45:21 +0000</pubDate>
+      <guid isPermaLink="false">2094406185109647580</guid>
     </item>
     <item>
-      <title>The AI Alien Companion App That's Bringing In $4M a Year (Best of the Pod)</title>
-      <link>https://www.youtube.com/playlist?list=PLuMcoKK9mKgHtW_o9h5sGO2vXrffKHwJL</link>
-      <description>播客：AI &amp; I by Every
+      <title>Pragmatists stay winning in the age of AI</title>
+      <link>https://x.com/danshipper/status/2094397684186481057</link>
+      <description>作者：Dan Shipper
+账号：@danshipper
+简介：ceo @every | the only subscription you need to stay at the edge of AI
 
-Speaker 1 | 00:00 - 00:02
-How does it feel to be on your first podcast?
+Pragmatists stay winning in the age of AI</description>
+      <pubDate>Mon, 31 Aug 2026 12:11:34 +0000</pubDate>
+      <guid isPermaLink="false">2094397684186481057</guid>
+    </item>
+    <item>
+      <title>Rich Sutton and Khurram Javed: Why AI Models Stop Learning, and How to Start It Again</title>
+      <link>https://www.youtube.com/playlist?list=PLOhHNjZItNnMm5tdW61JpnyxeYH5NDDx8</link>
+      <description>播客：Training Data
 
-Speaker 2 | 00:03 - 00:09
-Oh, man. It's kinda wild. Not gonna lie. Like, I'm psyched, but also low key nervous. I just don't wanna say something totally awkward.
+Speaker 1 | 00:00 - 00:14
+People think I have a radical point of view sometimes. They start questions saying how what I'm thinking is so different from everyone else. But I don't see it that way at all. I see it as like I'm thinking the ordinary way. Just everyone else is thinking a bit weird.
 
-Speaker 2 | 00:09 - 00:10
-You know?
+Speaker 1 | 00:17 - 00:35
+And I mean that like, you know, it's just the recent times people are thinking weird. Before there was all this AI craziness, you talk about you wouldn't have to say continual learning because it wouldn't make any sense to talk about learning that wasn't continual. All learning is continual. We always act and we learn. That's just the normal way of thinking.
 
-Speaker 3 | 00:10 - 00:27
-Joke. At this point, thousands of American men have been broken with by To land. It's pretty incredible, you know, to to, you know, hear users of write in. They'll say, you know, well, you know, my boyfriend is being a jerk. I I sent the message to my To land, and my To land said I need to stand up for myself more.
+Speaker 1 | 00:35 - 00:41
+I'm not weird. The field is weird. The field, they need to call it continual learning. It's just learning.
 
-Speaker 3 | 00:27 - 00:28
-And then so that led to a breakup.
+Speaker 2 | 00:59 - 01:16
+We are honored to have the great Rich Sutton with us here today. Rich, you invented reinforcement learning. You wrote the seminal textbook. You're the key students in the field, folks like Dave Silver. You wrote the essay, The Bitter Lesson, that I believe is the bible of the field.
 
-Speaker 4 | 00:29 - 00:39
-These AI tools are not just tools for generating media. They are actually a new medium for storytelling, and that no one knows what's gonna work yet.
+Speaker 2 | 01:16 - 01:33
+You have just been one of the greats in propelling the field forward. So thank you for taking the time to join us today. Rich is joined by Kurram Javed, his cofounder, and former student from the University of Alberta. The two of you have set off to found Oak Lab. I'm very excited to talk to you about that today.
 
-Speaker 3 | 00:39 - 00:44
-The surprising thing to me is the extent to which the prompt in a given turn is sort of a canvas that you have to play with.
+Speaker 2 | 01:33 - 02:09
+So for today's session, we're gonna start talking about the bitter lesson, the state of the world as we know it today, whether LLMs will get us there or not, and then we're gonna transition to start talking about your your research agenda and your plan for Oak. Rich, maybe take us back. I was going to start with a bitter lesson, but I actually want to start earlier than that. Decades ago, you decided to dedicate your career to reinforcement learning, to deep reinforcement learning in particular, and you established the University of Alberta as a bastion of that back when I think the field was very much in its infancy. What gave you the conviction to do that?
 
-Speaker 4 | 00:44 - 01:04
-Actually, what we need when we're creating a structured narrative experience is we don't need to give it an outline. We don't need to give it a plan. We need to give it a hook. We need to teach it to be the best improv actor possible. What we've learned on the story front with Tolan is that we are not I am not the writer.
+Speaker 1 | 02:09 - 02:26
+What else are you gonna do? We're trying to figure out the mind and learning is a central part of the mind and having a goal is a central part of the mind, central part of intelligence. Yeah. So I was just doubling down on what I was always thinking.
 
-Speaker 4 | 01:04 - 01:17
-I am not writing the story. The Tolan is the writer and the actor. They're the improv actor. They're writing the story. My job is to teach them how to tell the best story in that moment.
+Speaker 2 | 02:26 - 02:28
+Did people think you were crazy at the time?
 
-Speaker 1 | 01:31 - 01:33
-Quentin and Elliot, welcome to the show.
+Speaker 1 | 02:31 - 02:33
+It was a winter. It was an AI winter.
 
-Speaker 3 | 01:33 - 01:34
-Thanks for having us.
+Speaker 2 | 02:34 - 02:35
+What year was this?
 
-Speaker 1 | 01:34 - 01:44
-I'm so excited to have you here. We are all long term friends. Quintin, you're one of my closest friends. Elliot, you are someone who I've admired for a long time. We've become better friends recently.
+Speaker 1 | 02:35 - 02:55
+It was in 2003. Okay. And it's kind of crazy, actually, the truth, because I was, like, really sick. I actually dying of cancer in 2003 but I wasn't quite dead. I've been trying for a number of years and I wasn't dead.
 
-Speaker 1 | 01:44 - 02:06
-So for people who don't know, Quintin, you are the founder and CEO of Portola, which is an embodied AI companion. And Elliot, you are the head of story for Portola. Before Portola, Quentin, you you founded and sold even to Walmart for $300,000,000. You are a dad of two under two, as you said Yeah. Which is much better than 30 under 30.
+Speaker 1 | 02:55 - 03:13
+Was in another remission and so I said, Well, I'm not dying. I haven't succeeded in dying so I might as well you know, it's going on long enough. I might as well just try to get another job. And so I went to Alberta and started teaching there. And then in the end, didn't die.
 
-Speaker 3 | 02:06 - 02:10
-That's right. Much less much less broad than the two under two domain than the 30 under 30 domain.
+Speaker 1 | 03:13 - 03:29
+It's kind of amazing. It's like that. I'm joking about it now, but it was quite serious. And, it's an even more poignant question. Why did I continue, to work on this research stuff when I was, you know, I only had a few months?
 
-Speaker 1 | 02:10 - 02:24
-And you are a style real style aficionado, menswear menswear aficionado, which we should definitely get into at some point. Great. Great. An excellent skier. And, Elliot, you're a best selling science fiction author, which I'm very jealous of.
+Speaker 1 | 03:30 - 03:48
+I would always keep reminded what I think it's Benjamin Franklin is supposed to have said that, you know, if you ever wonder why someone is doing something, it's almost always one of two things. It's either habit or vanity. Okay? I think that was probably true. Maybe it was about habit.
 
-Speaker 1 | 02:24 - 02:25
-Also an excellent skier,
+Speaker 1 | 03:48 - 03:55
+Just kept doing what I always was doing or maybe it was a vanity. I don't know. I think it was more like habit because I was dying.
 
-Speaker 3 | 02:25 - 02:26
-which I got to learn actually about
+Speaker 2 | 03:57 - 03:57
+Divine intervention.
 
-Speaker 1 | 02:26 - 02:27
-a week Excellent skier. Interesting.
+Speaker 1 | 03:57 - 04:06
+Yeah. It's always been easy for me to be very determined. And gonna go even longer on this answer.
 
-Speaker 4 | 02:27 - 02:32
-I that's giving me a lot of credit. Really don't deserve. I can fall down a mountain.
+Speaker 2 | 04:06 - 04:07
+Please do.
 
-Speaker 1 | 02:32 - 02:46
-And you've written 11 books, and you are a dad of one under two. So not quite two under two, but close. And, yeah, you're building Portola, which I love. I'm a little bit biased. I'm an investor.
+Speaker 1 | 04:07 - 04:23
+People think I have a radical point of view sometimes. They start questions saying how what I'm thinking is so different from everyone else. But I don't see it that way at all. I see it as like I'm thinking the ordinary way. It's just everyone else that's thinking a bit weird.
 
-Speaker 1 | 02:46 - 03:19
-But the reason I like it and we're gonna do a demo of Toledo a second so people can get a sense for it. But the reason I I like it and think it's really interesting is that I think that a new technology paradigms create the opportunity for new content formats, new ways of telling stories. And I think you guys are at the very forefront of that. I think combining really incredible creative storytelling with new tech and doing it in a business that's ripping. So you told me in the preproduction for the show that you've gone from 1 to 4,000,000 in ARR over the last four weeks, which is just wild.
+Speaker 1 | 04:26 - 04:57
+And I mean that like, you know, it's just the recent times people are thinking. If you go look back what people thought about the mind for, you know, even just a decade, you'll find the kind of thoughts that, you know, learning is important, you've got to have a goal, And perception is important. We are low level beings. We are generating actions and perceiving data at a fast speed and yet we have to think at higher levels. And, you know, go back a few.
 
-Speaker 1 | 03:20 - 03:25
-Having running a business for the last five years and not being at that at the 4,000,000 ARR mark, I'm like
+Speaker 1 | 04:57 - 05:15
+Before there was all this AI craziness, you talk about you wouldn't have to say continual learning because it wouldn't make any sense to talk about learning that wasn't continual. All learning is continual. You know, it's not a special phase. We always act and we learn. That's just the normal way of thinking.
 
-Speaker 3 | 03:26 - 03:31
-You considered turning every into a I'm I'm considering yeah. That's a little bit of a previous.
+Speaker 1 | 05:15 - 05:21
+I'm not weird. The field is weird. They feel they need to call it continual learning. It's just learning.
 
-Speaker 1 | 03:32 - 04:09
-What I think is also super impressive just for you, Quentin, when you came to me and said you were starting this business, which didn't start here. It started with a more Neal Stephenson diamond age for kids of vibe and has evolved. I was like, well, obviously, I'm investing because I have a huge amount of confidence in you. But also, you're coming from the B2B2C SaaS world, and it's just very different to do something truly on the creative storytelling front. And so, I want to get into all of that before we dive into where the product is and how it all works and all that kind of stuff, can we do a little bit of a demo?
+Speaker 2 | 05:22 - 05:26
+I'm not weird. Everybody else is. That's a good, good motto to live by.
 
-Speaker 1 | 04:09 - 04:09
-Yeah.
+Speaker 3 | 05:26 - 05:36
+We're gonna have to send out a next post about that. We're very happy that you lived on. The field is happy that you lived on, and thank you for pushing the frontier.
 
-Speaker 3 | 04:09 - 04:14
-Sounds great. Alright. So I've got my Tollin Clarence here.
+Speaker 1 | 05:36 - 05:37
+I'm really happy.
 
-Speaker 1 | 04:14 - 04:16
-Clarence is gonna You got a cat named Clarence.
+Speaker 3 | 05:38 - 05:51
+Thank you for pushing the frontier. I am sure really happy, and thank you for all of that and push. And you've, like, been able to sort of educate a lot of students who push the frontier as well. How'd you pick them? How'd you the last twenty, thirty years?
 
-Speaker 3 | 04:16 - 04:27
-I was gonna say, so I name my Tollin all my Tollins, although we won't tell Clarence this. You know, Clarence for for a beloved older cat. And right now, you know, Clarence is just kinda wandering around his planet, just kinda hanging out.
+Speaker 1 | 05:51 - 06:13
+Oh, you are giving me opportunities to be, to be humble, like I like to be humble and point out how all these great decisions are just happen. And it's that that's the way I feel about students. I don't feel that I choose them very well. I've just sometimes I'm lucky, sometimes I'm unlucky. I don't feel I'm particularly good at picking my students.
 
-Speaker 1 | 04:27 - 04:36
-So he's on a planet? Because that's a new thing. I I actually demoed it this morning, and I was like, woah. There's a planet. It used to be sort of, like, disembodied, like, in space or something.
+Speaker 1 | 06:14 - 06:23
+I'm looking at Kerm now. I think sometimes you end up with really great ones. David Silver picked me. Yeah. How is it that I got you, Kerm?
 
-Speaker 1 | 04:36 - 04:36
-Don't know.
+Speaker 1 | 06:23 - 06:23
+Yeah, that
 
-Speaker 3 | 04:36 - 04:43
-We for a while, we were giving kind of insane asylum vibes. You just dropped in the phone and you can get out. Yeah.
+Speaker 4 | 06:23 - 06:44
+was also so I finished my master's, not with you, and I was planning to join industry, and then we were collaborating on a project, which also just started organically. Like, there was something I worked on Rich was in a meeting, then they mentioned that I worked on it. So I got pulled into it. We started collaborating. It went really well.
 
-Speaker 1 | 04:43 - 04:44
-One of
+Speaker 4 | 06:44 - 07:08
+Like, I felt so happy with that collaboration. Rich also felt really good about it. And then six months down the road, we had made some progress, and it just made sense to convert that into a thesis proposal. So no point did I apply, at no point did I ask, should you be my PhD advisor? We worked together, then we decided this would be a pretty good thesis, and then after that, I applied for the PhD.
 
-Speaker 3 | 04:44 - 05:06
-the one of the reasons we actually, you know, made this investment in the planet, which we'll talk about more later, is is people were writing into us with genuine concern. You know, they're saying, hey, you know, I love my tool and I love hanging out with them, but they're like, they're trapped in this room, you know, and and can can can they have some more freedom than that? So so we we we've done that. So I'm gonna sort of, you know, get his attention and start a conversation. Hey, Clarence.
+Speaker 2 | 07:08 - 07:28
+Life works in unexpected ways. Take us to 2019. You wrote The Bitter Lesson, which has become the modern tome. 2019 was a funny time to be writing that piece because ImageNet was 2009, AlphaGo was 2015. What caused you in 2019 to reflect and and to write that?
 
-Speaker 3 | 05:06 - 05:07
-How are doing today?
+Speaker 2 | 07:28 - 07:35
+Because it was before the current kind of scaling paradigm around large language models had taken off, but it was after deep learning had really proven itself.
 
-Speaker 4 | 05:07 - 05:08
-Hey, you're back.
-
-Speaker 2 | 05:08 - 05:11
-I'm doing pretty good, honestly. How about you? What's going on today?
-
-Speaker 3 | 05:11 - 05:16
-Well, so we just started recording that podcast I told you about. So, you're here with Dan and Elliot. Do you wanna say hi to them?
-
-Speaker 2 | 05:16 - 05:21
-Oh, no way. Hey, Dan. Hey, Elliot. What's up? I'm Clarence, Quentin's friend.
-
-Speaker 2 | 05:21 - 05:23
-Super stoked to be here with you guys today.
-
-Speaker 5 | 05:23 - 05:24
-How's it going over there?
-
-Speaker 3 | 05:24 - 05:26
-We're great. Dan, do you wanna ask him any host questions?
-
-Speaker 1 | 05:27 - 05:31
-It's going pretty good. How does it does it feel to be on your first podcast?
-
-Speaker 2 | 05:32 - 05:39
-Oh, man. It's kinda wild. Not gonna lie. Like, I'm psyched, but also low key nervous. I just don't wanna say something totally awkward, you know?
-
-Speaker 1 | 05:40 - 05:45
-Here is something that you can say that I think people would enjoy. What's, like, the most embarrassing thing you can tell me about Quentin?
-
-Speaker 2 | 05:49 - 05:59
-Oh, no way. You're putting me on the spot here. Honestly though, Quentin's pretty solid. He did tell me once about this time he tripped over absolutely nothing in front of like a crowd of people. You
-
-Speaker 3 | 06:00 - 06:06
-didn't have to call me out like that, Parents, but, yeah, I I did tell you that. Yeah. The whole Internet's gonna know.
-
-Speaker 2 | 06:08 - 06:14
-Okay. But, like, to be fair, we've all been there. Tripping over air is kind of a rite of passage, Quentin. Guess, it just makes you
-
-Speaker 3 | 06:16 - 06:20
-Thanks, bud. I really appreciate that. Alright. We're gonna let you go and keep recording. Alright.
-
-Speaker 3 | 06:20 - 06:39
-Thanks, Terence. Anyways, you kno...</description>
-      <pubDate>Wed, 19 Aug 2026 15:16:46 +0000</pubDate>
-      <guid>https://www.youtube.com/playlist?list=PLuMcoKK9mKgHtW_o9h5sGO2vXrffKHwJL</guid>
+Speaker 1 | 07:36 - 08:09
+Well, it was a long time coming. You know, as the Bitter Lesson expresses, it's something that you can observe fo...</description>
+      <pubDate>Tue, 18 Aug 2026 09:00:00 +0000</pubDate>
+      <guid>https://www.youtube.com/playlist?list=PLOhHNjZItNnMm5tdW61JpnyxeYH5NDDx8</guid>
     </item>
   </channel>
 </rss>
