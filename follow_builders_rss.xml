@@ -5,367 +5,609 @@
     <link>https://github.com/zarazhangrui/follow-builders</link>
     <description>聚合 AI 领域建设者的 X、播客和博客内容。</description>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 02 Sep 2026 01:48:40 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 10:06:54 +0000</lastBuildDate>
     <item>
-      <title>Concerning  https://t.co/EzMoXoilgR</title>
-      <link>https://x.com/thenanyu/status/2094659984428867901</link>
-      <description>作者：Nan Yu
-账号：@thenanyu
-简介：(soon) member of product staff @openai. prev head of product @linear. I am grader.
-
-Concerning
-
-https://t.co/EzMoXoilgR</description>
-      <pubDate>Tue, 01 Sep 2026 05:33:51 +0000</pubDate>
-      <guid isPermaLink="false">2094659984428867901</guid>
-    </item>
-    <item>
-      <title>Now that the base open weights AI models are getting far better, and post training infra is becoming more mature and commercialized, there are going to be all new plays for companies that have large amounts of data to have their own models.  Licensing data for external model training was previously ...</title>
-      <link>https://x.com/levie/status/2094650992818274514</link>
+      <title>AI for cyber is about to go vertical. The models increasingly becoming insanely good at finding and exploiting vulnerabilities. Frontier models are ahead, but we’re already seeing that open weights is not far behind.  Most enterprises are already inundated with cyber discoveries, so now that’s only ...</title>
+      <link>https://x.com/levie/status/2095024699441119612</link>
       <description>作者：Aaron Levie
 账号：@levie
 简介：ceo @box - your business lives in content. unleash it with AI
 
-Now that the base open weights AI models are getting far better, and post training infra is becoming more mature and commercialized, there are going to be all new plays for companies that have large amounts of data to have their own models.
+AI for cyber is about to go vertical. The models increasingly becoming insanely good at finding and exploiting vulnerabilities. Frontier models are ahead, but we’re already seeing that open weights is not far behind.
 
-Licensing data for external model training was previously the only play if you had a large corpus of information, but you can now reasonably go and train your own models as well without incurring the cost and complexity of competing with the labs on research.
+Most enterprises are already inundated with cyber discoveries, so now that’s only going to multiply. Triaging and automating the fixes with more AI -along with human oversight- is essentially the only way forward. 
 
-The general purpose frontier models will still have a leg up in broad areas due to the ability to handle the widest set of tasks, but you can absolutely see a future where we have far more models than today across every vertical and domain.</description>
-      <pubDate>Tue, 01 Sep 2026 04:58:08 +0000</pubDate>
-      <guid isPermaLink="false">2094650992818274514</guid>
+In case you were wondering what jobs AI was going to create, it’s definitely going to great time to be in security.</description>
+      <pubDate>Wed, 02 Sep 2026 05:43:06 +0000</pubDate>
+      <guid isPermaLink="false">2095024699441119612</guid>
     </item>
     <item>
-      <title>Btw @drhoeflinger I just watched your videos and wow they’re so good. Keep going and thanks for sharing your knowledge</title>
-      <link>https://x.com/petergyang/status/2094648002656993704</link>
-      <description>作者：Peter Yang
-账号：@petergyang
-简介：Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6
-
-Btw @drhoeflinger I just watched your videos and wow they’re so good. Keep going and thanks for sharing your knowledge</description>
-      <pubDate>Tue, 01 Sep 2026 04:46:15 +0000</pubDate>
-      <guid isPermaLink="false">2094648002656993704</guid>
-    </item>
-    <item>
-      <title>Good iOS interaction tips! https://t.co/Xs9awfK7WP</title>
-      <link>https://x.com/amasad/status/2094642492125950394</link>
-      <description>作者：Amjad Masad
-账号：@amasad
-简介：ceo @replit. civilizationist
-
-Good iOS interaction tips! https://t.co/Xs9awfK7WP</description>
-      <pubDate>Tue, 01 Sep 2026 04:24:21 +0000</pubDate>
-      <guid isPermaLink="false">2094642492125950394</guid>
-    </item>
-    <item>
-      <title>Trust is going to be the biggest barrier (and driver) of personal agent adoption.</title>
-      <link>https://x.com/petergyang/status/2094639655258091792</link>
-      <description>作者：Peter Yang
-账号：@petergyang
-简介：Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6
-
-Trust is going to be the biggest barrier (and driver) of personal agent adoption.</description>
-      <pubDate>Tue, 01 Sep 2026 04:13:04 +0000</pubDate>
-      <guid isPermaLink="false">2094639655258091792</guid>
-    </item>
-    <item>
-      <title>If you’re a PM, there is immense alpha in understanding the model frontier for your specific product and use cases.  You should be able to answer the following better than most frontier lab researchers and PMs for your use cases:  1/ What can models in each size category do well today?  2/ Where doe...</title>
-      <link>https://x.com/realmadhuguru/status/2094591503981281503</link>
-      <description>作者：Madhu Guru
-账号：@realmadhuguru
-简介：Sr Director, AI at Meta; Prev: Google - Led Gemini, Veo, Nano Banana.
-
-If you’re a PM, there is immense alpha in understanding the model frontier for your specific product and use cases.
-
-You should be able to answer the following better than most frontier lab researchers and PMs for your use cases:
-
-1/ What can models in each size category do well today?
-
-2/ Where does each model fail?
-
-3/ What workarounds can you use to overcome these failures ?
-
-4/ Given the trajectory, what will these models likely be able to do 2–3 months from now? How should your roadmap look given this?
-
-This is a core part of the PM job now.</description>
-      <pubDate>Tue, 01 Sep 2026 01:01:44 +0000</pubDate>
-      <guid isPermaLink="false">2094591503981281503</guid>
-    </item>
-    <item>
-      <title>If you still haven't tried Codex but have considered it in the past, what's the one thing holding you back?</title>
-      <link>https://x.com/thsottiaux/status/2094588317245509959</link>
-      <description>作者：Thibault Sottiaux
-账号：@thsottiaux
-简介：Codex &amp; ChatGPT @OpenAI
-
-If you still haven't tried Codex but have considered it in the past, what's the one thing holding you back?</description>
-      <pubDate>Tue, 01 Sep 2026 00:49:05 +0000</pubDate>
-      <guid isPermaLink="false">2094588317245509959</guid>
-    </item>
-    <item>
-      <title>had me in the first half https://t.co/GRl9kFEWCN</title>
-      <link>https://x.com/danshipper/status/2094584301966782794</link>
-      <description>作者：Dan Shipper
-账号：@danshipper
-简介：ceo @every | the only subscription you need to stay at the edge of AI
-
-had me in the first half https://t.co/GRl9kFEWCN</description>
-      <pubDate>Tue, 01 Sep 2026 00:33:07 +0000</pubDate>
-      <guid isPermaLink="false">2094584301966782794</guid>
-    </item>
-    <item>
-      <title>https://t.co/gl6YBgEgAn</title>
-      <link>https://x.com/nikunj/status/2094556598492631281</link>
+      <title>Terrifying.. also just the start of how leaks like this are going to get way worse 😭 https://t.co/gN8PiNCUXJ</title>
+      <link>https://x.com/nikunj/status/2095002897859912044</link>
       <description>作者：Nikunj Kothari
 账号：@nikunj
 简介：partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian &amp; others. love @shimoleejhaveri + 👦👧
 
-https://t.co/gl6YBgEgAn</description>
-      <pubDate>Mon, 31 Aug 2026 22:43:02 +0000</pubDate>
-      <guid isPermaLink="false">2094556598492631281</guid>
+Terrifying.. also just the start of how leaks like this are going to get way worse 😭 https://t.co/gN8PiNCUXJ</description>
+      <pubDate>Wed, 02 Sep 2026 04:16:28 +0000</pubDate>
+      <guid isPermaLink="false">2095002897859912044</guid>
     </item>
     <item>
-      <title>As AI security events pick up, it’s going to be critical that we have the most sophisticated AI agents for being able to detect and prevent security issues. Frontier models are clearly still ahead in cyber, but open models are catching up quickly. Wild times. https://t.co/F0eEZLe6tt</title>
-      <link>https://x.com/levie/status/2094545525102235844</link>
-      <description>作者：Aaron Levie
-账号：@levie
-简介：ceo @box - your business lives in content. unleash it with AI
+      <title>I wish every city was in Tokyo https://t.co/j1ppDGCx7p</title>
+      <link>https://x.com/zarazhangrui/status/2094999513627025757</link>
+      <description>作者：Zara Zhang
+账号：@zarazhangrui
+简介：Builder. Make something people want, then make people want it. Harvard’17. GitHub: https://t.co/KCuEaje1wd 
+YouTube: https://t.co/8xzbGWsHgY
 
-As AI security events pick up, it’s going to be critical that we have the most sophisticated AI agents for being able to detect and prevent security issues. Frontier models are clearly still ahead in cyber, but open models are catching up quickly. Wild times. https://t.co/F0eEZLe6tt</description>
-      <pubDate>Mon, 31 Aug 2026 21:59:02 +0000</pubDate>
-      <guid isPermaLink="false">2094545525102235844</guid>
+I wish every city was in Tokyo https://t.co/j1ppDGCx7p</description>
+      <pubDate>Wed, 02 Sep 2026 04:03:01 +0000</pubDate>
+      <guid isPermaLink="false">2094999513627025757</guid>
     </item>
     <item>
-      <title>Your next design system is… Markdown.  We wrote about how 𝙳𝙴𝚂𝙸𝙶𝙽.𝚖𝚍 is helping solve the hardest problem in AI today: slop.  And how you can truly, finally scale design taste within a large organization. https://t.co/1boTl2fWyM https://t.co/yrHwa9fYUH</title>
-      <link>https://x.com/rauchg/status/2094541309579235680</link>
-      <description>作者：Guillermo Rauch
-账号：@rauchg
-简介：@vercel CEO
-
-Your next design system is… Markdown.
-
-We wrote about how 𝙳𝙴𝚂𝙸𝙶𝙽.𝚖𝚍 is helping solve the hardest problem in AI today: slop.
-
-And how you can truly, finally scale design taste within a large organization. https://t.co/1boTl2fWyM https://t.co/yrHwa9fYUH</description>
-      <pubDate>Mon, 31 Aug 2026 21:42:17 +0000</pubDate>
-      <guid isPermaLink="false">2094541309579235680</guid>
-    </item>
-    <item>
-      <title>Great advice https://t.co/0jwmg8sFEC</title>
-      <link>https://x.com/petergyang/status/2094529713524117596</link>
+      <title>fwiw I dislike having alot of random skills installed.   I'm at a point where I only have about a dozen or so (mostly my own) and I regularly delete skills that I don't use anymore.  Also I try to keep all my skills as short as possible.  I encourage you to do the same.</title>
+      <link>https://x.com/petergyang/status/2094999358525821099</link>
       <description>作者：Peter Yang
 账号：@petergyang
 简介：Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6
 
-Great advice https://t.co/0jwmg8sFEC</description>
-      <pubDate>Mon, 31 Aug 2026 20:56:12 +0000</pubDate>
-      <guid isPermaLink="false">2094529713524117596</guid>
+fwiw I dislike having alot of random skills installed. 
+
+I'm at a point where I only have about a dozen or so (mostly my own) and I regularly delete skills that I don't use anymore.
+
+Also I try to keep all my skills as short as possible.
+
+I encourage you to do the same.</description>
+      <pubDate>Wed, 02 Sep 2026 04:02:24 +0000</pubDate>
+      <guid isPermaLink="false">2094999358525821099</guid>
     </item>
     <item>
-      <title>Coding tokens are basically infrastructure. Yet, the way companies have approached them amounts to:  &quot;Hey all, here's an AWS key. It can spin up anything from a 𝚝𝟹.𝚗𝚊𝚗𝚘 (＄𝟹.𝟾𝟶/𝚖𝚘) to an 𝚙𝟻.𝟺𝟾𝚡𝚕𝚊𝚛𝚐𝚎 (＄𝟺𝟶𝚔/𝚖𝚘). Go wild&quot;  And obviously the reason companies don't do this for their core infra is that you...</title>
-      <link>https://x.com/rauchg/status/2094523399280435630</link>
+      <title>While I'm cleaning up my AI skills I have a question for the experts here. Sometimes I end up in this pattern:  1. I run my skill and it doesn't get it perfect in one shot 2. I do manual iteration with AI to get it right 3. I then ask AI something like: &quot;How would you update the skill so we can one-...</title>
+      <link>https://x.com/petergyang/status/2094995775952740795</link>
+      <description>作者：Peter Yang
+账号：@petergyang
+简介：Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6
+
+While I'm cleaning up my AI skills I have a question for the experts here. Sometimes I end up in this pattern:
+
+1. I run my skill and it doesn't get it perfect in one shot
+2. I do manual iteration with AI to get it right
+3. I then ask AI something like: &quot;How would you update the skill so we can one-shot this?&quot; before reviewing and approving its edits.
+
+The problem is AI often overfits on this one thread and over time the skill drifts. Any good solutions here?</description>
+      <pubDate>Wed, 02 Sep 2026 03:48:10 +0000</pubDate>
+      <guid isPermaLink="false">2094995775952740795</guid>
+    </item>
+    <item>
+      <title>If you're trying out Fable 5.1 I highly recommend running:  /claude-api prompt-audit  on your skills. It finds a bunch of redundancies and rules to remove for the latest models.  Running it for all my skills now.</title>
+      <link>https://x.com/petergyang/status/2094987791566622971</link>
+      <description>作者：Peter Yang
+账号：@petergyang
+简介：Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6
+
+If you're trying out Fable 5.1 I highly recommend running:
+
+/claude-api prompt-audit
+
+on your skills. It finds a bunch of redundancies and rules to remove for the latest models.
+
+Running it for all my skills now.</description>
+      <pubDate>Wed, 02 Sep 2026 03:16:27 +0000</pubDate>
+      <guid isPermaLink="false">2094987791566622971</guid>
+    </item>
+    <item>
+      <title>Great example of the immense opportunity enterprises have if they build their own post training systems, great evals and a data flywheel.  I’ve worked with the Shopify ML team and they are world class.   More enterprises should be doing this. https://t.co/IzlWkndA6u</title>
+      <link>https://x.com/realmadhuguru/status/2094973690576576675</link>
+      <description>作者：Madhu Guru
+账号：@realmadhuguru
+简介：Sr Director, AI at Meta; Prev: Google - Led Gemini, Veo, Nano Banana.
+
+Great example of the immense opportunity enterprises have if they build their own post training systems, great evals and a data flywheel.
+
+I’ve worked with the Shopify ML team and they are world class. 
+
+More enterprises should be doing this. https://t.co/IzlWkndA6u</description>
+      <pubDate>Wed, 02 Sep 2026 02:20:25 +0000</pubDate>
+      <guid isPermaLink="false">2094973690576576675</guid>
+    </item>
+    <item>
+      <title>it’s a very good model, I spent a lot of time diving into it- longer write up coming   but try it on lower effort for tasks that need less verification or have fewer edge cases, switching effort no longer breaks prompt cache as well https://t.co/MCGYQTnR0X</title>
+      <link>https://x.com/trq212/status/2094945951865520458</link>
+      <description>作者：Thariq
+账号：@trq212
+简介：Claude Code @anthropicai. prev YC W20, @spc, @medialab
+
+it’s a very good model, I spent a lot of time diving into it- longer write up coming 
+
+but try it on lower effort for tasks that need less verification or have fewer edge cases, switching effort no longer breaks prompt cache as well https://t.co/MCGYQTnR0X</description>
+      <pubDate>Wed, 02 Sep 2026 00:30:11 +0000</pubDate>
+      <guid isPermaLink="false">2094945951865520458</guid>
+    </item>
+    <item>
+      <title>Since when did this type of website design become in vogue? https://t.co/Cwnz0MhMhz</title>
+      <link>https://x.com/zarazhangrui/status/2094943457769099520</link>
+      <description>作者：Zara Zhang
+账号：@zarazhangrui
+简介：Builder. Make something people want, then make people want it. Harvard’17. GitHub: https://t.co/KCuEaje1wd 
+YouTube: https://t.co/8xzbGWsHgY
+
+Since when did this type of website design become in vogue? https://t.co/Cwnz0MhMhz</description>
+      <pubDate>Wed, 02 Sep 2026 00:20:17 +0000</pubDate>
+      <guid isPermaLink="false">2094943457769099520</guid>
+    </item>
+    <item>
+      <title>remember when we used to have to type out low level code like this? https://t.co/h30xZEfRle</title>
+      <link>https://x.com/danshipper/status/2094942644497457527</link>
+      <description>作者：Dan Shipper
+账号：@danshipper
+简介：ceo @every | the only subscription you need to stay at the edge of AI
+
+remember when we used to have to type out low level code like this? https://t.co/h30xZEfRle</description>
+      <pubDate>Wed, 02 Sep 2026 00:17:03 +0000</pubDate>
+      <guid isPermaLink="false">2094942644497457527</guid>
+    </item>
+    <item>
+      <title>Bullish</title>
+      <link>https://x.com/thsottiaux/status/2094939684015317363</link>
+      <description>作者：Thibault Sottiaux
+账号：@thsottiaux
+简介：Codex &amp; ChatGPT @OpenAI
+
+Bullish</description>
+      <pubDate>Wed, 02 Sep 2026 00:05:17 +0000</pubDate>
+      <guid isPermaLink="false">2094939684015317363</guid>
+    </item>
+    <item>
+      <title>Over the summer, we have been sprinting on safety priorities; it's more important than ever for capabilities and safeguards to advance together. We have more to do but have made a lot of progress. We are also going to be launching our next model soon.  There is an obvious tension here: on one hand, ...</title>
+      <link>https://x.com/sama/status/2094934592062959832</link>
+      <description>作者：Sam Altman
+账号：@sama
+简介：The mission of OpenAI to ensure that AGI benefits all of humanity
+
+Over the summer, we have been sprinting on safety priorities; it's more important than ever for capabilities and safeguards to advance together. We have more to do but have made a lot of progress. We are also going to be launching our next model soon.
+
+There is an obvious tension here: on one hand, Astra is very good and we are excited to see what people will build with it. We are proud of our work.
+
+On the other hand, we are clearly in a phase of development where we believe caution is warranted, and we are pacing our progress to ensure that we can meet the safety standards required by new capability levels.
+
+Astra has been done training for a while now and is a significant step forward in both capabilities and alignment. For the models after that, we have been slowing things as needed to ensure that we can do sufficient work on safety and alignment.
+
+AI is getting extremely capable; no one fully understands the consequences of this. Managing the transition to a world with abundant and powerful AI to optimize for safety and benefits to people should be one of the highest priorities in the world. It is our highest priority at OpenAI.
+
+We have been living with the tension between being excited and anxious about progress for some time, and it is still discordant for us. We know it is much more discordant for other people. And yet, we believe strongly that the world needs to understand where AI is going and how models perform in the real world. More importantly, we believe the world will need aligned AI to manage the future phases of this transition.
+
+An iterative loop where society and this technology evolve together is what will lead to the highest chance of getting this right.
+
+So we hope you enjoy our new model, and we hope the world continues to take what’s happening in AI extremely seriously.</description>
+      <pubDate>Tue, 01 Sep 2026 23:45:03 +0000</pubDate>
+      <guid isPermaLink="false">2094934592062959832</guid>
+    </item>
+    <item>
+      <title>With Fable 5.1, our team has taken on more ambitious projects that would have previously taken months. What big bets do you want to take?   Ask Fable 5.1 in Claude Code, Claude Cowork, Claude Tag to take on the task and let us know what you think! https://t.co/LCloUBWKeO</title>
+      <link>https://x.com/_catwu/status/2094933602228416603</link>
+      <description>作者：Cat Wu
+账号：@_catwu
+简介：claude code + cowork @anthropicai, prev: @dagster, @scale_ai
+
+With Fable 5.1, our team has taken on more ambitious projects that would have previously taken months. What big bets do you want to take? 
+
+Ask Fable 5.1 in Claude Code, Claude Cowork, Claude Tag to take on the task and let us know what you think! https://t.co/LCloUBWKeO</description>
+      <pubDate>Tue, 01 Sep 2026 23:41:07 +0000</pubDate>
+      <guid isPermaLink="false">2094933602228416603</guid>
+    </item>
+    <item>
+      <title>A new Claude release where one of the headline features is less annoying writing   https://t.co/xHS4TdxaX4</title>
+      <link>https://x.com/thenanyu/status/2094928209095872530</link>
+      <description>作者：Nan Yu
+账号：@thenanyu
+简介：(soon) member of product staff @openai. prev head of product @linear. I am grader.
+
+A new Claude release where one of the headline features is less annoying writing 
+
+https://t.co/xHS4TdxaX4</description>
+      <pubDate>Tue, 01 Sep 2026 23:19:41 +0000</pubDate>
+      <guid isPermaLink="false">2094928209095872530</guid>
+    </item>
+    <item>
+      <title>Like this kind of thing may seem small but makes a big difference  https://t.co/JrAjOa8pMS</title>
+      <link>https://x.com/thenanyu/status/2094928207179067682</link>
+      <description>作者：Nan Yu
+账号：@thenanyu
+简介：(soon) member of product staff @openai. prev head of product @linear. I am grader.
+
+Like this kind of thing may seem small but makes a big difference
+
+https://t.co/JrAjOa8pMS</description>
+      <pubDate>Tue, 01 Sep 2026 23:19:41 +0000</pubDate>
+      <guid isPermaLink="false">2094928207179067682</guid>
+    </item>
+    <item>
+      <title>There’s a lot of alpha in making your agents *less annoying*. If you want users to get to value they need to stop rage-quitting.   I think an untapped opportunity for UX designers is to become conversation/rhetoric designers.</title>
+      <link>https://x.com/thenanyu/status/2094928205753040999</link>
+      <description>作者：Nan Yu
+账号：@thenanyu
+简介：(soon) member of product staff @openai. prev head of product @linear. I am grader.
+
+There’s a lot of alpha in making your agents *less annoying*. If you want users to get to value they need to stop rage-quitting. 
+
+I think an untapped opportunity for UX designers is to become conversation/rhetoric designers.</description>
+      <pubDate>Tue, 01 Sep 2026 23:19:40 +0000</pubDate>
+      <guid isPermaLink="false">2094928205753040999</guid>
+    </item>
+    <item>
+      <title>People are still sleeping on WebMCP..   You can now give agents tool calls to interact with your website natively. Including full UI/UX support and interactive elements to build their own views.  Sharing a demo below that I submitted for the WebMCP challenge - see how agents can interact with the El...</title>
+      <link>https://x.com/nikunj/status/2094922789128196314</link>
+      <description>作者：Nikunj Kothari
+账号：@nikunj
+简介：partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian &amp; others. love @shimoleejhaveri + 👦👧
+
+People are still sleeping on WebMCP.. 
+
+You can now give agents tool calls to interact with your website natively. Including full UI/UX support and interactive elements to build their own views.
+
+Sharing a demo below that I submitted for the WebMCP challenge - see how agents can interact with the El Nino situation tracker. It creates it's own views, preserves human edits, and creates a shareable link to share with other agents (or humans). 
+
+Video and code by Codex @ChatGPT &amp; @Railway
+
+Live at elneenyo dot com to try out today!</description>
+      <pubDate>Tue, 01 Sep 2026 22:58:09 +0000</pubDate>
+      <guid isPermaLink="false">2094922789128196314</guid>
+    </item>
+    <item>
+      <title>Excited to partner with and support @tannerlinsley and team, champion of React, open source, and the web  What this means for our customers: whether you choose @nextjs or @tan_stack, we are committed to the highest quality service and support. https://t.co/9lnHQIqHxZ</title>
+      <link>https://x.com/rauchg/status/2094901483414372716</link>
       <description>作者：Guillermo Rauch
 账号：@rauchg
 简介：@vercel CEO
 
-Coding tokens are basically infrastructure. Yet, the way companies have approached them amounts to:
+Excited to partner with and support @tannerlinsley and team, champion of React, open source, and the web
 
-&quot;Hey all, here's an AWS key. It can spin up anything from a 𝚝𝟹.𝚗𝚊𝚗𝚘 (＄𝟹.𝟾𝟶/𝚖𝚘) to an 𝚙𝟻.𝟺𝟾𝚡𝚕𝚊𝚛𝚐𝚎 (＄𝟺𝟶𝚔/𝚖𝚘). Go wild&quot;
-
-And obviously the reason companies don't do this for their core infra is that you need to govern, optimize, and observe usage and costs.
-
-The intern might decide to host a static website in that 192 vCPU machine, and you won't be very happy about the bill.
-
-AI Gateway fixes this for all your tokens, with per-key, and now per-user budgets.</description>
-      <pubDate>Mon, 31 Aug 2026 20:31:07 +0000</pubDate>
-      <guid isPermaLink="false">2094523399280435630</guid>
+What this means for our customers: whether you choose @nextjs or @tan_stack, we are committed to the highest quality service and support. https://t.co/9lnHQIqHxZ</description>
+      <pubDate>Tue, 01 Sep 2026 21:33:29 +0000</pubDate>
+      <guid isPermaLink="false">2094901483414372716</guid>
     </item>
     <item>
-      <title>Circleback is so much better than Granola, it's not even close  Granola still doesn't even support multiple person disambiguation https://t.co/bus8bFOfec</title>
-      <link>https://x.com/garrytan/status/2094465505142960443</link>
-      <description>作者：Garry Tan
-账号：@garrytan
-简介：President &amp; CEO @ycombinator —Founder @garryslist—Creator of GStack &amp; GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop
+      <title>One non-model thing I'm very excited we announced today with Fable 5.1 is Enterprise Frontier Safeguards (EFS).  Even if you're not a CEO/CISO, this blog post is a look into how big companies are thinking about AI adoption which is important to understand if you're interested in how AI might diffuse...</title>
+      <link>https://x.com/alexalbert__/status/2094889286990446769</link>
+      <description>作者：Alex Albert
+账号：@alexalbert__
+简介：Research @AnthropicAI. Opinions are my own!
 
-Circleback is so much better than Granola, it's not even close
+One non-model thing I'm very excited we announced today with Fable 5.1 is Enterprise Frontier Safeguards (EFS).
 
-Granola still doesn't even support multiple person disambiguation https://t.co/bus8bFOfec</description>
-      <pubDate>Mon, 31 Aug 2026 16:41:04 +0000</pubDate>
-      <guid isPermaLink="false">2094465505142960443</guid>
+Even if you're not a CEO/CISO, this blog post is a look into how big companies are thinking about AI adoption which is important to understand if you're interested in how AI might diffuse across industry.
+
+Companies are giving agents more and more access to internal systems. With traditional zero data retention, there's been no way to spot patterns in what agents might be doing across sessions on these systems.
+
+EFS is ZDR++. It's ZDR built for a world with agents. A company's data stays in its own cloud, and an automated monitoring layer we built flags risky patterns to its team.
+
+I think of this as an observability and risk mitigation layer for agents. My guess is it will become a standard requirement from enterprises for running increasingly powerful AI on their systems.</description>
+      <pubDate>Tue, 01 Sep 2026 20:45:01 +0000</pubDate>
+      <guid isPermaLink="false">2094889286990446769</guid>
     </item>
     <item>
-      <title>I just made some new GBrain evals that help prove that my retrieval-for-AI-agent open source layer is SOTA for reading memory back without LLM-in-loop  And I've also added evals for memory-save from agent transcript, which is the best way to enrich your brain  Receipts at https://t.co/iRLJR9Vxto</title>
-      <link>https://x.com/garrytan/status/2094462971598754010</link>
-      <description>作者：Garry Tan
-账号：@garrytan
-简介：President &amp; CEO @ycombinator —Founder @garryslist—Creator of GStack &amp; GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop
+      <title>Fable 5.1 now on @vercel AI Gateway Try it with https://t.co/OL0LzGtvAw. Every model at your fingertips 🥹</title>
+      <link>https://x.com/rauchg/status/2094867652573528074</link>
+      <description>作者：Guillermo Rauch
+账号：@rauchg
+简介：@vercel CEO
 
-I just made some new GBrain evals that help prove that my retrieval-for-AI-agent open source layer is SOTA for reading memory back without LLM-in-loop
-
-And I've also added evals for memory-save from agent transcript, which is the best way to enrich your brain
-
-Receipts at https://t.co/iRLJR9Vxto</description>
-      <pubDate>Mon, 31 Aug 2026 16:31:00 +0000</pubDate>
-      <guid isPermaLink="false">2094462971598754010</guid>
+Fable 5.1 now on @vercel AI Gateway
+Try it with https://t.co/OL0LzGtvAw. Every model at your fingertips 🥹</description>
+      <pubDate>Tue, 01 Sep 2026 19:19:03 +0000</pubDate>
+      <guid isPermaLink="false">2094867652573528074</guid>
     </item>
     <item>
-      <title>🤞🏻 https://t.co/pG71r0YZxw</title>
-      <link>https://x.com/thenanyu/status/2094442960209539371</link>
-      <description>作者：Nan Yu
-账号：@thenanyu
-简介：(soon) member of product staff @openai. prev head of product @linear. I am grader.
+      <title>Last but not least, Fable 5.1 writes better and has better tone. We heard your feedback, and are actively working on reducing Claude-speak. Solid progress with 5.1, more to come.</title>
+      <link>https://x.com/bcherny/status/2094864064648536068</link>
+      <description>作者：Boris Cherny
+账号：@bcherny
+简介：Claude Code @anthropicai
 
-🤞🏻 https://t.co/pG71r0YZxw</description>
-      <pubDate>Mon, 31 Aug 2026 15:11:29 +0000</pubDate>
-      <guid isPermaLink="false">2094442960209539371</guid>
+Last but not least, Fable 5.1 writes better and has better tone. We heard your feedback, and are actively working on reducing Claude-speak. Solid progress with 5.1, more to come.</description>
+      <pubDate>Tue, 01 Sep 2026 19:04:48 +0000</pubDate>
+      <guid isPermaLink="false">2094864064648536068</guid>
     </item>
     <item>
-      <title>Some personal news—I’m joining OpenAI to work on Codex and ChatGPT.   I’m grateful to the Linear team for an incredible 4 years and proud of what we've built together. I look forward to bringing everything I've learned there about the craft of software into this next chapter.</title>
-      <link>https://x.com/thenanyu/status/2094427243565269107</link>
-      <description>作者：Nan Yu
-账号：@thenanyu
-简介：(soon) member of product staff @openai. prev head of product @linear. I am grader.
+      <title>We have been working on how often safeguards intervene. Our latest biology safeguards intervene on benign requests 85% less often than the ones we shipped with Fable 5, and Claude Code users should see around 60% fewer cyber interventions per session. Expect more improvements soon.</title>
+      <link>https://x.com/bcherny/status/2094864063478276288</link>
+      <description>作者：Boris Cherny
+账号：@bcherny
+简介：Claude Code @anthropicai
 
-Some personal news—I’m joining OpenAI to work on Codex and ChatGPT. 
-
-I’m grateful to the Linear team for an incredible 4 years and proud of what we've built together. I look forward to bringing everything I've learned there about the craft of software into this next chapter.</description>
-      <pubDate>Mon, 31 Aug 2026 14:09:02 +0000</pubDate>
-      <guid isPermaLink="false">2094427243565269107</guid>
+We have been working on how often safeguards intervene. Our latest biology safeguards intervene on benign requests 85% less often than the ones we shipped with Fable 5, and Claude Code users should see around 60% fewer cyber interventions per session. Expect more improvements soon.</description>
+      <pubDate>Tue, 01 Sep 2026 19:04:48 +0000</pubDate>
+      <guid isPermaLink="false">2094864063478276288</guid>
     </item>
     <item>
-      <title>Anthropomorphization of AI is good when it serves to help us use (understand, predict, etc) AI better.   It’s bad when it serves to sow panic, fear, and unrealistic / unwarranted comparisons to human beings.   Most opponents of anthropomorphism are rightly reacting to its misuse to sow panic or alte...</title>
-      <link>https://x.com/danshipper/status/2094406185109647580</link>
+      <title>We have also reduced prices for Enterprise, API, and SDK customers. Cache reads on Fable 5.1 are now $0.25 per million tokens (previously: $1). Up to 38% cheaper for a typical Claude Code session.</title>
+      <link>https://x.com/bcherny/status/2094864062186426373</link>
+      <description>作者：Boris Cherny
+账号：@bcherny
+简介：Claude Code @anthropicai
+
+We have also reduced prices for Enterprise, API, and SDK customers. Cache reads on Fable 5.1 are now $0.25 per million tokens (previously: $1). Up to 38% cheaper for a typical Claude Code session.</description>
+      <pubDate>Tue, 01 Sep 2026 19:04:47 +0000</pubDate>
+      <guid isPermaLink="false">2094864062186426373</guid>
+    </item>
+    <item>
+      <title>using blender headless btw</title>
+      <link>https://x.com/alexalbert__/status/2094860189316899083</link>
+      <description>作者：Alex Albert
+账号：@alexalbert__
+简介：Research @AnthropicAI. Opinions are my own!
+
+using blender headless btw</description>
+      <pubDate>Tue, 01 Sep 2026 18:49:24 +0000</pubDate>
+      <guid isPermaLink="false">2094860189316899083</guid>
+    </item>
+    <item>
+      <title>Fable 5.1 is a beast at many things but one thing in particular I have been having a ton of fun with is generating videos through code.   For this one I gave it a picture of a property lot. It designed a house for the lot, rendered it, and produced a cinematic walkthrough. https://t.co/eBIaCmaav8</title>
+      <link>https://x.com/alexalbert__/status/2094860187743986169</link>
+      <description>作者：Alex Albert
+账号：@alexalbert__
+简介：Research @AnthropicAI. Opinions are my own!
+
+Fable 5.1 is a beast at many things but one thing in particular I have been having a ton of fun with is generating videos through code. 
+
+For this one I gave it a picture of a property lot. It designed a house for the lot, rendered it, and produced a cinematic walkthrough. https://t.co/eBIaCmaav8</description>
+      <pubDate>Tue, 01 Sep 2026 18:49:24 +0000</pubDate>
+      <guid isPermaLink="false">2094860187743986169</guid>
+    </item>
+    <item>
+      <title>READ THE FABLE 5.1 VIBE CHECK ON @every  https://t.co/VxEDSTgqVL https://t.co/6UqJw8Z70N</title>
+      <link>https://x.com/danshipper/status/2094855479167996036</link>
       <description>作者：Dan Shipper
 账号：@danshipper
 简介：ceo @every | the only subscription you need to stay at the edge of AI
 
-Anthropomorphization of AI is good when it serves to help us use (understand, predict, etc) AI better. 
-
-It’s bad when it serves to sow panic, fear, and unrealistic / unwarranted comparisons to human beings. 
-
-Most opponents of anthropomorphism are rightly reacting to its misuse to sow panic or alter the moral status of agents by claiming consciousness etc. 
-
-It’s possible to use anthropomorphism without doing that though</description>
-      <pubDate>Mon, 31 Aug 2026 12:45:21 +0000</pubDate>
-      <guid isPermaLink="false">2094406185109647580</guid>
+READ THE FABLE 5.1 VIBE CHECK ON @every 
+https://t.co/VxEDSTgqVL https://t.co/6UqJw8Z70N</description>
+      <pubDate>Tue, 01 Sep 2026 18:30:41 +0000</pubDate>
+      <guid isPermaLink="false">2094855479167996036</guid>
     </item>
     <item>
-      <title>Pragmatists stay winning in the age of AI</title>
-      <link>https://x.com/danshipper/status/2094397684186481057</link>
+      <title>READ THE FULL VIBE CHECK: https://t.co/z7axZ7Sr1j</title>
+      <link>https://x.com/danshipper/status/2094854526574424203</link>
       <description>作者：Dan Shipper
 账号：@danshipper
 简介：ceo @every | the only subscription you need to stay at the edge of AI
 
-Pragmatists stay winning in the age of AI</description>
-      <pubDate>Mon, 31 Aug 2026 12:11:34 +0000</pubDate>
-      <guid isPermaLink="false">2094397684186481057</guid>
+READ THE FULL VIBE CHECK: https://t.co/z7axZ7Sr1j</description>
+      <pubDate>Tue, 01 Sep 2026 18:26:54 +0000</pubDate>
+      <guid isPermaLink="false">2094854526574424203</guid>
     </item>
     <item>
-      <title>Rich Sutton and Khurram Javed: Why AI Models Stop Learning, and How to Start It Again</title>
+      <title>At Box, we’ve been testing Fable 5.1 in early release against our complex enterprise work eval. Fable 5.1 delivers a huge 7 percentage point jump over Fable 5 for unstructured data tasks in the enterprise.  On this updated test, we use the Box Agent with Fable 5.1 to work through a wide range of rea...</title>
+      <link>https://x.com/levie/status/2094851976769257770</link>
+      <description>作者：Aaron Levie
+账号：@levie
+简介：ceo @box - your business lives in content. unleash it with AI
+
+At Box, we’ve been testing Fable 5.1 in early release against our complex enterprise work eval. Fable 5.1 delivers a huge 7 percentage point jump over Fable 5 for unstructured data tasks in the enterprise.
+
+On this updated test, we use the Box Agent with Fable 5.1 to work through a wide range of real world enterprise scenarios with documents in financial services, life sciences, the public sector, and more industries. All of these tasks require a high degree of analytical, math, logic, and domain knowledge to perform successfully.
+
+Here are a few examples of wins:
+
+* Financial Services (+17% improvement): on a tax-adjusted profit projection, Fable 5.1 correctly applies capital allowances before computing tax liability; this is a subtle ordering that Fable 5 misses, producing wrong figures all the way through retained earnings.
+
+* Technology (+37% improvement): on a cost-optimization analysis where a key metric's normalization is ambiguous, Fable 5.1 recognized the ambiguity, computed both forms, and presented the correct one, where Fable 5 committed to the wrong normalization.
+
+* Public Sector (+16% improvement): on an educational data analysis task, Fable 5.1 works through the full weighted-mean methodology and produces correct rankings, while Fable 5 miscategorizes one item and cascades errors through the whole sheet.
+
+These are just a few of the wins we saw. Overall major jump in capability for long running agentic workflows in the enterprise. 
+
+Fable 5.1 will be available shortly in the Box AI Studio for building custom AI agents with enterprise content.</description>
+      <pubDate>Tue, 01 Sep 2026 18:16:46 +0000</pubDate>
+      <guid isPermaLink="false">2094851976769257770</guid>
+    </item>
+    <item>
+      <title>Claude Fable 5.1 is available everywhere today. Claude Mythos 5.1, our model for cyberdefenders and life scientists, is available through trusted access programs.  Read more: https://t.co/nfkH5hyDyO</title>
+      <link>https://x.com/claudeai/status/2094848592812917122</link>
+      <description>作者：Claude
+账号：@claudeai
+简介：Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Talk to Claude on https://t.co/ZhTwG8d1e5 or download the app.
+
+Claude Fable 5.1 is available everywhere today. Claude Mythos 5.1, our model for cyberdefenders and life scientists, is available through trusted access programs.
+
+Read more: https://t.co/nfkH5hyDyO</description>
+      <pubDate>Tue, 01 Sep 2026 18:03:19 +0000</pubDate>
+      <guid isPermaLink="false">2094848592812917122</guid>
+    </item>
+    <item>
+      <title>Finally, we’ve improved our safeguards. Our cybersecurity safeguards now flag benign requests about 60% less often.  On basic biology and medical questions, we’ve recently reduced the fallback rate by around 85%.</title>
+      <link>https://x.com/claudeai/status/2094848591617483020</link>
+      <description>作者：Claude
+账号：@claudeai
+简介：Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Talk to Claude on https://t.co/ZhTwG8d1e5 or download the app.
+
+Finally, we’ve improved our safeguards. Our cybersecurity safeguards now flag benign requests about 60% less often.
+
+On basic biology and medical questions, we’ve recently reduced the fallback rate by around 85%.</description>
+      <pubDate>Tue, 01 Sep 2026 18:03:19 +0000</pubDate>
+      <guid isPermaLink="false">2094848591617483020</guid>
+    </item>
+    <item>
+      <title>We’re also introducing Enterprise Frontier Safeguards (EFS), which give enterprise customers complete privacy (the same as zero data retention), while still being state-of-the-art at preventing adversarial use. EFS rolls out in phases, starting this fall. https://t.co/EMbLgL5KVo</title>
+      <link>https://x.com/claudeai/status/2094848590245965931</link>
+      <description>作者：Claude
+账号：@claudeai
+简介：Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Talk to Claude on https://t.co/ZhTwG8d1e5 or download the app.
+
+We’re also introducing Enterprise Frontier Safeguards (EFS), which give enterprise customers complete privacy (the same as zero data retention), while still being state-of-the-art at preventing adversarial use. EFS rolls out in phases, starting this fall. https://t.co/EMbLgL5KVo</description>
+      <pubDate>Tue, 01 Sep 2026 18:03:18 +0000</pubDate>
+      <guid isPermaLink="false">2094848590245965931</guid>
+    </item>
+    <item>
+      <title>Fluid is the thing that has enabled Vercel's: ◾ Industry-leading Build performance ◾ Sandbox reliability &amp; massive concurrency ◾ 30min Function durations (&amp; soon longer)  This unification makes the best DX possible. Shared 𝙳𝚘𝚌𝚔𝚎𝚛𝚏𝚒𝚕𝚎, security perimeters, networking, file systems, across all compute...</title>
+      <link>https://x.com/rauchg/status/2094831747037085978</link>
+      <description>作者：Guillermo Rauch
+账号：@rauchg
+简介：@vercel CEO
+
+Fluid is the thing that has enabled Vercel's:
+◾ Industry-leading Build performance
+◾ Sandbox reliability &amp; massive concurrency
+◾ 30min Function durations (&amp; soon longer)
+
+This unification makes the best DX possible. Shared 𝙳𝚘𝚌𝚔𝚎𝚛𝚏𝚒𝚕𝚎, security perimeters, networking, file systems, across all compute products. 
+
+You already see this in some pretty unique Vercel capabilities, like our Builds and Functions being able to participate in the same Secure Compute boundary and config.
+
+Imagine the same egress Firewall features for Sandbox that prevent agent escapes, applying to your Builds, Functions and Servers.
+
+The future is one global and unified compute platform, with only known physics as the limiting factor 😊</description>
+      <pubDate>Tue, 01 Sep 2026 16:56:23 +0000</pubDate>
+      <guid isPermaLink="false">2094831747037085978</guid>
+    </item>
+    <item>
+      <title>Do you want to grow massively on X?   Here are the top hacks, a 🧵  1) Become CEO of Apple https://t.co/WO9aMocWUY</title>
+      <link>https://x.com/mattturck/status/2094829606855462940</link>
+      <description>作者：Matt Turck
+账号：@mattturck
+简介：VC at @FirstMarkCap.  Host: MAD Podcast; Organizer: Data Driven NYC, Author: MAD Landscape.
+
+Do you want to grow massively on X? 
+
+Here are the top hacks, a 🧵
+
+1) Become CEO of Apple https://t.co/WO9aMocWUY</description>
+      <pubDate>Tue, 01 Sep 2026 16:47:52 +0000</pubDate>
+      <guid isPermaLink="false">2094829606855462940</guid>
+    </item>
+    <item>
+      <title>https://t.co/DxRAhWI0y8</title>
+      <link>https://x.com/thsottiaux/status/2094826841622348106</link>
+      <description>作者：Thibault Sottiaux
+账号：@thsottiaux
+简介：Codex &amp; ChatGPT @OpenAI
+
+https://t.co/DxRAhWI0y8</description>
+      <pubDate>Tue, 01 Sep 2026 16:36:53 +0000</pubDate>
+      <guid isPermaLink="false">2094826841622348106</guid>
+    </item>
+    <item>
+      <title>Should we do a merch line? https://t.co/IgyRywd8yH</title>
+      <link>https://x.com/thsottiaux/status/2094826808114057246</link>
+      <description>作者：Thibault Sottiaux
+账号：@thsottiaux
+简介：Codex &amp; ChatGPT @OpenAI
+
+Should we do a merch line? https://t.co/IgyRywd8yH</description>
+      <pubDate>Tue, 01 Sep 2026 16:36:45 +0000</pubDate>
+      <guid isPermaLink="false">2094826808114057246</guid>
+    </item>
+    <item>
+      <title>Self-improving products is a meta idea every company should be implementing.    Some of the core pieces you will need:  1/ a crisp definition of the various metrics you care about : primary, secondary, guardrail  2/ an articulation of your strategy, roadmap and metrics you care about moving the most...</title>
+      <link>https://x.com/realmadhuguru/status/2094817857821704659</link>
+      <description>作者：Madhu Guru
+账号：@realmadhuguru
+简介：Sr Director, AI at Meta; Prev: Google - Led Gemini, Veo, Nano Banana.
+
+Self-improving products is a meta idea every company should be implementing.  
+
+Some of the core pieces you will need:
+
+1/ a crisp definition of the various metrics you care about : primary, secondary, guardrail
+
+2/ an articulation of your strategy, roadmap and metrics you care about moving the most
+
+3/ knowledge base of past product decisions and principles so the agent knows how decisions get made 
+
+4/ connections to your to your internal product systems: dashboards, APIs, MCPs, and tools your agent  needs to observe and act on your product. 
+
+5/ a harness built with knowledge of  your end to end product development flow. 
+
+Depending on the complexity of your product, you might be able to prototype with fairly simple versions of each of the above and reuse existing swe agents.</description>
+      <pubDate>Tue, 01 Sep 2026 16:01:11 +0000</pubDate>
+      <guid isPermaLink="false">2094817857821704659</guid>
+    </item>
+    <item>
+      <title>Be a person, not a persona</title>
+      <link>https://x.com/zarazhangrui/status/2094812574395371857</link>
+      <description>作者：Zara Zhang
+账号：@zarazhangrui
+简介：Builder. Make something people want, then make people want it. Harvard’17. GitHub: https://t.co/KCuEaje1wd 
+YouTube: https://t.co/8xzbGWsHgY
+
+Be a person, not a persona</description>
+      <pubDate>Tue, 01 Sep 2026 15:40:12 +0000</pubDate>
+      <guid isPermaLink="false">2094812574395371857</guid>
+    </item>
+    <item>
+      <title>Casual MG banger that started as a comment to my recent essay via *checks notes* iMessage 😂 https://t.co/t0YSIB4Ui9</title>
+      <link>https://x.com/nikunj/status/2094784484625531065</link>
+      <description>作者：Nikunj Kothari
+账号：@nikunj
+简介：partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian &amp; others. love @shimoleejhaveri + 👦👧
+
+Casual MG banger that started as a comment to my recent essay via *checks notes* iMessage 😂 https://t.co/t0YSIB4Ui9</description>
+      <pubDate>Tue, 01 Sep 2026 13:48:35 +0000</pubDate>
+      <guid isPermaLink="false">2094784484625531065</guid>
+    </item>
+    <item>
+      <title>Making Cities Awesome: Peregrine’s Nick Noone &amp;amp; Ben Rudolph</title>
       <link>https://www.youtube.com/playlist?list=PLOhHNjZItNnMm5tdW61JpnyxeYH5NDDx8</link>
       <description>播客：Training Data
 
-Speaker 1 | 00:00 - 00:14
-People think I have a radical point of view sometimes. They start questions saying how what I'm thinking is so different from everyone else. But I don't see it that way at all. I see it as like I'm thinking the ordinary way. Just everyone else is thinking a bit weird.
+Speaker 1 | 00:00 - 00:40
+Peregrine is really around this idea of how can we leverage technology to work with our cities, our counties, our states to to impact the the places that we live in. At the bottom of the pyramid, really, when it comes to how to make cities awesome, is the idea of safety. The idea that people need objective safety and also need to feel safe. And when that stability is there, it's amazing what's possible. And there are all these kind of contrasting, but actually similar concepts that we were wrestling with at the time.
 
-Speaker 1 | 00:17 - 00:35
-And I mean that like, you know, it's just the recent times people are thinking weird. Before there was all this AI craziness, you talk about you wouldn't have to say continual learning because it wouldn't make any sense to talk about learning that wasn't continual. All learning is continual. We always act and we learn. That's just the normal way of thinking.
+Speaker 1 | 00:40 - 01:11
+We were thinking about how to deploy inside of institutions and also find ways to eliminate the mishandling of information inside of really complex organizations that have access to super, super sensitive data. And then, if we could create an the backbone infrastructure level Yep. Of the modern city, then we could help to preserve individuality. We talk about privacy and other aspects of what it means to be, like, an individual person, but also bring people together.
 
-Speaker 1 | 00:35 - 00:41
-I'm not weird. The field is weird. The field, they need to call it continual learning. It's just learning.
+Speaker 2 | 01:28 - 01:57
+One of the most important stories in AI is from a company that you may not have heard of, but is almost certainly keeping you and your loved ones safe. Peregrine is building AI that protects cities and communities, and they're rejecting the surveillance state while doing that. And this should be a fantastic conversation about one of the most important applications of AI, forward deployed engineering, civil liberties, and much more. So let's get into it. Nick, you ran Palantir's SOCOM unit.
 
-Speaker 2 | 00:59 - 01:16
-We are honored to have the great Rich Sutton with us here today. Rich, you invented reinforcement learning. You wrote the seminal textbook. You're the key students in the field, folks like Dave Silver. You wrote the essay, The Bitter Lesson, that I believe is the bible of the field.
+Speaker 2 | 01:57 - 02:07
+You deployed into dangerous high stakes intelligence operations in The Middle East. Tell me, what does forward deployed engineering actually mean, and what does Silicon Valley get wrong about it?
 
-Speaker 2 | 01:16 - 01:33
-You have just been one of the greats in propelling the field forward. So thank you for taking the time to join us today. Rich is joined by Kurram Javed, his cofounder, and former student from the University of Alberta. The two of you have set off to found Oak Lab. I'm very excited to talk to you about that today.
+Speaker 1 | 02:07 - 02:28
+Palantir was a really fun experience and a really formative one because before joining the company, I had no idea what this concept of forward deployed engineering meant. But I was surrounded by people that were running into customer environments and doing who knows what.
 
-Speaker 2 | 01:33 - 02:09
-So for today's session, we're gonna start talking about the bitter lesson, the state of the world as we know it today, whether LLMs will get us there or not, and then we're gonna transition to start talking about your your research agenda and your plan for Oak. Rich, maybe take us back. I was going to start with a bitter lesson, but I actually want to start earlier than that. Decades ago, you decided to dedicate your career to reinforcement learning, to deep reinforcement learning in particular, and you established the University of Alberta as a bastion of that back when I think the field was very much in its infancy. What gave you the conviction to do that?
+Speaker 2 | 02:29 - 02:29
+Yeah.
 
-Speaker 1 | 02:09 - 02:26
-What else are you gonna do? We're trying to figure out the mind and learning is a central part of the mind and having a goal is a central part of the mind, central part of intelligence. Yeah. So I was just doubling down on what I was always thinking.
+Speaker 1 | 02:30 - 03:26
+I watched them, I watch them leave the office. I watch them come back to the office and tell stories. It's felt to me like the adventure of a lifetime, to be able to go into a customer context and own the customer's problem, but also take pride in the fact that the problem belongs to the customer, and then take pride in getting the customer to the win. And so there are these two kind of these two truths that I learned when I was an early forward deployed engineer and that we try to embrace as we built our company, and those are that we psychologically go in and own or co own the problem. We talk internally about getting all the way to the outcome with and on behalf of our customers.
 
-Speaker 2 | 02:26 - 02:28
-Did people think you were crazy at the time?
+Speaker 1 | 03:26 - 03:59
+Technology and all of the the skills and ways of delivering our tech is part of the answer, but the real answer is just getting to the outcome at all costs. Ideally, three to five times faster than any other person or team could do. And, everything flows from there. But, recognizing that at the end of the day, it's the customer's win, it's not our win, and taking deep pride in the impact that we have on the institution and on the people that we're sitting across the table from, I think that's where the magic is, culturally. What
 
-Speaker 1 | 02:31 - 02:33
-It was a winter. It was an AI winter.
+Speaker 2 | 03:59 - 04:01
+does Silicon Valley get wrong about it?
 
-Speaker 2 | 02:34 - 02:35
-What year was this?
+Speaker 1 | 04:01 - 04:36
+When we first started building Peregrine, the forward applied engineering concept had been around for a while, and we got feedback that when really smart people from top five, top 10, or equivalent schools would go into a really complicated place, like the LAPD, and quickly try to understand thirty years of institutional context, not just at the data level, but at the human level.
 
-Speaker 1 | 02:35 - 02:55
-It was in 2003. Okay. And it's kind of crazy, actually, the truth, because I was, like, really sick. I actually dying of cancer in 2003 but I wasn't quite dead. I've been trying for a number of years and I wasn't dead.
+Speaker 2 | 04:36 - 04:36
+Mhmm.
 
-Speaker 1 | 02:55 - 03:13
-Was in another remission and so I said, Well, I'm not dying. I haven't succeeded in dying so I might as well you know, it's going on long enough. I might as well just try to get another job. And so I went to Alberta and started teaching there. And then in the end, didn't die.
+Speaker 1 | 04:36 - 04:57
+Like, how does this organization work? How are decisions made? How do teams interoperate with each other? The idea that moving fast is even possible in that environment is very counterintuitive to the customer. And, unfortunately, I think that shows up as ego to a lot of organizations where people have dedicated their entire lives to a particular role.
 
-Speaker 1 | 03:13 - 03:29
-It's kind of amazing. It's like that. I'm joking about it now, but it was quite serious. And, it's an even more poignant question. Why did I continue, to work on this research stuff when I was, you know, I only had a few months?
+Speaker 1 | 04:58 - 05:23
+And I think Silicon Valley misses that sometimes, that letting go of our intelligence, letting go of our own skills and abilities, trying to suspend our ego, and then really get into the customer's context is an easy thing to say, but it's like, it's such a high empathy patient Yeah. Way of working.
 
-Speaker 1 | 03:30 - 03:48
-I would always keep reminded what I think it's Benjamin Franklin is supposed to have said that, you know, if you ever wonder why someone is doing something, it's almost always one of two things. It's either habit or vanity. Okay? I think that was probably true. Maybe it was about habit.
+Speaker 2 | 05:23 - 05:46
+Yeah. I love that. Ben, you while while Nick was off deploying into Middle East, you were in almost the opposite part of the world in every sense of the world word. You were doing refugee work in Africa, in India, but you landed on a similar thesis of the world and technology's role in it. Maybe say a word on that.
 
-Speaker 1 | 03:48 - 03:55
-Just kept doing what I always was doing or maybe it was a vanity. I don't know. I think it was more like habit because I was dying.
+Speaker 3 | 05:46 - 06:45
+Yeah. Absolutely. So I for for me, I've always been obsessed with this idea of how do you make impact with technology. I graduated school and I remember I had these two offers, one was to go work at a small startup at the time, Airbnb, and the UN Refugee Agency, which is an organization that goes and helps refugees who are making these extremely dangerous treks across country lines, usually because of war, to try and get help. And so I took that path and deployed to the Sudanese border, the Colombian border and you know, was deeply humbled and really under, deeply understood these types of situations and where technology can help and where honestly it can't help.
 
-Speaker 2 | 03:57 - 03:57
-Divine intervention.
+Speaker 3 | 06:45 - 07:31
+And I remember the thing that I took away from that experience is, you UNHCR is this deeply disconnected organization. It does phenomenal work, it's deeply disconnected. They have some data, it's often in spreadsheets, and it's very difficult to actually make make sense of. And so that's where I started to like form this thesis of, okay, a lot of these problems are downstream of data problems where you can have a lot of impact. After UNHCR, the UN Refugee Agency, I left to join an organization that you probably haven't heard of, it's called Demagi, they're a small company, they work building last mile healthcare solutions in under resourced places around the world.
 
-Speaker 1 | 03:57 - 04:06
-Yeah. It's always been easy for me to be very determined. And gonna go even longer on this answer.
+Speaker 3 | 07:31 - 08:25
+And so, like, one specific example, one project that I worked on while I was there, we were working with the Indian government on this project, building applications to help folks in rural India adhere to their tuberculosis drugs. And at the end of the day, we did get it deployed and that technology rapidly spread throughout the country. And that was a really cool moment for me and really formed my thesis and idea around how Peregrine can have impact and how you can how technology can have impact in in the communities that that we live in. And so, Peregrine is really around this idea of how can we leverage technology to work with our cities, our counties, our states to impact the the places that we live in.
 
-Speaker 2 | 04:06 - 04:07
-Please do.
+Speaker 2 | 08:25 - 08:34
+Take us back to 2017. You cold called your way into the San Pablo Police Department. What was going through your heads when you did that?
 
-Speaker 1 | 04:07 - 04:23
-People think I have a radical point of view sometimes. They start questions saying how what I'm thinking is so different from everyone else. But I don't see it that way at all. I see it as like I'm thinking the ordinary way. It's just everyone else that's thinking a bit weird.
-
-Speaker 1 | 04:26 - 04:57
-And I mean that like, you know, it's just the recent times people are thinking. If you go look back what people thought about the mind for, you know, even just a decade, you'll find the kind of thoughts that, you know, learning is important, you've got to have a goal, And perception is important. We are low level beings. We are generating actions and perceiving data at a fast speed and yet we have to think at higher levels. And, you know, go back a few.
-
-Speaker 1 | 04:57 - 05:15
-Before there was all this AI craziness, you talk about you wouldn't have to say continual learning because it wouldn't make any sense to talk about learning that wasn't continual. All learning is continual. You know, it's not a special phase. We always act and we learn. That's just the normal way of thinking.
-
-Speaker 1 | 05:15 - 05:21
-I'm not weird. The field is weird. They feel they need to call it continual learning. It's just learning.
-
-Speaker 2 | 05:22 - 05:26
-I'm not weird. Everybody else is. That's a good, good motto to live by.
-
-Speaker 3 | 05:26 - 05:36
-We're gonna have to send out a next post about that. We're very happy that you lived on. The field is happy that you lived on, and thank you for pushing the frontier.
-
-Speaker 1 | 05:36 - 05:37
-I'm really happy.
-
-Speaker 3 | 05:38 - 05:51
-Thank you for pushing the frontier. I am sure really happy, and thank you for all of that and push. And you've, like, been able to sort of educate a lot of students who push the frontier as well. How'd you pick them? How'd you the last twenty, thirty years?
-
-Speaker 1 | 05:51 - 06:13
-Oh, you are giving me opportunities to be, to be humble, like I like to be humble and point out how all these great decisions are just happen. And it's that that's the way I feel about students. I don't feel that I choose them very well. I've just sometimes I'm lucky, sometimes I'm unlucky. I don't feel I'm particularly good at picking my students.
-
-Speaker 1 | 06:14 - 06:23
-I'm looking at Kerm now. I think sometimes you end up with really great ones. David Silver picked me. Yeah. How is it that I got you, Kerm?
-
-Speaker 1 | 06:23 - 06:23
-Yeah, that
-
-Speaker 4 | 06:23 - 06:44
-was also so I finished my master's, not with you, and I was planning to join industry, and then we were collaborating on a project, which also just started organically. Like, there was something I worked on Rich was in a meeting, then they mentioned that I worked on it. So I got pulled into it. We started collaborating. It went really well.
-
-Speaker 4 | 06:44 - 07:08
-Like, I felt so happy with that collaboration. Rich also felt really good about it. And then six months down the road, we had made some progress, and it just made sense to convert that into a thesis proposal. So no point did I apply, at no point did I ask, should you be my PhD advisor? We worked together, then we decided this would be a pretty good thesis, and then after that, I applied for the PhD.
-
-Speaker 2 | 07:08 - 07:28
-Life works in unexpected ways. Take us to 2019. You wrote The Bitter Lesson, which has become the modern tome. 2019 was a funny time to be writing that piece because ImageNet was 2009, AlphaGo was 2015. What caused you in 2019 to reflect and and to write that?
-
-Speaker 2 | 07:28 - 07:35
-Because it was before the current kind of scaling paradigm around large language models had taken off, but it was after deep learning had really proven itself.
-
-Speaker 1 | 07:36 - 08:09
-Well, it was a long time coming. You know, as the Bitter Lesson expresses, it's something that you can observe fo...</description>
-      <pubDate>Tue, 18 Aug 2026 09:00:00 +0000</pubDate>
+Speaker 1 | 08:34 - 09:25
+In 2016, when Ben and I got together, actually, on a on a vacation with a bunch of our gymnastics teammates, we had a conversation basically ten years after we graduated saying, should we build something together? We got together in San Francisco, and with my experience in the national security space and similar in the US government, Ben's experience working on humanitarian causes, and, you know, on my end, I'd been flying back and forth between Baghdad and similar places in The Middle East, and Ben was commuting God knows how many flights into Africa, and we looked at ourselves and said, this is the place where people live. This is the place where people thrive. This is where the ma...</description>
+      <pubDate>Tue, 01 Sep 2026 09:00:00 +0000</pubDate>
       <guid>https://www.youtube.com/playlist?list=PLOhHNjZItNnMm5tdW61JpnyxeYH5NDDx8</guid>
     </item>
   </channel>
