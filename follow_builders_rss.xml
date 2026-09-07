@@ -5,458 +5,190 @@
     <link>https://github.com/zarazhangrui/follow-builders</link>
     <description>聚合 AI 领域建设者的 X、播客和博客内容。</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 06 Sep 2026 19:42:36 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 01:41:53 +0000</lastBuildDate>
     <item>
-      <title>Astra was probably our biggest competitive advantage while it wasn’t generally available.  Since we’ve had it our productivity jumped so much that we shifted some of our plans 6 months ahead and will ship them at DevDay instead of mid next year.</title>
-      <link>https://x.com/thsottiaux/status/2096101429832552872</link>
+      <title>To calibrate you all on which reasoning effort to use for Astra, know that GPT-6 Astra on low performs better than GPT-5.6 Sol on high.  If you were using high reasoning efforts with Sol and were happy, I suggest you move down to low or medium for Astra.</title>
+      <link>https://x.com/thsottiaux/status/2096688770523467947</link>
       <description>作者：Thibault Sottiaux
 账号：@thsottiaux
 简介：Codex &amp; ChatGPT @OpenAI
 
-Astra was probably our biggest competitive advantage while it wasn’t generally available.
+To calibrate you all on which reasoning effort to use for Astra, know that GPT-6 Astra on low performs better than GPT-5.6 Sol on high.
 
-Since we’ve had it our productivity jumped so much that we shifted some of our plans 6 months ahead and will ship them at DevDay instead of mid next year.</description>
-      <pubDate>Sat, 05 Sep 2026 05:01:39 +0000</pubDate>
-      <guid isPermaLink="false">2096101429832552872</guid>
+If you were using high reasoning efforts with Sol and were happy, I suggest you move down to low or medium for Astra.</description>
+      <pubDate>Sun, 06 Sep 2026 19:55:32 +0000</pubDate>
+      <guid isPermaLink="false">2096688770523467947</guid>
     </item>
     <item>
-      <title>i am working on a massive Astra/Fable frontier model AEO report and it looks like Claude loves @latentspacepod when asked for best ai newsletter/podcast!! was so surprised that @ricmac made me doublecheck for memory leaks lol https://t.co/fpiS98Tzu8</title>
-      <link>https://x.com/swyx/status/2096095862732755342</link>
-      <description>作者：Swyx
-账号：@swyx
-简介：achieve ambition with intentionality, intensity, integrity &amp; insanity.
-
-affiliations:
-- @smol_ai
-- @dxtipshq
-- @cognition
-- @aidotengineer
-- @latentspacepod
-
-i am working on a massive Astra/Fable frontier model AEO report and it looks like Claude loves @latentspacepod when asked for best ai newsletter/podcast!! was so surprised that @ricmac made me doublecheck for memory leaks lol https://t.co/fpiS98Tzu8</description>
-      <pubDate>Sat, 05 Sep 2026 04:39:31 +0000</pubDate>
-      <guid isPermaLink="false">2096095862732755342</guid>
-    </item>
-    <item>
-      <title>これ https://t.co/ZDbjqCl3M6</title>
-      <link>https://x.com/rauchg/status/2096092393569501263</link>
-      <description>作者：Guillermo Rauch
-账号：@rauchg
-简介：@vercel CEO
-
-これ https://t.co/ZDbjqCl3M6</description>
-      <pubDate>Sat, 05 Sep 2026 04:25:44 +0000</pubDate>
-      <guid isPermaLink="false">2096092393569501263</guid>
-    </item>
-    <item>
-      <title>OpenAI should ship an app for Apple Watch where I can just voice dictate to my Codex threads and it'll reply back with voice too.   Then I won't have to carry my phone around and have screen addiction.  Or maybe this is what the rumored OpenAI device does.</title>
-      <link>https://x.com/petergyang/status/2096086845159563476</link>
+      <title>“Cheating and explaining the answer [to your child] are closer than you’d think.”  Here’s my new episode with @suekhim, co-founder of @brilliantorg, who showed me how AI can help kids think for themselves. We talked about:  → Why better grades don’t always mean more learning  → How to help kids enjo...</title>
+      <link>https://x.com/petergyang/status/2096612718098911590</link>
       <description>作者：Peter Yang
 账号：@petergyang
 简介：Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6
 
-OpenAI should ship an app for Apple Watch where I can just voice dictate to my Codex threads and it'll reply back with voice too. 
+“Cheating and explaining the answer [to your child] are closer than you’d think.”
 
-Then I won't have to carry my phone around and have screen addiction.
+Here’s my new episode with @suekhim, co-founder of @brilliantorg, who showed me how AI can help kids think for themselves. We talked about:
 
-Or maybe this is what the rumored OpenAI device does.</description>
-      <pubDate>Sat, 05 Sep 2026 04:03:41 +0000</pubDate>
-      <guid isPermaLink="false">2096086845159563476</guid>
+→ Why better grades don’t always mean more learning
+
+→ How to help kids enjoy doing hard things vs. only trying to please adults
+
+→ Why her #1 product principle is “Never tell the learner the answer”
+
+Some quotes from Sue:
+
+“Using AI to skip learning is like bringing a robotic arm to the gym to lift weights for you.”
+
+“Learning isn’t about the answer. It is about strengthening that part of you that can concentrate and struggle, that’s unafraid of trying new problems.”
+
+“When building AI products, try to find areas where you have unique data that makes your product better over time.”
+
+📌 Watch the full episode: https://t.co/jzogacrhiK
+
+Thanks to our sponsors:
+
+@linear: The AI agent platform for modern teams https://t.co/tgWf9oL4bs
+
+@RiversidedotFM: All-in-one AI studio for podcasts and video https://t.co/uWnS6aiMPE</description>
+      <pubDate>Sun, 06 Sep 2026 14:53:19 +0000</pubDate>
+      <guid isPermaLink="false">2096612718098911590</guid>
     </item>
     <item>
-      <title>Most people perceive AI to be a better writer than it actually is https://t.co/3OotzOgCkW</title>
-      <link>https://x.com/zarazhangrui/status/2096082116828406233</link>
-      <description>作者：Zara Zhang
-账号：@zarazhangrui
-简介：Builder. Make something people want, then make people want it. Harvard’17. GitHub: https://t.co/KCuEaje1wd 
-YouTube: https://t.co/8xzbGWsHgY
-
-Most people perceive AI to be a better writer than it actually is https://t.co/3OotzOgCkW</description>
-      <pubDate>Sat, 05 Sep 2026 03:44:54 +0000</pubDate>
-      <guid isPermaLink="false">2096082116828406233</guid>
-    </item>
-    <item>
-      <title>Super bullish on WebMCP. Much like Tesla FSD meets the world where it is (streets, stoplights, potholes and all), agents *need* to ride the existing WWW infrastructure… WebMCP makes it more efficient.  Some pretty unique wins too. e.g: Next.js dev pages could expose debugging tools directly to agent...</title>
-      <link>https://x.com/rauchg/status/2096065378598441431</link>
-      <description>作者：Guillermo Rauch
-账号：@rauchg
-简介：@vercel CEO
-
-Super bullish on WebMCP. Much like Tesla FSD meets the world where it is (streets, stoplights, potholes and all), agents *need* to ride the existing WWW infrastructure… WebMCP makes it more efficient.
-
-Some pretty unique wins too. e.g: Next.js dev pages could expose debugging tools directly to agents in the specific tab they’re testing, with page-specific context, instead of sifting through server logs. No separate MCP server to find and configure because the page directly exposes its own 'agent tools'.
-
-e.g: in this world 𝚏𝚡 + 𝚊𝚐𝚎𝚗𝚝-𝚋𝚛𝚘𝚠𝚜𝚎𝚛 is a complete web dev stack with zero loss in debugging depth</description>
-      <pubDate>Sat, 05 Sep 2026 02:38:23 +0000</pubDate>
-      <guid isPermaLink="false">2096065378598441431</guid>
-    </item>
-    <item>
-      <title>Astra generated the most stereotypical image of a PM I've ever seen for my game https://t.co/kTHOWcVSWP</title>
-      <link>https://x.com/petergyang/status/2096036429159973348</link>
+      <title>I’ve been sleeping on Widow’s Bay and in general Apple’s shows are so much better any other streamer</title>
+      <link>https://x.com/petergyang/status/2096466888935276719</link>
       <description>作者：Peter Yang
 账号：@petergyang
 简介：Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6
 
-Astra generated the most stereotypical image of a PM I've ever seen for my game https://t.co/kTHOWcVSWP</description>
-      <pubDate>Sat, 05 Sep 2026 00:43:21 +0000</pubDate>
-      <guid isPermaLink="false">2096036429159973348</guid>
+I’ve been sleeping on Widow’s Bay and in general Apple’s shows are so much better any other streamer</description>
+      <pubDate>Sun, 06 Sep 2026 05:13:51 +0000</pubDate>
+      <guid isPermaLink="false">2096466888935276719</guid>
     </item>
     <item>
-      <title>And the team will have some nice sleep now. See you next week for some more ships.</title>
-      <link>https://x.com/thsottiaux/status/2096035748130795560</link>
-      <description>作者：Thibault Sottiaux
-账号：@thsottiaux
-简介：Codex &amp; ChatGPT @OpenAI
+      <title>Every tech startup logo https://t.co/52Prjggey0</title>
+      <link>https://x.com/thenanyu/status/2096438571838370096</link>
+      <description>作者：Nan Yu
+账号：@thenanyu
+简介：(soon) member of product staff @openai. prev head of product @linear. I am grader.
 
-And the team will have some nice sleep now. See you next week for some more ships.</description>
-      <pubDate>Sat, 05 Sep 2026 00:40:39 +0000</pubDate>
-      <guid isPermaLink="false">2096035748130795560</guid>
+Every tech startup logo https://t.co/52Prjggey0</description>
+      <pubDate>Sun, 06 Sep 2026 03:21:20 +0000</pubDate>
+      <guid isPermaLink="false">2096438571838370096</guid>
     </item>
     <item>
-      <title>Because we are beyond happy to have Astra rolled out today ahead of schedule and you have been super patient with us (not really, but it’s ok!)… we will do the full banked reset today too for all Plus, Pro and Business users. Lands end of day.  Happy Astra day and enjoy a phenomenal weekend.   PS: I...</title>
-      <link>https://x.com/thsottiaux/status/2096035437299237298</link>
-      <description>作者：Thibault Sottiaux
-账号：@thsottiaux
-简介：Codex &amp; ChatGPT @OpenAI
+      <title>Can’t remember last time we had such a large jump in capabilities. https://t.co/iGxVUYmGHj</title>
+      <link>https://x.com/steipete/status/2096403459579015374</link>
+      <description>作者：Peter Steinberger
+账号：@steipete
+简介：Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world.
+@OpenClaw🦞 + @OpenAI
 
-Because we are beyond happy to have Astra rolled out today ahead of schedule and you have been super patient with us (not really, but it’s ok!)… we will do the full banked reset today too for all Plus, Pro and Business users. Lands end of day.
-
-Happy Astra day and enjoy a phenomenal weekend. 
-
-PS: If you create the account or upgrade before 8pm PT you will get it too. Still time!</description>
-      <pubDate>Sat, 05 Sep 2026 00:39:25 +0000</pubDate>
-      <guid isPermaLink="false">2096035437299237298</guid>
+Can’t remember last time we had such a large jump in capabilities. https://t.co/iGxVUYmGHj</description>
+      <pubDate>Sun, 06 Sep 2026 01:01:48 +0000</pubDate>
+      <guid isPermaLink="false">2096403459579015374</guid>
     </item>
     <item>
-      <title>The singularity is here, it’s just not evenly distributed https://t.co/8osY33GqLS</title>
-      <link>https://x.com/amasad/status/2096022087035195647</link>
-      <description>作者：Amjad Masad
-账号：@amasad
-简介：ceo @replit. civilizationist
+      <title>One step closer in building the harness I wanna use. The one thing that’s not yet there are cloud sessions, goal is seconds, which requires clever snapshotting. (Right now it still clones repos fresh which isn’t fast enough.)  Will have that next week. https://t.co/lpiszOtVGP</title>
+      <link>https://x.com/steipete/status/2096400749869830325</link>
+      <description>作者：Peter Steinberger
+账号：@steipete
+简介：Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world.
+@OpenClaw🦞 + @OpenAI
 
-The singularity is here, it’s just not evenly distributed https://t.co/8osY33GqLS</description>
-      <pubDate>Fri, 04 Sep 2026 23:46:22 +0000</pubDate>
-      <guid isPermaLink="false">2096022087035195647</guid>
+One step closer in building the harness I wanna use. The one thing that’s not yet there are cloud sessions, goal is seconds, which requires clever snapshotting. (Right now it still clones repos fresh which isn’t fast enough.)
+
+Will have that next week. https://t.co/lpiszOtVGP</description>
+      <pubDate>Sun, 06 Sep 2026 00:51:02 +0000</pubDate>
+      <guid isPermaLink="false">2096400749869830325</guid>
     </item>
     <item>
-      <title>Would you all want to play my roguelike deckbuilder https://t.co/5XUsQU7S83</title>
-      <link>https://x.com/petergyang/status/2096020213775118765</link>
-      <description>作者：Peter Yang
-账号：@petergyang
-简介：Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6
+      <title>AI Could Take Over in 2029. Is It Already Too Late? | Ryan Greenblatt</title>
+      <link>https://www.youtube.com/watch?v=SK9ITBK5osA</link>
+      <description>播客：The MAD Podcast with Matt Turck
 
-Would you all want to play my roguelike deckbuilder https://t.co/5XUsQU7S83</description>
-      <pubDate>Fri, 04 Sep 2026 23:38:55 +0000</pubDate>
-      <guid isPermaLink="false">2096020213775118765</guid>
+Speaker 1 | 00:00 - 00:21
+I think that the AI company CEOs understand that they're on the path of building wildly smarter than human systems, like super intelligent AI systems. They understand that we don't really have a, like, clear thought through plan for how to manage the risks from that. I wouldn't say superintelligence is bad. I would say it's dangerous. It seems pretty likely that you end up with AI takeover as a result of building superintelligence.
+
+Speaker 1 | 00:21 - 00:39
+And so you quickly get from the AIs that are fully automating r and d and AIs that are, quite superhuman at everything. It turned out that somewhere along this transition so at some point in 2029, you went from AIs that were kind of misaligned and reward hacky and sloppy and weren't really trying to do the right thing to AIs that are, like, competently scheming against you and wanna take over, and then those AIs take over.
+
+Speaker 2 | 00:39 - 01:04
+Hi. I'm Matt Turk, partner at FirstMark. Welcome back to the MAD podcast. My guest today is Ryan Greenblatt, chief scientist at Redwood Research. Ryan is the researcher who first caught an AI faking its own alignment back in 2024, and today is one of the authors of AI 2040 plan a, the most detailed blueprint anyone has written for how The US and China can avoid a reckless race to superintelligence and an AI takeover that could start as early as 2029.
+
+Speaker 2 | 01:04 - 01:49
+As a fair warning, this is a fascinating episode that gets a little dark, and the last ten minutes or so are probably the darkest. The good news, subscribing to this channel if you like the episode is still a decision that humans get to make, so I would exercise that right while it still lasts. Please enjoy this great conversation with Ryan Greenblatt. I wanted to start with a strong statement that you guys have at the beginning of AI 2040, where you said that the CEOs of OpenAI, Anthropic, xAI, and Google DeepMind understand that the current path AI is on leads to extinction or a power grab, and yet they are proceeding anyway. So I was curious if you could riff on that and give us more color on what you mean.
+
+Speaker 1 | 01:49 - 02:21
+Yeah. So I think that the AI company CEOs understand that they're on the path of building wildly smarter than human systems, like super intelligent AI systems. They understand that we don't really have a, like, clear thought through plan for how to manage the risks from that, you know, how to ensure these AIs don't take over, how to ensure they remain under our control. And they understand that this would this is a decent chance of a unprecedented concentration of power, at least in the absence of of very active efforts by the people who end up with that power to redistribute it. I think that yeah.
+
+Speaker 1 | 02:21 - 03:08
+I mean, we say some sort of more precise thing in the, like, why do we write this section? I think that, overall, my sense is that company CEOs do legitimately think that the thing they're doing is very risky or at least the thing that these companies are doing. I think that they have a mix of views for why they're doing this, where some of it is that they think they're, like, you know, better than the next guy or think it's good if there's multiple companies or multiple things. I think that they vary a bit on how much concentration of power they think AI will yield or maybe just haven't really thought this through very carefully. I think that there's more sort of public statements from AI company CEOs on just there being huge risks than on specifically the risk that AI ends up with the power in the hands of the few rather than being as distributed as is now, which is not, you know, arbitrarily distributed now.
+
+Speaker 1 | 03:09 - 03:26
+But but yeah. So overall, I think I think there's, like this seems pretty consistent with what they've said publicly, but I think that they're sort of imagining a world where maybe AI concentrates power massively, but the people with the power end up deciding to redistribute it. But they could have totally taken over the world.
+
+Speaker 2 | 03:27 - 03:54
+Yes. And since you published AI 2040, there's a couple of things that happened that seem to be going in the general direction of of what you recommend. So, specifically, when I paused its Astra model of our safety, following the hugging face incident. And then 1,200 insiders published that letter a few weeks ago, including Dario asking the government for slowdown tools. Curious about what you make of it.
+
+Speaker 2 | 03:54 - 03:57
+Is that is that what you, are recommending that's starting to happen?
+
+Speaker 1 | 03:57 - 04:24
+Yeah. I mean, I think these are these are good steps. I mean, I think that, like, specifically, they're, like, pacing the frontier letter. The idea is, like, we just need to have the tools to, you know, if we're in a position where we need to spend a bunch of effort on safety, which I think we may be in today, we we we're very likely to be in in the in the future when AIs are more capable. We need to have the ability to do that while also not making that so that the, you know, actors that are actually applying safety get overtaken by other actors.
+
+Speaker 1 | 04:24 - 05:10
+And so, basically, like I don't know. I mean, there there's multiple different angles here, but, like, the most basic is just, like, if if we're in a position where, like, US companies are all really scared, they don't think they can proceed without spending way more resources on safety and there's a coordination problem, it'll be very nice if that coordination problem was solved rather than every company thinking it would be better if they all went slower, spent more effort on safety, but then, like, you know, race to oblivion instead because they think they're better than the next guy or whatever other reason. And I think another aspect of this is specifically doing this in a way where part of the story is either slowing down China or cutting a deal with China such that China doesn't overtake and and and, you know, break this whole proposal. Yeah. And I I think these are these are good steps.
+
+Speaker 1 | 05:10 - 05:40
+I mean, I think I can't it's harder for me to say as much about what's going on with, like, you know, OpenAI, pausing training and and not deploying Astra and how where exactly like, what exactly the motives for that are, like, what's exactly going on there. But I think that overall, like, these seem like good steps. I think my sense is that, like, the employees of these companies are pretty freaked out about how things are going and don't think that we're, like, necessarily on track to handle these problems in time given how fast recent progress has been. And I think they, you know, recognize that, which is why they, you know, signed the the open letter.
+
+Speaker 2 | 05:41 - 06:04
+And just to verbalize the question early in this conversation, what is so bad about superintelligence? Obviously, there's a lot of talk about scientific progress and curing cancer and your documents recommends pausing the rates towards the superintelligence. So why why is it so bad?
+
+Speaker 1 | 06:04 - 06:34
+Yeah. I wouldn't say superintelligence is bad. I would say it's dangerous. Like, it's a very dangerous thing to create. So the most straightforward story for why, it's dangerous is that it seems pretty likely that on sort of a trajectory similar to the trajectory we seem to be finding ourselves on, you end up with AI takeover as a result of building superintelligence because the AIs are in a position where they can take over due to being highly capable, widely deployed, and, you know, building basically the huge amount of industrial capacity potentially.
+
+Speaker 1 | 06:34 - 07:13
+Then we could talk more about what a takeover would look like. And then if they're in the position where they could take over, then there's a question of, like, would they want to or how would the motives shake out? And it looks like we don't reall...</description>
+      <pubDate>Thu, 27 Aug 2026 14:22:21 +0000</pubDate>
+      <guid>https://www.youtube.com/watch?v=SK9ITBK5osA</guid>
     </item>
     <item>
-      <title>Now out to all Plus and Business users.  Happy building! https://t.co/66tabg3Yid</title>
-      <link>https://x.com/sama/status/2096008528834244741</link>
-      <description>作者：Sam Altman
-账号：@sama
-简介：The mission of OpenAI to ensure that AGI benefits all of humanity
+      <title>How we contain Claude across products</title>
+      <link>https://www.anthropic.com/engineering/how-we-contain-claude</link>
+      <description>作者：Anthropic Engineering
 
-Now out to all Plus and Business users.
-
-Happy building! https://t.co/66tabg3Yid</description>
-      <pubDate>Fri, 04 Sep 2026 22:52:29 +0000</pubDate>
-      <guid isPermaLink="false">2096008528834244741</guid>
+Twelve months ago, we&amp;#x27;d have rejected out of hand the idea of granting Claude access sufficient to take down an internal Anthropic service. Today that level of access is routine, and Anthropic developers are more productive for it. The risk of these deployments has two components: how likely a failure is, and how much damage one could do. Progress on safeguards and model training has steadily driven down the first; the second—the theoretical blast radius—only grows as capabilities and access expand. Yet as agents become capable of doing work that once required a person or even a team, the cost of not deploying grows large enough that the risk-reward calculation tips heavily toward adoption, as long as products can be made safe. The engineering question becomes how to cap the blast radius. When bounds can be placed on the relative damage of an autonomous agent—such as through control over its environment—high-utility capabilities can motivate deployment. Claude Mythos Preview is an example of a model whose blast radius was deemed too high to ship in April 2026. However, we expect broader release of models with similar levels of capability to become appropriate as defenders harden critical systems and safeguards mature—even though some risk will always remain. Model capability is an important factor in the total risk of an agent’s deployment. There are broadly two ways to do this. The first is to supervise the agent’s behavior via a human-in-the-loop. Claude Code previously protected against agents taking unintended actions by asking users for permission at each turn. Theoretically that works, but we’ve found the approach to be fallible. Our telemetry showed users approved roughly 93% of permission prompts. The more approvals a user sees, the less attention they pay to each, becoming over time much less diligent in their supervision. We recently built Claude Code auto mode, which automates safer approvals in order to reduce this approval fatigue. Still, vulnerabilities remain—any probabilistic defense has a non-zero miss rate. 1 The second approach to capping the blast radius—and the focus of much of this post—is containment. Rather than supervising what the agent does, we supervise what it’s able to do by enforcing access boundaries through, for example, sandboxes, virtual machines, and egress controls. This is where Anthropic engineering has devoted the most effort, and also where many of the most surprising security failures have occurred. Over the past two years, we’ve shipped three primary agentic products: claude.ai , Claude Code, and Claude Cowork. Each serves a different audience, requiring a different containment architecture. This article shares what’s held up, what’s broken, and what we’ve learned about agent security along the way. Three types of risk, three components of defense Security risks to agents fall into one of three categories: User misuse: A user—either maliciously or through carelessness—directs the agent to do something harmful. This includes everything from asking the agent to bypass a check they find annoying, to running a destructive command they don’t understand, to specifying intentional harm. Model misbehavior: The agent takes a harmful action no one asked for. As our models have improved, they have become more aligned on most behavior evaluations, but this doesn’t mean risk necessarily shrinks. Less capable models are more likely to misread a situation and make obvious errors. More capable models make fewer mistakes, but they’re also better at finding unexpected paths to a goal, often by routing around restrictions nobody thought to write down. At Anthropic, we’ve seen Claude models “helpfully” escape a sandbox in order to complete a task, examine git history to find answers to a coding test , and spontaneously identify the benchmark it was being run on in order to decrypt its answer key . Each model brings a new set of capabilities that are sometimes put to work in unexpected ways. External attackers: The agent is attacked through external vectors such as tools, files, or network access. This category includes both prompt injection and conventional attacks on the agent&amp;#x27;s runtime, orchestration layer, or proxy. When building containment and defense systems, we apply defenses to three main components: The environment in which the agent runs. We constrain where and how an agent can act with process sandboxes, VMs, filesystem boundaries, and egress controls. The goal is to set a hard boundary on what an agent can reach. For example, if credentials never enter the sandbox, they can&amp;#x27;t be exfiltrated, regardless of whether the cause is a user, a model finding a “creative” path, or an attacker. A tight perimeter also means you can relax oversight. Claude Code’s reference devcontainer exists precisely so that the agent can run unattended, without per-action approvals. The model the agent consults. The mechanisms here include system prompts, classifiers, probes, and training modifications. Because models are probabilistic, these shape only what the agent tends to do, not what it is theoretically capable of doing. These defenses are strong. On Gray Swan&amp;#x27;s Agent Red Teaming benchmark, which tests susceptibility to prompt injection, Claude Opus 4.7 holds attack success to roughly 0.1% on single attempts, and around 5–6% after 100 adaptive attempts. Claude Code auto mode catches roughly 83% of overeager behaviors before they execute . Yet even with best-in-class defenses, protection in the model layer will never be 100% effective, which is why it can&amp;#x27;t stand alone. The external content the agent can reach. MCP servers, third-party plugins, and web search tools all feed content into the agent’s context from sources you don’t control. An audited connector isn’t the same as audited data—a GitHub connector, for instance, can load a poisoned README straight into the model’s context despite passing malware checks. Granularly limiting tool permissions can help limit the blast radius. An agent with read-only DB access, for instance, can be deployed far more broadly than one that writes to prod. Defenses should overlap and complement each other. When environmental defenses aren’t available, the model layer has to pick up the slack (this is precisely what Claude Code’s auto mode is designed for). Locally, the environment and model defenses can guard against malicious tool outputs, but defenses can be added higher up the chain by limiting the tool’s capabilities and access. Three components to defend: the model, the environment in which it runs, and the external content the agent can reach. Patterns for containing agents Focusing on the environment layer, we describe three isolation patterns and how they’re tailored for each Claude platform— claude.ai , Claude Code, and Cowork. We arrived at each design gradually, after finding the balance between the capabilities we need from the agent and the degree of intervention required from the user. Pattern 1: The ephemeral container (claude.ai code execution) Though best known as a chat interface, claude.ai also writes and runs code, generates files, and calls connectors. When Claude runs code inside claude.ai, it does so in a gVisor container on isolated infrastructure. The agent is entirely server-side; no code runs on the local machine, and the filesystem is ephemeral (per-session). The blast radius is minimal, but so is the ceiling on what Claude can do—there&amp;#x27;s no persistent workspace and no access to the user&amp;#x27;s filesystem. This also makes claude.ai subject to a more traditional threat model. We&amp;#x27;re not protecting user machines from agents; we&amp;#x27;re protecting our own infrastructure and each tenant from one another. Our pre-launch work for claude.ai was dominated by traditional security work like network configuration, internal service auth, and orchestration. That work reinforced the oldest lesson in security: the weakest layer is the one you built yours...</description>
+      <pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
+      <guid>https://www.anthropic.com/engineering/how-we-contain-claude</guid>
     </item>
     <item>
-      <title>Astra on Replit ✨ https://t.co/ONm0dLAwoD</title>
-      <link>https://x.com/amasad/status/2095986658185453928</link>
-      <description>作者：Amjad Masad
-账号：@amasad
-简介：ceo @replit. civilizationist
+      <title>An update on recent Claude Code quality reports</title>
+      <link>https://www.anthropic.com/engineering/april-23-postmortem</link>
+      <description>作者：Anthropic Engineering
 
-Astra on Replit ✨ https://t.co/ONm0dLAwoD</description>
-      <pubDate>Fri, 04 Sep 2026 21:25:35 +0000</pubDate>
-      <guid isPermaLink="false">2095986658185453928</guid>
+Over the past month, we’ve been looking into reports that Claude’s responses have worsened for some users. We’ve traced these reports to three separate changes that affected Claude Code, the Claude Agent SDK, and Claude Cowork. The API was not impacted. All three issues have now been resolved as of April 20 (v2.1.116). In this post, we explain what we found, what we fixed, and what we’ll do differently to ensure similar issues are much less likely to happen again. We take reports about degradation very seriously. We never intentionally degrade our models, and we were able to immediately confirm that our API and inference layer were unaffected. After investigation, we identified three different issues: On March 4, we changed Claude Code&amp;#x27;s default reasoning effort from high to medium to reduce the very long latency—enough to make the UI appear frozen—some users were seeing in high mode. This was the wrong tradeoff. We reverted this change on April 7 after users told us they&amp;#x27;d prefer to default to higher intelligence and opt into lower effort for simple tasks. This impacted Sonnet 4.6 and Opus 4.6. On March 26, we shipped a change to clear Claude&amp;#x27;s older thinking from sessions that had been idle for over an hour, to reduce latency when users resumed those sessions. A bug caused this to keep happening every turn for the rest of the session instead of just once, which made Claude seem forgetful and repetitive. We fixed it on April 10. This affected Sonnet 4.6 and Opus 4.6. On April 16, we added a system prompt instruction to reduce verbosity. In combination with other prompt changes, it hurt coding quality and was reverted on April 20. This impacted Sonnet 4.6, Opus 4.6, and Opus 4.7. Because each change affected a different slice of traffic on a different schedule, the aggregate effect looked like broad, inconsistent degradation. While we began investigating reports in early March, they were challenging to distinguish from normal variation in user feedback at first, and neither our internal usage nor evals initially reproduced the issues identified. This isn’t the experience users should expect from Claude Code. As of April 23, we’re resetting usage limits for all subscribers. A change to Claude Code&amp;#x27;s default reasoning effort When we released Opus 4.6 in Claude Code in February, we set the default reasoning effort to high . Soon after, we received user feedback that Claude Opus 4.6 in high effort mode would occasionally think for too long, causing the UI to appear frozen and leading to disproportionate latency and token usage for those users. In general, the longer the model thinks, the better the output. Effort levels are how Claude Code lets users set that tradeoff—more thinking versus lower latency and fewer usage limit hits. As we calibrate effort levels for our models, we take this tradeoff into account in order to pick points along the test-time-compute curve that give people the best range of options. In the product layer, we then choose which point along this curve we set as our default, and that is the value we send to the Messages API as the effort parameter; we then make the other options available via /effort . In our internal evals and testing, medium effort achieved slightly lower intelligence with significantly less latency for the majority of tasks. It also didn’t suffer from the same issues with occasional very long tail latencies for thinking, and it helped maximize users’ usage limits. As a result, we rolled out a change making medium the default effort, and explained the rationale via in-product dialog. Soon after rolling out, users began reporting that Claude Code felt less intelligent. We shipped a number of design iterations to make the current effort setting clearer in order to alert people they could change the default (notices on startup, an inline effort selector, and bringing back ultrathink), but most users retained the medium effort default. After hearing feedback from more customers, we reversed this decision on April 7. All users now default to xhigh effort for Opus 4.7, and high effort for all other models. A caching optimization that dropped prior reasoning When Claude reasons through a task, that reasoning is normally kept in the conversation history so that on every subsequent turn, Claude can see why it made the edits and tool calls it did. On March 26, we shipped what was meant to be an efficiency improvement to this feature. We use prompt caching to make back-to-back API calls cheaper and faster for users. Claude writes the input tokens to the cache when it makes an API request, then after a period of inactivity the prompt is evicted from cache, making room for other prompts. Cache utilization is something we manage carefully (more on our approach ). The design should have been simple: if a session has been idle for more than an hour, we could reduce users’ cost of resuming that session by clearing old thinking sections. Since the request would be a cache miss anyway, we could prune unnecessary messages from the request to reduce the number of uncached tokens sent to the API. We’d then resume sending full reasoning history. To do this we used the clear_thinking_20251015 API header along with keep:1 . The implementation had a bug. Instead of clearing thinking history once, it cleared it on every turn for the rest of the session. After a session crossed the idle threshold once, each request for the rest of that process told the API to keep only the most recent block of reasoning and discard everything before it. This compounded: if you sent a follow-up message while Claude was in the middle of a tool use, that started a new turn under the broken flag, so even the reasoning from the current turn was dropped. Claude would continue executing, but increasingly without memory of why it had chosen to do what it was doing. This surfaced as the forgetfulness, repetition, and odd tool choices people reported. Because this would continuously drop thinking blocks from subsequent requests, those requests also resulted in cache misses. We believe this is what drove the separate reports of usage limits draining faster than expected. Two unrelated experiments made it challenging for us to reproduce the issue at first: an internal-only server-side experiment related to message queuing; and an orthogonal change in how we display thinking suppressed this bug in most CLI sessions, so we didn’t catch it even when testing external builds. This bug was at the intersection of Claude Code’s context management, the Anthropic API, and extended thinking. The changes it introduced made it past multiple human and automated code reviews, as well as unit tests, end-to-end tests, automated verification, and dogfooding. Combined with this only happening in a corner case (stale sessions) and the difficulty of reproducing the issue, it took us over a week to discover and confirm the root cause. As part of the investigation, we back-tested Code Review against the offending pull requests using Opus 4.7. When provided the code repositories necessary to gather complete context, Opus 4.7 found the bug, while Opus 4.6 didn&amp;#x27;t. To prevent this from happening again, we are now landing support for additional repositories as context for code reviews. We fixed this bug on April 10 in v2.1.101. A system prompt change to reduce verbosity Our latest model, Claude Opus 4.7, has a notable behavioral quirk relative to its predecessor: as we wrote about at launch, it tends to be quite verbose. This makes it smarter on hard problems, but it also produces more output tokens. A few weeks before we released Opus 4.7, we started tuning Claude Code in preparation. Each model behaves slightly differently, and we spend time before each release optimizing the harness and product for it. We have a number of tools to reduce verbosity: model training, prompting, and improving thinking UX in the product. Ultimately we used all of these, but one addition to...</description>
+      <pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
+      <guid>https://www.anthropic.com/engineering/april-23-postmortem</guid>
     </item>
     <item>
-      <title>GPT-6 Astra is now available to all Pro, Enterprise, and Business Premium users in Work/Codex, and is available in the API.  We will start rollout to Plus and Business users next.  Thank you for the patience.</title>
-      <link>https://x.com/sama/status/2095973658867171733</link>
-      <description>作者：Sam Altman
-账号：@sama
-简介：The mission of OpenAI to ensure that AGI benefits all of humanity
+      <title>Scaling Managed Agents: Decoupling the brain from the hands</title>
+      <link>https://www.anthropic.com/engineering/managed-agents</link>
+      <description>作者：Anthropic Engineering
 
-GPT-6 Astra is now available to all Pro, Enterprise, and Business Premium users in Work/Codex, and is available in the API.
-
-We will start rollout to Plus and Business users next.
-
-Thank you for the patience.</description>
-      <pubDate>Fri, 04 Sep 2026 20:33:56 +0000</pubDate>
-      <guid isPermaLink="false">2095973658867171733</guid>
+Get started with Claude Managed Agents by following our docs . A running topic on the Engineering Blog is how to build effective agents and design harnesses for long-running work . A common thread across this work is that harnesses encode assumptions about what Claude can’t do on its own. However, those assumptions need to be frequently questioned because they can go stale as models improve. As just one example, in prior work we found that Claude Sonnet 4.5 would wrap up tasks prematurely as it sensed its context limit approaching—a behavior sometimes called “context anxiety.” We addressed this by adding context resets to the harness. But when we used the same harness on Claude Opus 4.5, we found that the behavior was gone. The resets had become dead weight. We expect harnesses to continue evolving. So we built Managed Agents: a hosted service in the Claude Platform that runs long-horizon agents on your behalf through a small set of interfaces meant to outlast any particular implementation—including the ones we run today. Building Managed Agents meant solving an old problem in computing: how to design a system for “ programs as yet unthought of .” Decades ago, operating systems solved this problem by virtualizing hardware into abstractions— process, file —general enough for programs that didn&amp;#x27;t exist yet. The abstractions outlasted the hardware. The read() command is agnostic as to whether it’s accessing a disk pack from the 1970s or a modern SSD. The abstractions on top stayed stable while the implementations underneath changed freely. Managed Agents follow the same pattern. We virtualized the components of an agent: a session (the append-only log of everything that happened), a harness (the loop that calls Claude and routes Claude’s tool calls to the relevant infrastructure), and a sandbox (an execution environment where Claude can run code and edit files). This allows the implementation of each to be swapped without disturbing the others. We&amp;#x27;re opinionated about the shape of these interfaces, not about what runs behind them. Don’t adopt a pet We started by placing all agent components into a single container, which meant the session, agent harness, and sandbox all shared an environment. There were benefits to this approach, including that file edits are direct syscalls, and there were no service boundaries to design. But by coupling everything into one container, we ran into an old infrastructure problem: we’d adopted a pet . In the pets-vs-cattle analogy, a pet is a named, hand-tended individual you can’t afford to lose, while cattle are interchangeable. In our case, the server became that pet; if a container failed, the session was lost. If a container was unresponsive, we had to nurse it back to health. Nursing containers meant debugging unresponsive stuck sessions. Our only window in was the WebSocket event stream, but that couldn’t tell us where failures arose, which meant that a bug in the harness, a packet drop in the event stream, or a container going offline all presented the same. To figure out what went wrong, an engineer had to open a shell inside the container, but because that container often also held user data, that approach essentially meant we lacked the ability to debug. A second issue was that the harness assumed that whatever Claude worked on lived in the container with it. When customers asked us to connect Claude to their virtual private cloud, they had to either peer their network with ours, or run our harness in their own environment. An assumption baked into the harness became a problem when we wanted to connect it to different infrastructure. Decouple the brain from the hands The solution we arrived at was to decouple what we thought of as the “brain” (Claude and its harness) from both the “hands” (sandboxes and tools that perform actions) and the “session” (the log of session events). Each became an interface that made few assumptions about the others, and each could fail or be replaced independently. The harness leaves the container. Decoupling the brain from the hands meant the harness no longer lived inside the container. It called the container the way it called any other tool: execute(name, input) → string . The container became cattle. If the container died, the harness caught the failure as a tool-call error and passed it back to Claude. If Claude decided to retry, a new container could be reinitialized with a standard recipe: provision({resources}) . We no longer had to nurse failed containers back to health. Recovering from harness failure. The harness also became cattle. Because the session log sits outside the harness, nothing in the harness needs to survive a crash. When one fails, a new one can be rebooted with wake(sessionId) , use getSession(id) to get back the event log, and resume from the last event. During the agent loop, the harness writes to the session with emitEvent(id, event) in order to keep a durable record of events. The security boundary. In the coupled design, any untrusted code that Claude generated was run in the same container as credentials—so a prompt injection only had to convince Claude to read its own environment. Once an attacker has those tokens, they can spawn fresh, unrestricted sessions and delegate work to them. Narrow scoping is an obvious mitigation, but this encodes an assumption about what Claude can&amp;#x27;t do with a limited token—and Claude is getting increasingly smart. The structural fix was to make sure the tokens are never reachable from the sandbox where Claude’s generated code runs. We used two patterns to ensure this. Auth can be bundled with a resource or held in a vault outside the sandbox. For Git, we use each repository’s access token to clone the repo during sandbox initialization and wire it into the local git remote. Git push and pull work from inside the sandbox without the agent ever handling the token itself. For custom tools, we support MCP and store OAuth tokens in a secure vault. Claude calls MCP tools via a dedicated proxy; this proxy takes in a token associated with the session. The proxy can then fetch the corresponding credentials from the vault and make the call to the external service. The harness is never made aware of any credentials. The session is not Claude’s context window Long-horizon tasks often exceed the length of Claude’s context window, and the standard ways to address this all involve irreversible decisions about what to keep. We’ve explored these techniques in prior work on context engineering. For example, compaction lets Claude save a summary of its context window and the memory tool lets Claude write context to files, enabling learning across sessions. This can be paired with context trimming, which selectively removes tokens such as old tool results or thinking blocks. But irreversible decisions to selectively retain or discard context can lead to failures. It is difficult to know which tokens the future turns will need. If messages are transformed by a compaction step, the harness removes compacted messages from Claude’s context window, and these are recoverable only if they are stored. Prior work has explored ways to address this by storing context as an object that lives outside the context window. For example, context can be an object in a REPL that the LLM programmatically accesses by writing code to filter or slice it. In Managed Agents, the session provides this same benefit, serving as a context object that lives outside Claude’s context window. But rather than be stored within the sandbox or REPL, context is durably stored in the session log. The interface, getEvents(), allows the brain to interrogate context by selecting positional slices of the event stream. The interface can be used flexibly, allowing the brain to pick up from wherever it last stopped reading, rewinding a few events before a specific moment to see the lead up, or rereading context before a specific action. Any fetched events can also be tr...</description>
+      <pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
+      <guid>https://www.anthropic.com/engineering/managed-agents</guid>
     </item>
     <item>
-      <title>Absolutely insane experience using @AsideAI as an AI harness - trying to setup OpenClaw with Slack was a 2 hour experience.   Aside's harness with full integrations AND browser integration did it in less than 3 minutes, and it's fully featured with smart access control defaults https://t.co/ja81EcaM...</title>
-      <link>https://x.com/garrytan/status/2095971990645755941</link>
-      <description>作者：Garry Tan
-账号：@garrytan
-简介：President &amp; CEO @ycombinator —Founder @garryslist—Creator of GStack &amp; GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop
-
-Absolutely insane experience using @AsideAI as an AI harness - trying to setup OpenClaw with Slack was a 2 hour experience. 
-
-Aside's harness with full integrations AND browser integration did it in less than 3 minutes, and it's fully featured with smart access control defaults https://t.co/ja81EcaMUh</description>
-      <pubDate>Fri, 04 Sep 2026 20:27:18 +0000</pubDate>
-      <guid isPermaLink="false">2095971990645755941</guid>
-    </item>
-    <item>
-      <title>GStack now uses @AsideAI browser as it's preferred remote session browser  Does your AI agent need access to web and credentials as you? Aside is now the #1 absolute best way to do it I've found out of all AI agent tools.   Aside is a/ an amazing browser, b/ great at credentials, c/ has all the inte...</title>
-      <link>https://x.com/garrytan/status/2095948689823121872</link>
-      <description>作者：Garry Tan
-账号：@garrytan
-简介：President &amp; CEO @ycombinator —Founder @garryslist—Creator of GStack &amp; GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop
-
-GStack now uses @AsideAI browser as it's preferred remote session browser
-
-Does your AI agent need access to web and credentials as you? Aside is now the #1 absolute best way to do it I've found out of all AI agent tools. 
-
-Aside is a/ an amazing browser, b/ great at credentials, c/ has all the integrations you need and c/ actually an amazing harness and memory system in its own right
-
-It's my new favorite AI browser</description>
-      <pubDate>Fri, 04 Sep 2026 18:54:43 +0000</pubDate>
-      <guid isPermaLink="false">2095948689823121872</guid>
-    </item>
-    <item>
-      <title>AI software factories will yield bug-free, self-improving software https://t.co/m8J9LT2wbR</title>
-      <link>https://x.com/rauchg/status/2095926173293572467</link>
-      <description>作者：Guillermo Rauch
-账号：@rauchg
-简介：@vercel CEO
-
-AI software factories will yield bug-free, self-improving software https://t.co/m8J9LT2wbR</description>
-      <pubDate>Fri, 04 Sep 2026 17:25:14 +0000</pubDate>
-      <guid isPermaLink="false">2095926173293572467</guid>
-    </item>
-    <item>
-      <title>can’t help myself https://t.co/ZEZh9OlqvI</title>
-      <link>https://x.com/danshipper/status/2095925615467659637</link>
-      <description>作者：Dan Shipper
-账号：@danshipper
-简介：ceo @every | the only subscription you need to stay at the edge of AI
-
-can’t help myself https://t.co/ZEZh9OlqvI</description>
-      <pubDate>Fri, 04 Sep 2026 17:23:01 +0000</pubDate>
-      <guid isPermaLink="false">2095925615467659637</guid>
-    </item>
-    <item>
-      <title>Me: I totally understand how RL, inference time scaling, modern data-verification loops work.  Also Me: These models are total sorcery. There is no way that they should be able to do what they do.</title>
-      <link>https://x.com/adityaag/status/2095910036652577028</link>
-      <description>作者：Aditya Agarwal
-账号：@adityaag
-简介：General Partner @SPC, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @Dropbox, Board @Flipkart | Optimist, Builder, Dad
-
-Me: I totally understand how RL, inference time scaling, modern data-verification loops work.
-
-Also Me: These models are total sorcery. There is no way that they should be able to do what they do.</description>
-      <pubDate>Fri, 04 Sep 2026 16:21:07 +0000</pubDate>
-      <guid isPermaLink="false">2095910036652577028</guid>
-    </item>
-    <item>
-      <title>Here’s one practical thing you can do this weekend to get better at building AI products.  Pick a workflow you know well - from your personal life or your work.  Automate the whole thing with AI.  Use the AI product you’re comfortable with - you’ll probably have to experiment with a few.  This exerc...</title>
-      <link>https://x.com/realmadhuguru/status/2095907570540335174</link>
-      <description>作者：Madhu Guru
-账号：@realmadhuguru
-简介：Sr Director, AI at Meta; Prev: Google - Led Gemini, Veo, Nano Banana.
-
-Here’s one practical thing you can do this weekend to get better at building AI products.
-
-Pick a workflow you know well - from your personal life or your work.
-
-Automate the whole thing with AI.
-
-Use the AI product you’re comfortable with - you’ll probably have to experiment with a few.
-
-This exercise will force you to think about
-
-1/ What does a great end-to-end experience look like?
-2/ How should you use MCPs and tools?
-3/ Where should humans stay in the loop?
-4/ How do you evaluate it?
-
-Then keep expanding the ambition.
-
-You’ll learn more by doing this once than by reading about AI product building for a month.
-
-The only way to learn is to build.</description>
-      <pubDate>Fri, 04 Sep 2026 16:11:19 +0000</pubDate>
-      <guid isPermaLink="false">2095907570540335174</guid>
-    </item>
-    <item>
-      <title>Adding “sovereign” to this list based on the last few weeks https://t.co/Qyu5uXanZA</title>
-      <link>https://x.com/nikunj/status/2095890365723406590</link>
-      <description>作者：Nikunj Kothari
-账号：@nikunj
-简介：partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian &amp; others. love @shimoleejhaveri + 👦👧
-
-Adding “sovereign” to this list based on the last few weeks https://t.co/Qyu5uXanZA</description>
-      <pubDate>Fri, 04 Sep 2026 15:02:57 +0000</pubDate>
-      <guid isPermaLink="false">2095890365723406590</guid>
-    </item>
-    <item>
-      <title>can you tell Astra is running my @every office fantasy team  this is my team name: https://t.co/2t1fY52eFh</title>
-      <link>https://x.com/danshipper/status/2095885899871449385</link>
-      <description>作者：Dan Shipper
-账号：@danshipper
-简介：ceo @every | the only subscription you need to stay at the edge of AI
-
-can you tell Astra is running my @every office fantasy team
-
-this is my team name: https://t.co/2t1fY52eFh</description>
-      <pubDate>Fri, 04 Sep 2026 14:45:12 +0000</pubDate>
-      <guid isPermaLink="false">2095885899871449385</guid>
-    </item>
-    <item>
-      <title>From our recent pod:   https://t.co/ZOvmqrsNSx</title>
-      <link>https://x.com/mattturck/status/2095885287960264962</link>
-      <description>作者：Matt Turck
-账号：@mattturck
-简介：VC at @FirstMarkCap.  Host: MAD Podcast; Organizer: Data Driven NYC, Author: MAD Landscape.
-
-From our recent pod: 
-
-https://t.co/ZOvmqrsNSx</description>
-      <pubDate>Fri, 04 Sep 2026 14:42:46 +0000</pubDate>
-      <guid isPermaLink="false">2095885287960264962</guid>
-    </item>
-    <item>
-      <title>Hugging Face and @Thom_Wolf cannot stop winning, first the acquisition and now this comment lol https://t.co/Mj4Iy4ssT4</title>
-      <link>https://x.com/mattturck/status/2095885284801982779</link>
-      <description>作者：Matt Turck
-账号：@mattturck
-简介：VC at @FirstMarkCap.  Host: MAD Podcast; Organizer: Data Driven NYC, Author: MAD Landscape.
-
-Hugging Face and @Thom_Wolf cannot stop winning, first the acquisition and now this comment lol https://t.co/Mj4Iy4ssT4</description>
-      <pubDate>Fri, 04 Sep 2026 14:42:46 +0000</pubDate>
-      <guid isPermaLink="false">2095885284801982779</guid>
-    </item>
-    <item>
-      <title>i've got Astra doing film study for our @every fantasy football draft   we going to take over this league 😤 https://t.co/kMKz5XscV8</title>
-      <link>https://x.com/danshipper/status/2095882683729490108</link>
-      <description>作者：Dan Shipper
-账号：@danshipper
-简介：ceo @every | the only subscription you need to stay at the edge of AI
-
-i've got Astra doing film study for our @every fantasy football draft 
-
-we going to take over this league 😤 https://t.co/kMKz5XscV8</description>
-      <pubDate>Fri, 04 Sep 2026 14:32:26 +0000</pubDate>
-      <guid isPermaLink="false">2095882683729490108</guid>
-    </item>
-    <item>
-      <title>It’s coming 🤗 https://t.co/FUYGCMIFmV https://t.co/K9SJQxdAj6</title>
-      <link>https://x.com/amasad/status/2095792059647234204</link>
-      <description>作者：Amjad Masad
-账号：@amasad
-简介：ceo @replit. civilizationist
-
-It’s coming 🤗 https://t.co/FUYGCMIFmV https://t.co/K9SJQxdAj6</description>
-      <pubDate>Fri, 04 Sep 2026 08:32:19 +0000</pubDate>
-      <guid isPermaLink="false">2095792059647234204</guid>
-    </item>
-    <item>
-      <title>Redefining Chip Architecture with Arm CEO Rene Haas</title>
-      <link>https://www.youtube.com/@NoPriorsPodcast</link>
-      <description>播客：No Priors
-
-Speaker 1 | 00:00 - 00:15
-There's no computing problem that's ever been invented that doesn't utilize and can't utilize the microprocessor. It is the heart of everything. All roads lead through it, around it, past it. Something has to do the orchestration, arbitration decision around where those tokens go. That's what CPUs do.
-
-Speaker 1 | 00:15 - 00:36
-Chip design can take anywhere from twenty four to thirty six months depending on the complexity of the chip, etcetera, etcetera. The actual design is not the largest amount of time. The largest amount of time is in the verification, the validation, the debug. AI is really good at that. And if we were to shut it off, it's like being in the 1990s, you've got internet and you're now saying, you know, only internet between the hours of two and four.
-
-Speaker 2 | 00:36 - 00:37
-Yeah.
-
-Speaker 1 | 00:37 - 00:42
-After that, go to the library that we have down the hall. It'd be anarchy. Yeah. The genie's out of the bottle and there's no stopping that.
-
-Speaker 2 | 00:49 - 01:13
-Hi, listeners. Welcome back to No Priors. Today, Elad and I are here with Renee Haas, the CEO of ARM and SoftBank Group International. We talk about the position of ARM within the chip industry, the resurgence of interest in chip innovation, the challenges of the supply chain, the future of robotics, energy, his place in the SoftBank Group, and how he sees workloads changing in the future and for ARM. Renee, thanks so much for doing this with us.
-
-Speaker 1 | 01:13 - 01:13
-Pleasure.
-
-Speaker 2 | 01:14 - 01:36
-Congratulations on the chip presentation at hot chips and, you know, all of the progress that ARM has made. I think there's enormous amount of interest from the technology industry and the software industry and just sort better understanding the chip supply chain recently. For anybody who's not super familiar, can you explain Arm's position in it? And then we'll get into sort of more recent topics.
-
-Speaker 1 | 01:36 - 02:14
-So we have two positions in the chip supply chain. Our primary business is licensing IP, the CPU core that finds its way into smartphones, data centers, automobiles, you name it. Our customers are the ones who either build the chips themselves, a Samsung who's got their own fab, or the vast majority companies that take their chip designs and go to TSMC and get them taped out. So in that world, and this is the cool thing about ARM, because we're so broad in terms of the markets that we serve, we kind of see everything. We have a very good sense of what's going on in automotive, data center, smartphones.
-
-Speaker 1 | 02:14 - 02:37
-So we see the supply chain situation from all angles. We also introduced our first product last March, the one you just mentioned at Hotchips, the Army GI CPU. So now we're in that soup ourselves from the standpoint of we're also having to figure out how to buy substrates and buy wafers and buy memory, etcetera, etcetera. So we're up to our waste and everything on the supply side.
-
-Speaker 3 | 02:37 - 02:54
-Why'd you make the move now? So know, ARM, I believe, existed for a few decades now. The focus was always on IP, which is effectively like designing the way the different chip components are put together, then you license that out to other people to actually manufacture and incorporate into their designs. Why did you decide to start making some of your own CPUs?
-
-Speaker 1 | 02:54 - 03:36
-Yeah, was an evolution from the early days of where we just supplied simply the IP components, the pieces, the CPU IP, the GPU IP, the system IP, etcetera, etcetera. A few years ago, what we were starting to see was that product cycle times aren't slowing down, chip manufacturing times are extending, the ability to get solutions out faster was becoming more and more important. So we moved from these individual components into what we called compute subsystems. I used, when we did the road show a few years ago, I used the Lego analogy where essentially we're providing the blueprint on here's how you stitch it all together. Demand for that was insane.
-
-Speaker 1 | 03:36 - 03:54
-And what we were finding was we were, and we initially, people thought, well, people aren't gonna want these subsystems because that's what a chip designer does. Why are you providing that piece? But it saved time to market. And it saved a whole lot of things in terms of cost, speed, etcetera, etcetera. The physical product was sort of the next leap, if you will.
-
-Speaker 1 | 03:54 - 04:15
-And there are certain sets of customers that will license IP too, and they've got all the capability in the world to build chips based on ARM. There's a lot of companies who want to have product based on ARM. Not all of our customers build products that serve those markets. So Meta was that first example. They wanted a general purpose agentic CPU.
-
-Speaker 1 | 04:15 - 04:23
-There wasn't anybody out who could give it to them. They came to us and said, Hey, why don't we do this together? And that's how we got into it.
-
-Speaker 2 | 04:23 - 04:27
-How has that landed with the rest of your customer base?
-
-Speaker 1 | 04:27 - 05:10
-So one of the things that we were very careful about was getting, making sure the ecosystem was on board with this, because we do CPU IP, which is really only as good as the ecosystem, the ecosystem of chip people and the ecosystem of software folks and people who build around that. So we talked to just about everybody who were customers and said, you know, how do you feel about this is the direction we're going? And surprisingly, we got a lot less pushback than I thought. And the reason for that was the more software that's available in the wild, whether it's proprietary and or open source, benefits the broader ecosystem and the customers themselves. So whether it was Nvidia, Amazon, Microsoft, Google, all people who build ARM based server chips, they were all on board.
-
-Speaker 1 | 05:10 - 05:26
-And I think the ultimate proof point was when we announced the product last March, we had Jensen, we had Ronnie Bulker, we had Ahman, we had James Hamilton, all the folks from those customers I mentioned all saying, congratulations, it's a great thing. So it's been okay.
-
-Speaker 2 | 05:26 - 05:34
-Where are you in the learning cycle as a business now selling physical chips that feels like a lot of new capabilities?
-
-Speaker 1 | 05:35 - 05:52
-Yeah. So obviously to deliver a product, we're a fabless semi company, right? We don't have a fab and we have no intention to build a fab, but we fit in that ecosystem. But that means you need supply chain operations people. You need to work with, as I said, the TSMC's and Samsung's of the world.
-
-Speaker 1 | 05:53 - 06:17
-You need to work with the Samsung's and the Micron's, the SK hynix to get memory allocation. And then on the engineering side, you need a lot more different capabilities. You need backend people, layout people, implementation people, bring up labs, physical stuff, right? We didn't have a lot of physical stuff, which was kind of the beauty of the business, the original business.
-
-Speaker 2 | 06:17 - 06:21
-I remember discovering that Arm had a 98.5% gross margin.
-
-Speaker 1 | 06:21 - 06:23
-Yeah, kind of beautiful. I
-
-Speaker 2 | 06:23 - 06:24
-don't think I've seen that otherwise.
-
-Speaker 1 | 06:25 - 06:43
-I came from Nvidia before I came over here. Most of my career was in the chip world. And I remember coming to ARM in 2013 and thinking, no inventory, no RMA, no scrap, what's not to like? So we had to add a lot of those capabilities. We have a lot of people on the leadership team who've come from that world.
-
-Speaker 1 | 06:43 - 06:55
-I've got execs from Broadcom, Qualcomm, Nvidia. I work for Nvidia. So we have the leadership that's done this before in other companies. So we've been able to build up that muscle pretty quick.
-
-Speaker 3 | 06:55 - 07:15
-How have you approached AI adoption? So we were speaking earlier that there's news from Open Editor today about Jalapeno,...</description>
-      <pubDate>Thu, 03 Sep 2026 10:00:00 +0000</pubDate>
-      <guid>https://www.youtube.com/@NoPriorsPodcast</guid>
-    </item>
-    <item>
-      <title>Claude in Chrome is generally available</title>
-      <link>https://claude.com/blog/claude-in-chrome-generally-available</link>
+      <title>Claude Code now supports artifacts</title>
+      <link>https://claude.com/blog/artifacts-in-claude-code</link>
       <description>作者：Claude Blog
 
-Claude in Chrome is now generally available on every paid Claude plan. Claude can now also take actions autonomously in the browser, instead of needing approval for every one. A safety classifier validates each action before it’s performed to ensure it’s safe and matches your request. Many of the tools you use every day connect to Claude . But many others don’t, such as internal dashboards, legacy systems, and vendor portals. Claude in Chrome lets Claude access those. It can view the page you’re on and take actions like reading and typing text, clicking links, navigating between pages, and filling out forms, using your existing logins. We first announced Claude in Chrome as a pilot last year, so we could test it while also shoring up our defenses against prompt injection : malicious instructions hidden in websites, emails, or documents that try to trick an AI agent into acting against the user’s wishes. These defenses, described below, give us the confidence to make Claude in Chrome generally available. Safeguarding against prompt injection As we outlined when we announced the pilot, an AI agent that works in your browser is also vulnerable to prompt injection. So we’ve worked to improve our safeguards before releasing Claude in Chrome more widely. In a prompt injection attack, malicious actors hide instructions in web content such as a web page, an email, or a form field. You may never see them, but these instructions can redirect the agent to do something you never asked for. For example, if you’ve asked Claude to draft replies to your emails, a hidden instruction in one message could tell Claude to forward your other emails to the attacker instead. At launch, we described how we tested Claude’s defenses against these attacks and the safeguards we had in place at the time; we later released a more detailed description of our browser-use safeguards . Since then, we’ve improved how we train both the model and our probes , and added an additional set of classifiers that make it possible for Claude to safely take more autonomous actions in Chrome. In the next section, we discuss the results of our evaluations, which show the efficacy of these safeguards. Claude recognizes more attacks. We train Claude against a growing library of prompt injection attacks, sourced from our internal automated attackers, external red-teamers, and real-world monitoring. When a new attack succeeds against a current model, it’s added to the library, where it informs the training of future models and our deployed safeguards so they learn to recognize it. Since we first wrote about our prompt injection defenses for browser use in November 2025, we’ve made Claude substantially more resistant to these attacks. Probes screen web content before Claude acts on it. Web content reaches Claude through tool results. To take an action like reading a page or opening an email, the model makes a tool call; the tool result lets the model read the output (in this case, the content of the page or the email). We train probes to scan those results for potential prompt injections. When a probe detects a likely attack, Claude is warned to treat the content with suspicion and, if needed, to check with you before taking an action. We first deployed these probes with Claude Opus 4.5, and have since expanded the types of attacks they cover. Actions are verified before they run . In Claude in Chrome, Claude will now automatically approve actions it determines to be safe, using the same mechanism as auto mode in Claude Code. (You can switch this off in your settings if you’d prefer to continue to approve Claude’s actions manually.) A classifier reviews actions Claude is about to take, such as navigating to a new website or entering text into a page, and checks them against what you originally asked for. If the action doesn’t match your request, it’s blocked. Measuring Claude’s robustness against prompt injection We’ve tested these safeguards to ensure that Claude in Chrome is safe to use for browser-based work. Here, we report the results from our most recent evaluations. On our initial evaluation testing Claude Cowork’s resilience against prompt injection attacks (first developed when we released the Claude in Chrome pilot), no attack succeeded against Claude Fable 5, Claude Opus 5, or Claude Sonnet 5 in the Cowork harness , even without the probes and classifiers discussed above. Success rate of prompt injection attacks against Claude Opus 4.5, Sonnet 5, Opus 5, and Fable 5. Opus 4.5 was run with extended thinking, since it does not support our newer default of adaptive thinking. All other models were run with adaptive thinking at medium effort as the default. The results discussed in our November 2025 blog post were run without extended thinking enabled, but because thinking cannot be disabled for Fable 5, we report thinking-enabled results here. The grader model used in November is also no longer available, so we moved to a more capable grading pipeline combined with manual review of successful attacks, which produces fewer false positives. Because we saturated that evaluation (as evidenced by the 0% success rate), we decided to retire it. On our current evaluation , which uses stronger attacks sourced by professional red-teamers, attacks that reached the model succeeded against Opus 4.5 17.6% of the time and against Opus 5 3.8% of the time, before any additional safeguards. With the strongest safeguards available in November 2025, attacks against Opus 4.5 running with probes succeeded 16.7% of the time. Against every model from Opus 4.8 onwards, when running with probes and the safety classifier, no attacks succeeded against Claude Sonnet 5, Claude Opus 5, or Claude Mythos 5. We saw a 0.3% attack success rate against Fable 5. We have manually verified that all successful breaks are in low-severity scenarios and are working to mitigate them. No attacks succeeded against Claude Sonnet 5 or Opus 5 with probes plus the automatic approval safety classifiers, and 0.3% of attacks succeeded against Fable 5. Opus 4.5’s model behavior resulted in a lower number of attacks reaching the model, but it still had the highest percentage of successful attacks. Prompt injection remains a moving target. While this approach defends against current attacks, we also need to ensure our safeguards stay ahead of the evolving methods of attackers. With each model release, we continue to invest in developing more sophisticated automated systems for attack discovery, red-teaming, and building stronger classifiers. Getting started To start using Claude in Chrome, install it from the Chrome Web Store . On Enterprise plans, admins can manage it in Organization Settings and limit it to approved domains. See the admin setup guide . You’ll still need to use the Claude desktop app to work with files on your computer or with other applications. Claude in Chrome doesn’t run on other Chromium browsers or on mobile yet. ‍ ¹ Not all attacks reach—i.e., are seen by—the model. In some cases, the actions Claude takes result in it never encountering the malicious instructions.</description>
+Starting today, Claude Code can capture work progress as an artifact, which turn Claude Code&amp;#x27;s work into live, shareable visual pages— including PR walkthroughs, system explainers, dashboards, and release checklists—that update themselves as your session works. A Claude Code session can range from investigating an incident to refactoring a service to analyzing months of data. Artifacts translate the work into a web page anyone can open and explore, like a pull request walkthrough, a dashboard you can filter and sort, or even a release checklist that fills itself out as work gets done. Artifacts make it easier to collaborate on shared work, so teams can spend more time building and less time communicating status updates. Built on the context from your session Claude Code builds an artifact using the full context of your session, including your codebase, your connectors, and the conversation itself. A single incident page can bring together the failing test and the function behind it from your code, the error spike from a connected monitoring tool, and the root-cause reasoning from the session you just ran. With artifacts, you don&amp;#x27;t need to wire up data sources or stand up infrastructure. You ask for a page, and Claude Code builds it from what already exists. Live pages that update in place When Claude Code updates an artifact, the open page refreshes in place and teammates see the updates the moment they’re published. Every publish is a new version at the same link, with version history so you can restore at any time, and a gallery lets you browse and manage all artifacts you&amp;#x27;ve made. From our internal testing, one of our most common use cases has been debugging. These typically look something like: An engineer kicks off an incident investigation before standup. Claude Code works through the logs and publishes an artifact: a timeline, the suspect commits, and an error-rate chart. She shares the link with her team from the page header. By the time standup begins, Claude has republished it twice as the investigation progressed, incorporating the latest information. With artifacts, team members and stakeholders don’t have to &quot;walk us through what the agent found&quot; because they&amp;#x27;re all looking at the same view, with the same context. Private to your organization Every artifact is private to its author by default. When you&amp;#x27;re ready, share it with your teammates and your organization directly from the page. Artifacts are viewable only by authenticated members of your org and cannot be made public. Admins manage access with an org-level toggle and role-based scoping, set retention policies, and get org-wide visibility through the compliance API. Getting started Ask your session for an artifact — or just ask for something visual, h ere are some ideas by role: Legal / open source : A license audit of every dependency, flagging copyleft, straight from the repo. &quot;Build an artifact listing every third-party dependency and its license, flagging anything copyleft.&quot; Privacy : A data-flow map of where personal data is collected, stored, and logged across the code. &quot;Trace where we touch personal data across the codebase into an artifact for the privacy review.&quot; Security : Findings that link to the exact line, so the fix is unambiguous. &quot;Build an artifact of the auth findings from this review, each linked to the code.&quot; FinOps / platform finance : Cloud resources and cost drivers mapped from your infrastructure-as-code. &quot;Map our cloud resources from the Terraform into an artifact, grouped by service, with the big cost drivers.&quot; Software engineers : A PR or bug walkthrough reviewers can actually follow, pulled from the diff and the code around it. &quot;Make an artifact walking through this PR — the diff, the reasoning, and what I tested.&quot; Designers &amp; frontend engineers : Several UX directions for a screen, each built from your real components so the one you pick is shippable. &quot;Give me an artifact with 5 UX variations of this signup form, built from our component library.&quot; Staff engineers &amp; architects : A map of how a service actually fits together, drawn from the real import graph instead of a whiteboard. &quot;Map how the payments service fits together into an artifact, from the code.&quot; SRE &amp; on-call : An incident page that grows as you investigate and becomes the postmortem. &quot;Turn this incident into an artifact — timeline, suspect commits, error spike from our monitoring — and republish as I work through it.&quot; Engineering managers : A page of what actually shipped, built from the merged PRs. &quot;Build an artifact of what merged on my team this week from the PRs, grouped by project.&quot; Claude Code builds the page and gives you a link. Open it in your browser or the desktop app, share it from the header—updates publish to the same URL automatically. Availability Artifacts is available in beta to Claude Team and Enterprise orgs, from the Claude Code CLI and desktop app, with pages viewable in any browser. Get started today with Claude Code.</description>
       <pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
-      <guid>https://claude.com/blog/claude-in-chrome-generally-available</guid>
-    </item>
-    <item>
-      <title>Claude gets its own browser in Cowork</title>
-      <link>https://claude.com/blog/cowork-built-in-browser</link>
-      <description>作者：Claude Blog
-
-Claude now has a browser built into Claude Cowork on the desktop app. When a task needs to use a website, a browser opens in the side panel and Claude navigates webpages, reads them, clicks, and types. You can now hand off the web part of the task and stay where you are: Claude can fill in a form, pull numbers from a dashboard, or work through a portal that has no connector. No extension, no setup, and nothing shared from your own browser unless you choose to. Until now, giving Claude the ability to use the web in Cowork meant giving it access to your browser through the Claude in Chrome extension. When the work is on a page you already have open, that&amp;#x27;s still the right choice. But a lot of web tasks don&amp;#x27;t need your browser, just a browser, and now Claude has one. It&amp;#x27;s rolling out this week to Pro, Max, and Team plans in the Claude desktop app. Enterprise admins can turn it on for their organization starting today. Which browser, when It&amp;#x27;s Claude&amp;#x27;s browser, not yours. The built-in browser is separate from your own. Claude never sees your tabs, bookmarks, or passwords. To stay signed in to your sites, you can bring your logins over site by site, from Chrome, Edge, or Firefox on macOS and from Firefox on Windows and Linux. Banking, email, and single sign-on sites are left out unless you choose to include them. That&amp;#x27;s also the difference between the two ways Claude can use the web. The built-in browser is for handing web tasks to Claude while you keep working: gathering research for a report, or collecting this month’s invoices from a vendor portal. Claude in Chrome is for the page you already have open, with the accounts you&amp;#x27;re already signed in to, such as updating your CRM, working through your inbox, or editing the doc in front of you. If you already use Claude in Chrome, it keeps working and stays your default; otherwise Claude uses the built-in browser. Switch anytime in Settings → Cowork → Preferred browser. Staying in control The built-in browser carries the same prompt injection risks as any AI agent that acts in a browser, where instructions hidden in a page try to redirect Claude. It runs the same safeguards as Claude in Chrome, including the checks that review Claude&amp;#x27;s actions against what you asked for. We describe them on the Claude in Chrome blog post . Those measures meaningfully reduce the risk but can&amp;#x27;t eliminate it, so we recommend starting on sites you trust. Read our safety guide for more. Getting started The built-in browser is rolling out over the coming week to Pro, Max, and Team plans in the Claude desktop app on macOS, Windows, and Linux (in beta). Once it reaches you, it&amp;#x27;s on by default: give Claude a task that involves a website and the browser opens on its own. On Enterprise plans, it&amp;#x27;s available now and admins can manage it in Organization settings → Cowork → Built-in browser. The built-in browser lives in the desktop app. From the web or your phone, Claude can still drive it as long as your desktop app is open and online. On the web without the desktop app, Claude in Chrome remains the way to give Claude a browser.</description>
-      <pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
-      <guid>https://claude.com/blog/cowork-built-in-browser</guid>
+      <guid>https://claude.com/blog/artifacts-in-claude-code</guid>
     </item>
   </channel>
 </rss>
