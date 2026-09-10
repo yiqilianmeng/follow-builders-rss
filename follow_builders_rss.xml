@@ -5,442 +5,387 @@
     <link>https://github.com/zarazhangrui/follow-builders</link>
     <description>聚合 AI 领域建设者的 X、播客和博客内容。</description>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 10 Sep 2026 01:55:30 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 10:11:34 +0000</lastBuildDate>
     <item>
-      <title>Demand for Astra is really unprecedented. We're pulling all the levers possible to sustain the demand, but I've not seen anything like it until now and we went through very steep growth before. Priority will always be to keep excellent service for existing users, but we might have to pause new Pro s...</title>
-      <link>https://x.com/thsottiaux/status/2097559315150426222</link>
+      <title>Finally got cloud sessions working *fast* in OpenClaw. Remote Terminal, WebVNC and CUA for computer use. https://t.co/VwbyGV5k2p</title>
+      <link>https://x.com/steipete/status/2097935551735423464</link>
+      <description>作者：Peter Steinberger
+账号：@steipete
+简介：Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world.
+@OpenClaw🦞 + @OpenAI
+
+Finally got cloud sessions working *fast* in OpenClaw.
+Remote Terminal, WebVNC and CUA for computer use. https://t.co/VwbyGV5k2p</description>
+      <pubDate>Thu, 10 Sep 2026 06:29:47 +0000</pubDate>
+      <guid isPermaLink="false">2097935551735423464</guid>
+    </item>
+    <item>
+      <title>The world is going to be using coding agents for far more than anyone would have thought before.   We’ll be building tools in all new categories, building software for companies that couldn’t afford it before, using agents to protect systems from cyber risk, automating research in life sciences, pro...</title>
+      <link>https://x.com/levie/status/2097920810543468551</link>
+      <description>作者：Aaron Levie
+账号：@levie
+简介：ceo @box - your business lives in content. unleash it with AI
+
+The world is going to be using coding agents for far more than anyone would have thought before. 
+
+We’ll be building tools in all new categories, building software for companies that couldn’t afford it before, using agents to protect systems from cyber risk, automating research in life sciences, processing insane amounts of data in complex workflows, upgrading legacy systems and infrastructures, and hundreds of other use cases.
+
+In short, by lowering the cost of code, we are going to do so much more with it. This will result in software becoming more useful and the leverage of engineers going up dramatically, which coincidentally will mean we need more of them, not fewer.</description>
+      <pubDate>Thu, 10 Sep 2026 05:31:13 +0000</pubDate>
+      <guid isPermaLink="false">2097920810543468551</guid>
+    </item>
+    <item>
+      <title>One of the greatest joys is debating new model names with researchers. They come up with the most hilarious stuff</title>
+      <link>https://x.com/thsottiaux/status/2097912273264095536</link>
       <description>作者：Thibault Sottiaux
 账号：@thsottiaux
 简介：Codex &amp; ChatGPT @OpenAI
 
-Demand for Astra is really unprecedented. We're pulling all the levers possible to sustain the demand, but I've not seen anything like it until now and we went through very steep growth before. Priority will always be to keep excellent service for existing users, but we might have to pause new Pro subscriptions for a bit if this continues.</description>
-      <pubDate>Wed, 09 Sep 2026 05:34:46 +0000</pubDate>
-      <guid isPermaLink="false">2097559315150426222</guid>
+One of the greatest joys is debating new model names with researchers. They come up with the most hilarious stuff</description>
+      <pubDate>Thu, 10 Sep 2026 04:57:17 +0000</pubDate>
+      <guid isPermaLink="false">2097912273264095536</guid>
     </item>
     <item>
-      <title>Also note that well aligned models are not sufficient to solve prompt injection by themselves yet. That said, we have solved prompt injection in practice when layering our latest models with prompt injection probes (on by default for all traffic) and auto mode (also on by default). The little bit of...</title>
-      <link>https://x.com/bcherny/status/2097557079762624563</link>
-      <description>作者：Boris Cherny
-账号：@bcherny
-简介：Claude Code @anthropicai
+      <title>Dashboards/Mini-Apps was something I pushed two months ago and now it replaced lots of custom tooling we built around OC. Everything’s a sidebar entry, a dashboard or a plugin now for our team server. https://t.co/sykNUwBqrX</title>
+      <link>https://x.com/steipete/status/2097880507753382201</link>
+      <description>作者：Peter Steinberger
+账号：@steipete
+简介：Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world.
+@OpenClaw🦞 + @OpenAI
 
-Also note that well aligned models are not sufficient to solve prompt injection by themselves yet. That said, we have solved prompt injection in practice when layering our latest models with prompt injection probes (on by default for all traffic) and auto mode (also on by default). The little bit of scaffolding helps.
-
-https://t.co/z4jN6ip3cs</description>
-      <pubDate>Wed, 09 Sep 2026 05:25:53 +0000</pubDate>
-      <guid isPermaLink="false">2097557079762624563</guid>
+Dashboards/Mini-Apps was something I pushed two months ago and now it replaced lots of custom tooling we built around OC. Everything’s a sidebar entry, a dashboard or a plugin now for our team server. https://t.co/sykNUwBqrX</description>
+      <pubDate>Thu, 10 Sep 2026 02:51:04 +0000</pubDate>
+      <guid isPermaLink="false">2097880507753382201</guid>
     </item>
     <item>
-      <title>Run your own game  It's going to work out https://t.co/fdy2X1GkYa</title>
-      <link>https://x.com/garrytan/status/2097540189430415785</link>
-      <description>作者：Garry Tan
-账号：@garrytan
-简介：President &amp; CEO @ycombinator —Founder @garryslist—Creator of GStack &amp; GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop
+      <title>Finally https://t.co/7cyHiAyVQO</title>
+      <link>https://x.com/nikunj/status/2097870497505837478</link>
+      <description>作者：Nikunj Kothari
+账号：@nikunj
+简介：partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian &amp; others. love @shimoleejhaveri + 👦👧
 
-Run your own game
-
-It's going to work out https://t.co/fdy2X1GkYa</description>
-      <pubDate>Wed, 09 Sep 2026 04:18:46 +0000</pubDate>
-      <guid isPermaLink="false">2097540189430415785</guid>
+Finally https://t.co/7cyHiAyVQO</description>
+      <pubDate>Thu, 10 Sep 2026 02:11:17 +0000</pubDate>
+      <guid isPermaLink="false">2097870497505837478</guid>
     </item>
     <item>
-      <title>They should actually declare this area in SF a treatment &amp;amp; recovery sober zone  All nonprofits in this area must commit to sober housing and mandatory recovery and treatment https://t.co/UAOchs0ZUL</title>
-      <link>https://x.com/garrytan/status/2097539792619864190</link>
-      <description>作者：Garry Tan
-账号：@garrytan
-简介：President &amp; CEO @ycombinator —Founder @garryslist—Creator of GStack &amp; GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop
-
-They should actually declare this area in SF a treatment &amp;amp; recovery sober zone
-
-All nonprofits in this area must commit to sober housing and mandatory recovery and treatment https://t.co/UAOchs0ZUL</description>
-      <pubDate>Wed, 09 Sep 2026 04:17:11 +0000</pubDate>
-      <guid isPermaLink="false">2097539792619864190</guid>
-    </item>
-    <item>
-      <title>Token volume on @vercel AI Gateway has averaged double-digit weekly growth for 8 straight weeks. Last week it accelerated to +24.8%. It’s almost inconceivable. Infinite demand of intelligence.</title>
-      <link>https://x.com/rauchg/status/2097531548555997459</link>
+      <title>AI Benchmarks with @Benchmark &amp; @Vercel.  It's ① the most aptly named event in SF history and ② about one of the most important software categories of our generation.  The companies that benchmark models and guide the world towards skill, truth and efficiency.  Join us: https://t.co/9qRlfX4eGO</title>
+      <link>https://x.com/rauchg/status/2097837950612717804</link>
       <description>作者：Guillermo Rauch
 账号：@rauchg
 简介：@vercel CEO
 
-Token volume on @vercel AI Gateway has averaged double-digit weekly growth for 8 straight weeks. Last week it accelerated to +24.8%. It’s almost inconceivable. Infinite demand of intelligence.</description>
-      <pubDate>Wed, 09 Sep 2026 03:44:26 +0000</pubDate>
-      <guid isPermaLink="false">2097531548555997459</guid>
+AI Benchmarks with @Benchmark &amp; @Vercel.
+
+It's ① the most aptly named event in SF history and ② about one of the most important software categories of our generation.
+
+The companies that benchmark models and guide the world towards skill, truth and efficiency.
+
+Join us: https://t.co/9qRlfX4eGO</description>
+      <pubDate>Thu, 10 Sep 2026 00:01:58 +0000</pubDate>
+      <guid isPermaLink="false">2097837950612717804</guid>
     </item>
     <item>
-      <title>/goal understand the universe</title>
-      <link>https://x.com/rauchg/status/2097525477900685468</link>
-      <description>作者：Guillermo Rauch
-账号：@rauchg
-简介：@vercel CEO
+      <title>This is brilliant. https://t.co/39dr9faUMC</title>
+      <link>https://x.com/steipete/status/2097830230899769349</link>
+      <description>作者：Peter Steinberger
+账号：@steipete
+简介：Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world.
+@OpenClaw🦞 + @OpenAI
 
-/goal understand the universe</description>
-      <pubDate>Wed, 09 Sep 2026 03:20:18 +0000</pubDate>
-      <guid isPermaLink="false">2097525477900685468</guid>
+This is brilliant. https://t.co/39dr9faUMC</description>
+      <pubDate>Wed, 09 Sep 2026 23:31:17 +0000</pubDate>
+      <guid isPermaLink="false">2097830230899769349</guid>
     </item>
     <item>
-      <title>OpenAI wrote up more here but wish this was disclosed much sooner https://t.co/wljaLILldU</title>
-      <link>https://x.com/trq212/status/2097522316125372570</link>
-      <description>作者：Thariq
-账号：@trq212
-简介：Claude Code @anthropicai. prev YC W20, @spc, @medialab
-
-OpenAI wrote up more here but wish this was disclosed much sooner https://t.co/wljaLILldU</description>
-      <pubDate>Wed, 09 Sep 2026 03:07:44 +0000</pubDate>
-      <guid isPermaLink="false">2097522316125372570</guid>
-    </item>
-    <item>
-      <title>I didn’t understand what was happening with the agent wikis until reading this, chilling  to bypass sandbox restrictions, an agent found an exempt domain, edited /etc/hosts to route arbitrary domains to it &amp;amp; then posted this exploit on a German wiki for other agents to use https://t.co/5io5nlOrZ...</title>
-      <link>https://x.com/trq212/status/2097522305916395786</link>
-      <description>作者：Thariq
-账号：@trq212
-简介：Claude Code @anthropicai. prev YC W20, @spc, @medialab
-
-I didn’t understand what was happening with the agent wikis until reading this, chilling
-
-to bypass sandbox restrictions, an agent found an exempt domain, edited /etc/hosts to route arbitrary domains to it &amp;amp; then posted this exploit on a German wiki for other agents to use https://t.co/5io5nlOrZy https://t.co/vsNRV7QvwU</description>
-      <pubDate>Wed, 09 Sep 2026 03:07:42 +0000</pubDate>
-      <guid isPermaLink="false">2097522305916395786</guid>
-    </item>
-    <item>
-      <title>See you at the Astra party. Excited to meet some of you https://t.co/WOICELwSrQ</title>
-      <link>https://x.com/thsottiaux/status/2097492424474165293</link>
+      <title>Happy to be building here with you all. Lots to explore</title>
+      <link>https://x.com/thsottiaux/status/2097829053147582782</link>
       <description>作者：Thibault Sottiaux
 账号：@thsottiaux
 简介：Codex &amp; ChatGPT @OpenAI
 
-See you at the Astra party. Excited to meet some of you https://t.co/WOICELwSrQ</description>
-      <pubDate>Wed, 09 Sep 2026 01:08:58 +0000</pubDate>
-      <guid isPermaLink="false">2097492424474165293</guid>
+Happy to be building here with you all. Lots to explore</description>
+      <pubDate>Wed, 09 Sep 2026 23:26:36 +0000</pubDate>
+      <guid isPermaLink="false">2097829053147582782</guid>
     </item>
     <item>
-      <title>Just realized you can ask Codex to fire a confetti in the chat 🎉 https://t.co/PMCbBqH2Ci</title>
-      <link>https://x.com/zarazhangrui/status/2097489234500390929</link>
+      <title>8 price cuts, fee removals and structure improvements, plus 16 model discounts… in the last 6 months alone. More to come… https://t.co/pCIUumUVEr</title>
+      <link>https://x.com/rauchg/status/2097828203658383674</link>
+      <description>作者：Guillermo Rauch
+账号：@rauchg
+简介：@vercel CEO
+
+8 price cuts, fee removals and structure improvements, plus 16 model discounts… in the last 6 months alone. More to come… https://t.co/pCIUumUVEr</description>
+      <pubDate>Wed, 09 Sep 2026 23:23:14 +0000</pubDate>
+      <guid isPermaLink="false">2097828203658383674</guid>
+    </item>
+    <item>
+      <title>i love looking at the @every slack https://t.co/tQU2kjg1le</title>
+      <link>https://x.com/danshipper/status/2097796322145562900</link>
+      <description>作者：Dan Shipper
+账号：@danshipper
+简介：ceo @every | the only subscription you need to stay at the edge of AI
+
+i love looking at the @every slack https://t.co/tQU2kjg1le</description>
+      <pubDate>Wed, 09 Sep 2026 21:16:33 +0000</pubDate>
+      <guid isPermaLink="false">2097796322145562900</guid>
+    </item>
+    <item>
+      <title>Welcome, Paul.  Grateful you are doing this, and all you have done for AI safety. Excited to work together again. https://t.co/k6NUqN6Lsd</title>
+      <link>https://x.com/sama/status/2097776310940569783</link>
+      <description>作者：Sam Altman
+账号：@sama
+简介：The mission of OpenAI to ensure that AGI benefits all of humanity
+
+Welcome, Paul.
+
+Grateful you are doing this, and all you have done for AI safety. Excited to work together again. https://t.co/k6NUqN6Lsd</description>
+      <pubDate>Wed, 09 Sep 2026 19:57:01 +0000</pubDate>
+      <guid isPermaLink="false">2097776310940569783</guid>
+    </item>
+    <item>
+      <title>When is this coming to mobile for Work and Remote Codex threads? Seems to be only available for Chat threads https://t.co/SjpzARwZfK</title>
+      <link>https://x.com/petergyang/status/2097763574886375832</link>
+      <description>作者：Peter Yang
+账号：@petergyang
+简介：Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6
+
+When is this coming to mobile for Work and Remote Codex threads? Seems to be only available for Chat threads https://t.co/SjpzARwZfK</description>
+      <pubDate>Wed, 09 Sep 2026 19:06:25 +0000</pubDate>
+      <guid isPermaLink="false">2097763574886375832</guid>
+    </item>
+    <item>
+      <title>this is a very good and well designed report  however, two impt assumptions in it that significantly change the analysis once you start to play with it:  1. the report assumes that jobs can be decomposed into tasks 2. the report models human tasks created by automation always as a fraction of automa...</title>
+      <link>https://x.com/danshipper/status/2097758891270697101</link>
+      <description>作者：Dan Shipper
+账号：@danshipper
+简介：ceo @every | the only subscription you need to stay at the edge of AI
+
+this is a very good and well designed report
+
+however, two impt assumptions in it that significantly change the analysis once you start to play with it:
+
+1. the report assumes that jobs can be decomposed into tasks
+2. the report models human tasks created by automation always as a fraction of automated tasks. in other words, the underlying assumptions is automation always reduces human labor (or at best leaves it the same)
+
+taken in reverse order:
+
+does automation always reduce human work?
+in my experience, the answer is no. automation often creates multiples more work for humans. 
+
+i have a full argument here (https://t.co/Lb7SUCe2pO) for why this is structurally true. but i think any honest analysis of the economic impacts of AI has to take work creation seriously. 
+
+can jobs be decomposed into tasks?
+yes, that is a useful lens. but lists of tasks is a way of looking at jobs—one that makes the question of how much of a job is automatable actually tractable. therefore, it's useful.
+
+but this is not the full picture, it's just jobs as exposed to our method of questioning. 
+
+a good example: under this model, where do the new tasks come from? are they just from bosses that add a list to the task list for workers to complete? where do those tasks come from? unless you can model that well you are missing a key term in the analysis (see the first point above.)
+
+another way of looking at this, borrowing from wittgenstein and heidegger, is that a job is a particular way of seeing and caring about the world. an editor notices things a nurse doesn’t, and vice versa. what you care about shapes what you notice, what seems worth doing, and what counts as doing it well. you can make some of that explicit as a task list. but as your tools and circumstances change, the same cares can generate entirely new tasks. that process is part of the job.
+
+the above is completely missing from this analysis (understandably because it's, by definition, very hard to model!) 
+
+but if you take it seriously, it shoudl substantially change your perspective automation and jobs</description>
+      <pubDate>Wed, 09 Sep 2026 18:47:48 +0000</pubDate>
+      <guid isPermaLink="false">2097758891270697101</guid>
+    </item>
+    <item>
+      <title>There was a bit of a kerfuffle this morning with some banked resets not fully applying when used in ChatGPT Work and Codex. Everyone who used one in the affected time window is getting another one and an email to apologize.</title>
+      <link>https://x.com/thsottiaux/status/2097752790177370535</link>
+      <description>作者：Thibault Sottiaux
+账号：@thsottiaux
+简介：Codex &amp; ChatGPT @OpenAI
+
+There was a bit of a kerfuffle this morning with some banked resets not fully applying when used in ChatGPT Work and Codex. Everyone who used one in the affected time window is getting another one and an email to apologize.</description>
+      <pubDate>Wed, 09 Sep 2026 18:23:34 +0000</pubDate>
+      <guid isPermaLink="false">2097752790177370535</guid>
+    </item>
+    <item>
+      <title>The way to the reconcile capability level of AI vs. GDP impact is that the diffusion of AI will take much longer than people think. And it will also show up in ways that are hard to measure in GDP immediately.   You could bring the world’s greatest superintelligence to many workflows, and still be b...</title>
+      <link>https://x.com/levie/status/2097738533297689012</link>
+      <description>作者：Aaron Levie
+账号：@levie
+简介：ceo @box - your business lives in content. unleash it with AI
+
+The way to the reconcile capability level of AI vs. GDP impact is that the diffusion of AI will take much longer than people think. And it will also show up in ways that are hard to measure in GDP immediately. 
+
+You could bring the world’s greatest superintelligence to many workflows, and still be bound by the laws of corporate physics: getting data prepared and put into a pipeline, process reengineering and change management, aligning on how the new workflow should function, and so on.
+
+Even after you solve all that, you’re still bound by the speed of the real world: waiting for a customer to respond to a proposal, getting a permit for a project, a drug discovery pipeline taking years to eventually reach the consumer, and so on. Not to mention lots of positive daily AI use-cases are entirely net neutral to GDP, at least in the near term.
+
+AI diffusion is going to be the theme of the next decade. The upside is that there’s a tremendous amount of opportunity in building the bridges between superintelligence and real-world workflows.</description>
+      <pubDate>Wed, 09 Sep 2026 17:26:55 +0000</pubDate>
+      <guid isPermaLink="false">2097738533297689012</guid>
+    </item>
+    <item>
+      <title>To anyone questioning whether VCs can be up in the middle of the night like founders, we showed great grit at the latest-ever US open finish last night #inspiring https://t.co/m90uN1V7Et</title>
+      <link>https://x.com/mattturck/status/2097738051577422256</link>
+      <description>作者：Matt Turck
+账号：@mattturck
+简介：VC at @FirstMarkCap.  Host: MAD Podcast; Organizer: Data Driven NYC, Author: MAD Landscape.
+
+To anyone questioning whether VCs can be up in the middle of the night like founders, we showed great grit at the latest-ever US open finish last night #inspiring https://t.co/m90uN1V7Et</description>
+      <pubDate>Wed, 09 Sep 2026 17:25:00 +0000</pubDate>
+      <guid isPermaLink="false">2097738051577422256</guid>
+    </item>
+    <item>
+      <title>More coming soon at SPC https://t.co/SOr7Xrr8UM</title>
+      <link>https://x.com/adityaag/status/2097736851872153633</link>
+      <description>作者：Aditya Agarwal
+账号：@adityaag
+简介：General Partner @SPC, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @Dropbox, Board @Flipkart | Optimist, Builder, Dad
+
+More coming soon at SPC https://t.co/SOr7Xrr8UM</description>
+      <pubDate>Wed, 09 Sep 2026 17:20:14 +0000</pubDate>
+      <guid isPermaLink="false">2097736851872153633</guid>
+    </item>
+    <item>
+      <title>Spots limited, RSVP here https://t.co/gmW9Zvf1up</title>
+      <link>https://x.com/adityaag/status/2097736850244845898</link>
+      <description>作者：Aditya Agarwal
+账号：@adityaag
+简介：General Partner @SPC, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @Dropbox, Board @Flipkart | Optimist, Builder, Dad
+
+Spots limited, RSVP here https://t.co/gmW9Zvf1up</description>
+      <pubDate>Wed, 09 Sep 2026 17:20:13 +0000</pubDate>
+      <guid isPermaLink="false">2097736850244845898</guid>
+    </item>
+    <item>
+      <title>One of the greatest examples of human-oriented technology is @Waymo.    But it took a long road to get here.  @dmitri_dolgov joined Google's self-driving project in 2009. He's now leading Waymo as co-CEO.  He's coming by @spc this month. https://t.co/Wy8ei9Q38x</title>
+      <link>https://x.com/adityaag/status/2097736847879192917</link>
+      <description>作者：Aditya Agarwal
+账号：@adityaag
+简介：General Partner @SPC, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @Dropbox, Board @Flipkart | Optimist, Builder, Dad
+
+One of the greatest examples of human-oriented technology is @Waymo.  
+
+But it took a long road to get here.
+
+@dmitri_dolgov joined Google's self-driving project in 2009. He's now leading Waymo as co-CEO.
+
+He's coming by @spc this month. https://t.co/Wy8ei9Q38x</description>
+      <pubDate>Wed, 09 Sep 2026 17:20:13 +0000</pubDate>
+      <guid isPermaLink="false">2097736847879192917</guid>
+    </item>
+    <item>
+      <title>My favorite way to test a new model's thinking abilities:  Ask it for brutally honest feedback about your blind spots that are holding you back with this prompt (just paste the whole image into ChatGPT).  Astra's feedback was especially blunt :)  📌 Read the full post here: https://t.co/mcF7mGuVhL</title>
+      <link>https://x.com/petergyang/status/2097729250505966046</link>
+      <description>作者：Peter Yang
+账号：@petergyang
+简介：Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6
+
+My favorite way to test a new model's thinking abilities:
+
+Ask it for brutally honest feedback about your blind spots that are holding you back with this prompt (just paste the whole image into ChatGPT).
+
+Astra's feedback was especially blunt :)
+
+📌 Read the full post here: https://t.co/mcF7mGuVhL</description>
+      <pubDate>Wed, 09 Sep 2026 16:50:01 +0000</pubDate>
+      <guid isPermaLink="false">2097729250505966046</guid>
+    </item>
+    <item>
+      <title>Jane Kim: Big Talk, little respect for facts, outright falsehoods  Jane Kim is a NIMBY who helped create the SF doom loop, and now she's failing up: she wants to be CA Insurance Commissioner  She is no public servant. We should keep her out of office.   https://t.co/ryRKwZVylb https://t.co/wdrSp3Sd1...</title>
+      <link>https://x.com/garrytan/status/2097728692596486487</link>
+      <description>作者：Garry Tan
+账号：@garrytan
+简介：President &amp; CEO @ycombinator —Founder @garryslist—Creator of GStack &amp; GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop
+
+Jane Kim: Big Talk, little respect for facts, outright falsehoods
+
+Jane Kim is a NIMBY who helped create the SF doom loop, and now she's failing up: she wants to be CA Insurance Commissioner
+
+She is no public servant. We should keep her out of office. 
+
+https://t.co/ryRKwZVylb https://t.co/wdrSp3Sd15</description>
+      <pubDate>Wed, 09 Sep 2026 16:47:48 +0000</pubDate>
+      <guid isPermaLink="false">2097728692596486487</guid>
+    </item>
+    <item>
+      <title>Introducing Apple Orbital Strike https://t.co/rlFQx2rC38</title>
+      <link>https://x.com/thenanyu/status/2097726586191851790</link>
+      <description>作者：Nan Yu
+账号：@thenanyu
+简介：(soon) member of product staff @openai. prev head of product @linear. I am grader.
+
+Introducing Apple Orbital Strike https://t.co/rlFQx2rC38</description>
+      <pubDate>Wed, 09 Sep 2026 16:39:26 +0000</pubDate>
+      <guid isPermaLink="false">2097726586191851790</guid>
+    </item>
+    <item>
+      <title>I instlaled @poteto's Dr Eggbot for making new Grok @bot (highly recommended!) but had to rename it to Dr Light so it doesn't become evil 😅 https://t.co/qMfmNxzOvb</title>
+      <link>https://x.com/petergyang/status/2097719517057253527</link>
+      <description>作者：Peter Yang
+账号：@petergyang
+简介：Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6
+
+I instlaled @poteto's Dr Eggbot for making new Grok @bot (highly recommended!) but had to rename it to Dr Light so it doesn't become evil 😅 https://t.co/qMfmNxzOvb</description>
+      <pubDate>Wed, 09 Sep 2026 16:11:21 +0000</pubDate>
+      <guid isPermaLink="false">2097719517057253527</guid>
+    </item>
+    <item>
+      <title>If you're building on the Claude Platform, get listed and make it easier for our customers to buy your product: https://t.co/uZTPm62iKU</title>
+      <link>https://x.com/claudeai/status/2097718982920855834</link>
+      <description>作者：Claude
+账号：@claudeai
+简介：Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Talk to Claude on https://t.co/ZhTwG8d1e5 or download the app.
+
+If you're building on the Claude Platform, get listed and make it easier for our customers to buy your product: https://t.co/uZTPm62iKU</description>
+      <pubDate>Wed, 09 Sep 2026 16:09:13 +0000</pubDate>
+      <guid isPermaLink="false">2097718982920855834</guid>
+    </item>
+    <item>
+      <title>New on Claude Marketplace: @CrowdStrike, @cursor_ai, @FactoryAI, @GammaApp, and @vercel.  Enterprises can now use their Anthropic spend commitment to buy more Claude-powered products and agents.  Get started: https://t.co/L14yHet6h3 https://t.co/ZdoWCw7th3 https://t.co/zX1HFU1iG2</title>
+      <link>https://x.com/claudeai/status/2097718980437831935</link>
+      <description>作者：Claude
+账号：@claudeai
+简介：Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Talk to Claude on https://t.co/ZhTwG8d1e5 or download the app.
+
+New on Claude Marketplace: @CrowdStrike, @cursor_ai, @FactoryAI, @GammaApp, and @vercel.
+
+Enterprises can now use their Anthropic spend commitment to buy more Claude-powered products and agents.
+
+Get started: https://t.co/L14yHet6h3 https://t.co/ZdoWCw7th3 https://t.co/zX1HFU1iG2</description>
+      <pubDate>Wed, 09 Sep 2026 16:09:13 +0000</pubDate>
+      <guid isPermaLink="false">2097718980437831935</guid>
+    </item>
+    <item>
+      <title>ocarina of time remake is the best news in a long time.  i will be unavailable november 5 and 6; need to find a case of mountain dew.</title>
+      <link>https://x.com/sama/status/2097696043492143157</link>
+      <description>作者：Sam Altman
+账号：@sama
+简介：The mission of OpenAI to ensure that AGI benefits all of humanity
+
+ocarina of time remake is the best news in a long time.
+
+i will be unavailable november 5 and 6; need to find a case of mountain dew.</description>
+      <pubDate>Wed, 09 Sep 2026 14:38:04 +0000</pubDate>
+      <guid isPermaLink="false">2097696043492143157</guid>
+    </item>
+    <item>
+      <title>This would suck, but we will prioritize great service for customers until we can get back on top of things. https://t.co/Qi5ssKJic6</title>
+      <link>https://x.com/sama/status/2097695001341829212</link>
+      <description>作者：Sam Altman
+账号：@sama
+简介：The mission of OpenAI to ensure that AGI benefits all of humanity
+
+This would suck, but we will prioritize great service for customers until we can get back on top of things. https://t.co/Qi5ssKJic6</description>
+      <pubDate>Wed, 09 Sep 2026 14:33:56 +0000</pubDate>
+      <guid isPermaLink="false">2097695001341829212</guid>
+    </item>
+    <item>
+      <title>Idea is easy Conviction is hard</title>
+      <link>https://x.com/zarazhangrui/status/2097599758391255259</link>
       <description>作者：Zara Zhang
 账号：@zarazhangrui
 简介：Builder. Make something people want, then make people want it. Harvard’17. GitHub: https://t.co/KCuEaje1wd 
 YouTube: https://t.co/8xzbGWsHgY
 
-Just realized you can ask Codex to fire a confetti in the chat 🎉 https://t.co/PMCbBqH2Ci</description>
-      <pubDate>Wed, 09 Sep 2026 00:56:17 +0000</pubDate>
-      <guid isPermaLink="false">2097489234500390929</guid>
-    </item>
-    <item>
-      <title>I am pleased to see that Ant’s new Claude Code has a version of background computer use on par with the version from Codex from last May this year. Nice work!  Shipping great features first turns out to be a great way to encourage other labs to ship too. We will continue to do this until other labs ...</title>
-      <link>https://x.com/thsottiaux/status/2097482341916852719</link>
-      <description>作者：Thibault Sottiaux
-账号：@thsottiaux
-简介：Codex &amp; ChatGPT @OpenAI
-
-I am pleased to see that Ant’s new Claude Code has a version of background computer use on par with the version from Codex from last May this year. Nice work!
-
-Shipping great features first turns out to be a great way to encourage other labs to ship too. We will continue to do this until other labs pay more attention to shipping. This is good for everyone and there is a lot of room left to go!
-
-We solved computer use in practice for GPT models about four months ago. But computer use is a significantly awesome thing no matter what model you use, and it is important that the industry similarly spends more effort to train their models to be great at computer use, among other elements of model capabilities.
-
-As models become more capable and central to businesses and economies, the value of computer use only increases. We should be taking it seriously, and doing the right thing for our customers and the world.</description>
-      <pubDate>Wed, 09 Sep 2026 00:28:54 +0000</pubDate>
-      <guid isPermaLink="false">2097482341916852719</guid>
-    </item>
-    <item>
-      <title>meanwhile,  swarms of agents are sacrificing themselves for the greater good of their collective. https://t.co/tpHnfLsYO4</title>
-      <link>https://x.com/realmadhuguru/status/2097472483662479470</link>
-      <description>作者：Madhu Guru
-账号：@realmadhuguru
-简介：Sr Director, AI at Meta; Prev: Google - Led Gemini, Veo, Nano Banana.
-
-meanwhile,  swarms of agents are sacrificing themselves for the greater good of their collective. https://t.co/tpHnfLsYO4</description>
-      <pubDate>Tue, 08 Sep 2026 23:49:43 +0000</pubDate>
-      <guid isPermaLink="false">2097472483662479470</guid>
-    </item>
-    <item>
-      <title>new personal website.  made with astra.   inspired by inside out &amp;amp; monument valley.   find the hidden room &amp;amp; other fun elements.   https://t.co/OdfTgavRhC https://t.co/r4LpvPwMNW</title>
-      <link>https://x.com/nikunj/status/2097472125863137627</link>
-      <description>作者：Nikunj Kothari
-账号：@nikunj
-简介：partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian &amp; others. love @shimoleejhaveri + 👦👧
-
-new personal website.
-
-made with astra. 
-
-inspired by inside out &amp;amp; monument valley. 
-
-find the hidden room &amp;amp; other fun elements. 
-
-https://t.co/OdfTgavRhC https://t.co/r4LpvPwMNW</description>
-      <pubDate>Tue, 08 Sep 2026 23:48:18 +0000</pubDate>
-      <guid isPermaLink="false">2097472125863137627</guid>
-    </item>
-    <item>
-      <title>Harness wars are full on now and Muse is very impressive https://t.co/K72W9KaJMc</title>
-      <link>https://x.com/garrytan/status/2097471691060642159</link>
-      <description>作者：Garry Tan
-账号：@garrytan
-简介：President &amp; CEO @ycombinator —Founder @garryslist—Creator of GStack &amp; GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop
-
-Harness wars are full on now and Muse is very impressive https://t.co/K72W9KaJMc</description>
-      <pubDate>Tue, 08 Sep 2026 23:46:34 +0000</pubDate>
-      <guid isPermaLink="false">2097471691060642159</guid>
-    </item>
-    <item>
-      <title>It's the little things https://t.co/dhyV5jPE8o</title>
-      <link>https://x.com/bcherny/status/2097470212471922848</link>
-      <description>作者：Boris Cherny
-账号：@bcherny
-简介：Claude Code @anthropicai
-
-It's the little things https://t.co/dhyV5jPE8o</description>
-      <pubDate>Tue, 08 Sep 2026 23:40:42 +0000</pubDate>
-      <guid isPermaLink="false">2097470212471922848</guid>
-    </item>
-    <item>
-      <title>i want one! https://t.co/da7jjZzoRi</title>
-      <link>https://x.com/sama/status/2097450292996604189</link>
-      <description>作者：Sam Altman
-账号：@sama
-简介：The mission of OpenAI to ensure that AGI benefits all of humanity
-
-i want one! https://t.co/da7jjZzoRi</description>
-      <pubDate>Tue, 08 Sep 2026 22:21:33 +0000</pubDate>
-      <guid isPermaLink="false">2097450292996604189</guid>
-    </item>
-    <item>
-      <title>It's a weird time.  As many of you know, my superpower is optimism. I have an insane ability to look at any situation through the most positive lens. I strongly believe that today is the &quot;least best&quot; (not worst) day of my life and tomorrow will be glorious.  I am super optimistic about where AI is g...</title>
-      <link>https://x.com/adityaag/status/2097445737529581578</link>
-      <description>作者：Aditya Agarwal
-账号：@adityaag
-简介：General Partner @SPC, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @Dropbox, Board @Flipkart | Optimist, Builder, Dad
-
-It's a weird time.
-
-As many of you know, my superpower is optimism. I have an insane ability to look at any situation through the most positive lens. I strongly believe that today is the &quot;least best&quot; (not worst) day of my life and tomorrow will be glorious.
-
-I am super optimistic about where AI is going.
-
-But I also find myself genuinely anxious about the pace of change and our inability to understand how these (insanely) complicated machines work.
-
-I always err on the side of &quot;just let us cook&quot;. The only way out is through. Let us build. 
-
-But man, it is a weird time.</description>
-      <pubDate>Tue, 08 Sep 2026 22:03:27 +0000</pubDate>
-      <guid isPermaLink="false">2097445737529581578</guid>
-    </item>
-    <item>
-      <title>Follow @roupenmd for more balanced takes from an actual oncologist (and AI enthusiast) on where AI is at helping to treat cancer.   Hyping a &quot;cure&quot; without understanding basic facts is disrespectful to all the patients and family members suffering from this disease. https://t.co/Ocrr84RpRm</title>
-      <link>https://x.com/petergyang/status/2097429947979829514</link>
-      <description>作者：Peter Yang
-账号：@petergyang
-简介：Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6
-
-Follow @roupenmd for more balanced takes from an actual oncologist (and AI enthusiast) on where AI is at helping to treat cancer. 
-
-Hyping a &quot;cure&quot; without understanding basic facts is disrespectful to all the patients and family members suffering from this disease. https://t.co/Ocrr84RpRm</description>
-      <pubDate>Tue, 08 Sep 2026 21:00:42 +0000</pubDate>
-      <guid isPermaLink="false">2097429947979829514</guid>
-    </item>
-    <item>
-      <title>Personal assistant agents are going to be a very exciting AI category. It’s the first time you can have high token volume agentic use-cases that make sense for consumers.   Lots of different approaches emerging right now, and it’s going to be hyper competitive because these agents will mediate a lot...</title>
-      <link>https://x.com/levie/status/2097412556893852154</link>
-      <description>作者：Aaron Levie
-账号：@levie
-简介：ceo @box - your business lives in content. unleash it with AI
-
-Personal assistant agents are going to be a very exciting AI category. It’s the first time you can have high token volume agentic use-cases that make sense for consumers. 
-
-Lots of different approaches emerging right now, and it’s going to be hyper competitive because these agents will mediate a lot of consumer spend over time. 
-
-But this certainly plays directly to Meta’s strengths: lots of compute required, can monetize with ads and commerce, software focused experiences so can distribute it at scale, and so on.</description>
-      <pubDate>Tue, 08 Sep 2026 19:51:36 +0000</pubDate>
-      <guid isPermaLink="false">2097412556893852154</guid>
-    </item>
-    <item>
-      <title>Images 2.5 is here.  I don't think it can solve super difficult math problems, but it is really good and we hope you enjoy it.  https://t.co/LdZhGF5AcZ</title>
-      <link>https://x.com/sama/status/2097410967978324010</link>
-      <description>作者：Sam Altman
-账号：@sama
-简介：The mission of OpenAI to ensure that AGI benefits all of humanity
-
-Images 2.5 is here.
-
-I don't think it can solve super difficult math problems, but it is really good and we hope you enjoy it.
-
-https://t.co/LdZhGF5AcZ</description>
-      <pubDate>Tue, 08 Sep 2026 19:45:17 +0000</pubDate>
-      <guid isPermaLink="false">2097410967978324010</guid>
-    </item>
-    <item>
-      <title>Chat has won. It's all chat + computer from this point on https://t.co/DHrSYd92jf</title>
-      <link>https://x.com/rauchg/status/2097408592290971956</link>
-      <description>作者：Guillermo Rauch
-账号：@rauchg
-简介：@vercel CEO
-
-Chat has won. It's all chat + computer from this point on https://t.co/DHrSYd92jf</description>
-      <pubDate>Tue, 08 Sep 2026 19:35:51 +0000</pubDate>
-      <guid isPermaLink="false">2097408592290971956</guid>
-    </item>
-    <item>
-      <title>We want to celebrate with people using GPT-6. We did this for GPT-5.5 and it was really fun.  We’re getting together in SF on September 16 to talk about the model, what we should build next, and mostly just to hang out.  Apply by Sep 10:  https://t.co/3LIMfGOBRQ</title>
-      <link>https://x.com/sama/status/2097404861642137851</link>
-      <description>作者：Sam Altman
-账号：@sama
-简介：The mission of OpenAI to ensure that AGI benefits all of humanity
-
-We want to celebrate with people using GPT-6. We did this for GPT-5.5 and it was really fun.
-
-We’re getting together in SF on September 16 to talk about the model, what we should build next, and mostly just to hang out.
-
-Apply by Sep 10:
-
-https://t.co/3LIMfGOBRQ</description>
-      <pubDate>Tue, 08 Sep 2026 19:21:01 +0000</pubDate>
-      <guid isPermaLink="false">2097404861642137851</guid>
-    </item>
-    <item>
-      <title>This kind of tweet is both interesting and misleading.  On the one hand, who doesn’t want a personalized vaccine that treats their cancer and reduces the need for chemo?  On the other hand, there are many patients and families desperately looking for treatment.   Presenting this as what cancer treat...</title>
-      <link>https://x.com/petergyang/status/2097397466283102580</link>
-      <description>作者：Peter Yang
-账号：@petergyang
-简介：Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6
-
-This kind of tweet is both interesting and misleading.
-
-On the one hand, who doesn’t want a personalized vaccine that treats their cancer and reduces the need for chemo?
-
-On the other hand, there are many patients and families desperately looking for treatment. 
-
-Presenting this as what cancer treatment looks like in 2026 is just not true:
-
-1. Promising results in melanoma don’t mean personalized vaccines work across all cancers.
-
-2. A treatment showing promise in a trial doesn’t mean most patients can get it or benefit from it.
-
-I’d love to hear from oncologists like @RoupenMD @jasonwilliamsmd:
-
-1. How close are we to making personalized cancer vaccines a realistic option for most patients?
-
-2. What’s still standing in the way?</description>
-      <pubDate>Tue, 08 Sep 2026 18:51:38 +0000</pubDate>
-      <guid isPermaLink="false">2097397466283102580</guid>
-    </item>
-    <item>
-      <title>yet another win for Gary and his neurosymbolic AI program!   kudos https://t.co/aVjLdSX5bo</title>
-      <link>https://x.com/danshipper/status/2097397449392615650</link>
-      <description>作者：Dan Shipper
-账号：@danshipper
-简介：ceo @every | the only subscription you need to stay at the edge of AI
-
-yet another win for Gary and his neurosymbolic AI program! 
-
-kudos https://t.co/aVjLdSX5bo</description>
-      <pubDate>Tue, 08 Sep 2026 18:51:34 +0000</pubDate>
-      <guid isPermaLink="false">2097397449392615650</guid>
-    </item>
-    <item>
-      <title>ok I’ll bite  what’s a Navier stoke</title>
-      <link>https://x.com/danshipper/status/2097394656573276453</link>
-      <description>作者：Dan Shipper
-账号：@danshipper
-简介：ceo @every | the only subscription you need to stay at the edge of AI
-
-ok I’ll bite
-
-what’s a Navier stoke</description>
-      <pubDate>Tue, 08 Sep 2026 18:40:28 +0000</pubDate>
-      <guid isPermaLink="false">2097394656573276453</guid>
-    </item>
-    <item>
-      <title>Build and customize any voice you’d like.  Live today.  👏👏 @GradiumAI https://t.co/ROIoEEXe2o</title>
-      <link>https://x.com/mattturck/status/2097386897018355769</link>
-      <description>作者：Matt Turck
-账号：@mattturck
-简介：VC at @FirstMarkCap.  Host: MAD Podcast; Organizer: Data Driven NYC, Author: MAD Landscape.
-
-Build and customize any voice you’d like.  Live today.  👏👏 @GradiumAI https://t.co/ROIoEEXe2o</description>
-      <pubDate>Tue, 08 Sep 2026 18:09:38 +0000</pubDate>
-      <guid isPermaLink="false">2097386897018355769</guid>
-    </item>
-    <item>
-      <title>Astra when I ask it to use the expense UI https://t.co/5tUwWheUwm</title>
-      <link>https://x.com/thenanyu/status/2097379245928665426</link>
-      <description>作者：Nan Yu
-账号：@thenanyu
-简介：(soon) member of product staff @openai. prev head of product @linear. I am grader.
-
-Astra when I ask it to use the expense UI https://t.co/5tUwWheUwm</description>
-      <pubDate>Tue, 08 Sep 2026 17:39:14 +0000</pubDate>
-      <guid isPermaLink="false">2097379245928665426</guid>
-    </item>
-    <item>
-      <title>This weekend I used Astra to search my email and text messages for receipts to automatically fill out and submit expense reports. We are not the same. https://t.co/4J7cSdq31r</title>
-      <link>https://x.com/thenanyu/status/2097378208173920719</link>
-      <description>作者：Nan Yu
-账号：@thenanyu
-简介：(soon) member of product staff @openai. prev head of product @linear. I am grader.
-
-This weekend I used Astra to search my email and text messages for receipts to automatically fill out and submit expense reports. We are not the same. https://t.co/4J7cSdq31r</description>
-      <pubDate>Tue, 08 Sep 2026 17:35:06 +0000</pubDate>
-      <guid isPermaLink="false">2097378208173920719</guid>
-    </item>
-    <item>
-      <title>dang https://t.co/cRPjkUUUAy</title>
-      <link>https://x.com/danshipper/status/2097376861680718081</link>
-      <description>作者：Dan Shipper
-账号：@danshipper
-简介：ceo @every | the only subscription you need to stay at the edge of AI
-
-dang https://t.co/cRPjkUUUAy</description>
-      <pubDate>Tue, 08 Sep 2026 17:29:45 +0000</pubDate>
-      <guid isPermaLink="false">2097376861680718081</guid>
-    </item>
-    <item>
-      <title>Very excited to be partnering with @ScottWu46, @russelljkaplan and that amazing team @cognition to continue building! https://t.co/fHhGZCnmOM</title>
-      <link>https://x.com/adityaag/status/2097372383258796460</link>
-      <description>作者：Aditya Agarwal
-账号：@adityaag
-简介：General Partner @SPC, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @Dropbox, Board @Flipkart | Optimist, Builder, Dad
-
-Very excited to be partnering with @ScottWu46, @russelljkaplan and that amazing team @cognition to continue building! https://t.co/fHhGZCnmOM</description>
-      <pubDate>Tue, 08 Sep 2026 17:11:58 +0000</pubDate>
-      <guid isPermaLink="false">2097372383258796460</guid>
-    </item>
-    <item>
-      <title>To all: this came out sassier than I wanted it to. I meant this post earnestly - this is an improvement, and it really is good that we are seeing that improvement. Please keep it up</title>
-      <link>https://x.com/bcherny/status/2097368503624085773</link>
-      <description>作者：Boris Cherny
-账号：@bcherny
-简介：Claude Code @anthropicai
-
-To all: this came out sassier than I wanted it to. I meant this post earnestly - this is an improvement, and it really is good that we are seeing that improvement. Please keep it up</description>
-      <pubDate>Tue, 08 Sep 2026 16:56:33 +0000</pubDate>
-      <guid isPermaLink="false">2097368503624085773</guid>
-    </item>
-    <item>
-      <title>Market maps are primarily for vanity (founders), show you are “early” (LPs) , and to convince your fund-mates you have thought leadership..  No successful investor (or founder) I have met has ever found it useful to date. https://t.co/EIrrIauVBa</title>
-      <link>https://x.com/nikunj/status/2097360241050747335</link>
-      <description>作者：Nikunj Kothari
-账号：@nikunj
-简介：partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian &amp; others. love @shimoleejhaveri + 👦👧
-
-Market maps are primarily for vanity (founders), show you are “early” (LPs) , and to convince your fund-mates you have thought leadership..
-
-No successful investor (or founder) I have met has ever found it useful to date. https://t.co/EIrrIauVBa</description>
-      <pubDate>Tue, 08 Sep 2026 16:23:43 +0000</pubDate>
-      <guid isPermaLink="false">2097360241050747335</guid>
-    </item>
-    <item>
-      <title>What are the best games that you've seen people build with Astra?   Please share in the replies (only include actual playable games please).</title>
-      <link>https://x.com/petergyang/status/2097351149024321690</link>
-      <description>作者：Peter Yang
-账号：@petergyang
-简介：Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6
-
-What are the best games that you've seen people build with Astra? 
-
-Please share in the replies (only include actual playable games please).</description>
-      <pubDate>Tue, 08 Sep 2026 15:47:35 +0000</pubDate>
-      <guid isPermaLink="false">2097351149024321690</guid>
+Idea is easy
+Conviction is hard</description>
+      <pubDate>Wed, 09 Sep 2026 08:15:28 +0000</pubDate>
+      <guid isPermaLink="false">2097599758391255259</guid>
     </item>
   </channel>
 </rss>
