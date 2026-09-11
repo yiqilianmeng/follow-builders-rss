@@ -5,387 +5,592 @@
     <link>https://github.com/zarazhangrui/follow-builders</link>
     <description>聚合 AI 领域建设者的 X、播客和博客内容。</description>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 11 Sep 2026 01:53:50 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 10:08:52 +0000</lastBuildDate>
     <item>
-      <title>Finally got cloud sessions working *fast* in OpenClaw. Remote Terminal, WebVNC and CUA for computer use. https://t.co/VwbyGV5k2p</title>
-      <link>https://x.com/steipete/status/2097935551735423464</link>
-      <description>作者：Peter Steinberger
-账号：@steipete
-简介：Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world.
-@OpenClaw🦞 + @OpenAI
+      <title>The latest Threat Intelligence report is an absolutely terrifying and important read.   As models become more intelligent, without the right safeguards and monitoring they also become more dangerous. Many capabilities are dual use: a model that codes well can be used to hack critical infrastructure;...</title>
+      <link>https://x.com/bcherny/status/2098281805770309686</link>
+      <description>作者：Boris Cherny
+账号：@bcherny
+简介：Claude Code @anthropicai
 
-Finally got cloud sessions working *fast* in OpenClaw.
-Remote Terminal, WebVNC and CUA for computer use. https://t.co/VwbyGV5k2p</description>
-      <pubDate>Thu, 10 Sep 2026 06:29:47 +0000</pubDate>
-      <guid isPermaLink="false">2097935551735423464</guid>
+The latest Threat Intelligence report is an absolutely terrifying and important read. 
+
+As models become more intelligent, without the right safeguards and monitoring they also become more dangerous. Many capabilities are dual use: a model that codes well can be used to hack critical infrastructure; a model that assists with biology research can also be used to engineer the next pandemic. 
+
+These issues are complex, thorny, and increasingly important for everyone to understand so that the world can weigh in and respond to rapidly escalating risks.
+
+https://t.co/0rnV2HjPP6</description>
+      <pubDate>Fri, 11 Sep 2026 05:25:41 +0000</pubDate>
+      <guid isPermaLink="false">2098281805770309686</guid>
     </item>
     <item>
-      <title>The world is going to be using coding agents for far more than anyone would have thought before.   We’ll be building tools in all new categories, building software for companies that couldn’t afford it before, using agents to protect systems from cyber risk, automating research in life sciences, pro...</title>
-      <link>https://x.com/levie/status/2097920810543468551</link>
-      <description>作者：Aaron Levie
-账号：@levie
-简介：ceo @box - your business lives in content. unleash it with AI
-
-The world is going to be using coding agents for far more than anyone would have thought before. 
-
-We’ll be building tools in all new categories, building software for companies that couldn’t afford it before, using agents to protect systems from cyber risk, automating research in life sciences, processing insane amounts of data in complex workflows, upgrading legacy systems and infrastructures, and hundreds of other use cases.
-
-In short, by lowering the cost of code, we are going to do so much more with it. This will result in software becoming more useful and the leverage of engineers going up dramatically, which coincidentally will mean we need more of them, not fewer.</description>
-      <pubDate>Thu, 10 Sep 2026 05:31:13 +0000</pubDate>
-      <guid isPermaLink="false">2097920810543468551</guid>
-    </item>
-    <item>
-      <title>One of the greatest joys is debating new model names with researchers. They come up with the most hilarious stuff</title>
-      <link>https://x.com/thsottiaux/status/2097912273264095536</link>
-      <description>作者：Thibault Sottiaux
-账号：@thsottiaux
-简介：Codex &amp; ChatGPT @OpenAI
-
-One of the greatest joys is debating new model names with researchers. They come up with the most hilarious stuff</description>
-      <pubDate>Thu, 10 Sep 2026 04:57:17 +0000</pubDate>
-      <guid isPermaLink="false">2097912273264095536</guid>
-    </item>
-    <item>
-      <title>Dashboards/Mini-Apps was something I pushed two months ago and now it replaced lots of custom tooling we built around OC. Everything’s a sidebar entry, a dashboard or a plugin now for our team server. https://t.co/sykNUwBqrX</title>
-      <link>https://x.com/steipete/status/2097880507753382201</link>
-      <description>作者：Peter Steinberger
-账号：@steipete
-简介：Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world.
-@OpenClaw🦞 + @OpenAI
-
-Dashboards/Mini-Apps was something I pushed two months ago and now it replaced lots of custom tooling we built around OC. Everything’s a sidebar entry, a dashboard or a plugin now for our team server. https://t.co/sykNUwBqrX</description>
-      <pubDate>Thu, 10 Sep 2026 02:51:04 +0000</pubDate>
-      <guid isPermaLink="false">2097880507753382201</guid>
-    </item>
-    <item>
-      <title>Finally https://t.co/7cyHiAyVQO</title>
-      <link>https://x.com/nikunj/status/2097870497505837478</link>
+      <title>This post is probably my personal record from thought -&gt; publishing.. lacks some of the usual polish!   A little behind the scenes:  &gt; voice memo while driving to work &gt; more voice memos throughout the day &gt; 30 minutes of furious writing between two meetings &gt; quick read through &amp; publish  @claudeai...</title>
+      <link>https://x.com/nikunj/status/2098255116751257663</link>
       <description>作者：Nikunj Kothari
 账号：@nikunj
 简介：partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian &amp; others. love @shimoleejhaveri + 👦👧
 
-Finally https://t.co/7cyHiAyVQO</description>
-      <pubDate>Thu, 10 Sep 2026 02:11:17 +0000</pubDate>
-      <guid isPermaLink="false">2097870497505837478</guid>
+This post is probably my personal record from thought -&gt; publishing.. lacks some of the usual polish! 
+
+A little behind the scenes:
+
+&gt; voice memo while driving to work
+&gt; more voice memos throughout the day
+&gt; 30 minutes of furious writing between two meetings
+&gt; quick read through &amp; publish
+
+@claudeai please fix your voice transcription 🙏</description>
+      <pubDate>Fri, 11 Sep 2026 03:39:38 +0000</pubDate>
+      <guid isPermaLink="false">2098255116751257663</guid>
     </item>
     <item>
-      <title>AI Benchmarks with @Benchmark &amp; @Vercel.  It's ① the most aptly named event in SF history and ② about one of the most important software categories of our generation.  The companies that benchmark models and guide the world towards skill, truth and efficiency.  Join us: https://t.co/9qRlfX4eGO</title>
-      <link>https://x.com/rauchg/status/2097837950612717804</link>
-      <description>作者：Guillermo Rauch
-账号：@rauchg
-简介：@vercel CEO
+      <title>Scaled agents on demand.  This is pretty much the infrastructure that runs under the hood for ChatGPT Work, all wrapped up in an API which you can use to get started in &amp;lt; 1 min. Happy building. https://t.co/GhmuBkfjP1</title>
+      <link>https://x.com/thsottiaux/status/2098238138334548260</link>
+      <description>作者：Thibault Sottiaux
+账号：@thsottiaux
+简介：Codex &amp; ChatGPT @OpenAI
 
-AI Benchmarks with @Benchmark &amp; @Vercel.
+Scaled agents on demand.
 
-It's ① the most aptly named event in SF history and ② about one of the most important software categories of our generation.
-
-The companies that benchmark models and guide the world towards skill, truth and efficiency.
-
-Join us: https://t.co/9qRlfX4eGO</description>
-      <pubDate>Thu, 10 Sep 2026 00:01:58 +0000</pubDate>
-      <guid isPermaLink="false">2097837950612717804</guid>
+This is pretty much the infrastructure that runs under the hood for ChatGPT Work, all wrapped up in an API which you can use to get started in &amp;lt; 1 min. Happy building. https://t.co/GhmuBkfjP1</description>
+      <pubDate>Fri, 11 Sep 2026 02:32:10 +0000</pubDate>
+      <guid isPermaLink="false">2098238138334548260</guid>
     </item>
     <item>
-      <title>This is brilliant. https://t.co/39dr9faUMC</title>
-      <link>https://x.com/steipete/status/2097830230899769349</link>
+      <title>Trading tokens for an AC. Who knew SF could be so hot 🫠</title>
+      <link>https://x.com/steipete/status/2098229090570629419</link>
       <description>作者：Peter Steinberger
 账号：@steipete
 简介：Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world.
 @OpenClaw🦞 + @OpenAI
 
-This is brilliant. https://t.co/39dr9faUMC</description>
-      <pubDate>Wed, 09 Sep 2026 23:31:17 +0000</pubDate>
-      <guid isPermaLink="false">2097830230899769349</guid>
+Trading tokens for an AC. Who knew SF could be so hot 🫠</description>
+      <pubDate>Fri, 11 Sep 2026 01:56:13 +0000</pubDate>
+      <guid isPermaLink="false">2098229090570629419</guid>
     </item>
     <item>
-      <title>Happy to be building here with you all. Lots to explore</title>
-      <link>https://x.com/thsottiaux/status/2097829053147582782</link>
-      <description>作者：Thibault Sottiaux
-账号：@thsottiaux
-简介：Codex &amp; ChatGPT @OpenAI
-
-Happy to be building here with you all. Lots to explore</description>
-      <pubDate>Wed, 09 Sep 2026 23:26:36 +0000</pubDate>
-      <guid isPermaLink="false">2097829053147582782</guid>
-    </item>
-    <item>
-      <title>8 price cuts, fee removals and structure improvements, plus 16 model discounts… in the last 6 months alone. More to come… https://t.co/pCIUumUVEr</title>
-      <link>https://x.com/rauchg/status/2097828203658383674</link>
-      <description>作者：Guillermo Rauch
-账号：@rauchg
-简介：@vercel CEO
-
-8 price cuts, fee removals and structure improvements, plus 16 model discounts… in the last 6 months alone. More to come… https://t.co/pCIUumUVEr</description>
-      <pubDate>Wed, 09 Sep 2026 23:23:14 +0000</pubDate>
-      <guid isPermaLink="false">2097828203658383674</guid>
-    </item>
-    <item>
-      <title>i love looking at the @every slack https://t.co/tQU2kjg1le</title>
-      <link>https://x.com/danshipper/status/2097796322145562900</link>
-      <description>作者：Dan Shipper
-账号：@danshipper
-简介：ceo @every | the only subscription you need to stay at the edge of AI
-
-i love looking at the @every slack https://t.co/tQU2kjg1le</description>
-      <pubDate>Wed, 09 Sep 2026 21:16:33 +0000</pubDate>
-      <guid isPermaLink="false">2097796322145562900</guid>
-    </item>
-    <item>
-      <title>Welcome, Paul.  Grateful you are doing this, and all you have done for AI safety. Excited to work together again. https://t.co/k6NUqN6Lsd</title>
-      <link>https://x.com/sama/status/2097776310940569783</link>
-      <description>作者：Sam Altman
-账号：@sama
-简介：The mission of OpenAI to ensure that AGI benefits all of humanity
-
-Welcome, Paul.
-
-Grateful you are doing this, and all you have done for AI safety. Excited to work together again. https://t.co/k6NUqN6Lsd</description>
-      <pubDate>Wed, 09 Sep 2026 19:57:01 +0000</pubDate>
-      <guid isPermaLink="false">2097776310940569783</guid>
-    </item>
-    <item>
-      <title>When is this coming to mobile for Work and Remote Codex threads? Seems to be only available for Chat threads https://t.co/SjpzARwZfK</title>
-      <link>https://x.com/petergyang/status/2097763574886375832</link>
-      <description>作者：Peter Yang
-账号：@petergyang
-简介：Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6
-
-When is this coming to mobile for Work and Remote Codex threads? Seems to be only available for Chat threads https://t.co/SjpzARwZfK</description>
-      <pubDate>Wed, 09 Sep 2026 19:06:25 +0000</pubDate>
-      <guid isPermaLink="false">2097763574886375832</guid>
-    </item>
-    <item>
-      <title>this is a very good and well designed report  however, two impt assumptions in it that significantly change the analysis once you start to play with it:  1. the report assumes that jobs can be decomposed into tasks 2. the report models human tasks created by automation always as a fraction of automa...</title>
-      <link>https://x.com/danshipper/status/2097758891270697101</link>
-      <description>作者：Dan Shipper
-账号：@danshipper
-简介：ceo @every | the only subscription you need to stay at the edge of AI
-
-this is a very good and well designed report
-
-however, two impt assumptions in it that significantly change the analysis once you start to play with it:
-
-1. the report assumes that jobs can be decomposed into tasks
-2. the report models human tasks created by automation always as a fraction of automated tasks. in other words, the underlying assumptions is automation always reduces human labor (or at best leaves it the same)
-
-taken in reverse order:
-
-does automation always reduce human work?
-in my experience, the answer is no. automation often creates multiples more work for humans. 
-
-i have a full argument here (https://t.co/Lb7SUCe2pO) for why this is structurally true. but i think any honest analysis of the economic impacts of AI has to take work creation seriously. 
-
-can jobs be decomposed into tasks?
-yes, that is a useful lens. but lists of tasks is a way of looking at jobs—one that makes the question of how much of a job is automatable actually tractable. therefore, it's useful.
-
-but this is not the full picture, it's just jobs as exposed to our method of questioning. 
-
-a good example: under this model, where do the new tasks come from? are they just from bosses that add a list to the task list for workers to complete? where do those tasks come from? unless you can model that well you are missing a key term in the analysis (see the first point above.)
-
-another way of looking at this, borrowing from wittgenstein and heidegger, is that a job is a particular way of seeing and caring about the world. an editor notices things a nurse doesn’t, and vice versa. what you care about shapes what you notice, what seems worth doing, and what counts as doing it well. you can make some of that explicit as a task list. but as your tools and circumstances change, the same cares can generate entirely new tasks. that process is part of the job.
-
-the above is completely missing from this analysis (understandably because it's, by definition, very hard to model!) 
-
-but if you take it seriously, it shoudl substantially change your perspective automation and jobs</description>
-      <pubDate>Wed, 09 Sep 2026 18:47:48 +0000</pubDate>
-      <guid isPermaLink="false">2097758891270697101</guid>
-    </item>
-    <item>
-      <title>There was a bit of a kerfuffle this morning with some banked resets not fully applying when used in ChatGPT Work and Codex. Everyone who used one in the affected time window is getting another one and an email to apologize.</title>
-      <link>https://x.com/thsottiaux/status/2097752790177370535</link>
-      <description>作者：Thibault Sottiaux
-账号：@thsottiaux
-简介：Codex &amp; ChatGPT @OpenAI
-
-There was a bit of a kerfuffle this morning with some banked resets not fully applying when used in ChatGPT Work and Codex. Everyone who used one in the affected time window is getting another one and an email to apologize.</description>
-      <pubDate>Wed, 09 Sep 2026 18:23:34 +0000</pubDate>
-      <guid isPermaLink="false">2097752790177370535</guid>
-    </item>
-    <item>
-      <title>The way to the reconcile capability level of AI vs. GDP impact is that the diffusion of AI will take much longer than people think. And it will also show up in ways that are hard to measure in GDP immediately.   You could bring the world’s greatest superintelligence to many workflows, and still be b...</title>
-      <link>https://x.com/levie/status/2097738533297689012</link>
+      <title>Some more tales from the road. Met with a couple dozen technology leaders this week across banking, media, information services, insurance, and consulting to discuss agents in the enterprise.  Some of the biggest trends right now:  * Cyber! Everyone nervous about the growing rate of vulnerabilities ...</title>
+      <link>https://x.com/levie/status/2098218284139311615</link>
       <description>作者：Aaron Levie
 账号：@levie
 简介：ceo @box - your business lives in content. unleash it with AI
 
-The way to the reconcile capability level of AI vs. GDP impact is that the diffusion of AI will take much longer than people think. And it will also show up in ways that are hard to measure in GDP immediately. 
+Some more tales from the road. Met with a couple dozen technology leaders this week across banking, media, information services, insurance, and consulting to discuss agents in the enterprise.
 
-You could bring the world’s greatest superintelligence to many workflows, and still be bound by the laws of corporate physics: getting data prepared and put into a pipeline, process reengineering and change management, aligning on how the new workflow should function, and so on.
+Some of the biggest trends right now:
 
-Even after you solve all that, you’re still bound by the speed of the real world: waiting for a customer to respond to a proposal, getting a permit for a project, a drug discovery pipeline taking years to eventually reach the consumer, and so on. Not to mention lots of positive daily AI use-cases are entirely net neutral to GDP, at least in the near term.
+* Cyber! Everyone nervous about the growing rate of vulnerabilities coming at them from AI, and the implications of the OpenAI Hugging Face incident. The conversation is not as existential as it is in Silicon Valley, but still highly concerned and pragmatic about what to do about it operationally in their environments. Lots of new discoveries due to AI, and still hard to keep up with all the changes they have to execute now.
 
-AI diffusion is going to be the theme of the next decade. The upside is that there’s a tremendous amount of opportunity in building the bridges between superintelligence and real-world workflows.</description>
-      <pubDate>Wed, 09 Sep 2026 17:26:55 +0000</pubDate>
-      <guid isPermaLink="false">2097738533297689012</guid>
+* Model battles persist. Most companies are deploying multiple frontier models within their enterprise. Too hard to standardize on anything and seeing different preferences across their teams and use cases. But the dollars are still concentrated on just a few vendors. Open weights still in infancy at scale in most of these organizations, often due to lack of domestic “frontier” OSS options. Plenty of appetite for more options here, but so far few places to go.
+
+* Agent security and identity. Somewhat tied to Hugging Face, there’s much more awareness to the new challenges around agent security and identity management in a world when agents are trying to get into every system they can. In a perfect world enterprises could setup identities for all their agents and control what they’re doing, but of course sometimes the agent needs to act exactly as the user as well.
+
+* Process reengineering. Most companies realizing that the big upside of agents is when they can change the actual workflow itself to get the full gains from AI. Far more ROI when companies can adjust their workflows to support agents changing how the work happens instead of just layering on agents into the existing flow. But the big question is who can actually tackle driving these changes, where does that live, etc. Best lessons were still around embedded FDEs in the functions.
+
+* Ruthless adjusting of architectures. Most companies had examples of changing systems out multiple times just in the past year or two with different vendors. I probably haven’t heard “we tried X and it didn’t work so have gone with Y” more than in today’s environment. The lesson here is that because innovation is happening so fast, no one hangs around until a vendor gets something right, they just move on to the next one. 
+
+* Evals! Still very early for most companies to have a good grasp of evals of their workflows. A few customers out of a couple dozen called this out - huge opportunity right now for enterprises to have a good sense of how their work actually happens and how well AI is doing against it.
+
+* Legacy systems still a hurdle. As always, legacy systems still remain a mainstay issue that holds back enterprises from rapid adoption of AI in enterprises. Data is fragmented across legacy environments that weren’t built for an agentic world. Companies spending a lot of time just cleaning up these old platforms. 
+
+Many more topics, but these tend to be some of the more top of mind items at the moment in the enterprise.</description>
+      <pubDate>Fri, 11 Sep 2026 01:13:16 +0000</pubDate>
+      <guid isPermaLink="false">2098218284139311615</guid>
     </item>
     <item>
-      <title>To anyone questioning whether VCs can be up in the middle of the night like founders, we showed great grit at the latest-ever US open finish last night #inspiring https://t.co/m90uN1V7Et</title>
-      <link>https://x.com/mattturck/status/2097738051577422256</link>
-      <description>作者：Matt Turck
-账号：@mattturck
-简介：VC at @FirstMarkCap.  Host: MAD Podcast; Organizer: Data Driven NYC, Author: MAD Landscape.
+      <title>Hey ████,  I think there is room for both.  1. Prototypes and other throw-away code can be treated as totally black box. If you’re going to throw it away anyway, and if the blast radius of it breaking is low, it doesn’t need to be perfect. 2. Production code written by Claude should have a higher ba...</title>
+      <link>https://x.com/bcherny/status/2098217573276131577</link>
+      <description>作者：Boris Cherny
+账号：@bcherny
+简介：Claude Code @anthropicai
 
-To anyone questioning whether VCs can be up in the middle of the night like founders, we showed great grit at the latest-ever US open finish last night #inspiring https://t.co/m90uN1V7Et</description>
-      <pubDate>Wed, 09 Sep 2026 17:25:00 +0000</pubDate>
-      <guid isPermaLink="false">2097738051577422256</guid>
+Hey ████,
+
+I think there is room for both.
+
+1. Prototypes and other throw-away code can be treated as totally black box. If you’re going to throw it away anyway, and if the blast radius of it breaking is low, it doesn’t need to be perfect.
+2. Production code written by Claude should have a higher bar than if it was written by a human. At Anthropic, we have many guardrails in place to make sure this is happening: lots of lint rules, lots of tests, Claude-driven end to end tests, Claude-powered fuzzers running daily, automated code reviews and security reviews, automated code refactoring, and so on. Without these, you can end up with a mess that is hard to maintain down the line. Luckily, the model makes it increasingly easy to do these well — run a few daily routines, use Claude Code Review, etc.
+
+Your job is to hold the bar on code quality. If Claude’s code doesn’t meet the bar, try:
+- Using the latest frontier model (Opus 5 or Fable 5.1)
+- Increase effort to high or xhigh
+- Invest in your CLAUDE.md and skills to succinctly teach Claude how to work in your codebase
+
+If all else fails, steer Claude more when you work with it, or have Claude fix accumulated debt and rewrite your codebase to make it easier to work with. Or, wait for the next model.
+
+Best,
+Boris</description>
+      <pubDate>Fri, 11 Sep 2026 01:10:27 +0000</pubDate>
+      <guid isPermaLink="false">2098217573276131577</guid>
     </item>
     <item>
-      <title>More coming soon at SPC https://t.co/SOr7Xrr8UM</title>
-      <link>https://x.com/adityaag/status/2097736851872153633</link>
-      <description>作者：Aditya Agarwal
-账号：@adityaag
-简介：General Partner @SPC, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @Dropbox, Board @Flipkart | Optimist, Builder, Dad
+      <title>Every day, I get a lot of of emails and messages like this one. I try to respond to as many as I can.  Sharing my response below, for anyone else in a similar situation. What do you think? https://t.co/z1GtgK14RM</title>
+      <link>https://x.com/bcherny/status/2098217571153838124</link>
+      <description>作者：Boris Cherny
+账号：@bcherny
+简介：Claude Code @anthropicai
 
-More coming soon at SPC https://t.co/SOr7Xrr8UM</description>
-      <pubDate>Wed, 09 Sep 2026 17:20:14 +0000</pubDate>
-      <guid isPermaLink="false">2097736851872153633</guid>
+Every day, I get a lot of of emails and messages like this one. I try to respond to as many as I can.
+
+Sharing my response below, for anyone else in a similar situation. What do you think? https://t.co/z1GtgK14RM</description>
+      <pubDate>Fri, 11 Sep 2026 01:10:26 +0000</pubDate>
+      <guid isPermaLink="false">2098217571153838124</guid>
     </item>
     <item>
-      <title>Spots limited, RSVP here https://t.co/gmW9Zvf1up</title>
-      <link>https://x.com/adityaag/status/2097736850244845898</link>
-      <description>作者：Aditya Agarwal
-账号：@adityaag
-简介：General Partner @SPC, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @Dropbox, Board @Flipkart | Optimist, Builder, Dad
-
-Spots limited, RSVP here https://t.co/gmW9Zvf1up</description>
-      <pubDate>Wed, 09 Sep 2026 17:20:13 +0000</pubDate>
-      <guid isPermaLink="false">2097736850244845898</guid>
-    </item>
-    <item>
-      <title>One of the greatest examples of human-oriented technology is @Waymo.    But it took a long road to get here.  @dmitri_dolgov joined Google's self-driving project in 2009. He's now leading Waymo as co-CEO.  He's coming by @spc this month. https://t.co/Wy8ei9Q38x</title>
-      <link>https://x.com/adityaag/status/2097736847879192917</link>
-      <description>作者：Aditya Agarwal
-账号：@adityaag
-简介：General Partner @SPC, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @Dropbox, Board @Flipkart | Optimist, Builder, Dad
-
-One of the greatest examples of human-oriented technology is @Waymo.  
-
-But it took a long road to get here.
-
-@dmitri_dolgov joined Google's self-driving project in 2009. He's now leading Waymo as co-CEO.
-
-He's coming by @spc this month. https://t.co/Wy8ei9Q38x</description>
-      <pubDate>Wed, 09 Sep 2026 17:20:13 +0000</pubDate>
-      <guid isPermaLink="false">2097736847879192917</guid>
-    </item>
-    <item>
-      <title>My favorite way to test a new model's thinking abilities:  Ask it for brutally honest feedback about your blind spots that are holding you back with this prompt (just paste the whole image into ChatGPT).  Astra's feedback was especially blunt :)  📌 Read the full post here: https://t.co/mcF7mGuVhL</title>
-      <link>https://x.com/petergyang/status/2097729250505966046</link>
-      <description>作者：Peter Yang
-账号：@petergyang
-简介：Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6
-
-My favorite way to test a new model's thinking abilities:
-
-Ask it for brutally honest feedback about your blind spots that are holding you back with this prompt (just paste the whole image into ChatGPT).
-
-Astra's feedback was especially blunt :)
-
-📌 Read the full post here: https://t.co/mcF7mGuVhL</description>
-      <pubDate>Wed, 09 Sep 2026 16:50:01 +0000</pubDate>
-      <guid isPermaLink="false">2097729250505966046</guid>
-    </item>
-    <item>
-      <title>Jane Kim: Big Talk, little respect for facts, outright falsehoods  Jane Kim is a NIMBY who helped create the SF doom loop, and now she's failing up: she wants to be CA Insurance Commissioner  She is no public servant. We should keep her out of office.   https://t.co/ryRKwZVylb https://t.co/wdrSp3Sd1...</title>
-      <link>https://x.com/garrytan/status/2097728692596486487</link>
-      <description>作者：Garry Tan
-账号：@garrytan
-简介：President &amp; CEO @ycombinator —Founder @garryslist—Creator of GStack &amp; GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop
-
-Jane Kim: Big Talk, little respect for facts, outright falsehoods
-
-Jane Kim is a NIMBY who helped create the SF doom loop, and now she's failing up: she wants to be CA Insurance Commissioner
-
-She is no public servant. We should keep her out of office. 
-
-https://t.co/ryRKwZVylb https://t.co/wdrSp3Sd15</description>
-      <pubDate>Wed, 09 Sep 2026 16:47:48 +0000</pubDate>
-      <guid isPermaLink="false">2097728692596486487</guid>
-    </item>
-    <item>
-      <title>Introducing Apple Orbital Strike https://t.co/rlFQx2rC38</title>
-      <link>https://x.com/thenanyu/status/2097726586191851790</link>
+      <title>Yet normies use Google and Instagram and Zillow and Doordash all day every day.   Still. Early. https://t.co/YO92sTMaqd</title>
+      <link>https://x.com/thenanyu/status/2098216215525331353</link>
       <description>作者：Nan Yu
 账号：@thenanyu
 简介：(soon) member of product staff @openai. prev head of product @linear. I am grader.
 
-Introducing Apple Orbital Strike https://t.co/rlFQx2rC38</description>
-      <pubDate>Wed, 09 Sep 2026 16:39:26 +0000</pubDate>
-      <guid isPermaLink="false">2097726586191851790</guid>
+Yet normies use Google and Instagram and Zillow and Doordash all day every day. 
+
+Still. Early. https://t.co/YO92sTMaqd</description>
+      <pubDate>Fri, 11 Sep 2026 01:05:03 +0000</pubDate>
+      <guid isPermaLink="false">2098216215525331353</guid>
     </item>
     <item>
-      <title>I instlaled @poteto's Dr Eggbot for making new Grok @bot (highly recommended!) but had to rename it to Dr Light so it doesn't become evil 😅 https://t.co/qMfmNxzOvb</title>
-      <link>https://x.com/petergyang/status/2097719517057253527</link>
+      <title>In my humble opinion, for getting shit done Sol &amp;gt; Astra</title>
+      <link>https://x.com/petergyang/status/2098215935467544604</link>
       <description>作者：Peter Yang
 账号：@petergyang
 简介：Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6
 
-I instlaled @poteto's Dr Eggbot for making new Grok @bot (highly recommended!) but had to rename it to Dr Light so it doesn't become evil 😅 https://t.co/qMfmNxzOvb</description>
-      <pubDate>Wed, 09 Sep 2026 16:11:21 +0000</pubDate>
-      <guid isPermaLink="false">2097719517057253527</guid>
+In my humble opinion, for getting shit done Sol &amp;gt; Astra</description>
+      <pubDate>Fri, 11 Sep 2026 01:03:56 +0000</pubDate>
+      <guid isPermaLink="false">2098215935467544604</guid>
     </item>
     <item>
-      <title>If you're building on the Claude Platform, get listed and make it easier for our customers to buy your product: https://t.co/uZTPm62iKU</title>
-      <link>https://x.com/claudeai/status/2097718982920855834</link>
+      <title>https://t.co/pPmfsH024O</title>
+      <link>https://x.com/nikunj/status/2098176283394126121</link>
+      <description>作者：Nikunj Kothari
+账号：@nikunj
+简介：partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian &amp; others. love @shimoleejhaveri + 👦👧
+
+https://t.co/pPmfsH024O</description>
+      <pubDate>Thu, 10 Sep 2026 22:26:22 +0000</pubDate>
+      <guid isPermaLink="false">2098176283394126121</guid>
+    </item>
+    <item>
+      <title>Chat with the etn bros! https://t.co/lMH3Pqbeat</title>
+      <link>https://x.com/amasad/status/2098171773413929322</link>
+      <description>作者：Amjad Masad
+账号：@amasad
+简介：ceo @replit. civilizationist
+
+Chat with the etn bros! https://t.co/lMH3Pqbeat</description>
+      <pubDate>Thu, 10 Sep 2026 22:08:27 +0000</pubDate>
+      <guid isPermaLink="false">2098171773413929322</guid>
+    </item>
+    <item>
+      <title>Chat with PG in London! https://t.co/E0Gs90oQRc</title>
+      <link>https://x.com/amasad/status/2098171501505581559</link>
+      <description>作者：Amjad Masad
+账号：@amasad
+简介：ceo @replit. civilizationist
+
+Chat with PG in London! https://t.co/E0Gs90oQRc</description>
+      <pubDate>Thu, 10 Sep 2026 22:07:22 +0000</pubDate>
+      <guid isPermaLink="false">2098171501505581559</guid>
+    </item>
+    <item>
+      <title>Lots of risk with AI. I worry a lot about cybersecurity for example. However, “extinction risk” — literally 100% of humans die — is not remotely one of them. https://t.co/48n1fYmyh7</title>
+      <link>https://x.com/amasad/status/2098171265924116732</link>
+      <description>作者：Amjad Masad
+账号：@amasad
+简介：ceo @replit. civilizationist
+
+Lots of risk with AI. I worry a lot about cybersecurity for example. However, “extinction risk” — literally 100% of humans die — is not remotely one of them. https://t.co/48n1fYmyh7</description>
+      <pubDate>Thu, 10 Sep 2026 22:06:26 +0000</pubDate>
+      <guid isPermaLink="false">2098171265924116732</guid>
+    </item>
+    <item>
+      <title>Do you pronounce it data or data? This is the way everyone makes dashboards and learns about the business at OpenAI. Can't live without it. https://t.co/9NAremYs1h</title>
+      <link>https://x.com/thsottiaux/status/2098165551554240764</link>
+      <description>作者：Thibault Sottiaux
+账号：@thsottiaux
+简介：Codex &amp; ChatGPT @OpenAI
+
+Do you pronounce it data or data? This is the way everyone makes dashboards and learns about the business at OpenAI. Can't live without it. https://t.co/9NAremYs1h</description>
+      <pubDate>Thu, 10 Sep 2026 21:43:44 +0000</pubDate>
+      <guid isPermaLink="false">2098165551554240764</guid>
+    </item>
+    <item>
+      <title>very handsome interviewer too https://t.co/jJNArUBaEL</title>
+      <link>https://x.com/danshipper/status/2098162669769695676</link>
+      <description>作者：Dan Shipper
+账号：@danshipper
+简介：ceo @every | the only subscription you need to stay at the edge of AI
+
+very handsome interviewer too https://t.co/jJNArUBaEL</description>
+      <pubDate>Thu, 10 Sep 2026 21:32:17 +0000</pubDate>
+      <guid isPermaLink="false">2098162669769695676</guid>
+    </item>
+    <item>
+      <title>A computer for every agent, in every region https://t.co/3Bzea8XIY0</title>
+      <link>https://x.com/rauchg/status/2098158541932794222</link>
+      <description>作者：Guillermo Rauch
+账号：@rauchg
+简介：@vercel CEO
+
+A computer for every agent, in every region https://t.co/3Bzea8XIY0</description>
+      <pubDate>Thu, 10 Sep 2026 21:15:52 +0000</pubDate>
+      <guid isPermaLink="false">2098158541932794222</guid>
+    </item>
+    <item>
+      <title>Try this prompt in Claude chat to give it more context about yourself:  Interview me in depth using free text, or askuserquestion tool when multiple choice works, about relevant parts of my life you don’t know about yet and save it all to memory. https://t.co/VnfnFo7h4q</title>
+      <link>https://x.com/trq212/status/2098157600361861579</link>
+      <description>作者：Thariq
+账号：@trq212
+简介：Claude Code @anthropicai. prev YC W20, @spc, @medialab
+
+Try this prompt in Claude chat to give it more context about yourself:
+
+Interview me in depth using free text, or askuserquestion tool when multiple choice works, about relevant parts of my life you don’t know about yet and save it all to memory. https://t.co/VnfnFo7h4q</description>
+      <pubDate>Thu, 10 Sep 2026 21:12:08 +0000</pubDate>
+      <guid isPermaLink="false">2098157600361861579</guid>
+    </item>
+    <item>
+      <title>Fable 5.1 Build Days start this week. The Claude community is hosting buildathons in cities all around the world from September 11–25. Bring a problem, an idea, or just show up and see what's possible.  RSVP at https://t.co/AjMK4OHHBV https://t.co/0U8lcqsdrq</title>
+      <link>https://x.com/claudeai/status/2098138736642933143</link>
       <description>作者：Claude
 账号：@claudeai
 简介：Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Talk to Claude on https://t.co/ZhTwG8d1e5 or download the app.
 
-If you're building on the Claude Platform, get listed and make it easier for our customers to buy your product: https://t.co/uZTPm62iKU</description>
-      <pubDate>Wed, 09 Sep 2026 16:09:13 +0000</pubDate>
-      <guid isPermaLink="false">2097718982920855834</guid>
+Fable 5.1 Build Days start this week. The Claude community is hosting buildathons in cities all around the world from September 11–25. Bring a problem, an idea, or just show up and see what's possible.
+
+RSVP at https://t.co/AjMK4OHHBV https://t.co/0U8lcqsdrq</description>
+      <pubDate>Thu, 10 Sep 2026 19:57:11 +0000</pubDate>
+      <guid isPermaLink="false">2098138736642933143</guid>
     </item>
     <item>
-      <title>New on Claude Marketplace: @CrowdStrike, @cursor_ai, @FactoryAI, @GammaApp, and @vercel.  Enterprises can now use their Anthropic spend commitment to buy more Claude-powered products and agents.  Get started: https://t.co/L14yHet6h3 https://t.co/ZdoWCw7th3 https://t.co/zX1HFU1iG2</title>
-      <link>https://x.com/claudeai/status/2097718980437831935</link>
-      <description>作者：Claude
-账号：@claudeai
-简介：Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Talk to Claude on https://t.co/ZhTwG8d1e5 or download the app.
-
-New on Claude Marketplace: @CrowdStrike, @cursor_ai, @FactoryAI, @GammaApp, and @vercel.
-
-Enterprises can now use their Anthropic spend commitment to buy more Claude-powered products and agents.
-
-Get started: https://t.co/L14yHet6h3 https://t.co/ZdoWCw7th3 https://t.co/zX1HFU1iG2</description>
-      <pubDate>Wed, 09 Sep 2026 16:09:13 +0000</pubDate>
-      <guid isPermaLink="false">2097718980437831935</guid>
-    </item>
-    <item>
-      <title>ocarina of time remake is the best news in a long time.  i will be unavailable november 5 and 6; need to find a case of mountain dew.</title>
-      <link>https://x.com/sama/status/2097696043492143157</link>
-      <description>作者：Sam Altman
-账号：@sama
-简介：The mission of OpenAI to ensure that AGI benefits all of humanity
-
-ocarina of time remake is the best news in a long time.
-
-i will be unavailable november 5 and 6; need to find a case of mountain dew.</description>
-      <pubDate>Wed, 09 Sep 2026 14:38:04 +0000</pubDate>
-      <guid isPermaLink="false">2097696043492143157</guid>
-    </item>
-    <item>
-      <title>This would suck, but we will prioritize great service for customers until we can get back on top of things. https://t.co/Qi5ssKJic6</title>
-      <link>https://x.com/sama/status/2097695001341829212</link>
-      <description>作者：Sam Altman
-账号：@sama
-简介：The mission of OpenAI to ensure that AGI benefits all of humanity
-
-This would suck, but we will prioritize great service for customers until we can get back on top of things. https://t.co/Qi5ssKJic6</description>
-      <pubDate>Wed, 09 Sep 2026 14:33:56 +0000</pubDate>
-      <guid isPermaLink="false">2097695001341829212</guid>
-    </item>
-    <item>
-      <title>Idea is easy Conviction is hard</title>
-      <link>https://x.com/zarazhangrui/status/2097599758391255259</link>
+      <title>Why is computer use still so painfully slow??</title>
+      <link>https://x.com/zarazhangrui/status/2098136119154254287</link>
       <description>作者：Zara Zhang
 账号：@zarazhangrui
 简介：Builder. Make something people want, then make people want it. Harvard’17. GitHub: https://t.co/KCuEaje1wd 
 YouTube: https://t.co/8xzbGWsHgY
 
-Idea is easy
-Conviction is hard</description>
-      <pubDate>Wed, 09 Sep 2026 08:15:28 +0000</pubDate>
-      <guid isPermaLink="false">2097599758391255259</guid>
+Why is computer use still so painfully slow??</description>
+      <pubDate>Thu, 10 Sep 2026 19:46:46 +0000</pubDate>
+      <guid isPermaLink="false">2098136119154254287</guid>
+    </item>
+    <item>
+      <title>Excited to partner more deeply with OpenAI so you can work with your enterprise content from Box securely in ChatGPT.  Software continues to go headless, and we’re massive believers that the future of work will be AI agents that can process data and execute workflows anywhere. https://t.co/CNZv5CH8b...</title>
+      <link>https://x.com/levie/status/2098135659714085281</link>
+      <description>作者：Aaron Levie
+账号：@levie
+简介：ceo @box - your business lives in content. unleash it with AI
+
+Excited to partner more deeply with OpenAI so you can work with your enterprise content from Box securely in ChatGPT.
+
+Software continues to go headless, and we’re massive believers that the future of work will be AI agents that can process data and execute workflows anywhere. https://t.co/CNZv5CH8bn</description>
+      <pubDate>Thu, 10 Sep 2026 19:44:57 +0000</pubDate>
+      <guid isPermaLink="false">2098135659714085281</guid>
+    </item>
+    <item>
+      <title>Gemini, now on Windows!  Get it: https://t.co/mKpROGeCl3 https://t.co/59jHumlY0X</title>
+      <link>https://x.com/joshwoodward/status/2098131750660772342</link>
+      <description>作者：Josh Woodward
+账号：@joshwoodward
+简介：VP, @Google @GoogleLabs @GeminiApp @GoogleAIStudio
+
+Gemini, now on Windows!
+
+Get it: https://t.co/mKpROGeCl3 https://t.co/59jHumlY0X</description>
+      <pubDate>Thu, 10 Sep 2026 19:29:25 +0000</pubDate>
+      <guid isPermaLink="false">2098131750660772342</guid>
+    </item>
+    <item>
+      <title>I’m so sorry https://t.co/txK4iw6MYE</title>
+      <link>https://x.com/danshipper/status/2098120649701204416</link>
+      <description>作者：Dan Shipper
+账号：@danshipper
+简介：ceo @every | the only subscription you need to stay at the edge of AI
+
+I’m so sorry https://t.co/txK4iw6MYE</description>
+      <pubDate>Thu, 10 Sep 2026 18:45:18 +0000</pubDate>
+      <guid isPermaLink="false">2098120649701204416</guid>
+    </item>
+    <item>
+      <title>the possibilities for this are incredible  extremely psyched to experiment https://t.co/DdtRknm8TU</title>
+      <link>https://x.com/danshipper/status/2098116268671025210</link>
+      <description>作者：Dan Shipper
+账号：@danshipper
+简介：ceo @every | the only subscription you need to stay at the edge of AI
+
+the possibilities for this are incredible
+
+extremely psyched to experiment https://t.co/DdtRknm8TU</description>
+      <pubDate>Thu, 10 Sep 2026 18:27:54 +0000</pubDate>
+      <guid isPermaLink="false">2098116268671025210</guid>
+    </item>
+    <item>
+      <title>To make sure our current users have an incredible experience and continued access to Astra, we are going to pause subscriptions to our $200 Pro plan. These put the most strain on our systems and we wanted to take the smallest step that allows us to continue giving the broadest access possible. All o...</title>
+      <link>https://x.com/thsottiaux/status/2098113585683808624</link>
+      <description>作者：Thibault Sottiaux
+账号：@thsottiaux
+简介：Codex &amp; ChatGPT @OpenAI
+
+To make sure our current users have an incredible experience and continued access to Astra, we are going to pause subscriptions to our $200 Pro plan. These put the most strain on our systems and we wanted to take the smallest step that allows us to continue giving the broadest access possible. All other plans and the api remain available.
+
+There is no impact to existing accounts and we are working on adding more capacity as fast as we can. Thanks!</description>
+      <pubDate>Thu, 10 Sep 2026 18:17:14 +0000</pubDate>
+      <guid isPermaLink="false">2098113585683808624</guid>
+    </item>
+    <item>
+      <title>If you had a machine capable of doing only 1 thing: Finding cures to our most pressing diseases.  How much of your GDP would you devote to this machine?  I think the answer is: very high.   This is the world we live in now.</title>
+      <link>https://x.com/adityaag/status/2098112281267843264</link>
+      <description>作者：Aditya Agarwal
+账号：@adityaag
+简介：General Partner @SPC, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @Dropbox, Board @Flipkart | Optimist, Builder, Dad
+
+If you had a machine capable of doing only 1 thing: Finding cures to our most pressing diseases.
+
+How much of your GDP would you devote to this machine?
+
+I think the answer is: very high. 
+
+This is the world we live in now.</description>
+      <pubDate>Thu, 10 Sep 2026 18:12:03 +0000</pubDate>
+      <guid isPermaLink="false">2098112281267843264</guid>
+    </item>
+    <item>
+      <title>It’s time to ☁️ dream bigger ☁️  Dreambeans is officially available to all US users (18+) on iOS and Android, free of charge. No subscription required.  You can also now connect @Geminiapp to Dreambeans. Dreambeans will build off the nuance and understanding from your chats to surface even more insi...</title>
+      <link>https://x.com/GoogleLabs/status/2098110018289803558</link>
+      <description>作者：Google Labs
+账号：@GoogleLabs
+简介：Google’s home for our latest AI tools and experiments.
+
+It’s time to ☁️ dream bigger ☁️
+
+Dreambeans is officially available to all US users (18+) on iOS and Android, free of charge. No subscription required.
+
+You can also now connect @Geminiapp to Dreambeans. Dreambeans will build off the nuance and understanding from your chats to surface even more insightful and personalized daily stories.
+
+Get your daily, freshly brewed collection of stories here: https://t.co/jCdAzMHvOD</description>
+      <pubDate>Thu, 10 Sep 2026 18:03:04 +0000</pubDate>
+      <guid isPermaLink="false">2098110018289803558</guid>
+    </item>
+    <item>
+      <title>Don't call it a private equity acquisition for a huge discount from peak valuation.  Call it an Italian goodbye.</title>
+      <link>https://x.com/thenanyu/status/2098094411465048497</link>
+      <description>作者：Nan Yu
+账号：@thenanyu
+简介：(soon) member of product staff @openai. prev head of product @linear. I am grader.
+
+Don't call it a private equity acquisition for a huge discount from peak valuation. 
+Call it an Italian goodbye.</description>
+      <pubDate>Thu, 10 Sep 2026 17:01:03 +0000</pubDate>
+      <guid isPermaLink="false">2098094411465048497</guid>
+    </item>
+    <item>
+      <title>Each day ~10 million deployments are made on Vercel, with 2.35 billion made to date.  Vercel is one of the most heavily multi-tenant systems in the world. Billions of application deployments co-exist and are accessible ('routable') on our CDN at any given moment.  Underlying our CDN is a global meta...</title>
+      <link>https://x.com/rauchg/status/2098091056302833837</link>
+      <description>作者：Guillermo Rauch
+账号：@rauchg
+简介：@vercel CEO
+
+Each day ~10 million deployments are made on Vercel, with 2.35 billion made to date.
+
+Vercel is one of the most heavily multi-tenant systems in the world. Billions of application deployments co-exist and are accessible ('routable') on our CDN at any given moment.
+
+Underlying our CDN is a global metadata store that synchronizes within hundreds of milliseconds, globally. e.g: when you roll back, change config, add routes, etc.
+
+We just made this system 91% faster at p99, and in the process sped up the build→deploy pipeline. All of this while the system is under immense pressure from the growth in agentic deployments.
+
+Great read on the internals of Vercel from our CDN engineering team:</description>
+      <pubDate>Thu, 10 Sep 2026 16:47:43 +0000</pubDate>
+      <guid isPermaLink="false">2098091056302833837</guid>
+    </item>
+    <item>
+      <title>This makes a lot of sense. Duplicating logic is no longer painful. Abstractions still are. https://t.co/q4jqVBW00r</title>
+      <link>https://x.com/steipete/status/2098089196800098798</link>
+      <description>作者：Peter Steinberger
+账号：@steipete
+简介：Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world.
+@OpenClaw🦞 + @OpenAI
+
+This makes a lot of sense. Duplicating logic is no longer painful. Abstractions still are. https://t.co/q4jqVBW00r</description>
+      <pubDate>Thu, 10 Sep 2026 16:40:19 +0000</pubDate>
+      <guid isPermaLink="false">2098089196800098798</guid>
+    </item>
+    <item>
+      <title>Better hop on soon. Astra demand is growing too fast! https://t.co/MgCFw04sxJ</title>
+      <link>https://x.com/steipete/status/2098088917782413740</link>
+      <description>作者：Peter Steinberger
+账号：@steipete
+简介：Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world.
+@OpenClaw🦞 + @OpenAI
+
+Better hop on soon. Astra demand is growing too fast! https://t.co/MgCFw04sxJ</description>
+      <pubDate>Thu, 10 Sep 2026 16:39:13 +0000</pubDate>
+      <guid isPermaLink="false">2098088917782413740</guid>
+    </item>
+    <item>
+      <title>This conversation with @RichardSocher is also available on Spotify, Apple Podcasts and here on YouTube (like and subscribe!):  https://t.co/8gsssP8fcu</title>
+      <link>https://x.com/mattturck/status/2098081452839637480</link>
+      <description>作者：Matt Turck
+账号：@mattturck
+简介：VC at @FirstMarkCap.  Host: MAD Podcast; Organizer: Data Driven NYC, Author: MAD Landscape.
+
+This conversation with @RichardSocher is also available on Spotify, Apple Podcasts and here on YouTube (like and subscribe!):
+
+https://t.co/8gsssP8fcu</description>
+      <pubDate>Thu, 10 Sep 2026 16:09:33 +0000</pubDate>
+      <guid isPermaLink="false">2098081452839637480</guid>
+    </item>
+    <item>
+      <title>When AI builds AI: my conversation with @RichardSocher about RSI and scientific progress.   00:00 Intro: AI That Improves Itself 00:55 Why Scientific Progress Is Slowing 03:08 The Labyrinth of Human Knowledge 05:59 Can AI Put Science Back Together? 07:57 How LLMs Learn Biology and Proteins 10:56 Nex...</title>
+      <link>https://x.com/mattturck/status/2098081448330674182</link>
+      <description>作者：Matt Turck
+账号：@mattturck
+简介：VC at @FirstMarkCap.  Host: MAD Podcast; Organizer: Data Driven NYC, Author: MAD Landscape.
+
+When AI builds AI: my conversation with @RichardSocher about RSI and scientific progress. 
+
+00:00 Intro: AI That Improves Itself
+00:55 Why Scientific Progress Is Slowing
+03:08 The Labyrinth of Human Knowledge
+05:59 Can AI Put Science Back Together?
+07:57 How LLMs Learn Biology and Proteins
+10:56 Next-Token Prediction as a World Model
+16:44 Can AI Generate Truly Original Ideas?
+17:32 Simulations, Verifiers and Superhuman AI
+22:18 The Path to Recursive Self-Improvement
+24:49 Why AI Hallucinations Can Drive Discovery
+27:42 From Reading Biology to Writing It
+31:31 Can AI Accelerate Drug Discovery?
+33:31 Will AI Help Cure Cancer?
+38:03 AI Breakthroughs in Biology, Energy and Materials
+40:19 Will Some Societies Reject AI?
+45:07 Building the AI Economist
+52:22 The Scientific Data Bottleneck
+53:41 The Four Pillars of the Eureka Machine
+55:01 Teaching AI the Rules of Reality
+57:44 Simulations and Virtual Cells
+1:00:40 Self-Driving Robotic Laboratories
+1:02:51 Agent Swarms and Open-Ended Discovery
+1:04:30 The Compute Bottleneck
+1:05:44 Inside @Recursive_SI 
+1:07:33 What Recursive Will Build First
+1:10:10 How Do We Define Intelligence?
+1:11:32 How Far Can Intelligence Go?</description>
+      <pubDate>Thu, 10 Sep 2026 16:09:32 +0000</pubDate>
+      <guid isPermaLink="false">2098081448330674182</guid>
+    </item>
+    <item>
+      <title>Three truths in early stage venture right now:  1) everyone wants to raise a $50 million seed 2) everyone thinks they will hit $30 million ARR next year 3) every hot tranched seed round magically ends up at the ~$300 million valuation</title>
+      <link>https://x.com/nikunj/status/2098078391065018816</link>
+      <description>作者：Nikunj Kothari
+账号：@nikunj
+简介：partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian &amp; others. love @shimoleejhaveri + 👦👧
+
+Three truths in early stage venture right now:
+
+1) everyone wants to raise a $50 million seed
+2) everyone thinks they will hit $30 million ARR next year
+3) every hot tranched seed round magically ends up at the ~$300 million valuation</description>
+      <pubDate>Thu, 10 Sep 2026 15:57:23 +0000</pubDate>
+      <guid isPermaLink="false">2098078391065018816</guid>
+    </item>
+    <item>
+      <title>We made deployments faster again https://t.co/lrtQdx1iK1</title>
+      <link>https://x.com/rauchg/status/2098066258155708851</link>
+      <description>作者：Guillermo Rauch
+账号：@rauchg
+简介：@vercel CEO
+
+We made deployments faster again https://t.co/lrtQdx1iK1</description>
+      <pubDate>Thu, 10 Sep 2026 15:09:10 +0000</pubDate>
+      <guid isPermaLink="false">2098066258155708851</guid>
+    </item>
+    <item>
+      <title>How to build great evals - part 10  Measure the steps, not just the result.  Much like high school math, it isn’t sufficient just to get the right answer, the steps to get there are critical.  Two agent trajectories might produce the same answer (42!!).  but one of them  searches the right sources, ...</title>
+      <link>https://x.com/realmadhuguru/status/2098064969464217720</link>
+      <description>作者：Madhu Guru
+账号：@realmadhuguru
+简介：Sr Director, AI at Meta; Prev: Google - Led Gemini, Veo, Nano Banana.
+
+How to build great evals - part 10
+
+Measure the steps, not just the result.
+
+Much like high school math, it isn’t sufficient just to get the right answer, the steps to get there are critical.
+
+Two agent trajectories might produce the same answer (42!!).
+
+but one of them  searches the right sources, retrieves the right document, makes 4 clean tool calls and calculates the result. The other makes 17 calls, searches the same thing 3 times, recovers from 2 errors and eventually gets there. 
+
+It’s clear which one is better.
+
+Here’s what you need to do:
+1/ clearly define your whole workflow
+2/ define the tasks in each step
+3/ think through how you measure each step - separate evals or is it a slice of a bigger eval
+4/ define your median and hard tasks - reflect them in your evals
+
+Now any time you look at eval results, study the steps first and the final results next.</description>
+      <pubDate>Thu, 10 Sep 2026 15:04:03 +0000</pubDate>
+      <guid isPermaLink="false">2098064969464217720</guid>
+    </item>
+    <item>
+      <title>When AI Improves Itself | Richard Socher (Recursive)</title>
+      <link>https://www.youtube.com/@DataDrivenNYC/videos</link>
+      <description>播客：The MAD Podcast with Matt Turck
+
+Speaker 1 | 00:00 - 00:19
+Anything you can simulate, AI will solve. And before you know it, you're in this recursive self improvement loop and we believe that that will be a great unlock. Boy, are we far away from the true upper bounds of any of the spaces of intelligence. And there is still so much further that AI can go.
+
+Speaker 2 | 00:19 - 00:47
+Hi. I'm Matt Turk. Welcome back to the MAD podcast. My guest today is Richard Socher, one of the most cited researchers in AI and now at the center of the term everyone in AI is suddenly talking about, recursive self improvement, AI that makes better AI. Richard just raised $650,000,000 for Recursive, a company built to do exactly that, and his new book, The Eureka Machine, is a fascinating blueprint for how AI and RSI are about to revolutionize science.
+
+Speaker 2 | 00:47 - 00:54
+Please enjoy my conversation with the always excellent Richard Socher. Hey, Richard. Welcome back.
+
+Speaker 1 | 00:54 - 00:55
+Great to be back. Thanks for having me.
+
+Speaker 2 | 00:55 - 01:18
+Alright. So lots to catch up on. We're going to talk about recursive intelligence. We're going to talk about recursive the company. But first and foremost, and most importantly, perhaps, we're going to talk about your new book entitled The Yorker Machine, which I read with great interest and would strongly recommend, coming out in a couple weeks, I believe.
+
+Speaker 2 | 01:18 - 01:38
+The book, opens with a premise that, I think a lot of people find surprising and shocking, which is this claim that, scientific progress has slowed down, which feels counterintuitive given the number of researchers we have around the world and the sheer amount of money that goes into the space. So why is that?
+
+Speaker 1 | 01:39 - 02:07
+Yeah. It's a somewhat surprising fact and you may argue clearly not. Like we're making so much little progress and so many different things but when you think about, you know, how much progress have we made on antibiotics? Like bacterial infections went from like a death sentence and the plague to like a nuisance, like we now have antibiotics for almost all the different bacteria and we truly solved that. And like, we have clearly not solved viruses or cancer the same way we solved bacterial infections.
+
+Speaker 1 | 02:07 - 03:07
+When you think about foundational novel things like E equals MC squared and general relativity, we clearly have not made progress on many theories and physics either when it comes to such foundational things that then literally led to nuclear energy and fusion and fission and other kinds of research that could be conceptually done. And so a lot of the fields have kind of gone through from we understood some foundational pieces to we can now do a lot of engineering, but they've also split up into thousands of different subfields. It is almost impossible nowadays to be the sort of general genius that can dabble in all of these different fields because each field takes years and years and years to get really deep into. And so what we found is that as there are more and more subfields and niches, it's actually hard to have enough people in each of these subfields and Stanis Ablem and others have talked about that and predicted that that will be a big part of why we're slowing down.
+
+Speaker 2 | 03:08 - 03:20
+Yeah, you have a great expression. You talk about how we evolved from a body of knowledge to a labyrinth of knowledge, 34,000 journals that might as well have no trespassing signs.
+
+Speaker 1 | 03:20 - 03:56
+That's right, yeah it's so hard to like even understand all the lingo and I've sort of gone through this myself first when I started studying linguistics and then computer science but now that I'm sort of trying to study and have studied now over the last few years sort of on the side biology, it's like man, every time you have a conversation with biologists, like 10 sentences in, they're just telling you so many abbreviations and terms that you're not familiar with that most people after a while space out. And so it's really hard to describe and explain very complex deep fields to someone who hasn't been in them.
+
+Speaker 2 | 03:56 - 04:08
+You also mentioned that there is some level like kind of like social human element to this where in academia you're not necessarily encouraged to take risks and that goes to your own experience as well?
+
+Speaker 1 | 04:08 - 05:15
+Yeah 100% like people often you know the way careers work is you want to be kind of novel but if you're too novel, you're too far out there then your papers will get rejected and that certainly happened to me a lot in the early days like 2010 of neural networks for natural language processing where the majority of my first couple papers got rejected from NLP conferences. When they got accepted in like some small sub niches and subgroups. I still remember the first sort of deep learning workshops workshop at NIPS back in the day, now NeurIPS, that was basically like thirty, forty people, all the now super famous folks, but it was just like a couple of us renegades who thought that this would clearly be the right way of going about it, and we came from different directions like feature engineering seemed like not the right path to doing things, feature learning was a big part of what got us started, some were neuroscience inspired, and it was again that sort of combination of different fields that, was, you know, at that intersection where it's interesting but also often hard to publish well in the beginning.
+
+Speaker 2 | 05:15 - 05:38
+Okay. Great. So, to play it back is fundamentally that idea that there is too much knowledge everywhere. Even people within the field are not necessarily encouraged to go super far and and and to come up with crazy ideas, and the challenge is to bring everything back together. So the the Renaissance man, so to speak, had only a small body of knowledge, and therefore, were able to come up with cross disciplinary insights, but this is no longer possible.
+
+Speaker 2 | 05:38 - 05:39
+Right? That's
+
+Speaker 1 | 05:39 - 05:59
+exactly right. Even, like, a good example again in biology is that you study not all of biology anymore. You study either biology at the cell level or the tissue sort of medical level or the biochemistry level or the protein level and if you ask a PhD in biology about like a deep question and one of the other layers they often some like don't know either.
+
+Speaker 2 | 05:59 - 06:14
+Great. Alright. So the premise of the whole book is that, AI is about to usher or in the process of ushering a whole new paradigm of scientific progress. So just walk us through the the high level idea.
+
+Speaker 1 | 06:15 - 07:47
+High level idea is that when you know AI like science has gotten really good at understanding smaller and smaller pieces, but to bring them back up, and bring them together, we actually have to use AI and AI is kind of what, calculus did for physics, AI will do for biology in the sense that it'll help us weave back together lots of very complex, pieces that build these complex systems that then have certain properties. So, concretely for instance, your microbiome or the brain, they have so many different pieces and we actually understand many of the individual like neurons. So like this neuron has these synapses and this is how it fires and so on, and this is the chemistry which often people still ignore in a lot of neural models and so on. But then as they get as we put more and more of them together, we stop understanding why the whole brain can now have a thought or, you know, do certain things, and I think AI is the perfect language, the perfect way of thinking about some of these complex systems and has the ability to also exhibit sometimes patterns that are almost hard for us to then understand, but of course it's always easier to understand and study a neural network than it is to study the original biological system, and so, I think when you put all these together, and I'll talk ...</description>
+      <pubDate>Thu, 10 Sep 2026 11:30:00 +0000</pubDate>
+      <guid>https://www.youtube.com/@DataDrivenNYC/videos</guid>
     </item>
   </channel>
 </rss>
