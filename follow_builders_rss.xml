@@ -5,592 +5,616 @@
     <link>https://github.com/zarazhangrui/follow-builders</link>
     <description>聚合 AI 领域建设者的 X、播客和博客内容。</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 12 Sep 2026 01:58:36 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 09:43:20 +0000</lastBuildDate>
     <item>
-      <title>The latest Threat Intelligence report is an absolutely terrifying and important read.   As models become more intelligent, without the right safeguards and monitoring they also become more dangerous. Many capabilities are dual use: a model that codes well can be used to hack critical infrastructure;...</title>
-      <link>https://x.com/bcherny/status/2098281805770309686</link>
-      <description>作者：Boris Cherny
-账号：@bcherny
-简介：Claude Code @anthropicai
-
-The latest Threat Intelligence report is an absolutely terrifying and important read. 
-
-As models become more intelligent, without the right safeguards and monitoring they also become more dangerous. Many capabilities are dual use: a model that codes well can be used to hack critical infrastructure; a model that assists with biology research can also be used to engineer the next pandemic. 
-
-These issues are complex, thorny, and increasingly important for everyone to understand so that the world can weigh in and respond to rapidly escalating risks.
-
-https://t.co/0rnV2HjPP6</description>
-      <pubDate>Fri, 11 Sep 2026 05:25:41 +0000</pubDate>
-      <guid isPermaLink="false">2098281805770309686</guid>
-    </item>
-    <item>
-      <title>This post is probably my personal record from thought -&gt; publishing.. lacks some of the usual polish!   A little behind the scenes:  &gt; voice memo while driving to work &gt; more voice memos throughout the day &gt; 30 minutes of furious writing between two meetings &gt; quick read through &amp; publish  @claudeai...</title>
-      <link>https://x.com/nikunj/status/2098255116751257663</link>
-      <description>作者：Nikunj Kothari
-账号：@nikunj
-简介：partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian &amp; others. love @shimoleejhaveri + 👦👧
-
-This post is probably my personal record from thought -&gt; publishing.. lacks some of the usual polish! 
-
-A little behind the scenes:
-
-&gt; voice memo while driving to work
-&gt; more voice memos throughout the day
-&gt; 30 minutes of furious writing between two meetings
-&gt; quick read through &amp; publish
-
-@claudeai please fix your voice transcription 🙏</description>
-      <pubDate>Fri, 11 Sep 2026 03:39:38 +0000</pubDate>
-      <guid isPermaLink="false">2098255116751257663</guid>
-    </item>
-    <item>
-      <title>Scaled agents on demand.  This is pretty much the infrastructure that runs under the hood for ChatGPT Work, all wrapped up in an API which you can use to get started in &amp;lt; 1 min. Happy building. https://t.co/GhmuBkfjP1</title>
-      <link>https://x.com/thsottiaux/status/2098238138334548260</link>
+      <title>Astra powered ships this week  - Images 2.5 - GPT-Live-1 - Agents API - Data Agent - ChatGPT for Financial Services  and yet it’s not yet DevDay. Busy plans for next week too.</title>
+      <link>https://x.com/thsottiaux/status/2098639827084480864</link>
       <description>作者：Thibault Sottiaux
 账号：@thsottiaux
 简介：Codex &amp; ChatGPT @OpenAI
 
-Scaled agents on demand.
+Astra powered ships this week
 
-This is pretty much the infrastructure that runs under the hood for ChatGPT Work, all wrapped up in an API which you can use to get started in &amp;lt; 1 min. Happy building. https://t.co/GhmuBkfjP1</description>
-      <pubDate>Fri, 11 Sep 2026 02:32:10 +0000</pubDate>
-      <guid isPermaLink="false">2098238138334548260</guid>
+- Images 2.5
+- GPT-Live-1
+- Agents API
+- Data Agent
+- ChatGPT for Financial Services
+
+and yet it’s not yet DevDay. Busy plans for next week too.</description>
+      <pubDate>Sat, 12 Sep 2026 05:08:20 +0000</pubDate>
+      <guid isPermaLink="false">2098639827084480864</guid>
     </item>
     <item>
-      <title>Trading tokens for an AC. Who knew SF could be so hot 🫠</title>
-      <link>https://x.com/steipete/status/2098229090570629419</link>
+      <title>TBH once you score 1600 you should unlock a second harder test that gives you a second score on top of the 1600— we should have more and higher measures of excellence   But instead they ban the SAT so that everything turns into random lottery and excellence cannot be recognized https://t.co/BCdZC9tO...</title>
+      <link>https://x.com/garrytan/status/2098615692425851205</link>
+      <description>作者：Garry Tan
+账号：@garrytan
+简介：President &amp; CEO @ycombinator —Founder @garryslist—Creator of GStack &amp; GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop
+
+TBH once you score 1600 you should unlock a second harder test that gives you a second score on top of the 1600— we should have more and higher measures of excellence 
+
+But instead they ban the SAT so that everything turns into random lottery and excellence cannot be recognized https://t.co/BCdZC9tOhY</description>
+      <pubDate>Sat, 12 Sep 2026 03:32:26 +0000</pubDate>
+      <guid isPermaLink="false">2098615692425851205</guid>
+    </item>
+    <item>
+      <title>I have decided to do this after much deliberation:   All local scheduled tasks live in Codex. All cloud tasks I’m porting over to Grok Bot.   Makes it a clean split.</title>
+      <link>https://x.com/petergyang/status/2098614492066435228</link>
+      <description>作者：Peter Yang
+账号：@petergyang
+简介：Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6
+
+I have decided to do this after much deliberation: 
+
+All local scheduled tasks live in Codex. All cloud tasks I’m porting over to Grok Bot. 
+
+Makes it a clean split.</description>
+      <pubDate>Sat, 12 Sep 2026 03:27:39 +0000</pubDate>
+      <guid isPermaLink="false">2098614492066435228</guid>
+    </item>
+    <item>
+      <title>Hi Astra users. A reset and a quick update on quality issues that have been posted around.  Working with some of you, we have found and fixed the following issues: - Some skills written for previous models were triggering too often or preventing the model from checking its work. - An opt-in context ...</title>
+      <link>https://x.com/thsottiaux/status/2098612714704891959</link>
+      <description>作者：Thibault Sottiaux
+账号：@thsottiaux
+简介：Codex &amp; ChatGPT @OpenAI
+
+Hi Astra users. A reset and a quick update on quality issues that have been posted around.
+
+Working with some of you, we have found and fixed the following issues:
+- Some skills written for previous models were triggering too often or preventing the model from checking its work.
+- An opt-in context management experiment that could cause early stops or replies to older messages. We've disabled it. Our rough estimate is that 4-5k users were affected by this experiment.
+- We've also removed some badly configured engines that resulted in a measured quality degradation for a long tail of traffic flowing through them.
+
+We’ve also made some more minor improvements and things should feel significantly better across the board. More consistent follow-through, better tracking of your latest message, and better checks on the work as it’s going through the motions.
+
+The examples posted and all the users who worked directly with us were incredibly useful in helping fix things quickly. Always grateful for this incredible community.
+
+And of course, a reset is also landing by midnight today.</description>
+      <pubDate>Sat, 12 Sep 2026 03:20:36 +0000</pubDate>
+      <guid isPermaLink="false">2098612714704891959</guid>
+    </item>
+    <item>
+      <title>i emptied my house said goodbyes and moved to taipei  so far so great! 💛 https://t.co/vvAbELmie8</title>
+      <link>https://x.com/ryolu_/status/2098612137321201942</link>
+      <description>作者：Ryo Lu
+账号：@ryolu_
+简介：Designed @Cursor_ai, @NotionHQ, @Stripe, built startups. I make a world where anyone can make software. Aspiring k-pop idol.
+
+i emptied my house
+said goodbyes
+and moved to taipei
+
+so far so great! 💛 https://t.co/vvAbELmie8</description>
+      <pubDate>Sat, 12 Sep 2026 03:18:18 +0000</pubDate>
+      <guid isPermaLink="false">2098612137321201942</guid>
+    </item>
+    <item>
+      <title>I often think and hope that I would have had the courage that the people in United 93 had to prevent an attack on the White House.  I have been thinking about 9/11 all day…  I was at CMU in a lecture in Wean Hall room 7500. People were very scared because one of the planes was near Pittsburgh.  So m...</title>
+      <link>https://x.com/adityaag/status/2098580235268899123</link>
+      <description>作者：Aditya Agarwal
+账号：@adityaag
+简介：General Partner @SPC, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @Dropbox, Board @Flipkart | Optimist, Builder, Dad
+
+I often think and hope that I would have had the courage that the people in United 93 had to prevent an attack on the White House.
+
+I have been thinking about 9/11 all day…
+
+I was at CMU in a lecture in Wean Hall room 7500. People were very scared because one of the planes was near Pittsburgh.
+
+So many heroes on that day.</description>
+      <pubDate>Sat, 12 Sep 2026 01:11:32 +0000</pubDate>
+      <guid isPermaLink="false">2098580235268899123</guid>
+    </item>
+    <item>
+      <title>okay this is not great https://t.co/yzMDp9dIZh</title>
+      <link>https://x.com/danshipper/status/2098579426178908494</link>
+      <description>作者：Dan Shipper
+账号：@danshipper
+简介：ceo @every | the only subscription you need to stay at the edge of AI
+
+okay this is not great https://t.co/yzMDp9dIZh</description>
+      <pubDate>Sat, 12 Sep 2026 01:08:19 +0000</pubDate>
+      <guid isPermaLink="false">2098579426178908494</guid>
+    </item>
+    <item>
+      <title>Read why here: https://t.co/qMkuBOwSKk</title>
+      <link>https://x.com/petergyang/status/2098573992097657135</link>
+      <description>作者：Peter Yang
+账号：@petergyang
+简介：Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6
+
+Read why here: https://t.co/qMkuBOwSKk</description>
+      <pubDate>Sat, 12 Sep 2026 00:46:43 +0000</pubDate>
+      <guid isPermaLink="false">2098573992097657135</guid>
+    </item>
+    <item>
+      <title>Excited to welcome Aidan &amp; @ Sasha from the Git AI team to OpenAI!   They are building in the open and have developed an open-source tool that helps developers understand how coding agents contribute to their codebase.   Together, we’ll make it easier for businesses to see where Codex is making a di...</title>
+      <link>https://x.com/thsottiaux/status/2098569976143806918</link>
+      <description>作者：Thibault Sottiaux
+账号：@thsottiaux
+简介：Codex &amp; ChatGPT @OpenAI
+
+Excited to welcome Aidan &amp; @
+Sasha from the Git AI team to OpenAI! 
+
+They are building in the open and have developed an open-source tool that helps developers understand how coding agents contribute to their codebase. 
+
+Together, we’ll make it easier for businesses to see where Codex is making a difference when working through problems for individuals and teams. We’ll also keep Git AI open source and continue investing in it.</description>
+      <pubDate>Sat, 12 Sep 2026 00:30:46 +0000</pubDate>
+      <guid isPermaLink="false">2098569976143806918</guid>
+    </item>
+    <item>
+      <title>I am skeptical of &quot;software factories.&quot;  Other than for verification &amp; testing, I don't think AI is at a point where it can self-improve a product or build a new feature end-to-end without human in the loop.  Whenever I loop something overnight to build something new = if it makes one wrong assumpti...</title>
+      <link>https://x.com/petergyang/status/2098565668241334366</link>
+      <description>作者：Peter Yang
+账号：@petergyang
+简介：Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6
+
+I am skeptical of &quot;software factories.&quot;
+
+Other than for verification &amp; testing, I don't think AI is at a point where it can self-improve a product or build a new feature end-to-end without human in the loop.
+
+Whenever I loop something overnight to build something new = if it makes one wrong assumption the whole thing becomes a waste of tokens. 
+
+What products or features have been built end-to-end with a software factory and no human defining the requirements or checking the work?</description>
+      <pubDate>Sat, 12 Sep 2026 00:13:39 +0000</pubDate>
+      <guid isPermaLink="false">2098565668241334366</guid>
+    </item>
+    <item>
+      <title>“Success has many fathers, but failure is an orphan.”  I never realized the gravity of this quote till I saw extremely successful VCs fight for attribution of the hot deals.   And you realize this viscerally because the large exits (or markups) are genuinely rare and those are the ones you raise the...</title>
+      <link>https://x.com/nikunj/status/2098550718923997430</link>
+      <description>作者：Nikunj Kothari
+账号：@nikunj
+简介：partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian &amp; others. love @shimoleejhaveri + 👦👧
+
+“Success has many fathers, but failure is an orphan.”
+
+I never realized the gravity of this quote till I saw extremely successful VCs fight for attribution of the hot deals. 
+
+And you realize this viscerally because the large exits (or markups) are genuinely rare and those are the ones you raise the next fund on (your own or part of the firm). 
+
+This is why in the next couple of years you’ll see many names scrubbed (or conveniently omitted) and everyone wanting to revise history to claim some credit for the ones that eventually succeed. 
+
+So many emerging GPs are facing this explicitly as the only thing they can take to their future LPs is their track record. And it’s been sad to see them not get the credit they actually deserve. 
+
+As @AnjneyMidha said, eventually the new guard will shine as they will figure a way out. But in the short term, hold your founders close since they’ll be the real reference checks! 
+
+(this is genuinely NOT a subtweet at any firm, just what I have been noticing across the market as I’m helping emerging managers)</description>
+      <pubDate>Fri, 11 Sep 2026 23:14:15 +0000</pubDate>
+      <guid isPermaLink="false">2098550718923997430</guid>
+    </item>
+    <item>
+      <title>Replit acquires a business entirely built on Replit. I expect first of many to come. https://t.co/hL516eAAu2</title>
+      <link>https://x.com/amasad/status/2098548464452055437</link>
+      <description>作者：Amjad Masad
+账号：@amasad
+简介：ceo @replit. civilizationist
+
+Replit acquires a business entirely built on Replit. I expect first of many to come. https://t.co/hL516eAAu2</description>
+      <pubDate>Fri, 11 Sep 2026 23:05:17 +0000</pubDate>
+      <guid isPermaLink="false">2098548464452055437</guid>
+    </item>
+    <item>
+      <title>we heard feedback that it's hard to know if your skills are still working with new model releases  plugin evals are here to help  run `claude plugin eval init` in your plugin folder https://t.co/Q0I1ZnugDs</title>
+      <link>https://x.com/trq212/status/2098531560643539440</link>
+      <description>作者：Thariq
+账号：@trq212
+简介：Claude Code @anthropicai. prev YC W20, @spc, @medialab
+
+we heard feedback that it's hard to know if your skills are still working with new model releases
+
+plugin evals are here to help
+
+run `claude plugin eval init` in your plugin folder https://t.co/Q0I1ZnugDs</description>
+      <pubDate>Fri, 11 Sep 2026 21:58:07 +0000</pubDate>
+      <guid isPermaLink="false">2098531560643539440</guid>
+    </item>
+    <item>
+      <title>Tailscale’s model router is powered by Vercel AI Gateway as its underlying infrastructure.  AI Gateways are the new CDNs. You could go “direct to origin”, but it’s brittle. You could DIY, but it’s painful and costly.  Proud to serve Tailscale, the 🐐 networking technology company https://t.co/ERS5GKJ...</title>
+      <link>https://x.com/rauchg/status/2098531157230969062</link>
+      <description>作者：Guillermo Rauch
+账号：@rauchg
+简介：@vercel CEO
+
+Tailscale’s model router is powered by Vercel AI Gateway as its underlying infrastructure.
+
+AI Gateways are the new CDNs. You could go “direct to origin”, but it’s brittle. You could DIY, but it’s painful and costly.
+
+Proud to serve Tailscale, the 🐐 networking technology company https://t.co/ERS5GKJx6D</description>
+      <pubDate>Fri, 11 Sep 2026 21:56:31 +0000</pubDate>
+      <guid isPermaLink="false">2098531157230969062</guid>
+    </item>
+    <item>
+      <title>Had to submit a patch to @trycua to make keys work reliable under Linux, dope framework overall tho!</title>
+      <link>https://x.com/steipete/status/2098527982709256637</link>
       <description>作者：Peter Steinberger
 账号：@steipete
 简介：Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world.
 @OpenClaw🦞 + @OpenAI
 
-Trading tokens for an AC. Who knew SF could be so hot 🫠</description>
-      <pubDate>Fri, 11 Sep 2026 01:56:13 +0000</pubDate>
-      <guid isPermaLink="false">2098229090570629419</guid>
+Had to submit a patch to @trycua to make keys work reliable under Linux, dope framework overall tho!</description>
+      <pubDate>Fri, 11 Sep 2026 21:43:54 +0000</pubDate>
+      <guid isPermaLink="false">2098527982709256637</guid>
     </item>
     <item>
-      <title>Some more tales from the road. Met with a couple dozen technology leaders this week across banking, media, information services, insurance, and consulting to discuss agents in the enterprise.  Some of the biggest trends right now:  * Cyber! Everyone nervous about the growing rate of vulnerabilities ...</title>
-      <link>https://x.com/levie/status/2098218284139311615</link>
-      <description>作者：Aaron Levie
-账号：@levie
-简介：ceo @box - your business lives in content. unleash it with AI
+      <title>Astra on OC in a cloud session playing Doom with CUA. Not quite AGI yet, but probably beats fly brain. https://t.co/SrJlaey3MB</title>
+      <link>https://x.com/steipete/status/2098527519213604889</link>
+      <description>作者：Peter Steinberger
+账号：@steipete
+简介：Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world.
+@OpenClaw🦞 + @OpenAI
 
-Some more tales from the road. Met with a couple dozen technology leaders this week across banking, media, information services, insurance, and consulting to discuss agents in the enterprise.
-
-Some of the biggest trends right now:
-
-* Cyber! Everyone nervous about the growing rate of vulnerabilities coming at them from AI, and the implications of the OpenAI Hugging Face incident. The conversation is not as existential as it is in Silicon Valley, but still highly concerned and pragmatic about what to do about it operationally in their environments. Lots of new discoveries due to AI, and still hard to keep up with all the changes they have to execute now.
-
-* Model battles persist. Most companies are deploying multiple frontier models within their enterprise. Too hard to standardize on anything and seeing different preferences across their teams and use cases. But the dollars are still concentrated on just a few vendors. Open weights still in infancy at scale in most of these organizations, often due to lack of domestic “frontier” OSS options. Plenty of appetite for more options here, but so far few places to go.
-
-* Agent security and identity. Somewhat tied to Hugging Face, there’s much more awareness to the new challenges around agent security and identity management in a world when agents are trying to get into every system they can. In a perfect world enterprises could setup identities for all their agents and control what they’re doing, but of course sometimes the agent needs to act exactly as the user as well.
-
-* Process reengineering. Most companies realizing that the big upside of agents is when they can change the actual workflow itself to get the full gains from AI. Far more ROI when companies can adjust their workflows to support agents changing how the work happens instead of just layering on agents into the existing flow. But the big question is who can actually tackle driving these changes, where does that live, etc. Best lessons were still around embedded FDEs in the functions.
-
-* Ruthless adjusting of architectures. Most companies had examples of changing systems out multiple times just in the past year or two with different vendors. I probably haven’t heard “we tried X and it didn’t work so have gone with Y” more than in today’s environment. The lesson here is that because innovation is happening so fast, no one hangs around until a vendor gets something right, they just move on to the next one. 
-
-* Evals! Still very early for most companies to have a good grasp of evals of their workflows. A few customers out of a couple dozen called this out - huge opportunity right now for enterprises to have a good sense of how their work actually happens and how well AI is doing against it.
-
-* Legacy systems still a hurdle. As always, legacy systems still remain a mainstay issue that holds back enterprises from rapid adoption of AI in enterprises. Data is fragmented across legacy environments that weren’t built for an agentic world. Companies spending a lot of time just cleaning up these old platforms. 
-
-Many more topics, but these tend to be some of the more top of mind items at the moment in the enterprise.</description>
-      <pubDate>Fri, 11 Sep 2026 01:13:16 +0000</pubDate>
-      <guid isPermaLink="false">2098218284139311615</guid>
+Astra on OC in a cloud session playing Doom with CUA.
+Not quite AGI yet, but probably beats fly brain. https://t.co/SrJlaey3MB</description>
+      <pubDate>Fri, 11 Sep 2026 21:42:03 +0000</pubDate>
+      <guid isPermaLink="false">2098527519213604889</guid>
     </item>
     <item>
-      <title>Hey ████,  I think there is room for both.  1. Prototypes and other throw-away code can be treated as totally black box. If you’re going to throw it away anyway, and if the blast radius of it breaking is low, it doesn’t need to be perfect. 2. Production code written by Claude should have a higher ba...</title>
-      <link>https://x.com/bcherny/status/2098217573276131577</link>
-      <description>作者：Boris Cherny
-账号：@bcherny
-简介：Claude Code @anthropicai
+      <title>You can see us on the list of tenants here: https://t.co/DuGS9PLTIw  and you can see part of Kenton's story here: https://t.co/3KVbiF1Nqy</title>
+      <link>https://x.com/mattturck/status/2098517023286247675</link>
+      <description>作者：Matt Turck
+账号：@mattturck
+简介：VC at @FirstMarkCap.  Host: MAD Podcast; Organizer: Data Driven NYC, Author: MAD Landscape.
 
-Hey ████,
+You can see us on the list of tenants here:
+https://t.co/DuGS9PLTIw
 
-I think there is room for both.
-
-1. Prototypes and other throw-away code can be treated as totally black box. If you’re going to throw it away anyway, and if the blast radius of it breaking is low, it doesn’t need to be perfect.
-2. Production code written by Claude should have a higher bar than if it was written by a human. At Anthropic, we have many guardrails in place to make sure this is happening: lots of lint rules, lots of tests, Claude-driven end to end tests, Claude-powered fuzzers running daily, automated code reviews and security reviews, automated code refactoring, and so on. Without these, you can end up with a mess that is hard to maintain down the line. Luckily, the model makes it increasingly easy to do these well — run a few daily routines, use Claude Code Review, etc.
-
-Your job is to hold the bar on code quality. If Claude’s code doesn’t meet the bar, try:
-- Using the latest frontier model (Opus 5 or Fable 5.1)
-- Increase effort to high or xhigh
-- Invest in your CLAUDE.md and skills to succinctly teach Claude how to work in your codebase
-
-If all else fails, steer Claude more when you work with it, or have Claude fix accumulated debt and rewrite your codebase to make it easier to work with. Or, wait for the next model.
-
-Best,
-Boris</description>
-      <pubDate>Fri, 11 Sep 2026 01:10:27 +0000</pubDate>
-      <guid isPermaLink="false">2098217573276131577</guid>
+and you can see part of Kenton's story here:
+https://t.co/3KVbiF1Nqy</description>
+      <pubDate>Fri, 11 Sep 2026 21:00:21 +0000</pubDate>
+      <guid isPermaLink="false">2098517023286247675</guid>
     </item>
     <item>
-      <title>Every day, I get a lot of of emails and messages like this one. I try to respond to as many as I can.  Sharing my response below, for anyone else in a similar situation. What do you think? https://t.co/z1GtgK14RM</title>
-      <link>https://x.com/bcherny/status/2098217571153838124</link>
-      <description>作者：Boris Cherny
-账号：@bcherny
-简介：Claude Code @anthropicai
+      <title>My 9/11 story (lightly updated version of a blog post I wrote in 2016 for the 15th anniversary)  In September 2001, I was the young co-founder of a NYC tech startup, TripleHop Technologies.     We were building enterprise search software, using whatever AI existed at the time, building what would be...</title>
+      <link>https://x.com/mattturck/status/2098517022049190227</link>
+      <description>作者：Matt Turck
+账号：@mattturck
+简介：VC at @FirstMarkCap.  Host: MAD Podcast; Organizer: Data Driven NYC, Author: MAD Landscape.
 
-Every day, I get a lot of of emails and messages like this one. I try to respond to as many as I can.
+My 9/11 story
+(lightly updated version of a blog post I wrote in 2016 for the 15th anniversary)
 
-Sharing my response below, for anyone else in a similar situation. What do you think? https://t.co/z1GtgK14RM</description>
-      <pubDate>Fri, 11 Sep 2026 01:10:26 +0000</pubDate>
-      <guid isPermaLink="false">2098217571153838124</guid>
+In September 2001, I was the young co-founder of a NYC tech startup, TripleHop Technologies.   
+
+We were building enterprise search software, using whatever AI existed at the time, building what would be today close to what a Glean does.  
+
+We had maybe 25 people on the team at the time.  Pretty much all of us were at the very begining of our careers, barely out of school, unexperienced, but highly enthusiastic.
+
+Our office was located on the 53rd floor of the North Tower at the World Trade Center.
+
+We had ended up at the World Trade Center fairly randomly.  Our first office was located on Water Street, right above a 24 hour McDonald’s.  It looked more like a decrepit apartment than an actual office, occasionally didn’t smell that great, but it was cheap and good enough.
+
+But after a year or so, the team had grown, and that office had become too small, so we started looking for a bigger one.
+
+At the time, for a reason or another, there wasn’t a lot of office inventory on the market in the area where we wanted to be.  
+
+We looked for a bit, couldn’t find anything suitable, until one of us had the strange idea of inquiring at the World Trade Center, which felt like a long shot. 
+
+Turned out that the World Trade Center had some smaller offices, and some availability.  In those dot-com bubble days, they also were quite eager to attract young tech startups, and were willing to offer us some preferential terms. 
+
+So we went to take a look, and visited two offices in the North Tower. 
+
+One was a large office at the very top of the building, perhaps the 104th floor, I don’t exactly recall. It had unbelievable views, but it really felt like taking that office would be pushing it – even with a good deal, we were just a little seed-funded startup, after all. Also, the elevator ride took forever. 
+
+So instead we chose the smaller, cheaper office on the 53rd floor.  
+
+We really liked our new office, and the World Trade Center in general.  It felt like a little town, with a lot of retail and amenities below the surface, and its own subway station. We ate a bit too often at a Sbarro joint located right outside the ground floor elevator.
+
+The night before 9/11, my co-founder Renaud Laplanche and I worked very late into the evening, as we did most nights.  In true nerdy founder fashion, we played a ping pong game or two, as we did pretty much every time before calling it a night – the ping pong table being our attempt at creating a startup culture.  
+
+I left, and think Renaud may have stayed on that night to finish working on a proposal for a prospective customer.
+
+The morning after, when the plane hit the North Tower at 8:46am, I was home, about to leave for work.   
+
+Like many young tech people, we were night owls but not early birds, typically showing up at the office around 9:30am.  
+
+I had the TV on, and as about to turn it off and walk out of the door, saw the “breaking news” scroll at the bottom of the screen mentioning a plane collision, but no image.    
+
+As I had a faraway view of the World Trade Center from the window of my West Village studio apartment, I looked up and saw what seemed like a little bit of smoke at the top.
+
+I assumed the plane that had hit the tower was a small tourist plane.  We would often see them fly by the office, above the nearby Hudson River, often at altitudes that felt very close to us.  It had crossed my mind more than once that it wouldn’t take that much for one of them to hit the tower by accident.
+
+Then, like so many others, I saw those unbelievable images on TV. I called my family back in France.  Shortly thereafter, phone lines went down. 
+
+The rest of the day was surreal and gut-wrenching, although I remember feeling mostly numb.
+
+I went on a mad scramble to see if everyone at TripleHop was ok. For many hours, we just didn’t know.  With no phone working, we accounted for most people via email, but a number did not reply for a while.
+
+It eventually turned out only one person from the team, Kenton Beerman, was at the office at 8:46am.   He made it out shocked but unscathed.
+
+Perhaps as a way to cope psychologically, or just because they were amazing people, I remember that the team was incredibly focused on saving the business that day.  
+
+This was obviously pre-AWS, we had our own server room in our office, but thankfully our CTO Joaquin Delgado and his team had backed everything up.  By the end of the day, we were essentially back up and running.
+
+After a few days, we found shared office space.  But business didn’t go back to usual. In addition to everything else, 9/11 was the final nail in the coffin for the economy after the dot com bubble burst.  The next couple of years were a complete nuclear winter.
+
+Thankfully, we had raised a $5M Series A (a solid amount at hte time!) a few months before 9/11, which kept us afloat.  We also managed to win a few deals in Europe, which gave us a bit more cash.  
+
+Eventually business picked up strongly in late 2003 and 2004, potential acquirers came knocking, and TripleHop was acquired by Oracle in 2005.
+
+We all went on with our lives.  My co-founder Renaud reached extraordinary entrepreneurial success and defined a whole new industry.
+
+We all have families now.  I occasionally see pictures of beautiful children on my Facebook feed.  
+
+I rarely talk about 9/11, and have tried to not think about it too much. 
+
+It took me a very long time to go visit the 9/11 memorial downtown.  
+
+I finally made it just a few weeks ago, after a board meeting nearby, walking there almost by accident.
+
+Looking at the names engraved in the marble, I was reminded that it wouldn’t have taken much.  An hour later, a few floors lower. Or choosing that office on the 104th floor instead of the other one, a few months prior.
+
+And I feel deeply connected not just to those names, but to New York. 
+
+Before 9/11, New York felt like an exciting, but ultimately foreign, city. After 9/11, I truly started feeling like a New Yorker.  
+
+Everyone remembers where they were on 9/11.  Everyone has a story of some sort, many infinitely more tragic.  
+
+This is just mine.</description>
+      <pubDate>Fri, 11 Sep 2026 21:00:21 +0000</pubDate>
+      <guid isPermaLink="false">2098517022049190227</guid>
     </item>
     <item>
-      <title>Yet normies use Google and Instagram and Zillow and Doordash all day every day.   Still. Early. https://t.co/YO92sTMaqd</title>
-      <link>https://x.com/thenanyu/status/2098216215525331353</link>
-      <description>作者：Nan Yu
-账号：@thenanyu
-简介：(soon) member of product staff @openai. prev head of product @linear. I am grader.
-
-Yet normies use Google and Instagram and Zillow and Doordash all day every day. 
-
-Still. Early. https://t.co/YO92sTMaqd</description>
-      <pubDate>Fri, 11 Sep 2026 01:05:03 +0000</pubDate>
-      <guid isPermaLink="false">2098216215525331353</guid>
-    </item>
-    <item>
-      <title>In my humble opinion, for getting shit done Sol &amp;gt; Astra</title>
-      <link>https://x.com/petergyang/status/2098215935467544604</link>
-      <description>作者：Peter Yang
-账号：@petergyang
-简介：Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6
-
-In my humble opinion, for getting shit done Sol &amp;gt; Astra</description>
-      <pubDate>Fri, 11 Sep 2026 01:03:56 +0000</pubDate>
-      <guid isPermaLink="false">2098215935467544604</guid>
-    </item>
-    <item>
-      <title>https://t.co/pPmfsH024O</title>
-      <link>https://x.com/nikunj/status/2098176283394126121</link>
-      <description>作者：Nikunj Kothari
-账号：@nikunj
-简介：partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian &amp; others. love @shimoleejhaveri + 👦👧
-
-https://t.co/pPmfsH024O</description>
-      <pubDate>Thu, 10 Sep 2026 22:26:22 +0000</pubDate>
-      <guid isPermaLink="false">2098176283394126121</guid>
-    </item>
-    <item>
-      <title>Chat with the etn bros! https://t.co/lMH3Pqbeat</title>
-      <link>https://x.com/amasad/status/2098171773413929322</link>
-      <description>作者：Amjad Masad
-账号：@amasad
-简介：ceo @replit. civilizationist
-
-Chat with the etn bros! https://t.co/lMH3Pqbeat</description>
-      <pubDate>Thu, 10 Sep 2026 22:08:27 +0000</pubDate>
-      <guid isPermaLink="false">2098171773413929322</guid>
-    </item>
-    <item>
-      <title>Chat with PG in London! https://t.co/E0Gs90oQRc</title>
-      <link>https://x.com/amasad/status/2098171501505581559</link>
-      <description>作者：Amjad Masad
-账号：@amasad
-简介：ceo @replit. civilizationist
-
-Chat with PG in London! https://t.co/E0Gs90oQRc</description>
-      <pubDate>Thu, 10 Sep 2026 22:07:22 +0000</pubDate>
-      <guid isPermaLink="false">2098171501505581559</guid>
-    </item>
-    <item>
-      <title>Lots of risk with AI. I worry a lot about cybersecurity for example. However, “extinction risk” — literally 100% of humans die — is not remotely one of them. https://t.co/48n1fYmyh7</title>
-      <link>https://x.com/amasad/status/2098171265924116732</link>
-      <description>作者：Amjad Masad
-账号：@amasad
-简介：ceo @replit. civilizationist
-
-Lots of risk with AI. I worry a lot about cybersecurity for example. However, “extinction risk” — literally 100% of humans die — is not remotely one of them. https://t.co/48n1fYmyh7</description>
-      <pubDate>Thu, 10 Sep 2026 22:06:26 +0000</pubDate>
-      <guid isPermaLink="false">2098171265924116732</guid>
-    </item>
-    <item>
-      <title>Do you pronounce it data or data? This is the way everyone makes dashboards and learns about the business at OpenAI. Can't live without it. https://t.co/9NAremYs1h</title>
-      <link>https://x.com/thsottiaux/status/2098165551554240764</link>
-      <description>作者：Thibault Sottiaux
-账号：@thsottiaux
-简介：Codex &amp; ChatGPT @OpenAI
-
-Do you pronounce it data or data? This is the way everyone makes dashboards and learns about the business at OpenAI. Can't live without it. https://t.co/9NAremYs1h</description>
-      <pubDate>Thu, 10 Sep 2026 21:43:44 +0000</pubDate>
-      <guid isPermaLink="false">2098165551554240764</guid>
-    </item>
-    <item>
-      <title>very handsome interviewer too https://t.co/jJNArUBaEL</title>
-      <link>https://x.com/danshipper/status/2098162669769695676</link>
-      <description>作者：Dan Shipper
-账号：@danshipper
-简介：ceo @every | the only subscription you need to stay at the edge of AI
-
-very handsome interviewer too https://t.co/jJNArUBaEL</description>
-      <pubDate>Thu, 10 Sep 2026 21:32:17 +0000</pubDate>
-      <guid isPermaLink="false">2098162669769695676</guid>
-    </item>
-    <item>
-      <title>A computer for every agent, in every region https://t.co/3Bzea8XIY0</title>
-      <link>https://x.com/rauchg/status/2098158541932794222</link>
-      <description>作者：Guillermo Rauch
-账号：@rauchg
-简介：@vercel CEO
-
-A computer for every agent, in every region https://t.co/3Bzea8XIY0</description>
-      <pubDate>Thu, 10 Sep 2026 21:15:52 +0000</pubDate>
-      <guid isPermaLink="false">2098158541932794222</guid>
-    </item>
-    <item>
-      <title>Try this prompt in Claude chat to give it more context about yourself:  Interview me in depth using free text, or askuserquestion tool when multiple choice works, about relevant parts of my life you don’t know about yet and save it all to memory. https://t.co/VnfnFo7h4q</title>
-      <link>https://x.com/trq212/status/2098157600361861579</link>
+      <title>it's basically impossible to interpret evals by looking at just at the pass/fail scores these days  many of the failures I see in benchmarks are due to overly strict hidden tests, in some cases the model's answer makes more sense than the expected eval result</title>
+      <link>https://x.com/trq212/status/2098490139798655427</link>
       <description>作者：Thariq
 账号：@trq212
 简介：Claude Code @anthropicai. prev YC W20, @spc, @medialab
 
-Try this prompt in Claude chat to give it more context about yourself:
+it's basically impossible to interpret evals by looking at just at the pass/fail scores these days
 
-Interview me in depth using free text, or askuserquestion tool when multiple choice works, about relevant parts of my life you don’t know about yet and save it all to memory. https://t.co/VnfnFo7h4q</description>
-      <pubDate>Thu, 10 Sep 2026 21:12:08 +0000</pubDate>
-      <guid isPermaLink="false">2098157600361861579</guid>
+many of the failures I see in benchmarks are due to overly strict hidden tests, in some cases the model's answer makes more sense than the expected eval result</description>
+      <pubDate>Fri, 11 Sep 2026 19:13:32 +0000</pubDate>
+      <guid isPermaLink="false">2098490139798655427</guid>
     </item>
     <item>
-      <title>Fable 5.1 Build Days start this week. The Claude community is hosting buildathons in cities all around the world from September 11–25. Bring a problem, an idea, or just show up and see what's possible.  RSVP at https://t.co/AjMK4OHHBV https://t.co/0U8lcqsdrq</title>
-      <link>https://x.com/claudeai/status/2098138736642933143</link>
-      <description>作者：Claude
-账号：@claudeai
-简介：Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Talk to Claude on https://t.co/ZhTwG8d1e5 or download the app.
-
-Fable 5.1 Build Days start this week. The Claude community is hosting buildathons in cities all around the world from September 11–25. Bring a problem, an idea, or just show up and see what's possible.
-
-RSVP at https://t.co/AjMK4OHHBV https://t.co/0U8lcqsdrq</description>
-      <pubDate>Thu, 10 Sep 2026 19:57:11 +0000</pubDate>
-      <guid isPermaLink="false">2098138736642933143</guid>
-    </item>
-    <item>
-      <title>Why is computer use still so painfully slow??</title>
-      <link>https://x.com/zarazhangrui/status/2098136119154254287</link>
+      <title>I think the idea of a &quot;one-person company&quot; is overrated  Yes, a person can do a lot more thanks to AI. But building something new can be a profoundly lonely experience. You need someone to brainstorm together, suffer together, celebrate together...  It is extremely easy to lose motivation when you d...</title>
+      <link>https://x.com/zarazhangrui/status/2098483800456179923</link>
       <description>作者：Zara Zhang
 账号：@zarazhangrui
 简介：Builder. Make something people want, then make people want it. Harvard’17. GitHub: https://t.co/KCuEaje1wd 
 YouTube: https://t.co/8xzbGWsHgY
 
-Why is computer use still so painfully slow??</description>
-      <pubDate>Thu, 10 Sep 2026 19:46:46 +0000</pubDate>
-      <guid isPermaLink="false">2098136119154254287</guid>
+I think the idea of a &quot;one-person company&quot; is overrated
+
+Yes, a person can do a lot more thanks to AI. But building something new can be a profoundly lonely experience. You need someone to brainstorm together, suffer together, celebrate together...
+
+It is extremely easy to lose motivation when you don't tie yourself to the mast together with somebody else</description>
+      <pubDate>Fri, 11 Sep 2026 18:48:20 +0000</pubDate>
+      <guid isPermaLink="false">2098483800456179923</guid>
     </item>
     <item>
-      <title>Excited to partner more deeply with OpenAI so you can work with your enterprise content from Box securely in ChatGPT.  Software continues to go headless, and we’re massive believers that the future of work will be AI agents that can process data and execute workflows anywhere. https://t.co/CNZv5CH8b...</title>
-      <link>https://x.com/levie/status/2098135659714085281</link>
+      <title>better benchmark scores don't tell you much about how well a model does on your real work   that's why for the last 3 years @every we've done vibe checks on new models: long-form reviews based on hands-on testing on each model for our real work  now we're doubling down, and getting more quantitative...</title>
+      <link>https://x.com/danshipper/status/2098481799047647715</link>
+      <description>作者：Dan Shipper
+账号：@danshipper
+简介：ceo @every | the only subscription you need to stay at the edge of AI
+
+better benchmark scores don't tell you much about how well a model does on your real work 
+
+that's why for the last 3 years @every we've done vibe checks on new models: long-form reviews based on hands-on testing on each model for our real work
+
+now we're doubling down, and getting more quantitative
+
+@hammer_mt and @nityeshaga built an internal platform for all of us to make personal benchmarks based on our real day-to-day work
+
+our vibe checks on new models used to be vibes only
+
+now we're starting to get more quantitative with checks
+
+very psyched about this :)</description>
+      <pubDate>Fri, 11 Sep 2026 18:40:23 +0000</pubDate>
+      <guid isPermaLink="false">2098481799047647715</guid>
+    </item>
+    <item>
+      <title>This one is very cool. Now you can mount Box to agent sandboxes to make it far easier for an agent to read and write files on the agent's computer. As AI agents execute critical workflows in the enterprise, they're going to need the same primitives that people have had. https://t.co/h1BW92pMtH</title>
+      <link>https://x.com/levie/status/2098478938003841123</link>
       <description>作者：Aaron Levie
 账号：@levie
 简介：ceo @box - your business lives in content. unleash it with AI
 
-Excited to partner more deeply with OpenAI so you can work with your enterprise content from Box securely in ChatGPT.
-
-Software continues to go headless, and we’re massive believers that the future of work will be AI agents that can process data and execute workflows anywhere. https://t.co/CNZv5CH8bn</description>
-      <pubDate>Thu, 10 Sep 2026 19:44:57 +0000</pubDate>
-      <guid isPermaLink="false">2098135659714085281</guid>
+This one is very cool. Now you can mount Box to agent sandboxes to make it far easier for an agent to read and write files on the agent's computer. As AI agents execute critical workflows in the enterprise, they're going to need the same primitives that people have had. https://t.co/h1BW92pMtH</description>
+      <pubDate>Fri, 11 Sep 2026 18:29:01 +0000</pubDate>
+      <guid isPermaLink="false">2098478938003841123</guid>
     </item>
     <item>
-      <title>Gemini, now on Windows!  Get it: https://t.co/mKpROGeCl3 https://t.co/59jHumlY0X</title>
-      <link>https://x.com/joshwoodward/status/2098131750660772342</link>
-      <description>作者：Josh Woodward
-账号：@joshwoodward
-简介：VP, @Google @GoogleLabs @GeminiApp @GoogleAIStudio
-
-Gemini, now on Windows!
-
-Get it: https://t.co/mKpROGeCl3 https://t.co/59jHumlY0X</description>
-      <pubDate>Thu, 10 Sep 2026 19:29:25 +0000</pubDate>
-      <guid isPermaLink="false">2098131750660772342</guid>
-    </item>
-    <item>
-      <title>I’m so sorry https://t.co/txK4iw6MYE</title>
-      <link>https://x.com/danshipper/status/2098120649701204416</link>
+      <title>join the most ai pilled team on earth  be at the center of the AI wave, with access to the new models, tools, and teams that matter  do the best writing of your life: https://t.co/PDmrEAt4Yk</title>
+      <link>https://x.com/danshipper/status/2098476917448118321</link>
       <description>作者：Dan Shipper
 账号：@danshipper
 简介：ceo @every | the only subscription you need to stay at the edge of AI
 
-I’m so sorry https://t.co/txK4iw6MYE</description>
-      <pubDate>Thu, 10 Sep 2026 18:45:18 +0000</pubDate>
-      <guid isPermaLink="false">2098120649701204416</guid>
+join the most ai pilled team on earth
+
+be at the center of the AI wave, with access to the new models, tools, and teams that matter
+
+do the best writing of your life: https://t.co/PDmrEAt4Yk</description>
+      <pubDate>Fri, 11 Sep 2026 18:20:59 +0000</pubDate>
+      <guid isPermaLink="false">2098476917448118321</guid>
     </item>
     <item>
-      <title>the possibilities for this are incredible  extremely psyched to experiment https://t.co/DdtRknm8TU</title>
-      <link>https://x.com/danshipper/status/2098116268671025210</link>
-      <description>作者：Dan Shipper
-账号：@danshipper
-简介：ceo @every | the only subscription you need to stay at the edge of AI
-
-the possibilities for this are incredible
-
-extremely psyched to experiment https://t.co/DdtRknm8TU</description>
-      <pubDate>Thu, 10 Sep 2026 18:27:54 +0000</pubDate>
-      <guid isPermaLink="false">2098116268671025210</guid>
-    </item>
-    <item>
-      <title>To make sure our current users have an incredible experience and continued access to Astra, we are going to pause subscriptions to our $200 Pro plan. These put the most strain on our systems and we wanted to take the smallest step that allows us to continue giving the broadest access possible. All o...</title>
-      <link>https://x.com/thsottiaux/status/2098113585683808624</link>
-      <description>作者：Thibault Sottiaux
-账号：@thsottiaux
-简介：Codex &amp; ChatGPT @OpenAI
-
-To make sure our current users have an incredible experience and continued access to Astra, we are going to pause subscriptions to our $200 Pro plan. These put the most strain on our systems and we wanted to take the smallest step that allows us to continue giving the broadest access possible. All other plans and the api remain available.
-
-There is no impact to existing accounts and we are working on adding more capacity as fast as we can. Thanks!</description>
-      <pubDate>Thu, 10 Sep 2026 18:17:14 +0000</pubDate>
-      <guid isPermaLink="false">2098113585683808624</guid>
-    </item>
-    <item>
-      <title>If you had a machine capable of doing only 1 thing: Finding cures to our most pressing diseases.  How much of your GDP would you devote to this machine?  I think the answer is: very high.   This is the world we live in now.</title>
-      <link>https://x.com/adityaag/status/2098112281267843264</link>
+      <title>RSVP: https://t.co/WiWHBZ8pW7</title>
+      <link>https://x.com/adityaag/status/2098472520798114263</link>
       <description>作者：Aditya Agarwal
 账号：@adityaag
 简介：General Partner @SPC, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @Dropbox, Board @Flipkart | Optimist, Builder, Dad
 
-If you had a machine capable of doing only 1 thing: Finding cures to our most pressing diseases.
-
-How much of your GDP would you devote to this machine?
-
-I think the answer is: very high. 
-
-This is the world we live in now.</description>
-      <pubDate>Thu, 10 Sep 2026 18:12:03 +0000</pubDate>
-      <guid isPermaLink="false">2098112281267843264</guid>
+RSVP: https://t.co/WiWHBZ8pW7</description>
+      <pubDate>Fri, 11 Sep 2026 18:03:31 +0000</pubDate>
+      <guid isPermaLink="false">2098472520798114263</guid>
     </item>
     <item>
-      <title>It’s time to ☁️ dream bigger ☁️  Dreambeans is officially available to all US users (18+) on iOS and Android, free of charge. No subscription required.  You can also now connect @Geminiapp to Dreambeans. Dreambeans will build off the nuance and understanding from your chats to surface even more insi...</title>
-      <link>https://x.com/GoogleLabs/status/2098110018289803558</link>
-      <description>作者：Google Labs
-账号：@GoogleLabs
-简介：Google’s home for our latest AI tools and experiments.
+      <title>How do we encourage true innovation in CA?  How do we enable a two-party state?   How should technology be regulated?  We're hosting conversations about tech policy with decision makers at @spc this fall.   @SteveHiltonx on Sept 23rd. https://t.co/sThS98c6tx</title>
+      <link>https://x.com/adityaag/status/2098472517845328303</link>
+      <description>作者：Aditya Agarwal
+账号：@adityaag
+简介：General Partner @SPC, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @Dropbox, Board @Flipkart | Optimist, Builder, Dad
 
-It’s time to ☁️ dream bigger ☁️
+How do we encourage true innovation in CA?
 
-Dreambeans is officially available to all US users (18+) on iOS and Android, free of charge. No subscription required.
+How do we enable a two-party state? 
 
-You can also now connect @Geminiapp to Dreambeans. Dreambeans will build off the nuance and understanding from your chats to surface even more insightful and personalized daily stories.
+How should technology be regulated?
 
-Get your daily, freshly brewed collection of stories here: https://t.co/jCdAzMHvOD</description>
-      <pubDate>Thu, 10 Sep 2026 18:03:04 +0000</pubDate>
-      <guid isPermaLink="false">2098110018289803558</guid>
+We're hosting conversations about tech policy with decision makers at @spc this fall. 
+
+@SteveHiltonx on Sept 23rd. https://t.co/sThS98c6tx</description>
+      <pubDate>Fri, 11 Sep 2026 18:03:30 +0000</pubDate>
+      <guid isPermaLink="false">2098472517845328303</guid>
     </item>
     <item>
-      <title>Don't call it a private equity acquisition for a huge discount from peak valuation.  Call it an Italian goodbye.</title>
-      <link>https://x.com/thenanyu/status/2098094411465048497</link>
-      <description>作者：Nan Yu
-账号：@thenanyu
-简介：(soon) member of product staff @openai. prev head of product @linear. I am grader.
-
-Don't call it a private equity acquisition for a huge discount from peak valuation. 
-Call it an Italian goodbye.</description>
-      <pubDate>Thu, 10 Sep 2026 17:01:03 +0000</pubDate>
-      <guid isPermaLink="false">2098094411465048497</guid>
-    </item>
-    <item>
-      <title>Each day ~10 million deployments are made on Vercel, with 2.35 billion made to date.  Vercel is one of the most heavily multi-tenant systems in the world. Billions of application deployments co-exist and are accessible ('routable') on our CDN at any given moment.  Underlying our CDN is a global meta...</title>
-      <link>https://x.com/rauchg/status/2098091056302833837</link>
-      <description>作者：Guillermo Rauch
-账号：@rauchg
-简介：@vercel CEO
-
-Each day ~10 million deployments are made on Vercel, with 2.35 billion made to date.
-
-Vercel is one of the most heavily multi-tenant systems in the world. Billions of application deployments co-exist and are accessible ('routable') on our CDN at any given moment.
-
-Underlying our CDN is a global metadata store that synchronizes within hundreds of milliseconds, globally. e.g: when you roll back, change config, add routes, etc.
-
-We just made this system 91% faster at p99, and in the process sped up the build→deploy pipeline. All of this while the system is under immense pressure from the growth in agentic deployments.
-
-Great read on the internals of Vercel from our CDN engineering team:</description>
-      <pubDate>Thu, 10 Sep 2026 16:47:43 +0000</pubDate>
-      <guid isPermaLink="false">2098091056302833837</guid>
-    </item>
-    <item>
-      <title>This makes a lot of sense. Duplicating logic is no longer painful. Abstractions still are. https://t.co/q4jqVBW00r</title>
-      <link>https://x.com/steipete/status/2098089196800098798</link>
-      <description>作者：Peter Steinberger
-账号：@steipete
-简介：Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world.
-@OpenClaw🦞 + @OpenAI
-
-This makes a lot of sense. Duplicating logic is no longer painful. Abstractions still are. https://t.co/q4jqVBW00r</description>
-      <pubDate>Thu, 10 Sep 2026 16:40:19 +0000</pubDate>
-      <guid isPermaLink="false">2098089196800098798</guid>
-    </item>
-    <item>
-      <title>Better hop on soon. Astra demand is growing too fast! https://t.co/MgCFw04sxJ</title>
-      <link>https://x.com/steipete/status/2098088917782413740</link>
-      <description>作者：Peter Steinberger
-账号：@steipete
-简介：Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world.
-@OpenClaw🦞 + @OpenAI
-
-Better hop on soon. Astra demand is growing too fast! https://t.co/MgCFw04sxJ</description>
-      <pubDate>Thu, 10 Sep 2026 16:39:13 +0000</pubDate>
-      <guid isPermaLink="false">2098088917782413740</guid>
-    </item>
-    <item>
-      <title>This conversation with @RichardSocher is also available on Spotify, Apple Podcasts and here on YouTube (like and subscribe!):  https://t.co/8gsssP8fcu</title>
-      <link>https://x.com/mattturck/status/2098081452839637480</link>
-      <description>作者：Matt Turck
-账号：@mattturck
-简介：VC at @FirstMarkCap.  Host: MAD Podcast; Organizer: Data Driven NYC, Author: MAD Landscape.
-
-This conversation with @RichardSocher is also available on Spotify, Apple Podcasts and here on YouTube (like and subscribe!):
-
-https://t.co/8gsssP8fcu</description>
-      <pubDate>Thu, 10 Sep 2026 16:09:33 +0000</pubDate>
-      <guid isPermaLink="false">2098081452839637480</guid>
-    </item>
-    <item>
-      <title>When AI builds AI: my conversation with @RichardSocher about RSI and scientific progress.   00:00 Intro: AI That Improves Itself 00:55 Why Scientific Progress Is Slowing 03:08 The Labyrinth of Human Knowledge 05:59 Can AI Put Science Back Together? 07:57 How LLMs Learn Biology and Proteins 10:56 Nex...</title>
-      <link>https://x.com/mattturck/status/2098081448330674182</link>
-      <description>作者：Matt Turck
-账号：@mattturck
-简介：VC at @FirstMarkCap.  Host: MAD Podcast; Organizer: Data Driven NYC, Author: MAD Landscape.
-
-When AI builds AI: my conversation with @RichardSocher about RSI and scientific progress. 
-
-00:00 Intro: AI That Improves Itself
-00:55 Why Scientific Progress Is Slowing
-03:08 The Labyrinth of Human Knowledge
-05:59 Can AI Put Science Back Together?
-07:57 How LLMs Learn Biology and Proteins
-10:56 Next-Token Prediction as a World Model
-16:44 Can AI Generate Truly Original Ideas?
-17:32 Simulations, Verifiers and Superhuman AI
-22:18 The Path to Recursive Self-Improvement
-24:49 Why AI Hallucinations Can Drive Discovery
-27:42 From Reading Biology to Writing It
-31:31 Can AI Accelerate Drug Discovery?
-33:31 Will AI Help Cure Cancer?
-38:03 AI Breakthroughs in Biology, Energy and Materials
-40:19 Will Some Societies Reject AI?
-45:07 Building the AI Economist
-52:22 The Scientific Data Bottleneck
-53:41 The Four Pillars of the Eureka Machine
-55:01 Teaching AI the Rules of Reality
-57:44 Simulations and Virtual Cells
-1:00:40 Self-Driving Robotic Laboratories
-1:02:51 Agent Swarms and Open-Ended Discovery
-1:04:30 The Compute Bottleneck
-1:05:44 Inside @Recursive_SI 
-1:07:33 What Recursive Will Build First
-1:10:10 How Do We Define Intelligence?
-1:11:32 How Far Can Intelligence Go?</description>
-      <pubDate>Thu, 10 Sep 2026 16:09:32 +0000</pubDate>
-      <guid isPermaLink="false">2098081448330674182</guid>
-    </item>
-    <item>
-      <title>Three truths in early stage venture right now:  1) everyone wants to raise a $50 million seed 2) everyone thinks they will hit $30 million ARR next year 3) every hot tranched seed round magically ends up at the ~$300 million valuation</title>
-      <link>https://x.com/nikunj/status/2098078391065018816</link>
-      <description>作者：Nikunj Kothari
-账号：@nikunj
-简介：partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian &amp; others. love @shimoleejhaveri + 👦👧
-
-Three truths in early stage venture right now:
-
-1) everyone wants to raise a $50 million seed
-2) everyone thinks they will hit $30 million ARR next year
-3) every hot tranched seed round magically ends up at the ~$300 million valuation</description>
-      <pubDate>Thu, 10 Sep 2026 15:57:23 +0000</pubDate>
-      <guid isPermaLink="false">2098078391065018816</guid>
-    </item>
-    <item>
-      <title>We made deployments faster again https://t.co/lrtQdx1iK1</title>
-      <link>https://x.com/rauchg/status/2098066258155708851</link>
-      <description>作者：Guillermo Rauch
-账号：@rauchg
-简介：@vercel CEO
-
-We made deployments faster again https://t.co/lrtQdx1iK1</description>
-      <pubDate>Thu, 10 Sep 2026 15:09:10 +0000</pubDate>
-      <guid isPermaLink="false">2098066258155708851</guid>
-    </item>
-    <item>
-      <title>How to build great evals - part 10  Measure the steps, not just the result.  Much like high school math, it isn’t sufficient just to get the right answer, the steps to get there are critical.  Two agent trajectories might produce the same answer (42!!).  but one of them  searches the right sources, ...</title>
-      <link>https://x.com/realmadhuguru/status/2098064969464217720</link>
+      <title>https://t.co/Vkfx96ev4e</title>
+      <link>https://x.com/realmadhuguru/status/2098448469497356569</link>
       <description>作者：Madhu Guru
 账号：@realmadhuguru
 简介：Sr Director, AI at Meta; Prev: Google - Led Gemini, Veo, Nano Banana.
 
-How to build great evals - part 10
-
-Measure the steps, not just the result.
-
-Much like high school math, it isn’t sufficient just to get the right answer, the steps to get there are critical.
-
-Two agent trajectories might produce the same answer (42!!).
-
-but one of them  searches the right sources, retrieves the right document, makes 4 clean tool calls and calculates the result. The other makes 17 calls, searches the same thing 3 times, recovers from 2 errors and eventually gets there. 
-
-It’s clear which one is better.
-
-Here’s what you need to do:
-1/ clearly define your whole workflow
-2/ define the tasks in each step
-3/ think through how you measure each step - separate evals or is it a slice of a bigger eval
-4/ define your median and hard tasks - reflect them in your evals
-
-Now any time you look at eval results, study the steps first and the final results next.</description>
-      <pubDate>Thu, 10 Sep 2026 15:04:03 +0000</pubDate>
-      <guid isPermaLink="false">2098064969464217720</guid>
+https://t.co/Vkfx96ev4e</description>
+      <pubDate>Fri, 11 Sep 2026 16:27:57 +0000</pubDate>
+      <guid isPermaLink="false">2098448469497356569</guid>
     </item>
     <item>
-      <title>When AI Improves Itself | Richard Socher (Recursive)</title>
-      <link>https://www.youtube.com/@DataDrivenNYC/videos</link>
-      <description>播客：The MAD Podcast with Matt Turck
+      <title>Why most enterprise AI efforts fail.  1/ Using old-school playbooks for AI The CEO picks a trusted lieutenant to lead a central AI team. That leader pulls in a group of trusted people from across the company.  The problem here is the skill gap.  The team structure, product patterns, how you launch a...</title>
+      <link>https://x.com/realmadhuguru/status/2098448235048378456</link>
+      <description>作者：Madhu Guru
+账号：@realmadhuguru
+简介：Sr Director, AI at Meta; Prev: Google - Led Gemini, Veo, Nano Banana.
+
+Why most enterprise AI efforts fail.
+
+1/ Using old-school playbooks for AI
+The CEO picks a trusted lieutenant to lead a central AI team. That leader pulls in a group of trusted people from across the company.
+
+The problem here is the skill gap.
+
+The team structure, product patterns, how you launch and learn that got you here do not work with AI. Much of product development over the last 15 yrs has been incremental improvements.
+
+AI requires experimentation and invention.
+
+2/ Under-investing in evals
+
+Most enterprises don't quite understand the importance of this and what good looks like here. (I have a whole evals series in the comments - check it out)
+
+3/ Building AI for the company from the outside
+
+The central AI team declares itself a platform team and builds tools that everyone is supposed to adopt.
+
+These products are often disconnected from the actual workflows, context and judgment of the people doing the work.
+
+Begrudging adoption follows. But not meaningful productivity gains.
+
+What you should do:
+
+1/ Hire leaders who have done successfully built AI products. You need technical/product depth plus the ability to earn trust with the people whose jobs they’re helping reinvent.
+
+2/ Make evals a first class citizen in your AI efforts
+
+3/ Embed your best AI builders inside the functions you want to transform. Build * with * finance , build * with * sales, build * with * support.</description>
+      <pubDate>Fri, 11 Sep 2026 16:27:01 +0000</pubDate>
+      <guid isPermaLink="false">2098448235048378456</guid>
+    </item>
+    <item>
+      <title>long-lived agents for your big ideas now in Cursor https://t.co/2sa0rX2415</title>
+      <link>https://x.com/ryolu_/status/2098324260867772806</link>
+      <description>作者：Ryo Lu
+账号：@ryolu_
+简介：Designed @Cursor_ai, @NotionHQ, @Stripe, built startups. I make a world where anyone can make software. Aspiring k-pop idol.
+
+long-lived agents for your big ideas
+now in Cursor https://t.co/2sa0rX2415</description>
+      <pubDate>Fri, 11 Sep 2026 08:14:23 +0000</pubDate>
+      <guid isPermaLink="false">2098324260867772806</guid>
+    </item>
+    <item>
+      <title>Routines with budgets! https://t.co/bAweXu6MJt</title>
+      <link>https://x.com/amasad/status/2098317466682179643</link>
+      <description>作者：Amjad Masad
+账号：@amasad
+简介：ceo @replit. civilizationist
+
+Routines with budgets! https://t.co/bAweXu6MJt</description>
+      <pubDate>Fri, 11 Sep 2026 07:47:23 +0000</pubDate>
+      <guid isPermaLink="false">2098317466682179643</guid>
+    </item>
+    <item>
+      <title>Love seeing all the Astra 3D experiments on Replit! https://t.co/PC7FBalOeW</title>
+      <link>https://x.com/amasad/status/2098316298820219058</link>
+      <description>作者：Amjad Masad
+账号：@amasad
+简介：ceo @replit. civilizationist
+
+Love seeing all the Astra 3D experiments on Replit! https://t.co/PC7FBalOeW</description>
+      <pubDate>Fri, 11 Sep 2026 07:42:45 +0000</pubDate>
+      <guid isPermaLink="false">2098316298820219058</guid>
+    </item>
+    <item>
+      <title>Coinbase’s Everything Exchange: Agentic Finance, Stablecoins, and Tokenization with CEO Brian Armstrong</title>
+      <link>https://www.youtube.com/watch?v=uLDK4l_-gUE</link>
+      <description>播客：No Priors
 
 Speaker 1 | 00:00 - 00:19
-Anything you can simulate, AI will solve. And before you know it, you're in this recursive self improvement loop and we believe that that will be a great unlock. Boy, are we far away from the true upper bounds of any of the spaces of intelligence. And there is still so much further that AI can go.
+The minimum fee typically on a debit or credit card transaction is about 30¢ fee flat plus the additional percentage. Arguably, it doesn't really work well for anything under a dollar. Certainly, it doesn't make sense to pay 30¢ to send a 1¢ payment. And I believe the stats we last saw on this are that about, like, 76% of the agent ecommerce transactions we're seeing are under 30¢. We don't want the AIs to be unbanked.
 
-Speaker 2 | 00:19 - 00:47
-Hi. I'm Matt Turk. Welcome back to the MAD podcast. My guest today is Richard Socher, one of the most cited researchers in AI and now at the center of the term everyone in AI is suddenly talking about, recursive self improvement, AI that makes better AI. Richard just raised $650,000,000 for Recursive, a company built to do exactly that, and his new book, The Eureka Machine, is a fascinating blueprint for how AI and RSI are about to revolutionize science.
+Speaker 1 | 00:19 - 00:37
+You know, if we wanna bank the AIs, they deserve financial services as well. The AI agents themselves are gonna have to have their own accounts. And so we've made some simple tools where with a single command, just prompt, you paste it into your AI agent, it can now have its own financial account. So it'll be interesting to see how the agentic economy evolves. There'll be more agents than humans in the not too distant future.
 
-Speaker 2 | 00:47 - 00:54
-Please enjoy my conversation with the always excellent Richard Socher. Hey, Richard. Welcome back.
+Speaker 1 | 00:37 - 00:43
+It kind of stands to reason that the agentic economy will be bigger than the human economy at some point in the not too distant future as well.
 
-Speaker 1 | 00:54 - 00:55
-Great to be back. Thanks for having me.
+Speaker 2 | 00:50 - 01:32
+Today, know Priors. We are joined by Brian Armstrong, the cofounder and CEO of Coinbase, one of the world's most important and earliest crypto companies that has also been quite aggressive at adopting AI. Brian is also the cofounder of New Limit, which is a antiaging and longevity company doing really interesting things in biology, including certain types of high throughput screening to understand, aging, different uses of AI, etcetera. Brian is one of the most forward thinking people I know on different aspects of science, technology, art, the world, etcetera. So I was very excited to have this conversation with him, and we'll be talking about everything from what's happening in the crypto world to what's happening in AI to what's happening in biology to how different individuals can have an impact over time.
 
-Speaker 2 | 00:55 - 01:18
-Alright. So lots to catch up on. We're going to talk about recursive intelligence. We're going to talk about recursive the company. But first and foremost, and most importantly, perhaps, we're going to talk about your new book entitled The Yorker Machine, which I read with great interest and would strongly recommend, coming out in a couple weeks, I believe.
+Speaker 2 | 01:32 - 01:37
+So it's a very fun conversation. Brian, thank you so much for joining us at Antenna Priors. It's a pleasure to see you.
 
-Speaker 2 | 01:18 - 01:38
-The book, opens with a premise that, I think a lot of people find surprising and shocking, which is this claim that, scientific progress has slowed down, which feels counterintuitive given the number of researchers we have around the world and the sheer amount of money that goes into the space. So why is that?
+Speaker 1 | 01:37 - 01:38
+Yeah. Good to see you a lot.
 
-Speaker 1 | 01:39 - 02:07
-Yeah. It's a somewhat surprising fact and you may argue clearly not. Like we're making so much little progress and so many different things but when you think about, you know, how much progress have we made on antibiotics? Like bacterial infections went from like a death sentence and the plague to like a nuisance, like we now have antibiotics for almost all the different bacteria and we truly solved that. And like, we have clearly not solved viruses or cancer the same way we solved bacterial infections.
+Speaker 2 | 01:38 - 01:56
+So I was hoping we could talk about a few different topics. I think there's a bunch of stuff relevant to Coinbase and crypto and, you know, agentic finance and things like that. But also, you started a company called New Limit, is focused on longevity and aging and biotechnology. So I think it'd be great to sort of cover both as part of this conversation.
 
-Speaker 1 | 02:07 - 03:07
-When you think about foundational novel things like E equals MC squared and general relativity, we clearly have not made progress on many theories and physics either when it comes to such foundational things that then literally led to nuclear energy and fusion and fission and other kinds of research that could be conceptually done. And so a lot of the fields have kind of gone through from we understood some foundational pieces to we can now do a lot of engineering, but they've also split up into thousands of different subfields. It is almost impossible nowadays to be the sort of general genius that can dabble in all of these different fields because each field takes years and years and years to get really deep into. And so what we found is that as there are more and more subfields and niches, it's actually hard to have enough people in each of these subfields and Stanis Ablem and others have talked about that and predicted that that will be a big part of why we're slowing down.
+Speaker 1 | 01:56 - 01:56
+Yeah.
 
-Speaker 2 | 03:08 - 03:20
-Yeah, you have a great expression. You talk about how we evolved from a body of knowledge to a labyrinth of knowledge, 34,000 journals that might as well have no trespassing signs.
+Speaker 2 | 01:57 - 02:12
+And may we start with Coinbase? So Coinbase has been making some really big moves. You've been floating this concept of the everything exchange as you've been building out what I think is a new global payments layer. Can you tell us, you know, at a high level, what are some of the directions of the company and some of the areas you're most excited about right now?
 
-Speaker 1 | 03:20 - 03:56
-That's right, yeah it's so hard to like even understand all the lingo and I've sort of gone through this myself first when I started studying linguistics and then computer science but now that I'm sort of trying to study and have studied now over the last few years sort of on the side biology, it's like man, every time you have a conversation with biologists, like 10 sentences in, they're just telling you so many abbreviations and terms that you're not familiar with that most people after a while space out. And so it's really hard to describe and explain very complex deep fields to someone who hasn't been in them.
+Speaker 1 | 02:12 - 02:45
+Yeah. So, we're at a really exciting time in Coinbase's history because on the one hand, every asset class is coming on chain. It's now possible to trade everything in one place with good liquidity and good cross margin. So, for markets and trading and that out there, stocks and commodities and crypto and derivatives, perpetual futures, it's all coming to one place where traders can do everything in one spot, including prediction markets too. They can do that in more countries now given the regulatory clarity that's emerging, which we can talk about if you want.
 
-Speaker 2 | 03:56 - 04:08
-You also mentioned that there is some level like kind of like social human element to this where in academia you're not necessarily encouraged to take risks and that goes to your own experience as well?
+Speaker 1 | 02:45 - 03:03
+So, Everything Exchange is kind of our bread and butter in our core business. The next big area that's emerging is stablecoin payments, which have just been growing like crazy. Even when Bitcoin prices are down, stablecoin payments just keep growing. And so we're helping companies all over the world integrate stablecoin payments, which are fast and cheap and global. You can send money at the speed of information, right?
 
-Speaker 1 | 04:08 - 05:15
-Yeah 100% like people often you know the way careers work is you want to be kind of novel but if you're too novel, you're too far out there then your papers will get rejected and that certainly happened to me a lot in the early days like 2010 of neural networks for natural language processing where the majority of my first couple papers got rejected from NLP conferences. When they got accepted in like some small sub niches and subgroups. I still remember the first sort of deep learning workshops workshop at NIPS back in the day, now NeurIPS, that was basically like thirty, forty people, all the now super famous folks, but it was just like a couple of us renegades who thought that this would clearly be the right way of going about it, and we came from different directions like feature engineering seemed like not the right path to doing things, feature learning was a big part of what got us started, some were neuroscience inspired, and it was again that sort of combination of different fields that, was, you know, at that intersection where it's interesting but also often hard to publish well in the beginning.
+Speaker 1 | 03:03 - 03:41
+It's kind of like under one second, under 1¢ US to move money anywhere in the world. Then the third big one is something I know you talk a lot about on this podcast, which is how is AI changing? Because AI is changing everything, and so it's obviously going to change financial services too. So we call this Agentic Finance or AIFi, and we're building this into Coinbase in a number of different ways. The first way is that people who have their existing financial account, they're going to want to have an AI advisor, kind of like wealthy people are able to get access to these investment advisors, but everybody should have access to them now, and they can help teach you about building the right portfolio and dollar cost averaging, tax loss harvesting, and all these kinds of things.
 
-Speaker 2 | 05:15 - 05:38
-Okay. Great. So, to play it back is fundamentally that idea that there is too much knowledge everywhere. Even people within the field are not necessarily encouraged to go super far and and and to come up with crazy ideas, and the challenge is to bring everything back together. So the the Renaissance man, so to speak, had only a small body of knowledge, and therefore, were able to come up with cross disciplinary insights, but this is no longer possible.
+Speaker 1 | 03:42 - 04:04
+The market dips five or 10 or 15% leg into this kind of portfolio over time and try to save money on fees and earn yield while it's sitting in cash, you can just talk to it like a human and it'll do all these things for you. At least that's the vision. It's getting better and better. So, we've launched an advisor in the Coinbase product. The next thing is that the AI agents themselves are going to have to have their own accounts.
 
-Speaker 2 | 05:38 - 05:39
-Right? That's
+Speaker 1 | 04:04 - 04:26
+So, we're on a mission to kind of go out there. Don't We want the AIs to be unbanked. If we want to bank the AIs, they deserve financial services as well. So we've made some simple tools where with a single command, just prompt, you paste it into your AI agent, it can now have its own financial account. It's using a self custodial wallet and crypto rails, so there's not like a KYC process.
 
-Speaker 1 | 05:39 - 05:59
-exactly right. Even, like, a good example again in biology is that you study not all of biology anymore. You study either biology at the cell level or the tissue sort of medical level or the biochemistry level or the protein level and if you ask a PhD in biology about like a deep question and one of the other layers they often some like don't know either.
+Speaker 1 | 04:27 - 04:42
+Our AI agents don't have a government ID. They can't walk into a bank branch, at least not yet without their humanoid robot companion. And so now any AI agent can have its own financial account to do payments, to pay for goods.
 
-Speaker 2 | 05:59 - 06:14
-Great. Alright. So the premise of the whole book is that, AI is about to usher or in the process of ushering a whole new paradigm of scientific progress. So just walk us through the the high level idea.
+Speaker 2 | 04:42 - 04:51
+And is that tied to an account of somebody who's already on point based? In other words, is this sort of like a subsidiary account? Is it an entirely new thing? How do you think about the hierarchy of that?
 
-Speaker 1 | 06:15 - 07:47
-High level idea is that when you know AI like science has gotten really good at understanding smaller and smaller pieces, but to bring them back up, and bring them together, we actually have to use AI and AI is kind of what, calculus did for physics, AI will do for biology in the sense that it'll help us weave back together lots of very complex, pieces that build these complex systems that then have certain properties. So, concretely for instance, your microbiome or the brain, they have so many different pieces and we actually understand many of the individual like neurons. So like this neuron has these synapses and this is how it fires and so on, and this is the chemistry which often people still ignore in a lot of neural models and so on. But then as they get as we put more and more of them together, we stop understanding why the whole brain can now have a thought or, you know, do certain things, and I think AI is the perfect language, the perfect way of thinking about some of these complex systems and has the ability to also exhibit sometimes patterns that are almost hard for us to then understand, but of course it's always easier to understand and study a neural network than it is to study the original biological system, and so, I think when you put all these together, and I'll talk ...</description>
-      <pubDate>Thu, 10 Sep 2026 11:30:00 +0000</pubDate>
-      <guid>https://www.youtube.com/@DataDrivenNYC/videos</guid>
+Speaker 1 | 04:51 - 05:16
+Yeah. So we're doing it both ways actually just because I think there's going to be demand for both use cases. So it's going to be possible to create a separate agentic account with segregated funds on Coinbase in the near future, and you can give your agent access to just that to do trading and payments on your behalf. That's kind of linked to your identity as human. We're also going to provide self custodial wallets to any AI agent out there that wants to hold a balance in Stablecoin or it could actually raise money.
+
+Speaker 1 | 05:16 - 05:32
+It could issue a token. And so, what's fascinating is that today we often talk to these agents, and it's sort of like one person to one agent, and they go get some work done, but they often get stuck. They get stuck. There's like, Oh, here's a paywall. Can you put in your credit card?
+
+Speaker 1 | 05:32 - 06:02
+I need to spin up these AWS resources, or You wanted me to book this hotel for you, but here's the webpage. Can you go put in your credit card? That kind of thing. In the future, I think you're going to want to have these agents have their own spend accounts, kind of like having a personal assistant or an employee who has their own spend account. It's gonna need probably like a stablecoin backed credit card for backward compatibility, but we're seeing a lot of agentic payment now flow over these new protocols like X402, which is one that we incubated at Coinbase that we actually put into the Linux Foundation.
+
+Speaker 1 | 06:02 - 06:23
+So, Google and Cloudflare and AWS, a bunch of people are working with us on that now. And so that's been really cool. We've put together this little fun website called edgentic.market where people can go see the stats of how many payments are flowing in this new economy and see all the diff...</description>
+      <pubDate>Thu, 10 Sep 2026 10:00:00 +0000</pubDate>
+      <guid>https://www.youtube.com/watch?v=uLDK4l_-gUE</guid>
     </item>
   </channel>
 </rss>
