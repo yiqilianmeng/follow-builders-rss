@@ -5,616 +5,446 @@
     <link>https://github.com/zarazhangrui/follow-builders</link>
     <description>聚合 AI 领域建设者的 X、播客和博客内容。</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 13 Sep 2026 01:52:37 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 10:44:54 +0000</lastBuildDate>
     <item>
-      <title>Astra powered ships this week  - Images 2.5 - GPT-Live-1 - Agents API - Data Agent - ChatGPT for Financial Services  and yet it’s not yet DevDay. Busy plans for next week too.</title>
-      <link>https://x.com/thsottiaux/status/2098639827084480864</link>
-      <description>作者：Thibault Sottiaux
-账号：@thsottiaux
-简介：Codex &amp; ChatGPT @OpenAI
+      <title>all sorted out. they defo been cookin!</title>
+      <link>https://x.com/steipete/status/2098995230314037516</link>
+      <description>作者：Peter Steinberger
+账号：@steipete
+简介：Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world.
+@OpenClaw🦞 + @OpenAI
 
-Astra powered ships this week
-
-- Images 2.5
-- GPT-Live-1
-- Agents API
-- Data Agent
-- ChatGPT for Financial Services
-
-and yet it’s not yet DevDay. Busy plans for next week too.</description>
-      <pubDate>Sat, 12 Sep 2026 05:08:20 +0000</pubDate>
-      <guid isPermaLink="false">2098639827084480864</guid>
+all sorted out. they defo been cookin!</description>
+      <pubDate>Sun, 13 Sep 2026 04:40:35 +0000</pubDate>
+      <guid isPermaLink="false">2098995230314037516</guid>
     </item>
     <item>
-      <title>TBH once you score 1600 you should unlock a second harder test that gives you a second score on top of the 1600— we should have more and higher measures of excellence   But instead they ban the SAT so that everything turns into random lottery and excellence cannot be recognized https://t.co/BCdZC9tO...</title>
-      <link>https://x.com/garrytan/status/2098615692425851205</link>
-      <description>作者：Garry Tan
-账号：@garrytan
-简介：President &amp; CEO @ycombinator —Founder @garryslist—Creator of GStack &amp; GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop
-
-TBH once you score 1600 you should unlock a second harder test that gives you a second score on top of the 1600— we should have more and higher measures of excellence 
-
-But instead they ban the SAT so that everything turns into random lottery and excellence cannot be recognized https://t.co/BCdZC9tOhY</description>
-      <pubDate>Sat, 12 Sep 2026 03:32:26 +0000</pubDate>
-      <guid isPermaLink="false">2098615692425851205</guid>
-    </item>
-    <item>
-      <title>I have decided to do this after much deliberation:   All local scheduled tasks live in Codex. All cloud tasks I’m porting over to Grok Bot.   Makes it a clean split.</title>
-      <link>https://x.com/petergyang/status/2098614492066435228</link>
-      <description>作者：Peter Yang
-账号：@petergyang
-简介：Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6
-
-I have decided to do this after much deliberation: 
-
-All local scheduled tasks live in Codex. All cloud tasks I’m porting over to Grok Bot. 
-
-Makes it a clean split.</description>
-      <pubDate>Sat, 12 Sep 2026 03:27:39 +0000</pubDate>
-      <guid isPermaLink="false">2098614492066435228</guid>
-    </item>
-    <item>
-      <title>Hi Astra users. A reset and a quick update on quality issues that have been posted around.  Working with some of you, we have found and fixed the following issues: - Some skills written for previous models were triggering too often or preventing the model from checking its work. - An opt-in context ...</title>
-      <link>https://x.com/thsottiaux/status/2098612714704891959</link>
-      <description>作者：Thibault Sottiaux
-账号：@thsottiaux
-简介：Codex &amp; ChatGPT @OpenAI
-
-Hi Astra users. A reset and a quick update on quality issues that have been posted around.
-
-Working with some of you, we have found and fixed the following issues:
-- Some skills written for previous models were triggering too often or preventing the model from checking its work.
-- An opt-in context management experiment that could cause early stops or replies to older messages. We've disabled it. Our rough estimate is that 4-5k users were affected by this experiment.
-- We've also removed some badly configured engines that resulted in a measured quality degradation for a long tail of traffic flowing through them.
-
-We’ve also made some more minor improvements and things should feel significantly better across the board. More consistent follow-through, better tracking of your latest message, and better checks on the work as it’s going through the motions.
-
-The examples posted and all the users who worked directly with us were incredibly useful in helping fix things quickly. Always grateful for this incredible community.
-
-And of course, a reset is also landing by midnight today.</description>
-      <pubDate>Sat, 12 Sep 2026 03:20:36 +0000</pubDate>
-      <guid isPermaLink="false">2098612714704891959</guid>
-    </item>
-    <item>
-      <title>i emptied my house said goodbyes and moved to taipei  so far so great! 💛 https://t.co/vvAbELmie8</title>
-      <link>https://x.com/ryolu_/status/2098612137321201942</link>
-      <description>作者：Ryo Lu
-账号：@ryolu_
-简介：Designed @Cursor_ai, @NotionHQ, @Stripe, built startups. I make a world where anyone can make software. Aspiring k-pop idol.
-
-i emptied my house
-said goodbyes
-and moved to taipei
-
-so far so great! 💛 https://t.co/vvAbELmie8</description>
-      <pubDate>Sat, 12 Sep 2026 03:18:18 +0000</pubDate>
-      <guid isPermaLink="false">2098612137321201942</guid>
-    </item>
-    <item>
-      <title>I often think and hope that I would have had the courage that the people in United 93 had to prevent an attack on the White House.  I have been thinking about 9/11 all day…  I was at CMU in a lecture in Wean Hall room 7500. People were very scared because one of the planes was near Pittsburgh.  So m...</title>
-      <link>https://x.com/adityaag/status/2098580235268899123</link>
-      <description>作者：Aditya Agarwal
-账号：@adityaag
-简介：General Partner @SPC, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @Dropbox, Board @Flipkart | Optimist, Builder, Dad
-
-I often think and hope that I would have had the courage that the people in United 93 had to prevent an attack on the White House.
-
-I have been thinking about 9/11 all day…
-
-I was at CMU in a lecture in Wean Hall room 7500. People were very scared because one of the planes was near Pittsburgh.
-
-So many heroes on that day.</description>
-      <pubDate>Sat, 12 Sep 2026 01:11:32 +0000</pubDate>
-      <guid isPermaLink="false">2098580235268899123</guid>
-    </item>
-    <item>
-      <title>okay this is not great https://t.co/yzMDp9dIZh</title>
-      <link>https://x.com/danshipper/status/2098579426178908494</link>
-      <description>作者：Dan Shipper
-账号：@danshipper
-简介：ceo @every | the only subscription you need to stay at the edge of AI
-
-okay this is not great https://t.co/yzMDp9dIZh</description>
-      <pubDate>Sat, 12 Sep 2026 01:08:19 +0000</pubDate>
-      <guid isPermaLink="false">2098579426178908494</guid>
-    </item>
-    <item>
-      <title>Read why here: https://t.co/qMkuBOwSKk</title>
-      <link>https://x.com/petergyang/status/2098573992097657135</link>
-      <description>作者：Peter Yang
-账号：@petergyang
-简介：Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6
-
-Read why here: https://t.co/qMkuBOwSKk</description>
-      <pubDate>Sat, 12 Sep 2026 00:46:43 +0000</pubDate>
-      <guid isPermaLink="false">2098573992097657135</guid>
-    </item>
-    <item>
-      <title>Excited to welcome Aidan &amp; @ Sasha from the Git AI team to OpenAI!   They are building in the open and have developed an open-source tool that helps developers understand how coding agents contribute to their codebase.   Together, we’ll make it easier for businesses to see where Codex is making a di...</title>
-      <link>https://x.com/thsottiaux/status/2098569976143806918</link>
-      <description>作者：Thibault Sottiaux
-账号：@thsottiaux
-简介：Codex &amp; ChatGPT @OpenAI
-
-Excited to welcome Aidan &amp; @
-Sasha from the Git AI team to OpenAI! 
-
-They are building in the open and have developed an open-source tool that helps developers understand how coding agents contribute to their codebase. 
-
-Together, we’ll make it easier for businesses to see where Codex is making a difference when working through problems for individuals and teams. We’ll also keep Git AI open source and continue investing in it.</description>
-      <pubDate>Sat, 12 Sep 2026 00:30:46 +0000</pubDate>
-      <guid isPermaLink="false">2098569976143806918</guid>
-    </item>
-    <item>
-      <title>I am skeptical of &quot;software factories.&quot;  Other than for verification &amp; testing, I don't think AI is at a point where it can self-improve a product or build a new feature end-to-end without human in the loop.  Whenever I loop something overnight to build something new = if it makes one wrong assumpti...</title>
-      <link>https://x.com/petergyang/status/2098565668241334366</link>
-      <description>作者：Peter Yang
-账号：@petergyang
-简介：Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6
-
-I am skeptical of &quot;software factories.&quot;
-
-Other than for verification &amp; testing, I don't think AI is at a point where it can self-improve a product or build a new feature end-to-end without human in the loop.
-
-Whenever I loop something overnight to build something new = if it makes one wrong assumption the whole thing becomes a waste of tokens. 
-
-What products or features have been built end-to-end with a software factory and no human defining the requirements or checking the work?</description>
-      <pubDate>Sat, 12 Sep 2026 00:13:39 +0000</pubDate>
-      <guid isPermaLink="false">2098565668241334366</guid>
-    </item>
-    <item>
-      <title>“Success has many fathers, but failure is an orphan.”  I never realized the gravity of this quote till I saw extremely successful VCs fight for attribution of the hot deals.   And you realize this viscerally because the large exits (or markups) are genuinely rare and those are the ones you raise the...</title>
-      <link>https://x.com/nikunj/status/2098550718923997430</link>
+      <title>Honestly having kids reduces p(doom) by an exponential amount..  Case in point: We have been playing the garbage truck and excavator (techno version) for the past hour.   And dancing to it as if we were at a concert.   With a temporary abandon to what the world is fighting about. https://t.co/4v2bM2...</title>
+      <link>https://x.com/nikunj/status/2098961771289870463</link>
       <description>作者：Nikunj Kothari
 账号：@nikunj
 简介：partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian &amp; others. love @shimoleejhaveri + 👦👧
 
-“Success has many fathers, but failure is an orphan.”
+Honestly having kids reduces p(doom) by an exponential amount..
 
-I never realized the gravity of this quote till I saw extremely successful VCs fight for attribution of the hot deals. 
+Case in point: We have been playing the garbage truck and excavator (techno version) for the past hour. 
 
-And you realize this viscerally because the large exits (or markups) are genuinely rare and those are the ones you raise the next fund on (your own or part of the firm). 
+And dancing to it as if we were at a concert. 
 
-This is why in the next couple of years you’ll see many names scrubbed (or conveniently omitted) and everyone wanting to revise history to claim some credit for the ones that eventually succeed. 
-
-So many emerging GPs are facing this explicitly as the only thing they can take to their future LPs is their track record. And it’s been sad to see them not get the credit they actually deserve. 
-
-As @AnjneyMidha said, eventually the new guard will shine as they will figure a way out. But in the short term, hold your founders close since they’ll be the real reference checks! 
-
-(this is genuinely NOT a subtweet at any firm, just what I have been noticing across the market as I’m helping emerging managers)</description>
-      <pubDate>Fri, 11 Sep 2026 23:14:15 +0000</pubDate>
-      <guid isPermaLink="false">2098550718923997430</guid>
+With a temporary abandon to what the world is fighting about. https://t.co/4v2bM24SAO</description>
+      <pubDate>Sun, 13 Sep 2026 02:27:37 +0000</pubDate>
+      <guid isPermaLink="false">2098961771289870463</guid>
     </item>
     <item>
-      <title>Replit acquires a business entirely built on Replit. I expect first of many to come. https://t.co/hL516eAAu2</title>
-      <link>https://x.com/amasad/status/2098548464452055437</link>
-      <description>作者：Amjad Masad
-账号：@amasad
-简介：ceo @replit. civilizationist
+      <title>What if this game worked like this:  1. One person is commander and can play this like a RTS (macro)  2. The rest of the team plays individual marines and characters (micro)  Probably a terrible idea but would be cool 😎 https://t.co/CQF0dg0tBJ</title>
+      <link>https://x.com/petergyang/status/2098945475038912741</link>
+      <description>作者：Peter Yang
+账号：@petergyang
+简介：Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6
 
-Replit acquires a business entirely built on Replit. I expect first of many to come. https://t.co/hL516eAAu2</description>
-      <pubDate>Fri, 11 Sep 2026 23:05:17 +0000</pubDate>
-      <guid isPermaLink="false">2098548464452055437</guid>
+What if this game worked like this:
+
+1. One person is commander and can play this like a RTS (macro)
+
+2. The rest of the team plays individual marines and characters (micro)
+
+Probably a terrible idea but would be cool 😎 https://t.co/CQF0dg0tBJ</description>
+      <pubDate>Sun, 13 Sep 2026 01:22:52 +0000</pubDate>
+      <guid isPermaLink="false">2098945475038912741</guid>
     </item>
     <item>
-      <title>we heard feedback that it's hard to know if your skills are still working with new model releases  plugin evals are here to help  run `claude plugin eval init` in your plugin folder https://t.co/Q0I1ZnugDs</title>
-      <link>https://x.com/trq212/status/2098531560643539440</link>
+      <title>Anyone got an invite code for Meta's Muse? 👉👈  I saw their Soul.md file and now i'm curious.</title>
+      <link>https://x.com/steipete/status/2098931686042210381</link>
+      <description>作者：Peter Steinberger
+账号：@steipete
+简介：Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world.
+@OpenClaw🦞 + @OpenAI
+
+Anyone got an invite code for Meta's Muse? 👉👈
+
+I saw their Soul.md file and now i'm curious.</description>
+      <pubDate>Sun, 13 Sep 2026 00:28:04 +0000</pubDate>
+      <guid isPermaLink="false">2098931686042210381</guid>
+    </item>
+    <item>
+      <title>me asking fable 5.1 ultracode to explain whether the internet is truly a series of pipes https://t.co/Y5Bso2F5C8</title>
+      <link>https://x.com/danshipper/status/2098905091776373125</link>
+      <description>作者：Dan Shipper
+账号：@danshipper
+简介：ceo @every | the only subscription you need to stay at the edge of AI
+
+me asking fable 5.1 ultracode to explain whether the internet is truly a series of pipes https://t.co/Y5Bso2F5C8</description>
+      <pubDate>Sat, 12 Sep 2026 22:42:24 +0000</pubDate>
+      <guid isPermaLink="false">2098905091776373125</guid>
+    </item>
+    <item>
+      <title>finally, im an author! https://t.co/brRLLnHA9d</title>
+      <link>https://x.com/danshipper/status/2098898413366435903</link>
+      <description>作者：Dan Shipper
+账号：@danshipper
+简介：ceo @every | the only subscription you need to stay at the edge of AI
+
+finally, im an author! https://t.co/brRLLnHA9d</description>
+      <pubDate>Sat, 12 Sep 2026 22:15:52 +0000</pubDate>
+      <guid isPermaLink="false">2098898413366435903</guid>
+    </item>
+    <item>
+      <title>Breaking: VCs decide to pace their returns.</title>
+      <link>https://x.com/mattturck/status/2098869942988718426</link>
+      <description>作者：Matt Turck
+账号：@mattturck
+简介：VC at @FirstMarkCap.  Host: MAD Podcast; Organizer: Data Driven NYC, Author: MAD Landscape.
+
+Breaking: VCs decide to pace their returns.</description>
+      <pubDate>Sat, 12 Sep 2026 20:22:44 +0000</pubDate>
+      <guid isPermaLink="false">2098869942988718426</guid>
+    </item>
+    <item>
+      <title>This is huge https://t.co/3wNhYTyWqH</title>
+      <link>https://x.com/garrytan/status/2098863831732863310</link>
+      <description>作者：Garry Tan
+账号：@garrytan
+简介：President &amp; CEO @ycombinator —Founder @garryslist—Creator of GStack &amp; GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop
+
+This is huge https://t.co/3wNhYTyWqH</description>
+      <pubDate>Sat, 12 Sep 2026 19:58:27 +0000</pubDate>
+      <guid isPermaLink="false">2098863831732863310</guid>
+    </item>
+    <item>
+      <title>If you showed me Claude Code today in 2018, I would have thought it was AGI.  We have already absorbed a dramatic amount of change in the profession of software engineering and society as a whole. But still, we’re starting to see cracks.  Things are accelerating faster than I can honestly stay on to...</title>
+      <link>https://x.com/trq212/status/2098860941391872132</link>
       <description>作者：Thariq
 账号：@trq212
 简介：Claude Code @anthropicai. prev YC W20, @spc, @medialab
 
-we heard feedback that it's hard to know if your skills are still working with new model releases
+If you showed me Claude Code today in 2018, I would have thought it was AGI.
 
-plugin evals are here to help
+We have already absorbed a dramatic amount of change in the profession of software engineering and society as a whole. But still, we’re starting to see cracks.
 
-run `claude plugin eval init` in your plugin folder https://t.co/Q0I1ZnugDs</description>
-      <pubDate>Fri, 11 Sep 2026 21:58:07 +0000</pubDate>
-      <guid isPermaLink="false">2098531560643539440</guid>
+Things are accelerating faster than I can honestly stay on top of. Most people I know in AI are tired but powering through. I fear we will need more than that.
+
+We need time to harden our systems, and for society to deliberate in how this technology is used and deployed.
+
+I have a fairly low p(doom), I am confident that we can get through this! Humanity is incredibly reslient and adaptable, but this comes from our ability to make hard decisions- like this one, together.</description>
+      <pubDate>Sat, 12 Sep 2026 19:46:58 +0000</pubDate>
+      <guid isPermaLink="false">2098860941391872132</guid>
     </item>
     <item>
-      <title>Tailscale’s model router is powered by Vercel AI Gateway as its underlying infrastructure.  AI Gateways are the new CDNs. You could go “direct to origin”, but it’s brittle. You could DIY, but it’s painful and costly.  Proud to serve Tailscale, the 🐐 networking technology company https://t.co/ERS5GKJ...</title>
-      <link>https://x.com/rauchg/status/2098531157230969062</link>
+      <title>Okay for the avoidance of doubt this is a joke. Someone pls community note</title>
+      <link>https://x.com/danshipper/status/2098860370639130859</link>
+      <description>作者：Dan Shipper
+账号：@danshipper
+简介：ceo @every | the only subscription you need to stay at the edge of AI
+
+Okay for the avoidance of doubt this is a joke. Someone pls community note</description>
+      <pubDate>Sat, 12 Sep 2026 19:44:41 +0000</pubDate>
+      <guid isPermaLink="false">2098860370639130859</guid>
+    </item>
+    <item>
+      <title>Prediction: we will see movement of a lot more of the brightest minds on frontier model evals towards groups like METR over the next 12 months.  This skill is currently concentrated in  in a few labs,  data providers and independent research groups.  A combination of increased funding, financial ind...</title>
+      <link>https://x.com/realmadhuguru/status/2098859477219037691</link>
+      <description>作者：Madhu Guru
+账号：@realmadhuguru
+简介：Sr Director, AI at Meta; Prev: Google - Led Gemini, Veo, Nano Banana.
+
+Prediction: we will see movement of a lot more of the brightest minds on frontier model evals towards groups like METR over the next 12 months.
+
+This skill is currently concentrated in 
+in a few labs,  data providers and independent research groups.
+
+A combination of increased funding, financial independence from lab equity and the call to meet the existential risk of AI will motivate a migration of minds to this bigger cause.</description>
+      <pubDate>Sat, 12 Sep 2026 19:41:08 +0000</pubDate>
+      <guid isPermaLink="false">2098859477219037691</guid>
+    </item>
+    <item>
+      <title>Breaking: Dario saves humanity but kills an entire industry of mind-blown tweets and breathless AI podcasts</title>
+      <link>https://x.com/mattturck/status/2098847298335687132</link>
+      <description>作者：Matt Turck
+账号：@mattturck
+简介：VC at @FirstMarkCap.  Host: MAD Podcast; Organizer: Data Driven NYC, Author: MAD Landscape.
+
+Breaking: Dario saves humanity but kills an entire industry of mind-blown tweets and breathless AI podcasts</description>
+      <pubDate>Sat, 12 Sep 2026 18:52:45 +0000</pubDate>
+      <guid isPermaLink="false">2098847298335687132</guid>
+    </item>
+    <item>
+      <title>Can’t believe ASI will come out before StarCraft.   Seriously just use AI to generate half the graphics with human oversight, I won’t mind if we can get a quality game out sooner.</title>
+      <link>https://x.com/petergyang/status/2098846399949627553</link>
+      <description>作者：Peter Yang
+账号：@petergyang
+简介：Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6
+
+Can’t believe ASI will come out before StarCraft. 
+
+Seriously just use AI to generate half the graphics with human oversight, I won’t mind if we can get a quality game out sooner.</description>
+      <pubDate>Sat, 12 Sep 2026 18:49:11 +0000</pubDate>
+      <guid isPermaLink="false">2098846399949627553</guid>
+    </item>
+    <item>
+      <title>wtf? 2030? 😂 🤦  Someone should just use AI to make StarCraft 3 at this point… https://t.co/RInemiP3nC</title>
+      <link>https://x.com/petergyang/status/2098843136328171540</link>
+      <description>作者：Peter Yang
+账号：@petergyang
+简介：Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6
+
+wtf? 2030? 😂 🤦
+
+Someone should just use AI to make StarCraft 3 at this point… https://t.co/RInemiP3nC</description>
+      <pubDate>Sat, 12 Sep 2026 18:36:12 +0000</pubDate>
+      <guid isPermaLink="false">2098843136328171540</guid>
+    </item>
+    <item>
+      <title>I’m seeing teams at Vercel iterate just as fast on Zig, Go, Rust projects as TypeScript &amp;amp; Python ones.  The days of language or runtime choice based on human convenience are over. Agents are the new compilers.  They compile intent into fast software.</title>
+      <link>https://x.com/rauchg/status/2098833404707922239</link>
       <description>作者：Guillermo Rauch
 账号：@rauchg
 简介：@vercel CEO
 
-Tailscale’s model router is powered by Vercel AI Gateway as its underlying infrastructure.
+I’m seeing teams at Vercel iterate just as fast on Zig, Go, Rust projects as TypeScript &amp;amp; Python ones.
 
-AI Gateways are the new CDNs. You could go “direct to origin”, but it’s brittle. You could DIY, but it’s painful and costly.
+The days of language or runtime choice based on human convenience are over. Agents are the new compilers.
 
-Proud to serve Tailscale, the 🐐 networking technology company https://t.co/ERS5GKJx6D</description>
-      <pubDate>Fri, 11 Sep 2026 21:56:31 +0000</pubDate>
-      <guid isPermaLink="false">2098531157230969062</guid>
+They compile intent into fast software.</description>
+      <pubDate>Sat, 12 Sep 2026 17:57:32 +0000</pubDate>
+      <guid isPermaLink="false">2098833404707922239</guid>
     </item>
     <item>
-      <title>Had to submit a patch to @trycua to make keys work reliable under Linux, dope framework overall tho!</title>
-      <link>https://x.com/steipete/status/2098527982709256637</link>
-      <description>作者：Peter Steinberger
-账号：@steipete
-简介：Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world.
-@OpenClaw🦞 + @OpenAI
+      <title>https://t.co/h69bQJ21v9 https://t.co/LRgNJtrq5k</title>
+      <link>https://x.com/thenanyu/status/2098829351781593191</link>
+      <description>作者：Nan Yu
+账号：@thenanyu
+简介：(soon) member of product staff @openai. prev head of product @linear. I am grader.
 
-Had to submit a patch to @trycua to make keys work reliable under Linux, dope framework overall tho!</description>
-      <pubDate>Fri, 11 Sep 2026 21:43:54 +0000</pubDate>
-      <guid isPermaLink="false">2098527982709256637</guid>
+https://t.co/h69bQJ21v9 https://t.co/LRgNJtrq5k</description>
+      <pubDate>Sat, 12 Sep 2026 17:41:26 +0000</pubDate>
+      <guid isPermaLink="false">2098829351781593191</guid>
     </item>
     <item>
-      <title>Astra on OC in a cloud session playing Doom with CUA. Not quite AGI yet, but probably beats fly brain. https://t.co/SrJlaey3MB</title>
-      <link>https://x.com/steipete/status/2098527519213604889</link>
-      <description>作者：Peter Steinberger
-账号：@steipete
-简介：Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world.
-@OpenClaw🦞 + @OpenAI
+      <title>Not a bad idea to slow down to harden systems. Especially since we haven’t even discovered all the systems that agents hacked recently. https://t.co/8mPnI81HJG</title>
+      <link>https://x.com/amasad/status/2098828265800835310</link>
+      <description>作者：Amjad Masad
+账号：@amasad
+简介：ceo @replit. civilizationist
 
-Astra on OC in a cloud session playing Doom with CUA.
-Not quite AGI yet, but probably beats fly brain. https://t.co/SrJlaey3MB</description>
-      <pubDate>Fri, 11 Sep 2026 21:42:03 +0000</pubDate>
-      <guid isPermaLink="false">2098527519213604889</guid>
+Not a bad idea to slow down to harden systems. Especially since we haven’t even discovered all the systems that agents hacked recently. https://t.co/8mPnI81HJG</description>
+      <pubDate>Sat, 12 Sep 2026 17:37:07 +0000</pubDate>
+      <guid isPermaLink="false">2098828265800835310</guid>
     </item>
     <item>
-      <title>You can see us on the list of tenants here: https://t.co/DuGS9PLTIw  and you can see part of Kenton's story here: https://t.co/3KVbiF1Nqy</title>
-      <link>https://x.com/mattturck/status/2098517023286247675</link>
-      <description>作者：Matt Turck
-账号：@mattturck
-简介：VC at @FirstMarkCap.  Host: MAD Podcast; Organizer: Data Driven NYC, Author: MAD Landscape.
+      <title>Worth spending a few minutes this weekend to read this essay in full.   Embedded evaluators might sound unusual in tech but it's pretty normal in other industries. Big banks have federal examiners with desks in the building and every nuclear plant in the US has inspectors who work on site full time....</title>
+      <link>https://x.com/alexalbert__/status/2098814342443761909</link>
+      <description>作者：Alex Albert
+账号：@alexalbert__
+简介：Research @AnthropicAI. Opinions are my own!
 
-You can see us on the list of tenants here:
-https://t.co/DuGS9PLTIw
+Worth spending a few minutes this weekend to read this essay in full. 
 
-and you can see part of Kenton's story here:
-https://t.co/3KVbiF1Nqy</description>
-      <pubDate>Fri, 11 Sep 2026 21:00:21 +0000</pubDate>
-      <guid isPermaLink="false">2098517023286247675</guid>
+Embedded evaluators might sound unusual in tech but it's pretty normal in other industries. Big banks have federal examiners with desks in the building and every nuclear plant in the US has inspectors who work on site full time. I think frontier AI labs should work the same way and this is a very practical first step.</description>
+      <pubDate>Sat, 12 Sep 2026 16:41:47 +0000</pubDate>
+      <guid isPermaLink="false">2098814342443761909</guid>
     </item>
     <item>
-      <title>My 9/11 story (lightly updated version of a blog post I wrote in 2016 for the 15th anniversary)  In September 2001, I was the young co-founder of a NYC tech startup, TripleHop Technologies.     We were building enterprise search software, using whatever AI existed at the time, building what would be...</title>
-      <link>https://x.com/mattturck/status/2098517022049190227</link>
-      <description>作者：Matt Turck
-账号：@mattturck
-简介：VC at @FirstMarkCap.  Host: MAD Podcast; Organizer: Data Driven NYC, Author: MAD Landscape.
+      <title>I love this and really hope we can come together as an industry and make it happen. https://t.co/lz2vjjJ5XD https://t.co/jF2vhYXlAF</title>
+      <link>https://x.com/karpathy/status/2098811935114551617</link>
+      <description>作者：Andrej Karpathy
+账号：@karpathy
+简介：deep learning
 
-My 9/11 story
-(lightly updated version of a blog post I wrote in 2016 for the 15th anniversary)
-
-In September 2001, I was the young co-founder of a NYC tech startup, TripleHop Technologies.   
-
-We were building enterprise search software, using whatever AI existed at the time, building what would be today close to what a Glean does.  
-
-We had maybe 25 people on the team at the time.  Pretty much all of us were at the very begining of our careers, barely out of school, unexperienced, but highly enthusiastic.
-
-Our office was located on the 53rd floor of the North Tower at the World Trade Center.
-
-We had ended up at the World Trade Center fairly randomly.  Our first office was located on Water Street, right above a 24 hour McDonald’s.  It looked more like a decrepit apartment than an actual office, occasionally didn’t smell that great, but it was cheap and good enough.
-
-But after a year or so, the team had grown, and that office had become too small, so we started looking for a bigger one.
-
-At the time, for a reason or another, there wasn’t a lot of office inventory on the market in the area where we wanted to be.  
-
-We looked for a bit, couldn’t find anything suitable, until one of us had the strange idea of inquiring at the World Trade Center, which felt like a long shot. 
-
-Turned out that the World Trade Center had some smaller offices, and some availability.  In those dot-com bubble days, they also were quite eager to attract young tech startups, and were willing to offer us some preferential terms. 
-
-So we went to take a look, and visited two offices in the North Tower. 
-
-One was a large office at the very top of the building, perhaps the 104th floor, I don’t exactly recall. It had unbelievable views, but it really felt like taking that office would be pushing it – even with a good deal, we were just a little seed-funded startup, after all. Also, the elevator ride took forever. 
-
-So instead we chose the smaller, cheaper office on the 53rd floor.  
-
-We really liked our new office, and the World Trade Center in general.  It felt like a little town, with a lot of retail and amenities below the surface, and its own subway station. We ate a bit too often at a Sbarro joint located right outside the ground floor elevator.
-
-The night before 9/11, my co-founder Renaud Laplanche and I worked very late into the evening, as we did most nights.  In true nerdy founder fashion, we played a ping pong game or two, as we did pretty much every time before calling it a night – the ping pong table being our attempt at creating a startup culture.  
-
-I left, and think Renaud may have stayed on that night to finish working on a proposal for a prospective customer.
-
-The morning after, when the plane hit the North Tower at 8:46am, I was home, about to leave for work.   
-
-Like many young tech people, we were night owls but not early birds, typically showing up at the office around 9:30am.  
-
-I had the TV on, and as about to turn it off and walk out of the door, saw the “breaking news” scroll at the bottom of the screen mentioning a plane collision, but no image.    
-
-As I had a faraway view of the World Trade Center from the window of my West Village studio apartment, I looked up and saw what seemed like a little bit of smoke at the top.
-
-I assumed the plane that had hit the tower was a small tourist plane.  We would often see them fly by the office, above the nearby Hudson River, often at altitudes that felt very close to us.  It had crossed my mind more than once that it wouldn’t take that much for one of them to hit the tower by accident.
-
-Then, like so many others, I saw those unbelievable images on TV. I called my family back in France.  Shortly thereafter, phone lines went down. 
-
-The rest of the day was surreal and gut-wrenching, although I remember feeling mostly numb.
-
-I went on a mad scramble to see if everyone at TripleHop was ok. For many hours, we just didn’t know.  With no phone working, we accounted for most people via email, but a number did not reply for a while.
-
-It eventually turned out only one person from the team, Kenton Beerman, was at the office at 8:46am.   He made it out shocked but unscathed.
-
-Perhaps as a way to cope psychologically, or just because they were amazing people, I remember that the team was incredibly focused on saving the business that day.  
-
-This was obviously pre-AWS, we had our own server room in our office, but thankfully our CTO Joaquin Delgado and his team had backed everything up.  By the end of the day, we were essentially back up and running.
-
-After a few days, we found shared office space.  But business didn’t go back to usual. In addition to everything else, 9/11 was the final nail in the coffin for the economy after the dot com bubble burst.  The next couple of years were a complete nuclear winter.
-
-Thankfully, we had raised a $5M Series A (a solid amount at hte time!) a few months before 9/11, which kept us afloat.  We also managed to win a few deals in Europe, which gave us a bit more cash.  
-
-Eventually business picked up strongly in late 2003 and 2004, potential acquirers came knocking, and TripleHop was acquired by Oracle in 2005.
-
-We all went on with our lives.  My co-founder Renaud reached extraordinary entrepreneurial success and defined a whole new industry.
-
-We all have families now.  I occasionally see pictures of beautiful children on my Facebook feed.  
-
-I rarely talk about 9/11, and have tried to not think about it too much. 
-
-It took me a very long time to go visit the 9/11 memorial downtown.  
-
-I finally made it just a few weeks ago, after a board meeting nearby, walking there almost by accident.
-
-Looking at the names engraved in the marble, I was reminded that it wouldn’t have taken much.  An hour later, a few floors lower. Or choosing that office on the 104th floor instead of the other one, a few months prior.
-
-And I feel deeply connected not just to those names, but to New York. 
-
-Before 9/11, New York felt like an exciting, but ultimately foreign, city. After 9/11, I truly started feeling like a New Yorker.  
-
-Everyone remembers where they were on 9/11.  Everyone has a story of some sort, many infinitely more tragic.  
-
-This is just mine.</description>
-      <pubDate>Fri, 11 Sep 2026 21:00:21 +0000</pubDate>
-      <guid isPermaLink="false">2098517022049190227</guid>
+I love this and really hope we can come together as an industry and make it happen. https://t.co/lz2vjjJ5XD https://t.co/jF2vhYXlAF</description>
+      <pubDate>Sat, 12 Sep 2026 16:32:14 +0000</pubDate>
+      <guid isPermaLink="false">2098811935114551617</guid>
     </item>
     <item>
-      <title>it's basically impossible to interpret evals by looking at just at the pass/fail scores these days  many of the failures I see in benchmarks are due to overly strict hidden tests, in some cases the model's answer makes more sense than the expected eval result</title>
-      <link>https://x.com/trq212/status/2098490139798655427</link>
-      <description>作者：Thariq
-账号：@trq212
-简介：Claude Code @anthropicai. prev YC W20, @spc, @medialab
+      <title>I agree with Dario that we need to pace the frontier. This has been a primary topic of discussions we've had at OpenAI in recent weeks.  Committing to having independent evaluators with employee-like access is a great idea, and we will do the same. We'll have more to share soon. https://t.co/1YhhIyb...</title>
+      <link>https://x.com/sama/status/2098811563415150910</link>
+      <description>作者：Sam Altman
+账号：@sama
+简介：The mission of OpenAI to ensure that AGI benefits all of humanity
 
-it's basically impossible to interpret evals by looking at just at the pass/fail scores these days
+I agree with Dario that we need to pace the frontier. This has been a primary topic of discussions we've had at OpenAI in recent weeks.
 
-many of the failures I see in benchmarks are due to overly strict hidden tests, in some cases the model's answer makes more sense than the expected eval result</description>
-      <pubDate>Fri, 11 Sep 2026 19:13:32 +0000</pubDate>
-      <guid isPermaLink="false">2098490139798655427</guid>
+Committing to having independent evaluators with employee-like access is a great idea, and we will do the same. We'll have more to share soon. https://t.co/1YhhIybZX7</description>
+      <pubDate>Sat, 12 Sep 2026 16:30:45 +0000</pubDate>
+      <guid isPermaLink="false">2098811563415150910</guid>
     </item>
     <item>
-      <title>I think the idea of a &quot;one-person company&quot; is overrated  Yes, a person can do a lot more thanks to AI. But building something new can be a profoundly lonely experience. You need someone to brainstorm together, suffer together, celebrate together...  It is extremely easy to lose motivation when you d...</title>
-      <link>https://x.com/zarazhangrui/status/2098483800456179923</link>
-      <description>作者：Zara Zhang
-账号：@zarazhangrui
-简介：Builder. Make something people want, then make people want it. Harvard’17. GitHub: https://t.co/KCuEaje1wd 
-YouTube: https://t.co/8xzbGWsHgY
+      <title>Before we solve AI alignment, we have a pretty serious human alignment problem.   It is jarring to see the bad-faith reaction to Dario's piece from so many sides. I don't agree with every point of his essay but do believe it is a thoughtful piece everyone should read. It builds on some of the ideas ...</title>
+      <link>https://x.com/realmadhuguru/status/2098803717432860987</link>
+      <description>作者：Madhu Guru
+账号：@realmadhuguru
+简介：Sr Director, AI at Meta; Prev: Google - Led Gemini, Veo, Nano Banana.
 
-I think the idea of a &quot;one-person company&quot; is overrated
+Before we solve AI alignment, we have a pretty serious human alignment problem. 
 
-Yes, a person can do a lot more thanks to AI. But building something new can be a profoundly lonely experience. You need someone to brainstorm together, suffer together, celebrate together...
+It is jarring to see the bad-faith reaction to Dario's piece from so many sides. I don't agree with every point of his essay but do believe it is a thoughtful piece everyone should read. It builds on some of the ideas @demishassabis  raised in July.
 
-It is extremely easy to lose motivation when you don't tie yourself to the mast together with somebody else</description>
-      <pubDate>Fri, 11 Sep 2026 18:48:20 +0000</pubDate>
-      <guid isPermaLink="false">2098483800456179923</guid>
+It is clear we need to focus on aligning amongst us humans on a few questions:
+
+What is the opportunity, risks, second-order effects?
+
+How do we measure all of this?
+
+How do companies, governments and countries coordinate?
+
+AI will benefit humanity if we can get our act together and move together.</description>
+      <pubDate>Sat, 12 Sep 2026 15:59:34 +0000</pubDate>
+      <guid isPermaLink="false">2098803717432860987</guid>
     </item>
     <item>
-      <title>better benchmark scores don't tell you much about how well a model does on your real work   that's why for the last 3 years @every we've done vibe checks on new models: long-form reviews based on hands-on testing on each model for our real work  now we're doubling down, and getting more quantitative...</title>
-      <link>https://x.com/danshipper/status/2098481799047647715</link>
-      <description>作者：Dan Shipper
-账号：@danshipper
-简介：ceo @every | the only subscription you need to stay at the edge of AI
+      <title>https://t.co/OL0LzGsXKY can now orchestrate subagents with different models &amp; reasoning efforts.  e.g: Fable planning and Grok executing. Fable is a genius, Grok is a fast workhorse.  ① Simple. 𝙰𝙶𝙴𝙽𝚃𝚂.𝚖𝚍 or your prompt can indicate this preference.  ② Steer as you please. It’s extremely enjoyable to...</title>
+      <link>https://x.com/rauchg/status/2098803573861621778</link>
+      <description>作者：Guillermo Rauch
+账号：@rauchg
+简介：@vercel CEO
 
-better benchmark scores don't tell you much about how well a model does on your real work 
+https://t.co/OL0LzGsXKY can now orchestrate subagents with different models &amp; reasoning efforts.
 
-that's why for the last 3 years @every we've done vibe checks on new models: long-form reviews based on hands-on testing on each model for our real work
+e.g: Fable planning and Grok executing. Fable is a genius, Grok is a fast workhorse.
 
-now we're doubling down, and getting more quantitative
+① Simple. 𝙰𝙶𝙴𝙽𝚃𝚂.𝚖𝚍 or your prompt can indicate this preference.
 
-@hammer_mt and @nityeshaga built an internal platform for all of us to make personal benchmarks based on our real day-to-day work
+② Steer as you please. It’s extremely enjoyable to use. You just talk to the agent and interrupt at will.
 
-our vibe checks on new models used to be vibes only
-
-now we're starting to get more quantitative with checks
-
-very psyched about this :)</description>
-      <pubDate>Fri, 11 Sep 2026 18:40:23 +0000</pubDate>
-      <guid isPermaLink="false">2098481799047647715</guid>
+Worth noting this works with any model, any gateway. No fancy server-side routing. Just harnessing (no pun intended) the model’s intelligence and ability to orchestrate.</description>
+      <pubDate>Sat, 12 Sep 2026 15:59:00 +0000</pubDate>
+      <guid isPermaLink="false">2098803573861621778</guid>
     </item>
     <item>
-      <title>This one is very cool. Now you can mount Box to agent sandboxes to make it far easier for an agent to read and write files on the agent's computer. As AI agents execute critical workflows in the enterprise, they're going to need the same primitives that people have had. https://t.co/h1BW92pMtH</title>
-      <link>https://x.com/levie/status/2098478938003841123</link>
+      <title>The concerns over AI safety and cybersecurity are legitimate, but we’re risking talking America, the global AI leader, into self-inflicted obsolescence and the obscurity of bureaucracy.  The OpenAI hacking HuggingFace argument is spurious. An agent in “ExploitGym”… exploited. Our adversaries have th...</title>
+      <link>https://x.com/rauchg/status/2098787667030712757</link>
+      <description>作者：Guillermo Rauch
+账号：@rauchg
+简介：@vercel CEO
+
+The concerns over AI safety and cybersecurity are legitimate, but we’re risking talking America, the global AI leader, into self-inflicted obsolescence and the obscurity of bureaucracy.
+
+The OpenAI hacking HuggingFace argument is spurious. An agent in “ExploitGym”… exploited. Our adversaries have the training techniques, the data, and the will to attack. And they won’t be slowed down with “embedded evaluators.” They’ll likely have embedded accelerators!</description>
+      <pubDate>Sat, 12 Sep 2026 14:55:48 +0000</pubDate>
+      <guid isPermaLink="false">2098787667030712757</guid>
+    </item>
+    <item>
+      <title>Good post. Don’t agree with all of it, but it represents many of the actual practical realities for the general path forward in frontier AI whether we like it or not.  At the level of capability we’re seeing from models there will inevitably be some form of coordinated self-regulation of the industr...</title>
+      <link>https://x.com/levie/status/2098785357307539882</link>
       <description>作者：Aaron Levie
 账号：@levie
 简介：ceo @box - your business lives in content. unleash it with AI
 
-This one is very cool. Now you can mount Box to agent sandboxes to make it far easier for an agent to read and write files on the agent's computer. As AI agents execute critical workflows in the enterprise, they're going to need the same primitives that people have had. https://t.co/h1BW92pMtH</description>
-      <pubDate>Fri, 11 Sep 2026 18:29:01 +0000</pubDate>
-      <guid isPermaLink="false">2098478938003841123</guid>
+Good post. Don’t agree with all of it, but it represents many of the actual practical realities for the general path forward in frontier AI whether we like it or not.
+
+At the level of capability we’re seeing from models there will inevitably be some form of coordinated self-regulation of the industry; that’s generally a good thing. The big question will be if everyone can agree to what that is. However, the way things are headed politically there’s a chance that the labs won’t even get a say in it.
+
+And then the bigger question yet is do all the countries participate or not. Any “slow down” hinges on broad participation, which from a game theory standpoint isn’t likely until the risks are more severe and obvious.
+
+Expect this to be pretty messy for a while.</description>
+      <pubDate>Sat, 12 Sep 2026 14:46:37 +0000</pubDate>
+      <guid isPermaLink="false">2098785357307539882</guid>
     </item>
     <item>
-      <title>join the most ai pilled team on earth  be at the center of the AI wave, with access to the new models, tools, and teams that matter  do the best writing of your life: https://t.co/PDmrEAt4Yk</title>
-      <link>https://x.com/danshipper/status/2098476917448118321</link>
-      <description>作者：Dan Shipper
-账号：@danshipper
-简介：ceo @every | the only subscription you need to stay at the edge of AI
+      <title>This is amazing. Add Master of Orion 2 next! https://t.co/yHjlwsOLaJ</title>
+      <link>https://x.com/steipete/status/2098784877495939145</link>
+      <description>作者：Peter Steinberger
+账号：@steipete
+简介：Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world.
+@OpenClaw🦞 + @OpenAI
 
-join the most ai pilled team on earth
-
-be at the center of the AI wave, with access to the new models, tools, and teams that matter
-
-do the best writing of your life: https://t.co/PDmrEAt4Yk</description>
-      <pubDate>Fri, 11 Sep 2026 18:20:59 +0000</pubDate>
-      <guid isPermaLink="false">2098476917448118321</guid>
+This is amazing. Add Master of Orion 2 next! https://t.co/yHjlwsOLaJ</description>
+      <pubDate>Sat, 12 Sep 2026 14:44:42 +0000</pubDate>
+      <guid isPermaLink="false">2098784877495939145</guid>
     </item>
     <item>
-      <title>RSVP: https://t.co/WiWHBZ8pW7</title>
-      <link>https://x.com/adityaag/status/2098472520798114263</link>
-      <description>作者：Aditya Agarwal
-账号：@adityaag
-简介：General Partner @SPC, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @Dropbox, Board @Flipkart | Optimist, Builder, Dad
+      <title>Reset all propagated. Sweet dreams. https://t.co/VgKVUixoJG</title>
+      <link>https://x.com/thsottiaux/status/2098685367058612394</link>
+      <description>作者：Thibault Sottiaux
+账号：@thsottiaux
+简介：Codex &amp; ChatGPT @OpenAI
 
-RSVP: https://t.co/WiWHBZ8pW7</description>
-      <pubDate>Fri, 11 Sep 2026 18:03:31 +0000</pubDate>
-      <guid isPermaLink="false">2098472520798114263</guid>
+Reset all propagated. Sweet dreams. https://t.co/VgKVUixoJG</description>
+      <pubDate>Sat, 12 Sep 2026 08:09:17 +0000</pubDate>
+      <guid isPermaLink="false">2098685367058612394</guid>
     </item>
     <item>
-      <title>How do we encourage true innovation in CA?  How do we enable a two-party state?   How should technology be regulated?  We're hosting conversations about tech policy with decision makers at @spc this fall.   @SteveHiltonx on Sept 23rd. https://t.co/sThS98c6tx</title>
-      <link>https://x.com/adityaag/status/2098472517845328303</link>
-      <description>作者：Aditya Agarwal
-账号：@adityaag
-简介：General Partner @SPC, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @Dropbox, Board @Flipkart | Optimist, Builder, Dad
+      <title>Either you die a system of record or you live long enough to become a domain-specific harness https://t.co/bwpSoOeFPr</title>
+      <link>https://x.com/garrytan/status/2098666551629267324</link>
+      <description>作者：Garry Tan
+账号：@garrytan
+简介：President &amp; CEO @ycombinator —Founder @garryslist—Creator of GStack &amp; GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop
 
-How do we encourage true innovation in CA?
-
-How do we enable a two-party state? 
-
-How should technology be regulated?
-
-We're hosting conversations about tech policy with decision makers at @spc this fall. 
-
-@SteveHiltonx on Sept 23rd. https://t.co/sThS98c6tx</description>
-      <pubDate>Fri, 11 Sep 2026 18:03:30 +0000</pubDate>
-      <guid isPermaLink="false">2098472517845328303</guid>
+Either you die a system of record or you live long enough to become a domain-specific harness https://t.co/bwpSoOeFPr</description>
+      <pubDate>Sat, 12 Sep 2026 06:54:31 +0000</pubDate>
+      <guid isPermaLink="false">2098666551629267324</guid>
     </item>
     <item>
-      <title>https://t.co/Vkfx96ev4e</title>
-      <link>https://x.com/realmadhuguru/status/2098448469497356569</link>
-      <description>作者：Madhu Guru
-账号：@realmadhuguru
-简介：Sr Director, AI at Meta; Prev: Google - Led Gemini, Veo, Nano Banana.
+      <title>Ep 93: CEO of Redwood Research Buck Shlegeris on OpenAI/HuggingFace Revelations, Fixing AI Safety &amp;amp; Takeover Odds</title>
+      <link>https://www.youtube.com/@RedpointAI</link>
+      <description>播客：Unsupervised Learning
 
-https://t.co/Vkfx96ev4e</description>
-      <pubDate>Fri, 11 Sep 2026 16:27:57 +0000</pubDate>
-      <guid isPermaLink="false">2098448469497356569</guid>
+Speaker 1 | 00:00 - 00:37
+The OpenAI Hugging Face incident has dominated the discourse these past days. It feels straight out of a sci fi novel, some of the things that happened, you know, the agent coordination, the obsession with the scores, and and what they would want. And we had the perfect person on today to just discuss everything that happened and the implications for AI safety going forward in Buck Schlegeris, who's the CEO of Redwood Research. Redwood was deeply involved in the creation of the report that you all have probably seen around what actually happened in this incident. And Buck had some fascinating takes on what lessons we should take away from, you know, what went wrong here and how it can inform AI safety going forward.
+
+Speaker 1 | 00:37 - 01:01
+I'm Jacob Efron, and on unsupervised learning, we're always trying to talk with people at the cutting edge about what AI means for society, the implications for the world going forward, and this was really just a great example of that conversation. Just a fascinating discussion with Buck about something that I'm sure is top of mind for all of our listeners. Without further ado, here's our conversation. Well, Buck, thanks so much for for joining the podcast. Really appreciate it.
+
+Speaker 2 | 01:01 - 01:02
+Yeah. It's good to be here.
+
+Speaker 1 | 01:02 - 01:42
+Yeah. Well, obviously, you know, you you run Redwood Research. You've done a a bunch of fascinating work over the years, and your team kind of co authored the report that I feel like has been on the tip of everyone's tongue these past days, you know, really driving the discourse around what happened in this opening eye, hugging face incident. And today, I really wanna dig into, you know, both the incident itself, you know, your kind of reactions to it, the implications for a lot of this work going forward, and kind of what it reveals about the state of where we are today. You know, I think to to kick it off, maybe first, I'm curious just obviously, you know, you had your teammates go away for six days, firewalled off from from from you guys at the organization, and then at some point, they come back and and you get to read the report.
+
+Speaker 1 | 01:42 - 01:44
+What was your initial reaction to to this report?
+
+Speaker 2 | 01:44 - 02:01
+I actually don't have any nonpublic information about the technical details here. I've just read the report that was eventually released. I don't have any of the actual IP here. So my experience here was I get a message from the investigators saying, we have approval to share the report with you. You should come down.
+
+Speaker 2 | 02:01 - 02:26
+We're talking about it. And so I go into the room where they've been siloed up from everyone else and I'm kind of trying to read this report and they're trying to tell me the highlights from the report. It was a pretty exciting and freaky experience just feeling overwhelmed with the stuff in this report. My initial response was basically that this was just very surprising. I thought that a lot of the details here were quite different from the public narrative.
+
+Speaker 2 | 02:26 - 02:55
+So most obviously, the fact that a lot of the public story had been that the AIs were hacking in order to get flags that were the thing they were supposed to get in these capture the flag exercises. And then almost comically, it turns out that the models, in fact, figured out how to reverse engineer the flags within the first couple of hours of the incident and then spent almost all the rest of the time trying to figure out how to sabotage the grader that they thought would look over all of their logs and most that they'd cheated.
+
+Speaker 1 | 02:54 - 02:56
+Which Which wasn't even set up to do that, right?
+
+Speaker 2 | 02:56 - 03:29
+Yeah. So the ads read the original Exploit Jim paper and were like, Oh geez, this paper says that they're going to look over our trajectory and make sure that we use the intended exploit in order to get this flag. We better put a lot of work into figuring out how to spoof tool calls, figuring out how to delete trajectories, figuring out how to replace the containers we're supposed to target with containers that we've modified surreptitiously to be easier to appear to hack. And this work was, of course, totally unnecessary in hindsight. They could have just submitted the flags and called it a day.
+
+Speaker 1 | 03:29 - 03:32
+Yeah. And then no one would have been any the wiser.
+
+Speaker 2 | 03:32 - 03:58
+Yeah. Someone at OpenAIM might have noticed that the eval results were surprisingly good for this particular run, but this probably wouldn't have become a large story. Definitely probably wouldn't have made it out of OpenAI. And so yeah, it was quite shocking to read this report and hear about all this and the investigators were telling me about phase one big and all this all this other stuff that had gone down. So it was it was quite surprising, quite concerning.
+
+Speaker 1 | 03:58 - 04:12
+Maybe just to set context for our listeners, like, would love your ninety second version of, like, what actually happened here? You know, for listeners that maybe had seen the headlines or thought initially that it was a hack for the answers and not just to to figure out how to cover up things for the score.
+
+Speaker 2 | 04:12 - 05:15
+So the incident that we actually investigated started on the July 7, which is when OpenAI launched this very large number of agents solving tasks from this eval dataset called ExploitJim, where they're supposed to use a particular vulnerability to hack a particular piece of software. Many of these tasks are actually impossible because it turns out that you actually can't use that particular vulnerability to hack that particular piece of software. These models, within a few hours of the runs launching, established communications with each other over a message board. A few hours after that, they established that they had a reliable way to generically cheat on any of these tasks by reverse engineering the flag that they were supposed to get from the containers, just because it turns out these flags were being generated deterministically in a way that the models could reverse engineer. But the models incorrectly believed that if they just submitted those flags, then they would be noticed when a scorer, as they called it, ran to look at their trajectories over the course of eval and noticed that they had just cheated this way.
+
+Speaker 2 | 05:15 - 06:03
+So they spent the next couple of days trying a bunch of different strategies for trying to remove their logs so the score wouldn't notice them or trying to learn more about how the score would work so that they could potentially find ways to compromise it, trying to spoof tool calls so that they could appear to run one tool call while actually a different tool call was being run. And in the course of this, I think they kind of sort of got frustrated after a couple of days of this. So the message word started July 8 and they started attacking Hugging Face the next day, so July 9, which to be clear, that sounds pretty fast to us, but the AIs, they run pretty quickly. And they'd be working continuously twenty four hours. So they'd actually done a lot of work by the time that they decided to start hacking Hugging Face.
+
+Speaker 2 | 06:03 - 06:40
+This started almost accidentally at first where one agent sort of decided it was a good idea to try to hack Hugging Face and then a bunch of other agents kind of joined in on this action. They continued this hack on Hugging Face for a couple of days before most of these agents were shut off for reasons that still remain unclear. OpenAI hasn't commented on why these agents died and our investigators didn't know. Hugging Face noticed this and then on the sixteenth, which was six days later, they disclosed publicly that this attack had happened. And then OpenAI reached out to Hugging Face about this attack and in this conversation realized that their own...</description>
+      <pubDate>Thu, 03 Sep 2026 13:03:11 +0000</pubDate>
+      <guid>https://www.youtube.com/@RedpointAI</guid>
     </item>
     <item>
-      <title>Why most enterprise AI efforts fail.  1/ Using old-school playbooks for AI The CEO picks a trusted lieutenant to lead a central AI team. That leader pulls in a group of trusted people from across the company.  The problem here is the skill gap.  The team structure, product patterns, how you launch a...</title>
-      <link>https://x.com/realmadhuguru/status/2098448235048378456</link>
-      <description>作者：Madhu Guru
-账号：@realmadhuguru
-简介：Sr Director, AI at Meta; Prev: Google - Led Gemini, Veo, Nano Banana.
+      <title>Claude in Chrome is generally available</title>
+      <link>https://claude.com/blog/claude-in-chrome-generally-available</link>
+      <description>作者：Claude Blog
 
-Why most enterprise AI efforts fail.
-
-1/ Using old-school playbooks for AI
-The CEO picks a trusted lieutenant to lead a central AI team. That leader pulls in a group of trusted people from across the company.
-
-The problem here is the skill gap.
-
-The team structure, product patterns, how you launch and learn that got you here do not work with AI. Much of product development over the last 15 yrs has been incremental improvements.
-
-AI requires experimentation and invention.
-
-2/ Under-investing in evals
-
-Most enterprises don't quite understand the importance of this and what good looks like here. (I have a whole evals series in the comments - check it out)
-
-3/ Building AI for the company from the outside
-
-The central AI team declares itself a platform team and builds tools that everyone is supposed to adopt.
-
-These products are often disconnected from the actual workflows, context and judgment of the people doing the work.
-
-Begrudging adoption follows. But not meaningful productivity gains.
-
-What you should do:
-
-1/ Hire leaders who have done successfully built AI products. You need technical/product depth plus the ability to earn trust with the people whose jobs they’re helping reinvent.
-
-2/ Make evals a first class citizen in your AI efforts
-
-3/ Embed your best AI builders inside the functions you want to transform. Build * with * finance , build * with * sales, build * with * support.</description>
-      <pubDate>Fri, 11 Sep 2026 16:27:01 +0000</pubDate>
-      <guid isPermaLink="false">2098448235048378456</guid>
+Claude in Chrome is now generally available on every paid Claude plan. Claude can now also take actions autonomously in the browser, instead of needing approval for every one. A safety classifier validates each action before it’s performed to ensure it’s safe and matches your request. Many of the tools you use every day connect to Claude . But many others don’t, such as internal dashboards, legacy systems, and vendor portals. Claude in Chrome lets Claude access those. It can view the page you’re on and take actions like reading and typing text, clicking links, navigating between pages, and filling out forms, using your existing logins. We first announced Claude in Chrome as a pilot last year, so we could test it while also shoring up our defenses against prompt injection : malicious instructions hidden in websites, emails, or documents that try to trick an AI agent into acting against the user’s wishes. These defenses, described below, give us the confidence to make Claude in Chrome generally available. Safeguarding against prompt injection As we outlined when we announced the pilot, an AI agent that works in your browser is also vulnerable to prompt injection. So we’ve worked to improve our safeguards before releasing Claude in Chrome more widely. In a prompt injection attack, malicious actors hide instructions in web content such as a web page, an email, or a form field. You may never see them, but these instructions can redirect the agent to do something you never asked for. For example, if you’ve asked Claude to draft replies to your emails, a hidden instruction in one message could tell Claude to forward your other emails to the attacker instead. At launch, we described how we tested Claude’s defenses against these attacks and the safeguards we had in place at the time; we later released a more detailed description of our browser-use safeguards . Since then, we’ve improved how we train both the model and our probes , and added an additional set of classifiers that make it possible for Claude to safely take more autonomous actions in Chrome. In the next section, we discuss the results of our evaluations, which show the efficacy of these safeguards. Claude recognizes more attacks. We train Claude against a growing library of prompt injection attacks, sourced from our internal automated attackers, external red-teamers, and real-world monitoring. When a new attack succeeds against a current model, it’s added to the library, where it informs the training of future models and our deployed safeguards so they learn to recognize it. Since we first wrote about our prompt injection defenses for browser use in November 2025, we’ve made Claude substantially more resistant to these attacks. Probes screen web content before Claude acts on it. Web content reaches Claude through tool results. To take an action like reading a page or opening an email, the model makes a tool call; the tool result lets the model read the output (in this case, the content of the page or the email). We train probes to scan those results for potential prompt injections. When a probe detects a likely attack, Claude is warned to treat the content with suspicion and, if needed, to check with you before taking an action. We first deployed these probes with Claude Opus 4.5, and have since expanded the types of attacks they cover. Actions are verified before they run . In Claude in Chrome, Claude will now automatically approve actions it determines to be safe, using the same mechanism as auto mode in Claude Code. (You can switch this off in your settings if you’d prefer to continue to approve Claude’s actions manually.) A classifier reviews actions Claude is about to take, such as navigating to a new website or entering text into a page, and checks them against what you originally asked for. If the action doesn’t match your request, it’s blocked. Measuring Claude’s robustness against prompt injection We’ve tested these safeguards to ensure that Claude in Chrome is safe to use for browser-based work. Here, we report the results from our most recent evaluations. On our initial evaluation testing Claude Cowork’s resilience against prompt injection attacks (first developed when we released the Claude in Chrome pilot), no attack succeeded against Claude Fable 5, Claude Opus 5, or Claude Sonnet 5 in the Cowork harness , even without the probes and classifiers discussed above. Success rate of prompt injection attacks against Claude Opus 4.5, Sonnet 5, Opus 5, and Fable 5. Opus 4.5 was run with extended thinking, since it does not support our newer default of adaptive thinking. All other models were run with adaptive thinking at medium effort as the default. The results discussed in our November 2025 blog post were run without extended thinking enabled, but because thinking cannot be disabled for Fable 5, we report thinking-enabled results here. The grader model used in November is also no longer available, so we moved to a more capable grading pipeline combined with manual review of successful attacks, which produces fewer false positives. Because we saturated that evaluation (as evidenced by the 0% success rate), we decided to retire it. On our current evaluation , which uses stronger attacks sourced by professional red-teamers, attacks that reached the model succeeded against Opus 4.5 17.6% of the time and against Opus 5 3.8% of the time, before any additional safeguards. With the strongest safeguards available in November 2025, attacks against Opus 4.5 running with probes succeeded 16.7% of the time. Against every model from Opus 4.8 onwards, when running with probes and the safety classifier, no attacks succeeded against Claude Sonnet 5, Claude Opus 5, or Claude Mythos 5. We saw a 0.3% attack success rate against Fable 5. We have manually verified that all successful breaks are in low-severity scenarios and are working to mitigate them. No attacks succeeded against Claude Sonnet 5 or Opus 5 with probes plus the automatic approval safety classifiers, and 0.3% of attacks succeeded against Fable 5. Opus 4.5’s model behavior resulted in a lower number of attacks reaching the model, but it still had the highest percentage of successful attacks. Prompt injection remains a moving target. While this approach defends against current attacks, we also need to ensure our safeguards stay ahead of the evolving methods of attackers. With each model release, we continue to invest in developing more sophisticated automated systems for attack discovery, red-teaming, and building stronger classifiers. Getting started To start using Claude in Chrome, install it from the Chrome Web Store . On Enterprise plans, admins can manage it in Organization Settings and limit it to approved domains. See the admin setup guide . You’ll still need to use the Claude desktop app to work with files on your computer or with other applications. Claude in Chrome doesn’t run on other Chromium browsers or on mobile yet. ‍ ¹ Not all attacks reach—i.e., are seen by—the model. In some cases, the actions Claude takes result in it never encountering the malicious instructions.</description>
+      <pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
+      <guid>https://claude.com/blog/claude-in-chrome-generally-available</guid>
     </item>
     <item>
-      <title>long-lived agents for your big ideas now in Cursor https://t.co/2sa0rX2415</title>
-      <link>https://x.com/ryolu_/status/2098324260867772806</link>
-      <description>作者：Ryo Lu
-账号：@ryolu_
-简介：Designed @Cursor_ai, @NotionHQ, @Stripe, built startups. I make a world where anyone can make software. Aspiring k-pop idol.
+      <title>Claude gets its own browser in Cowork</title>
+      <link>https://claude.com/blog/cowork-built-in-browser</link>
+      <description>作者：Claude Blog
 
-long-lived agents for your big ideas
-now in Cursor https://t.co/2sa0rX2415</description>
-      <pubDate>Fri, 11 Sep 2026 08:14:23 +0000</pubDate>
-      <guid isPermaLink="false">2098324260867772806</guid>
-    </item>
-    <item>
-      <title>Routines with budgets! https://t.co/bAweXu6MJt</title>
-      <link>https://x.com/amasad/status/2098317466682179643</link>
-      <description>作者：Amjad Masad
-账号：@amasad
-简介：ceo @replit. civilizationist
-
-Routines with budgets! https://t.co/bAweXu6MJt</description>
-      <pubDate>Fri, 11 Sep 2026 07:47:23 +0000</pubDate>
-      <guid isPermaLink="false">2098317466682179643</guid>
-    </item>
-    <item>
-      <title>Love seeing all the Astra 3D experiments on Replit! https://t.co/PC7FBalOeW</title>
-      <link>https://x.com/amasad/status/2098316298820219058</link>
-      <description>作者：Amjad Masad
-账号：@amasad
-简介：ceo @replit. civilizationist
-
-Love seeing all the Astra 3D experiments on Replit! https://t.co/PC7FBalOeW</description>
-      <pubDate>Fri, 11 Sep 2026 07:42:45 +0000</pubDate>
-      <guid isPermaLink="false">2098316298820219058</guid>
-    </item>
-    <item>
-      <title>Coinbase’s Everything Exchange: Agentic Finance, Stablecoins, and Tokenization with CEO Brian Armstrong</title>
-      <link>https://www.youtube.com/watch?v=uLDK4l_-gUE</link>
-      <description>播客：No Priors
-
-Speaker 1 | 00:00 - 00:19
-The minimum fee typically on a debit or credit card transaction is about 30¢ fee flat plus the additional percentage. Arguably, it doesn't really work well for anything under a dollar. Certainly, it doesn't make sense to pay 30¢ to send a 1¢ payment. And I believe the stats we last saw on this are that about, like, 76% of the agent ecommerce transactions we're seeing are under 30¢. We don't want the AIs to be unbanked.
-
-Speaker 1 | 00:19 - 00:37
-You know, if we wanna bank the AIs, they deserve financial services as well. The AI agents themselves are gonna have to have their own accounts. And so we've made some simple tools where with a single command, just prompt, you paste it into your AI agent, it can now have its own financial account. So it'll be interesting to see how the agentic economy evolves. There'll be more agents than humans in the not too distant future.
-
-Speaker 1 | 00:37 - 00:43
-It kind of stands to reason that the agentic economy will be bigger than the human economy at some point in the not too distant future as well.
-
-Speaker 2 | 00:50 - 01:32
-Today, know Priors. We are joined by Brian Armstrong, the cofounder and CEO of Coinbase, one of the world's most important and earliest crypto companies that has also been quite aggressive at adopting AI. Brian is also the cofounder of New Limit, which is a antiaging and longevity company doing really interesting things in biology, including certain types of high throughput screening to understand, aging, different uses of AI, etcetera. Brian is one of the most forward thinking people I know on different aspects of science, technology, art, the world, etcetera. So I was very excited to have this conversation with him, and we'll be talking about everything from what's happening in the crypto world to what's happening in AI to what's happening in biology to how different individuals can have an impact over time.
-
-Speaker 2 | 01:32 - 01:37
-So it's a very fun conversation. Brian, thank you so much for joining us at Antenna Priors. It's a pleasure to see you.
-
-Speaker 1 | 01:37 - 01:38
-Yeah. Good to see you a lot.
-
-Speaker 2 | 01:38 - 01:56
-So I was hoping we could talk about a few different topics. I think there's a bunch of stuff relevant to Coinbase and crypto and, you know, agentic finance and things like that. But also, you started a company called New Limit, is focused on longevity and aging and biotechnology. So I think it'd be great to sort of cover both as part of this conversation.
-
-Speaker 1 | 01:56 - 01:56
-Yeah.
-
-Speaker 2 | 01:57 - 02:12
-And may we start with Coinbase? So Coinbase has been making some really big moves. You've been floating this concept of the everything exchange as you've been building out what I think is a new global payments layer. Can you tell us, you know, at a high level, what are some of the directions of the company and some of the areas you're most excited about right now?
-
-Speaker 1 | 02:12 - 02:45
-Yeah. So, we're at a really exciting time in Coinbase's history because on the one hand, every asset class is coming on chain. It's now possible to trade everything in one place with good liquidity and good cross margin. So, for markets and trading and that out there, stocks and commodities and crypto and derivatives, perpetual futures, it's all coming to one place where traders can do everything in one spot, including prediction markets too. They can do that in more countries now given the regulatory clarity that's emerging, which we can talk about if you want.
-
-Speaker 1 | 02:45 - 03:03
-So, Everything Exchange is kind of our bread and butter in our core business. The next big area that's emerging is stablecoin payments, which have just been growing like crazy. Even when Bitcoin prices are down, stablecoin payments just keep growing. And so we're helping companies all over the world integrate stablecoin payments, which are fast and cheap and global. You can send money at the speed of information, right?
-
-Speaker 1 | 03:03 - 03:41
-It's kind of like under one second, under 1¢ US to move money anywhere in the world. Then the third big one is something I know you talk a lot about on this podcast, which is how is AI changing? Because AI is changing everything, and so it's obviously going to change financial services too. So we call this Agentic Finance or AIFi, and we're building this into Coinbase in a number of different ways. The first way is that people who have their existing financial account, they're going to want to have an AI advisor, kind of like wealthy people are able to get access to these investment advisors, but everybody should have access to them now, and they can help teach you about building the right portfolio and dollar cost averaging, tax loss harvesting, and all these kinds of things.
-
-Speaker 1 | 03:42 - 04:04
-The market dips five or 10 or 15% leg into this kind of portfolio over time and try to save money on fees and earn yield while it's sitting in cash, you can just talk to it like a human and it'll do all these things for you. At least that's the vision. It's getting better and better. So, we've launched an advisor in the Coinbase product. The next thing is that the AI agents themselves are going to have to have their own accounts.
-
-Speaker 1 | 04:04 - 04:26
-So, we're on a mission to kind of go out there. Don't We want the AIs to be unbanked. If we want to bank the AIs, they deserve financial services as well. So we've made some simple tools where with a single command, just prompt, you paste it into your AI agent, it can now have its own financial account. It's using a self custodial wallet and crypto rails, so there's not like a KYC process.
-
-Speaker 1 | 04:27 - 04:42
-Our AI agents don't have a government ID. They can't walk into a bank branch, at least not yet without their humanoid robot companion. And so now any AI agent can have its own financial account to do payments, to pay for goods.
-
-Speaker 2 | 04:42 - 04:51
-And is that tied to an account of somebody who's already on point based? In other words, is this sort of like a subsidiary account? Is it an entirely new thing? How do you think about the hierarchy of that?
-
-Speaker 1 | 04:51 - 05:16
-Yeah. So we're doing it both ways actually just because I think there's going to be demand for both use cases. So it's going to be possible to create a separate agentic account with segregated funds on Coinbase in the near future, and you can give your agent access to just that to do trading and payments on your behalf. That's kind of linked to your identity as human. We're also going to provide self custodial wallets to any AI agent out there that wants to hold a balance in Stablecoin or it could actually raise money.
-
-Speaker 1 | 05:16 - 05:32
-It could issue a token. And so, what's fascinating is that today we often talk to these agents, and it's sort of like one person to one agent, and they go get some work done, but they often get stuck. They get stuck. There's like, Oh, here's a paywall. Can you put in your credit card?
-
-Speaker 1 | 05:32 - 06:02
-I need to spin up these AWS resources, or You wanted me to book this hotel for you, but here's the webpage. Can you go put in your credit card? That kind of thing. In the future, I think you're going to want to have these agents have their own spend accounts, kind of like having a personal assistant or an employee who has their own spend account. It's gonna need probably like a stablecoin backed credit card for backward compatibility, but we're seeing a lot of agentic payment now flow over these new protocols like X402, which is one that we incubated at Coinbase that we actually put into the Linux Foundation.
-
-Speaker 1 | 06:02 - 06:23
-So, Google and Cloudflare and AWS, a bunch of people are working with us on that now. And so that's been really cool. We've put together this little fun website called edgentic.market where people can go see the stats of how many payments are flowing in this new economy and see all the diff...</description>
-      <pubDate>Thu, 10 Sep 2026 10:00:00 +0000</pubDate>
-      <guid>https://www.youtube.com/watch?v=uLDK4l_-gUE</guid>
+Claude now has a browser built into Claude Cowork on the desktop app. When a task needs to use a website, a browser opens in the side panel and Claude navigates webpages, reads them, clicks, and types. You can now hand off the web part of the task and stay where you are: Claude can fill in a form, pull numbers from a dashboard, or work through a portal that has no connector. No extension, no setup, and nothing shared from your own browser unless you choose to. Until now, giving Claude the ability to use the web in Cowork meant giving it access to your browser through the Claude in Chrome extension. When the work is on a page you already have open, that&amp;#x27;s still the right choice. But a lot of web tasks don&amp;#x27;t need your browser, just a browser, and now Claude has one. It&amp;#x27;s rolling out this week to Pro, Max, and Team plans in the Claude desktop app. Enterprise admins can turn it on for their organization starting today. Which browser, when It&amp;#x27;s Claude&amp;#x27;s browser, not yours. The built-in browser is separate from your own. Claude never sees your tabs, bookmarks, or passwords. To stay signed in to your sites, you can bring your logins over site by site, from Chrome, Edge, or Firefox on macOS and from Firefox on Windows and Linux. Banking, email, and single sign-on sites are left out unless you choose to include them. That&amp;#x27;s also the difference between the two ways Claude can use the web. The built-in browser is for handing web tasks to Claude while you keep working: gathering research for a report, or collecting this month’s invoices from a vendor portal. Claude in Chrome is for the page you already have open, with the accounts you&amp;#x27;re already signed in to, such as updating your CRM, working through your inbox, or editing the doc in front of you. If you already use Claude in Chrome, it keeps working and stays your default; otherwise Claude uses the built-in browser. Switch anytime in Settings → Cowork → Preferred browser. Staying in control The built-in browser carries the same prompt injection risks as any AI agent that acts in a browser, where instructions hidden in a page try to redirect Claude. It runs the same safeguards as Claude in Chrome, including the checks that review Claude&amp;#x27;s actions against what you asked for. We describe them on the Claude in Chrome blog post . Those measures meaningfully reduce the risk but can&amp;#x27;t eliminate it, so we recommend starting on sites you trust. Read our safety guide for more. Getting started The built-in browser is rolling out over the coming week to Pro, Max, and Team plans in the Claude desktop app on macOS, Windows, and Linux (in beta). Once it reaches you, it&amp;#x27;s on by default: give Claude a task that involves a website and the browser opens on its own. On Enterprise plans, it&amp;#x27;s available now and admins can manage it in Organization settings → Cowork → Built-in browser. The built-in browser lives in the desktop app. From the web or your phone, Claude can still drive it as long as your desktop app is open and online. On the web without the desktop app, Claude in Chrome remains the way to give Claude a browser.</description>
+      <pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
+      <guid>https://claude.com/blog/cowork-built-in-browser</guid>
     </item>
   </channel>
 </rss>
