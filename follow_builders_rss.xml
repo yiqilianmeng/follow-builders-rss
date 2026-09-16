@@ -5,7 +5,7 @@
     <link>https://github.com/zarazhangrui/follow-builders</link>
     <description>聚合 AI 领域建设者的 X、播客和博客内容。</description>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 16 Sep 2026 10:25:50 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 15:42:39 +0000</lastBuildDate>
     <item>
       <title>This is cool, but if your output domain is known in advance, why not just train a model to produce logprobs over enums? https://t.co/rmyen2d7iM</title>
       <link>https://x.com/amasad/status/2100056178705514703</link>
