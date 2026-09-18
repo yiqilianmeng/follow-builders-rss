@@ -5,474 +5,364 @@
     <link>https://github.com/zarazhangrui/follow-builders</link>
     <description>聚合 AI 领域建设者的 X、播客和博客内容。</description>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 18 Sep 2026 01:59:58 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 10:11:25 +0000</lastBuildDate>
     <item>
-      <title>Incredibly exciting that there are entire universes of AI innovation that still exist that weren’t even on most of our radars.  Being able to process information insanely quickly, at crazy low costs, with high levels of capability is huge for a wide number of enterprise tasks.  Data classification t...</title>
-      <link>https://x.com/levie/status/2100448648672993540</link>
+      <title>This is why we need a gazillion data centers (worth it) https://t.co/2KWTPFSy0i</title>
+      <link>https://x.com/amasad/status/2100829093923320083</link>
+      <description>作者：Amjad Masad
+账号：@amasad
+简介：ceo @replit. civilizationist
+
+This is why we need a gazillion data centers (worth it) https://t.co/2KWTPFSy0i</description>
+      <pubDate>Fri, 18 Sep 2026 06:07:42 +0000</pubDate>
+      <guid isPermaLink="false">2100829093923320083</guid>
+    </item>
+    <item>
+      <title>Agents already make up the majority of inference. This will quickly trend toward nearly all inference over the next year or two.  The vast majority of tokens used in the world will be agents that are executing unbelievable amounts of tasks for us in the background 24/7.   Agents will be deployed to ...</title>
+      <link>https://x.com/levie/status/2100799668573946191</link>
       <description>作者：Aaron Levie
 账号：@levie
 简介：ceo @box - your business lives in content. unleash it with AI
 
-Incredibly exciting that there are entire universes of AI innovation that still exist that weren’t even on most of our radars.
+Agents already make up the majority of inference. This will quickly trend toward nearly all inference over the next year or two.
 
-Being able to process information insanely quickly, at crazy low costs, with high levels of capability is huge for a wide number of enterprise tasks.
+The vast majority of tokens used in the world will be agents that are executing unbelievable amounts of tasks for us in the background 24/7. 
 
-Data classification tasks, routing decisions inside of a workflow, decision making when handed a particular domain problem, quick judgment calls about safety or security, and more all are the gates in a large number of  processes. 
+Agents will be deployed to read all code changes to secure our software, process all of our data inside of workflows, handle a significant majority of the research that goes into recruiting and customer prospecting, review every event stream and log from every system in the world, go out and execute tasks for us in our personal lives, and hundreds of other use cases. 
 
-This model and approach could be quite cool in agentic workflows in the enterprise.</description>
-      <pubDate>Thu, 17 Sep 2026 04:55:56 +0000</pubDate>
-      <guid isPermaLink="false">2100448648672993540</guid>
+The rate of new agents coming online that will be consuming insane amounts of tokens is not slowing down. Just in the past week I’ve introduced multiple completely new workflows that would not have been possible technically even a month ago.
+
+Incredible time to be doing anything in inference and of course building on top of all of this.</description>
+      <pubDate>Fri, 18 Sep 2026 04:10:46 +0000</pubDate>
+      <guid isPermaLink="false">2100799668573946191</guid>
     </item>
     <item>
-      <title>Also we love these books that you get - the storytelling in them is much better than bob books and other alternatives. https://t.co/m6pg9kGZhE</title>
-      <link>https://x.com/petergyang/status/2100402721803342098</link>
-      <description>作者：Peter Yang
-账号：@petergyang
-简介：Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6
-
-Also we love these books that you get - the storytelling in them is much better than bob books and other alternatives. https://t.co/m6pg9kGZhE</description>
-      <pubDate>Thu, 17 Sep 2026 01:53:27 +0000</pubDate>
-      <guid isPermaLink="false">2100402721803342098</guid>
-    </item>
-    <item>
-      <title>My 4.5 year old loves learning to read using @Once_Reading, especially making the silliest faces as part of the photo feature.  It's become a nightly ritual for us just like it's been for @clairevo!  Plus I have to give a shout out to the founder @SebTurn for being the nicest dude.  If you have youn...</title>
-      <link>https://x.com/petergyang/status/2100402704275435872</link>
-      <description>作者：Peter Yang
-账号：@petergyang
-简介：Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6
-
-My 4.5 year old loves learning to read using @Once_Reading, especially making the silliest faces as part of the photo feature.
-
-It's become a nightly ritual for us just like it's been for @clairevo!
-
-Plus I have to give a shout out to the founder @SebTurn for being the nicest dude.
-
-If you have young kids, I highly recommend giving Once a try for 1 month free here: https://t.co/GA2x8NMSzT</description>
-      <pubDate>Thu, 17 Sep 2026 01:53:22 +0000</pubDate>
-      <guid isPermaLink="false">2100402704275435872</guid>
-    </item>
-    <item>
-      <title>https://t.co/e2EuPh7YAt</title>
-      <link>https://x.com/rauchg/status/2100380166811951410</link>
-      <description>作者：Guillermo Rauch
-账号：@rauchg
-简介：@vercel CEO
-
-https://t.co/e2EuPh7YAt</description>
-      <pubDate>Thu, 17 Sep 2026 00:23:49 +0000</pubDate>
-      <guid isPermaLink="false">2100380166811951410</guid>
-    </item>
-    <item>
-      <title>Sometimes physics can't be cheated https://t.co/Sgt4KrRtut</title>
-      <link>https://x.com/thsottiaux/status/2100363668051603608</link>
-      <description>作者：Thibault Sottiaux
-账号：@thsottiaux
-简介：Codex &amp; ChatGPT @OpenAI
-
-Sometimes physics can't be cheated https://t.co/Sgt4KrRtut</description>
-      <pubDate>Wed, 16 Sep 2026 23:18:15 +0000</pubDate>
-      <guid isPermaLink="false">2100363668051603608</guid>
-    </item>
-    <item>
-      <title>Excited to speak at @Supabase Select in conversation with the amazing @kiwicopple about building startups in the time of AI  Register for the event and join me: https://t.co/jNY2QcB6cU</title>
-      <link>https://x.com/garrytan/status/2100354983053111365</link>
-      <description>作者：Garry Tan
-账号：@garrytan
-简介：President &amp; CEO @ycombinator —Founder @garryslist—Creator of GStack &amp; GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop
-
-Excited to speak at @Supabase Select in conversation with the amazing @kiwicopple about building startups in the time of AI
-
-Register for the event and join me: https://t.co/jNY2QcB6cU</description>
-      <pubDate>Wed, 16 Sep 2026 22:43:45 +0000</pubDate>
-      <guid isPermaLink="false">2100354983053111365</guid>
-    </item>
-    <item>
-      <title>the main thing i was excited about launching this week will be next week instead, but imo worth the wait! https://t.co/j8tcW05Fmk</title>
-      <link>https://x.com/sama/status/2100351958167220547</link>
-      <description>作者：Sam Altman
-账号：@sama
-简介：The mission of OpenAI is to ensure that AGI benefits all of humanity
-
-the main thing i was excited about launching this week will be next week instead, but imo worth the wait! https://t.co/j8tcW05Fmk</description>
-      <pubDate>Wed, 16 Sep 2026 22:31:44 +0000</pubDate>
-      <guid isPermaLink="false">2100351958167220547</guid>
-    </item>
-    <item>
-      <title>Great ideas rarely emerge from isolation. https://t.co/TyQb4mbjaD</title>
-      <link>https://x.com/adityaag/status/2100347763502329951</link>
+      <title>This is the right way to solve alignment and safety.  @GoodfireAI is the leading non-frontier-lab company that is working on this.  This is generationally important. https://t.co/BkufCYX1Qb</title>
+      <link>https://x.com/adityaag/status/2100746235426836708</link>
       <description>作者：Aditya Agarwal
 账号：@adityaag
 简介：General Partner @SPC, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @Dropbox, Board @Flipkart | Optimist, Builder, Dad
 
-Great ideas rarely emerge from isolation. https://t.co/TyQb4mbjaD</description>
-      <pubDate>Wed, 16 Sep 2026 22:15:04 +0000</pubDate>
-      <guid isPermaLink="false">2100347763502329951</guid>
+This is the right way to solve alignment and safety.
+
+@GoodfireAI is the leading non-frontier-lab company that is working on this.
+
+This is generationally important. https://t.co/BkufCYX1Qb</description>
+      <pubDate>Fri, 18 Sep 2026 00:38:27 +0000</pubDate>
+      <guid isPermaLink="false">2100746235426836708</guid>
     </item>
     <item>
-      <title>I can use any harness I want and it's the same personality and full memory of my personal AGI https://t.co/4IupWtnh84</title>
-      <link>https://x.com/garrytan/status/2100339347669279149</link>
-      <description>作者：Garry Tan
-账号：@garrytan
-简介：President &amp; CEO @ycombinator —Founder @garryslist—Creator of GStack &amp; GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop
-
-I can use any harness I want and it's the same personality and full memory of my personal AGI https://t.co/4IupWtnh84</description>
-      <pubDate>Wed, 16 Sep 2026 21:41:37 +0000</pubDate>
-      <guid isPermaLink="false">2100339347669279149</guid>
-    </item>
-    <item>
-      <title>I use these 8 AI skills to produce my entire podcast while still applying my taste and judgment along the way.  1. /podcast-prep does research on the guest and then preps an interview guide.  2. /podcast-edit reviews the raw transcript, then works with me to pick engaging quotes for the intro reel a...</title>
-      <link>https://x.com/petergyang/status/2100328939034128856</link>
-      <description>作者：Peter Yang
-账号：@petergyang
-简介：Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6
-
-I use these 8 AI skills to produce my entire podcast while still applying my taste and judgment along the way.
-
-1. /podcast-prep does research on the guest and then preps an interview guide.
-
-2. /podcast-edit reviews the raw transcript, then works with me to pick engaging quotes for the intro reel along with moments to cut.
-
-3. /podcast-production orchestrates 5 skills to turn the full episode into 6 different assets.
-
-Some people think the latest models make skills redundant but they've been indispensable for me to get AI to follow my specific edit and browser-use instructions.
-
-My latest video highlighting how I actually work with these skills is a good watch if you want to automate any manual workflow.
-
-📌 Watch me demo all 8 skills here: https://t.co/PYNbe5tlFw</description>
-      <pubDate>Wed, 16 Sep 2026 21:00:15 +0000</pubDate>
-      <guid isPermaLink="false">2100328939034128856</guid>
-    </item>
-    <item>
-      <title>I think Claude Managed Agents strikes the right balance here, the sandbox is optional and can be spun up independently of the rest of the agent loop.  I recently ported an old project that was focused on bash tool calling to CMA and it worked well!</title>
-      <link>https://x.com/trq212/status/2100315538472009897</link>
-      <description>作者：Thariq
-账号：@trq212
-简介：Claude Code @anthropicai. prev YC W20, @spc, @medialab
-
-I think Claude Managed Agents strikes the right balance here, the sandbox is optional and can be spun up independently of the rest of the agent loop.
-
-I recently ported an old project that was focused on bash tool calling to CMA and it worked well!</description>
-      <pubDate>Wed, 16 Sep 2026 20:07:01 +0000</pubDate>
-      <guid isPermaLink="false">2100315538472009897</guid>
-    </item>
-    <item>
-      <title>I think increasingly you can just give Claude tools shaped in the way you want vs tricking it with a layer of indirection  e.g. for data storage do you really want a file system or do you want an API to a database  this is again, an update to me from last year</title>
-      <link>https://x.com/trq212/status/2100315537251463523</link>
-      <description>作者：Thariq
-账号：@trq212
-简介：Claude Code @anthropicai. prev YC W20, @spc, @medialab
-
-I think increasingly you can just give Claude tools shaped in the way you want vs tricking it with a layer of indirection
-
-e.g. for data storage do you really want a file system or do you want an API to a database
-
-this is again, an update to me from last year</description>
-      <pubDate>Wed, 16 Sep 2026 20:07:00 +0000</pubDate>
-      <guid isPermaLink="false">2100315537251463523</guid>
-    </item>
-    <item>
-      <title>related to this- I think bash is no longer all you need, if your goal is just reliably tool calling  but sandboxes + bash are still good for work that involves code generation &amp;amp; execution https://t.co/xTptTmEmCE</title>
-      <link>https://x.com/trq212/status/2100315535758217422</link>
-      <description>作者：Thariq
-账号：@trq212
-简介：Claude Code @anthropicai. prev YC W20, @spc, @medialab
-
-related to this- I think bash is no longer all you need, if your goal is just reliably tool calling
-
-but sandboxes + bash are still good for work that involves code generation &amp;amp; execution https://t.co/xTptTmEmCE</description>
-      <pubDate>Wed, 16 Sep 2026 20:07:00 +0000</pubDate>
-      <guid isPermaLink="false">2100315535758217422</guid>
-    </item>
-    <item>
-      <title>Safety and security are * features * of your AI product and model - not guardrails that need to be imposed on you from the outside. https://t.co/jtN3rzdZV8 https://t.co/J8dM9vHsoN</title>
-      <link>https://x.com/realmadhuguru/status/2100312717739667963</link>
-      <description>作者：Madhu Guru
-账号：@realmadhuguru
-简介：Sr Director, AI at Meta; Prev: Google - Led Gemini, Veo, Nano Banana.
-
-Safety and security are * features * of your AI product and model - not guardrails that need to be imposed on you from the outside. https://t.co/jtN3rzdZV8 https://t.co/J8dM9vHsoN</description>
-      <pubDate>Wed, 16 Sep 2026 19:55:48 +0000</pubDate>
-      <guid isPermaLink="false">2100312717739667963</guid>
-    </item>
-    <item>
-      <title>We're seeing extraordinary results from @typesafeai. Default mode in 𝚏𝚡 is auto, with a safety reviewer analyzing every command.  That reviewer runs on GPT Luna today. Jev is up to 18x faster (p95) *and* more accurate. It's coming to @vercel AI Gateway and likely new default. https://t.co/y5tFnlFN2l</title>
-      <link>https://x.com/rauchg/status/2100307962262872105</link>
+      <title>Vercel is the Vercel for Java https://t.co/ecDvMhqppr</title>
+      <link>https://x.com/rauchg/status/2100745015362552312</link>
       <description>作者：Guillermo Rauch
 账号：@rauchg
 简介：@vercel CEO
 
-We're seeing extraordinary results from @typesafeai. Default mode in 𝚏𝚡 is auto, with a safety reviewer analyzing every command.
-
-That reviewer runs on GPT Luna today. Jev is up to 18x faster (p95) *and* more accurate. It's coming to @vercel AI Gateway and likely new default. https://t.co/y5tFnlFN2l</description>
-      <pubDate>Wed, 16 Sep 2026 19:36:54 +0000</pubDate>
-      <guid isPermaLink="false">2100307962262872105</guid>
+Vercel is the Vercel for Java https://t.co/ecDvMhqppr</description>
+      <pubDate>Fri, 18 Sep 2026 00:33:36 +0000</pubDate>
+      <guid isPermaLink="false">2100745015362552312</guid>
     </item>
     <item>
-      <title>Astra  ✅ Fast ✅ Frontier ✅ Efficient ✅ For everyone https://t.co/g4C7UizHcd</title>
-      <link>https://x.com/thsottiaux/status/2100297380968997327</link>
+      <title>My little @Muse red panda is both cute and saving me money - a winning combination https://t.co/c6nLKL53MC</title>
+      <link>https://x.com/petergyang/status/2100740523539751337</link>
+      <description>作者：Peter Yang
+账号：@petergyang
+简介：Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6
+
+My little @Muse red panda is both cute and saving me money - a winning combination https://t.co/c6nLKL53MC</description>
+      <pubDate>Fri, 18 Sep 2026 00:15:45 +0000</pubDate>
+      <guid isPermaLink="false">2100740523539751337</guid>
+    </item>
+    <item>
+      <title>Website here: https://t.co/KSiodPdZHT  PS: There's a full blown MCP (and WebMCP) for this as well if you want to direct your agent towards it.   https://t.co/eo0oIkJUX2</title>
+      <link>https://x.com/nikunj/status/2100718806004064730</link>
+      <description>作者：Nikunj Kothari
+账号：@nikunj
+简介：partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian &amp; others. love @shimoleejhaveri + 👦👧
+
+Website here: https://t.co/KSiodPdZHT
+
+PS: There's a full blown MCP (and WebMCP) for this as well if you want to direct your agent towards it. 
+
+https://t.co/eo0oIkJUX2</description>
+      <pubDate>Thu, 17 Sep 2026 22:49:27 +0000</pubDate>
+      <guid isPermaLink="false">2100718806004064730</guid>
+    </item>
+    <item>
+      <title>I have been obsessed with self driving companies  for more than a year now.. tried a LOT of products, none of them met the bar and decided to just build one myself with &quot;claude&quot; in the loop.  Introducing my first experiment: nosugarforkids (dot com) 🙅‍♂️  &gt; catalog of only healthy snacks for kids (s...</title>
+      <link>https://x.com/nikunj/status/2100714665571737885</link>
+      <description>作者：Nikunj Kothari
+账号：@nikunj
+简介：partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian &amp; others. love @shimoleejhaveri + 👦👧
+
+I have been obsessed with self driving companies  for more than a year now.. tried a LOT of products, none of them met the bar and decided to just build one myself with &quot;claude&quot; in the loop.
+
+Introducing my first experiment: nosugarforkids (dot com) 🙅‍♂️
+
+&gt; catalog of only healthy snacks for kids (surprisingly this didn't exist)
+&gt; you can chat to get recommendations for school, lunches, snack boxes
+&gt; built a &quot;tier&quot; list based on the nutrients and what's actually good
+
+On the autonomous side, I have a Claude agent that wakes up once a day to do the following things:
+
+&gt; checks catalog for new additions
+&gt; prunes any products that may be dead
+&gt; finds new content ideas to help increase reach
+&gt; checks dataforSEO and Google Search Console for performance
+&gt; writes and edits new pieces that might be useful to help
+&gt; keeps quality high, and tries to not introduce slop
+&gt; (new) reaches out to publications to get backlinks
+
+Even with ZERO backlinks today and no social presence whatsoever, site has organically grown to ~6k impressions a day and 60 clicks. 
+
+Lots of rough edges still, but parents give it a try and tell me if it's helpful!</description>
+      <pubDate>Thu, 17 Sep 2026 22:33:00 +0000</pubDate>
+      <guid isPermaLink="false">2100714665571737885</guid>
+    </item>
+    <item>
+      <title>It's likely that more software will be produced next year than in all of the history of computing. It took Vercel 10 years to get to 1 billion deployments, but then we added another 1.4 billion in the last 10 months alone.  Some of this will be tiny, personal and even disposable software. An HTML fi...</title>
+      <link>https://x.com/rauchg/status/2100698591417499972</link>
+      <description>作者：Guillermo Rauch
+账号：@rauchg
+简介：@vercel CEO
+
+It's likely that more software will be produced next year than in all of the history of computing. It took Vercel 10 years to get to 1 billion deployments, but then we added another 1.4 billion in the last 10 months alone.
+
+Some of this will be tiny, personal and even disposable software. An HTML file with some javascript (&quot;artifacts&quot;), a report, a pricing calculator, a slide deck, all the way to sophisticated apps, agents and platforms.
+
+Deployment speed is one of our obsessions. We've brought down the time to deploy, upload, assign a domain and globally propagate an artifact to 1 second.
+
+This is quite a feat considering we serve these artifacts with uncompromising performance and security. This sub-second deployments include our global CDN, Firewall, immutable deployments, domain assignment, observability, rollbacks…
+
+And we're not done yet. Follow @melkeydev for more.</description>
+      <pubDate>Thu, 17 Sep 2026 21:29:07 +0000</pubDate>
+      <guid isPermaLink="false">2100698591417499972</guid>
+    </item>
+    <item>
+      <title>Aww it's so cute https://t.co/YKbSkYVrbG</title>
+      <link>https://x.com/petergyang/status/2100683741878468768</link>
+      <description>作者：Peter Yang
+账号：@petergyang
+简介：Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6
+
+Aww it's so cute https://t.co/YKbSkYVrbG</description>
+      <pubDate>Thu, 17 Sep 2026 20:30:07 +0000</pubDate>
+      <guid isPermaLink="false">2100683741878468768</guid>
+    </item>
+    <item>
+      <title>This is really cool. When you pressure your agent to ship a hotfix really fast, it can now 𝚟𝚎𝚛𝚌𝚎𝚕 --𝚝𝚞𝚛𝚋𝚘 --𝚙𝚛𝚘𝚍 😊  It'll use the fastest available build machine. h/t @garberchov for tweeting this idea to us https://t.co/iLXPsP2m3R</title>
+      <link>https://x.com/rauchg/status/2100682030170489160</link>
+      <description>作者：Guillermo Rauch
+账号：@rauchg
+简介：@vercel CEO
+
+This is really cool. When you pressure your agent to ship a hotfix really fast, it can now 𝚟𝚎𝚛𝚌𝚎𝚕 --𝚝𝚞𝚛𝚋𝚘 --𝚙𝚛𝚘𝚍 😊
+
+It'll use the fastest available build machine. h/t @garberchov for tweeting this idea to us https://t.co/iLXPsP2m3R</description>
+      <pubDate>Thu, 17 Sep 2026 20:23:19 +0000</pubDate>
+      <guid isPermaLink="false">2100682030170489160</guid>
+    </item>
+    <item>
+      <title>Projects have changed not only how I interact with Claude but how I code.  I stopped managing sessions. I just send thoughts as they come, Claude splits them into threads, and the project remembers how I work. It's where I do a ton of my coding now.  [screenshot: my actual prompts for claude code cl...</title>
+      <link>https://x.com/bcherny/status/2100669598995816511</link>
+      <description>作者：Boris Cherny
+账号：@bcherny
+简介：Claude Code @anthropicai
+
+Projects have changed not only how I interact with Claude but how I code.
+
+I stopped managing sessions. I just send thoughts as they come, Claude splits them into threads, and the project remembers how I work. It's where I do a ton of my coding now.
+
+[screenshot: my actual prompts for claude code cli yesterday]</description>
+      <pubDate>Thu, 17 Sep 2026 19:33:55 +0000</pubDate>
+      <guid isPermaLink="false">2100669598995816511</guid>
+    </item>
+    <item>
+      <title>Memorable found a way to optimize memory with embeddings instead of more tokens which is a powerful new way to do memory https://t.co/Y8wowo41WF</title>
+      <link>https://x.com/garrytan/status/2100668489178456268</link>
+      <description>作者：Garry Tan
+账号：@garrytan
+简介：President &amp; CEO @ycombinator —Founder @garryslist—Creator of GStack &amp; GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop
+
+Memorable found a way to optimize memory with embeddings instead of more tokens which is a powerful new way to do memory https://t.co/Y8wowo41WF</description>
+      <pubDate>Thu, 17 Sep 2026 19:29:31 +0000</pubDate>
+      <guid isPermaLink="false">2100668489178456268</guid>
+    </item>
+    <item>
+      <title>Have a family? We ❤️ this in ours. https://t.co/qGXb6Xtl9J</title>
+      <link>https://x.com/joshwoodward/status/2100665648825483726</link>
+      <description>作者：Josh Woodward
+账号：@joshwoodward
+简介：VP, @Google @GoogleLabs @GeminiApp @GoogleAIStudio
+
+Have a family? We ❤️ this in ours. https://t.co/qGXb6Xtl9J</description>
+      <pubDate>Thu, 17 Sep 2026 19:18:13 +0000</pubDate>
+      <guid isPermaLink="false">2100665648825483726</guid>
+    </item>
+    <item>
+      <title>CC the entire fam 🤝!  Today, we’re announcing the new CC – an AI agent built for families to spend less time on logistics and more time together.  You can now:  👤 Add up to 5 members to your CC agent ☀️ Start mornings aligned with a shared &quot;Your Day Ahead&quot; brief email 🗓️ Autosync schedules &amp; to-dos ...</title>
+      <link>https://x.com/GoogleLabs/status/2100653821907366366</link>
+      <description>作者：Google Labs
+账号：@GoogleLabs
+简介：Google’s home for our latest AI tools and experiments.
+
+CC the entire fam 🤝!
+
+Today, we’re announcing the new CC – an AI agent built for families to spend less time on logistics and more time together.
+
+You can now:
+
+👤 Add up to 5 members to your CC agent
+☀️ Start mornings aligned with a shared &quot;Your Day Ahead&quot; brief email
+🗓️ Autosync schedules &amp; to-dos with a shared Google Calendar and Tasks
+💬 Coordinate in Google Chat with CC to offload relevant tasks (ie., crafting weekly meal plans, school supply shopping lists, etc)
+📝 Delegate paperwork (ie., permission slips, forms, and more) for CC to complete under your direction
+📌 Keep tabs on the details – CC remembers what applies to everyone (ie., family grocery lists, favorite restaurants) versus what applies to one person (ie., dietary restrictions, local timezones)
+
+Ready to keep everybody on the same page? Join the waitlist or upgrade your existing CC (US only, 18+): https://t.co/6Id5GRBrVc</description>
+      <pubDate>Thu, 17 Sep 2026 18:31:14 +0000</pubDate>
+      <guid isPermaLink="false">2100653821907366366</guid>
+    </item>
+    <item>
+      <title>Has anyone yet tried to get Astra and Fable to agree on the perfect styleguide? And then host it somewhere with a web mcp.</title>
+      <link>https://x.com/thsottiaux/status/2100645454245720513</link>
       <description>作者：Thibault Sottiaux
 账号：@thsottiaux
 简介：Codex &amp; ChatGPT @OpenAI
 
-Astra
-
-✅ Fast
-✅ Frontier
-✅ Efficient
-✅ For everyone https://t.co/g4C7UizHcd</description>
-      <pubDate>Wed, 16 Sep 2026 18:54:51 +0000</pubDate>
-      <guid isPermaLink="false">2100297380968997327</guid>
+Has anyone yet tried to get Astra and Fable to agree on the perfect styleguide? And then host it somewhere with a web mcp.</description>
+      <pubDate>Thu, 17 Sep 2026 17:57:59 +0000</pubDate>
+      <guid isPermaLink="false">2100645454245720513</guid>
     </item>
     <item>
-      <title>The team did an amazing job with this merge. The resulting UX feels so much better than chat or Cowork did on their own.  And the new slides/docs/design integrations work very well. https://t.co/YyZYsf8OFE</title>
-      <link>https://x.com/alexalbert__/status/2100295757953917120</link>
-      <description>作者：Alex Albert
-账号：@alexalbert__
-简介：Research @AnthropicAI. Opinions are my own!
-
-The team did an amazing job with this merge. The resulting UX feels so much better than chat or Cowork did on their own.
-
-And the new slides/docs/design integrations work very well. https://t.co/YyZYsf8OFE</description>
-      <pubDate>Wed, 16 Sep 2026 18:48:24 +0000</pubDate>
-      <guid isPermaLink="false">2100295757953917120</guid>
-    </item>
-    <item>
-      <title>What is ChatGPT</title>
-      <link>https://x.com/thsottiaux/status/2100295443620007993</link>
-      <description>作者：Thibault Sottiaux
-账号：@thsottiaux
-简介：Codex &amp; ChatGPT @OpenAI
-
-What is ChatGPT</description>
-      <pubDate>Wed, 16 Sep 2026 18:47:10 +0000</pubDate>
-      <guid isPermaLink="false">2100295443620007993</guid>
-    </item>
-    <item>
-      <title>big big big big big https://t.co/dzD21vSafx</title>
-      <link>https://x.com/danshipper/status/2100284086703046903</link>
-      <description>作者：Dan Shipper
-账号：@danshipper
-简介：ceo @every | the only subscription you need to stay at the edge of AI
-
-big big big big big https://t.co/dzD21vSafx</description>
-      <pubDate>Wed, 16 Sep 2026 18:02:02 +0000</pubDate>
-      <guid isPermaLink="false">2100284086703046903</guid>
-    </item>
-    <item>
-      <title>I find myself using Claude less these days because the way it speaks has just become insufferable   Like it’s constantly trying to showcase how smart/sophisticated it is, rather than actually communicating a point across</title>
-      <link>https://x.com/zarazhangrui/status/2100278750776824115</link>
-      <description>作者：Zara Zhang
-账号：@zarazhangrui
-简介：Builder. Make something people want, then make people want it. Harvard’17. GitHub: https://t.co/KCuEaje1wd 
-YouTube: https://t.co/8xzbGWsHgY
-
-I find myself using Claude less these days because the way it speaks has just become insufferable 
-
-Like it’s constantly trying to showcase how smart/sophisticated it is, rather than actually communicating a point across</description>
-      <pubDate>Wed, 16 Sep 2026 17:40:50 +0000</pubDate>
-      <guid isPermaLink="false">2100278750776824115</guid>
-    </item>
-    <item>
-      <title>If California were a startup, what would its board ask the CEO?  I’m hosting CA governor candidate @SteveHiltonx  at @spc  in a couple of weeks. On the agenda: priorities, execution, and what he’d want us to hold him accountable for.  Sign up here to attend: https://t.co/ahiXSi3TD5</title>
-      <link>https://x.com/adityaag/status/2100275836792492463</link>
-      <description>作者：Aditya Agarwal
-账号：@adityaag
-简介：General Partner @SPC, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @Dropbox, Board @Flipkart | Optimist, Builder, Dad
-
-If California were a startup, what would its board ask the CEO?
-
-I’m hosting CA governor candidate @SteveHiltonx  at @spc  in a couple of weeks. On the agenda: priorities, execution, and what he’d want us to hold him accountable for.
-
-Sign up here to attend:
-https://t.co/ahiXSi3TD5</description>
-      <pubDate>Wed, 16 Sep 2026 17:29:15 +0000</pubDate>
-      <guid isPermaLink="false">2100275836792492463</guid>
-    </item>
-    <item>
-      <title>THEY DID IT  THE END OF THE TABS ERA IS UPON US https://t.co/FJlWFUCcDw</title>
-      <link>https://x.com/danshipper/status/2100269017977987341</link>
-      <description>作者：Dan Shipper
-账号：@danshipper
-简介：ceo @every | the only subscription you need to stay at the edge of AI
-
-THEY DID IT
-
-THE END OF THE TABS ERA IS UPON US https://t.co/FJlWFUCcDw</description>
-      <pubDate>Wed, 16 Sep 2026 17:02:09 +0000</pubDate>
-      <guid isPermaLink="false">2100269017977987341</guid>
-    </item>
-    <item>
-      <title>Today, we are merging Claude Cowork and chat to simplify how you use Claude!  We are also integrating Claude Design so that you can ask Claude to make a Slide, Design, or Doc without needing to switch tabs or apps.  Many of you shared that you didn't want to choose which Claude product to use for an...</title>
-      <link>https://x.com/_catwu/status/2100260655312089562</link>
+      <title>In the new Projects experience, Claude coordinates all of your sessions.   I've been using it every day since it lets me operate at a higher level of abstraction. I fire off a batch of tasks and move on. Claude has context on everything I'm working on and can give me an aggregated status update when...</title>
+      <link>https://x.com/_catwu/status/2100641163120423057</link>
       <description>作者：Cat Wu
 账号：@_catwu
 简介：claude code + cowork @anthropicai, prev: @dagster, @scale_ai
 
-Today, we are merging Claude Cowork and chat to simplify how you use Claude!
+In the new Projects experience, Claude coordinates all of your sessions. 
 
-We are also integrating Claude Design so that you can ask Claude to make a Slide, Design, or Doc without needing to switch tabs or apps.
+I've been using it every day since it lets me operate at a higher level of abstraction. I fire off a batch of tasks and move on. Claude has context on everything I'm working on and can give me an aggregated status update whenever I ask. It also has long-lived memory that evolves as I use it. 
 
-Many of you shared that you didn't want to choose which Claude product to use for any task. As Claude models have become more capable, we've found that Claude can handle the routing for you. Based on your prompt, Claude will decide whether to give a quick answer or do deeper agentic work, and what kind of output best fits the task.
- 
-You're in control the whole time: you can still stop, redirect, or exert finer control over Claude's effort or approach.
- 
-Give it a try and let us know what you think. We're rolling this out slowly over the next few weeks to get it right.</description>
-      <pubDate>Wed, 16 Sep 2026 16:28:55 +0000</pubDate>
-      <guid isPermaLink="false">2100260655312089562</guid>
+We're rolling this out over the coming weeks. Let me know what you think!</description>
+      <pubDate>Thu, 17 Sep 2026 17:40:55 +0000</pubDate>
+      <guid isPermaLink="false">2100641163120423057</guid>
     </item>
     <item>
-      <title>Also today: Claude Docs, Claude Slides, and Claude Design are in every conversation.  Ask Claude for a presentation and you get one you can open, edit, and export as PowerPoint or PDF. Same for a document or a design. There's no separate tool to navigate to. They're just in the chat.</title>
-      <link>https://x.com/bcherny/status/2100260544087535639</link>
+      <title>Projects are how I write a lot of my code these days. Really excited for everyone to try the new experience! Rolling out now https://t.co/bpaufmEweL</title>
+      <link>https://x.com/bcherny/status/2100639991244427490</link>
       <description>作者：Boris Cherny
 账号：@bcherny
 简介：Claude Code @anthropicai
 
-Also today: Claude Docs, Claude Slides, and Claude Design are in every conversation.
-
-Ask Claude for a presentation and you get one you can open, edit, and export as PowerPoint or PDF. Same for a document or a design. There's no separate tool to navigate to. They're just in the chat.</description>
-      <pubDate>Wed, 16 Sep 2026 16:28:29 +0000</pubDate>
-      <guid isPermaLink="false">2100260544087535639</guid>
+Projects are how I write a lot of my code these days. Really excited for everyone to try the new experience! Rolling out now https://t.co/bpaufmEweL</description>
+      <pubDate>Thu, 17 Sep 2026 17:36:16 +0000</pubDate>
+      <guid isPermaLink="false">2100639991244427490</guid>
     </item>
     <item>
-      <title>https://t.co/8uP1oRz9NP</title>
-      <link>https://x.com/rauchg/status/2100260457617736051</link>
-      <description>作者：Guillermo Rauch
-账号：@rauchg
-简介：@vercel CEO
+      <title>Projects brings the architecture of Claude Tag to Claude Code.  It has one agent per project that manages memory and spins off subagents for tasks.   You can ask it to be proactive, to do things on a schedule, etc.  It feels a lot nicer than a bunch of sessions, try it out! https://t.co/qzyEgLUyN4</title>
+      <link>https://x.com/trq212/status/2100638355872706571</link>
+      <description>作者：Thariq
+账号：@trq212
+简介：Claude Code @anthropicai. prev YC W20, @spc, @medialab
 
-https://t.co/8uP1oRz9NP</description>
-      <pubDate>Wed, 16 Sep 2026 16:28:08 +0000</pubDate>
-      <guid isPermaLink="false">2100260457617736051</guid>
+Projects brings the architecture of Claude Tag to Claude Code.
+
+It has one agent per project that manages memory and spins off subagents for tasks. 
+
+You can ask it to be proactive, to do things on a schedule, etc.
+
+It feels a lot nicer than a bunch of sessions, try it out! https://t.co/qzyEgLUyN4</description>
+      <pubDate>Thu, 17 Sep 2026 17:29:46 +0000</pubDate>
+      <guid isPermaLink="false">2100638355872706571</guid>
     </item>
     <item>
-      <title>Claude Code showed that AI could do real work, not just answer questions. Developers hand Claude a feature, come back to shipped code. That's where much of the industry's serious engineering runs now.  Cowork proved knowledge workers could do the same: hand Claude the brief, come back to finished fi...</title>
-      <link>https://x.com/bcherny/status/2100259951398789487</link>
-      <description>作者：Boris Cherny
-账号：@bcherny
-简介：Claude Code @anthropicai
+      <title>Be careful what you wish for  This is why we need alignment to humankind vs any other goal https://t.co/E3dxymT1aV</title>
+      <link>https://x.com/garrytan/status/2100636443127210112</link>
+      <description>作者：Garry Tan
+账号：@garrytan
+简介：President &amp; CEO @ycombinator —Founder @garryslist—Creator of GStack &amp; GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop
 
-Claude Code showed that AI could do real work, not just answer questions. Developers hand Claude a feature, come back to shipped code. That's where much of the industry's serious engineering runs now.
+Be careful what you wish for
 
-Cowork proved knowledge workers could do the same: hand Claude the brief, come back to finished files.
-
-Today, chat and Cowork start merging into one Claude. The direction: one Claude that carries context across everything you're working on, wherever you are. Simple enough for everyone to access Claude's full capabilities.
-
-I've been using this experience every day for the last few weeks, and it feels awesome. Simpler, faster, and more powerful.
-
-We're rolling this out slowly. We'll be fine-tuning the experience as we go to ensure it is fast and reliable. Can't wait to hear what you think.</description>
-      <pubDate>Wed, 16 Sep 2026 16:26:08 +0000</pubDate>
-      <guid isPermaLink="false">2100259951398789487</guid>
+This is why we need alignment to humankind vs any other goal https://t.co/E3dxymT1aV</description>
+      <pubDate>Thu, 17 Sep 2026 17:22:10 +0000</pubDate>
+      <guid isPermaLink="false">2100636443127210112</guid>
     </item>
     <item>
-      <title>If you've been working in Cowork, everything is where you left it: chats, projects, artifacts, connectors, and skills. You can pick up where you left off.  Claude Design, Claude Slides, and Claude Docs are in beta on all paid plans. Read more: https://t.co/ERAuv5UcBV</title>
-      <link>https://x.com/claudeai/status/2100258495543071016</link>
+      <title>Existing projects on Pro and Max plans keep working as they do today. We'll upgrade them as the rollout expands across Claude.  Read more: https://t.co/veHKrtOLtr  Join the waitlist for earlier access: https://t.co/s0RrhrolEm</title>
+      <link>https://x.com/claudeai/status/2100632688625348890</link>
       <description>作者：Claude
 账号：@claudeai
 简介：Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Talk to Claude on https://t.co/ZhTwG8d1e5 or download the app.
 
-If you've been working in Cowork, everything is where you left it: chats, projects, artifacts, connectors, and skills. You can pick up where you left off.
+Existing projects on Pro and Max plans keep working as they do today. We'll upgrade them as the rollout expands across Claude.
 
-Claude Design, Claude Slides, and Claude Docs are in beta on all paid plans. Read more: https://t.co/ERAuv5UcBV</description>
-      <pubDate>Wed, 16 Sep 2026 16:20:20 +0000</pubDate>
-      <guid isPermaLink="false">2100258495543071016</guid>
+Read more: https://t.co/veHKrtOLtr
+
+Join the waitlist for earlier access: https://t.co/s0RrhrolEm</description>
+      <pubDate>Thu, 17 Sep 2026 17:07:15 +0000</pubDate>
+      <guid isPermaLink="false">2100632688625348890</guid>
     </item>
     <item>
-      <title>Fix a line in the doc yourself, leave a comment for Claude on a slide, or select an element and move it.  When it's ready, present the deck straight from Claude, export the doc in the format you already use, or share everything at one link.</title>
-      <link>https://x.com/claudeai/status/2100258494221812123</link>
+      <title>Threads run in the cloud, so they keep working even when your computer is offline, but they can't reach files or tools on your computer or your internal network yet. Local support is coming very soon.</title>
+      <link>https://x.com/claudeai/status/2100632687316730327</link>
       <description>作者：Claude
 账号：@claudeai
 简介：Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Talk to Claude on https://t.co/ZhTwG8d1e5 or download the app.
 
-Fix a line in the doc yourself, leave a comment for Claude on a slide, or select an element and move it.
-
-When it's ready, present the deck straight from Claude, export the doc in the format you already use, or share everything at one link.</description>
-      <pubDate>Wed, 16 Sep 2026 16:20:20 +0000</pubDate>
-      <guid isPermaLink="false">2100258494221812123</guid>
+Threads run in the cloud, so they keep working even when your computer is offline, but they can't reach files or tools on your computer or your internal network yet. Local support is coming very soon.</description>
+      <pubDate>Thu, 17 Sep 2026 17:07:15 +0000</pubDate>
+      <guid isPermaLink="false">2100632687316730327</guid>
     </item>
     <item>
-      <title>You can also now make decks, docs, and designs in your conversation.  Draft the one-pager in Claude Docs, turn it into a deck with Claude Slides, and mock up a matching visual in Claude Design, all from one place. https://t.co/Y0JaJGT3G8</title>
-      <link>https://x.com/claudeai/status/2100258492590207079</link>
+      <title>A project builds over time. Every thread adds to and draws from its shared memory, so Claude can remember that the release moved to Friday, or who to ask before touching the billing service.  The project's library keeps the files you add and the ones Claude creates. https://t.co/jtzVie3DB7</title>
+      <link>https://x.com/claudeai/status/2100632684074549309</link>
       <description>作者：Claude
 账号：@claudeai
 简介：Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Talk to Claude on https://t.co/ZhTwG8d1e5 or download the app.
 
-You can also now make decks, docs, and designs in your conversation.
+A project builds over time. Every thread adds to and draws from its shared memory, so Claude can remember that the release moved to Friday, or who to ask before touching the billing service.
 
-Draft the one-pager in Claude Docs, turn it into a deck with Claude Slides, and mock up a matching visual in Claude Design, all from one place. https://t.co/Y0JaJGT3G8</description>
-      <pubDate>Wed, 16 Sep 2026 16:20:20 +0000</pubDate>
-      <guid isPermaLink="false">2100258492590207079</guid>
+The project's library keeps the files you add and the ones Claude creates. https://t.co/jtzVie3DB7</description>
+      <pubDate>Thu, 17 Sep 2026 17:07:14 +0000</pubDate>
+      <guid isPermaLink="false">2100632684074549309</guid>
     </item>
     <item>
-      <title>LLMs are just            jev is just a JSON  autocomplete               classifier                                🤝                                🚩</title>
-      <link>https://x.com/danshipper/status/2100251499443998766</link>
+      <title>If you're not using @Gemini_Notebook on your phone yet, you're missing out. This is such a cool story! https://t.co/UZdm9Knj1f</title>
+      <link>https://x.com/joshwoodward/status/2100616682431807860</link>
+      <description>作者：Josh Woodward
+账号：@joshwoodward
+简介：VP, @Google @GoogleLabs @GeminiApp @GoogleAIStudio
+
+If you're not using @Gemini_Notebook on your phone yet, you're missing out. This is such a cool story! https://t.co/UZdm9Knj1f</description>
+      <pubDate>Thu, 17 Sep 2026 16:03:39 +0000</pubDate>
+      <guid isPermaLink="false">2100616682431807860</guid>
+    </item>
+    <item>
+      <title>The future is already here  We just have to choose it and spread it faster https://t.co/zmLEsXQU65</title>
+      <link>https://x.com/garrytan/status/2100612808568172830</link>
+      <description>作者：Garry Tan
+账号：@garrytan
+简介：President &amp; CEO @ycombinator —Founder @garryslist—Creator of GStack &amp; GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop
+
+The future is already here
+
+We just have to choose it and spread it faster https://t.co/zmLEsXQU65</description>
+      <pubDate>Thu, 17 Sep 2026 15:48:15 +0000</pubDate>
+      <guid isPermaLink="false">2100612808568172830</guid>
+    </item>
+    <item>
+      <title>it's happening! https://t.co/vCy2XqNGYb</title>
+      <link>https://x.com/danshipper/status/2100587802748440581</link>
       <description>作者：Dan Shipper
 账号：@danshipper
 简介：ceo @every | the only subscription you need to stay at the edge of AI
 
-LLMs are just            jev is just a JSON 
-autocomplete               classifier 
-
-                             🤝
-
-                              🚩</description>
-      <pubDate>Wed, 16 Sep 2026 15:52:32 +0000</pubDate>
-      <guid isPermaLink="false">2100251499443998766</guid>
-    </item>
-    <item>
-      <title>Been tinkering with a “Home” @NousResearch agent for a few months and it’s finally gotten really good..  It’s also our first “group” bot where my wife and I interact with it on a daily basis - which has been fun learning especially when it fails 😅.  I have tried to recreate with Grok Bot and similar...</title>
-      <link>https://x.com/nikunj/status/2100212813625196917</link>
-      <description>作者：Nikunj Kothari
-账号：@nikunj
-简介：partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian &amp; others. love @shimoleejhaveri + 👦👧
-
-Been tinkering with a “Home” @NousResearch agent for a few months and it’s finally gotten really good..
-
-It’s also our first “group” bot where my wife and I interact with it on a daily basis - which has been fun learning especially when it fails 😅.
-
-I have tried to recreate with Grok Bot and similar and you can’t get this level of granularity and control (eg only read certain emails, convert in line attachments to structured data or logged in browser sessions)
-
-I asked it to share what it does based on the capabilities and our conversations and you can see it’s response below!</description>
-      <pubDate>Wed, 16 Sep 2026 13:18:49 +0000</pubDate>
-      <guid isPermaLink="false">2100212813625196917</guid>
-    </item>
-    <item>
-      <title>Before she wakes up and corrects  me, she never “wanted” it in the first place..   We threatened to make Tiramisu and that’s when her preference spilled out.   Sous chef had a great time eating half the batter 😂 https://t.co/QRRzY9dCpr</title>
-      <link>https://x.com/nikunj/status/2100117565150470652</link>
-      <description>作者：Nikunj Kothari
-账号：@nikunj
-简介：partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian &amp; others. love @shimoleejhaveri + 👦👧
-
-Before she wakes up and corrects  me, she never “wanted” it in the first place.. 
-
-We threatened to make Tiramisu and that’s when her preference spilled out. 
-
-Sous chef had a great time eating half the batter 😂 https://t.co/QRRzY9dCpr</description>
-      <pubDate>Wed, 16 Sep 2026 07:00:20 +0000</pubDate>
-      <guid isPermaLink="false">2100117565150470652</guid>
-    </item>
-    <item>
-      <title>Wife wanted Black Forest cake for her birthday..  I haven’t baked in a long long time, so not perfect but think it turned out ok (thanks @ChatGPT)  Happy birthday @shimoleejhaveri - I love you mostest ❤️ https://t.co/5LC3blykHK</title>
-      <link>https://x.com/nikunj/status/2100115958862107100</link>
-      <description>作者：Nikunj Kothari
-账号：@nikunj
-简介：partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian &amp; others. love @shimoleejhaveri + 👦👧
-
-Wife wanted Black Forest cake for her birthday..
-
-I haven’t baked in a long long time, so not perfect but think it turned out ok (thanks @ChatGPT)
-
-Happy birthday @shimoleejhaveri - I love you mostest ❤️ https://t.co/5LC3blykHK</description>
-      <pubDate>Wed, 16 Sep 2026 06:53:57 +0000</pubDate>
-      <guid isPermaLink="false">2100115958862107100</guid>
-    </item>
-    <item>
-      <title>Claude Cowork and chat are now one Claude</title>
-      <link>https://claude.com/blog/cowork-is-now-claude</link>
-      <description>作者：Claude Blog
-
-Starting today, Claude Cowork and chat are merging into one Claude. Bring a quick question, or hand over a report due at noon, and Claude takes it from there, even after you’ve closed your laptop. It’s rolling out on Pro and Max plans over the next few weeks, with more plans to follow. What Claude makes doesn’t need its own place either. Claude Docs and Claude Slides are new today, and Claude Design now works inside your conversations too. Ask for a document, and you and Claude write it together. Ask for a presentation, and Claude drafts the slides. You can edit directly, present straight from Claude, or download as PowerPoint or PDF. All three are in beta on paid plans, and Enterprise admins choose when to turn them on. If you use Claude Design on its own, it keeps working as before. We built Cowork as a separate place for bigger work, and Design for visual work. People used both, and told us the frustrating part was deciding where a task belonged. What they’d started in one also didn’t carry into the other. So we stopped making you choose. Claude can now figure out what a task needs, so what Cowork and Design can do is available from any conversation, with the context, skills, and connectors you already have. “I could have Claude pull up [my legal research database], and it would pull all the cases, read them, figure out which other cases I might need, download them, and store them in a folder for my personal review.” - Andrew Keller, Senior Economist What it looks like A weekly report is due at noon. Before you head out, you ask Claude what moved in the pipeline last week, then add: “Write it the way we always do, flag anything that slipped, and put the highlights in five slides for the leadership meeting.” If something’s unclear, Claude asks. You can check progress from your phone on the way to the office. By the time you’re at your desk, the report is waiting as a doc with notes from your teammate, and the slides are ready to open, adjust, and download as PowerPoint. Both came out of the same conversation, so the slides already match the report. You fix a line yourself, leave a comment for Claude on a slide, and share it. Schedule it for every Monday, and Claude starts on the report without being asked. Anything you make with Claude Design, Slides, or Docs lives at one shareable link you can open on your phone. You can select an element and move it, or tell Claude what you want changed. You can choose how Claude checks in with you. By default, Claude asks before taking an action. If you’d rather let it keep working and check in only when something needs a closer look, you can turn that on. You keep the final say. Getting started If you mostly use chat, you don’t have to do anything different. When you want to hand over something bigger, try the next report or deck you’d normally build yourself. If you’ve been working in Cowork, everything is where you left it: your chats, projects, artifacts, connectors, and skills. When you open the app, pick up where you left off. This is rolling out to Pro and Max plans first, in the Claude app on web, desktop, and mobile over the coming weeks to existing and new users on these plans. There’s nothing to turn on. Team and Free plans will follow soon, and Enterprise admins will hear from us at least 30 days before anything changes for their organizations. The full list of capabilities is in the Help Center . If you’ve been saving up a big messy project, now’s the time.</description>
-      <pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
-      <guid>https://claude.com/blog/cowork-is-now-claude</guid>
+it's happening! https://t.co/vCy2XqNGYb</description>
+      <pubDate>Thu, 17 Sep 2026 14:08:53 +0000</pubDate>
+      <guid isPermaLink="false">2100587802748440581</guid>
     </item>
   </channel>
 </rss>
