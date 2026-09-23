@@ -5,294 +5,603 @@
     <link>https://github.com/zarazhangrui/follow-builders</link>
     <description>聚合 AI 领域建设者的 X、播客和博客内容。</description>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 23 Sep 2026 02:15:22 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 10:24:47 +0000</lastBuildDate>
     <item>
-      <title>Ladies and gentlemen... start... your... ENGINES. We are almost Tuesday and I promised a reset for Tuesday. Among some other things. See you soon.</title>
-      <link>https://x.com/thsottiaux/status/2102254445082116335</link>
-      <description>作者：Thibault Sottiaux
-账号：@thsottiaux
-简介：Codex &amp; ChatGPT @OpenAI
-
-Ladies and gentlemen... start... your... ENGINES. We are almost Tuesday and I promised a reset for Tuesday. Among some other things. See you soon.</description>
-      <pubDate>Tue, 22 Sep 2026 04:31:32 +0000</pubDate>
-      <guid isPermaLink="false">2102254445082116335</guid>
-    </item>
-    <item>
-      <title>The monetization potential of personal agents that are transacting on your behalf you is quite significant.  If you imagine agents that are perfectly capable of handling an arbitrarily complex task end to end, then eventually a substantial amount of commerce inevitably goes through them.   You’ll st...</title>
-      <link>https://x.com/levie/status/2102253246807261579</link>
-      <description>作者：Aaron Levie
-账号：@levie
-简介：ceo @box - your business lives in content. unleash it with AI
-
-The monetization potential of personal agents that are transacting on your behalf you is quite significant.
-
-If you imagine agents that are perfectly capable of handling an arbitrarily complex task end to end, then eventually a substantial amount of commerce inevitably goes through them. 
-
-You’ll start by slinging your daily simple and annoying tasks at the agent. Then as people get used to it, they’ll just start to throw more complex tasks at the agent, ultimately leading to even more spend through these systems than what they were doing before. If you can bring down the friction for commerce and services, then you end up spending even more. 
-
-This thus creates a ton of opportunity for the agent providers (Muse, etc.), but also completely new opportunities to build the layer that the agents want to interact with (commerce, local, b2b services, etc.). Win/win for multiple layers.</description>
-      <pubDate>Tue, 22 Sep 2026 04:26:46 +0000</pubDate>
-      <guid isPermaLink="false">2102253246807261579</guid>
-    </item>
-    <item>
-      <title>AI agents will use software 100X more than people ever did. Even as interfaces begin to fade into the background as you primarily interact with agents, those agents still need many of the core primitives that people have used.  In fact, in many ways these core primitives become even more important w...</title>
-      <link>https://x.com/levie/status/2102235949430354273</link>
-      <description>作者：Aaron Levie
-账号：@levie
-简介：ceo @box - your business lives in content. unleash it with AI
-
-AI agents will use software 100X more than people ever did. Even as interfaces begin to fade into the background as you primarily interact with agents, those agents still need many of the core primitives that people have used.
-
-In fact, in many ways these core primitives become even more important when agents can take destructive actions in our systems or where the context they’re accessing with make or break the workflow. This will be true of where you house your CRM or ERP or structured or unstructured data platforms.
-
-The platforms that can best act as the security layer and guardrails for agents, manage the data for agents and people, and orchestrate the business logic for workflows have a huge opportunity right now. This is true for brand new startups as well as existing platforms that can move fast enough.</description>
-      <pubDate>Tue, 22 Sep 2026 03:18:02 +0000</pubDate>
-      <guid isPermaLink="false">2102235949430354273</guid>
-    </item>
-    <item>
-      <title>If you really think about it Cluely as a realtime thought helper and semi-adversarial assistant with ongoing context is still a good idea https://t.co/HGeFe0ttBi</title>
-      <link>https://x.com/garrytan/status/2102233173833007536</link>
-      <description>作者：Garry Tan
-账号：@garrytan
-简介：President &amp; CEO @ycombinator —Founder @garryslist—Creator of GStack &amp; GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop
-
-If you really think about it Cluely as a realtime thought helper and semi-adversarial assistant with ongoing context is still a good idea https://t.co/HGeFe0ttBi</description>
-      <pubDate>Tue, 22 Sep 2026 03:07:00 +0000</pubDate>
-      <guid isPermaLink="false">2102233173833007536</guid>
-    </item>
-    <item>
-      <title>I think we're in for a rude awakening in the ad markets:  If a huge part of your business is showing targeted display ads to humans what happens when agents browse your website and get the job done without a human seeing your ads at all?</title>
-      <link>https://x.com/petergyang/status/2102215701255844074</link>
+      <title>Just randomly played this Australian show on Apple TV and it’s another banger https://t.co/Cp2vUitABa https://t.co/mpOYshnd0G</title>
+      <link>https://x.com/petergyang/status/2102628682301046875</link>
       <description>作者：Peter Yang
 账号：@petergyang
 简介：Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6
 
-I think we're in for a rude awakening in the ad markets:
-
-If a huge part of your business is showing targeted display ads to humans what happens when agents browse your website and get the job done without a human seeing your ads at all?</description>
-      <pubDate>Tue, 22 Sep 2026 01:57:35 +0000</pubDate>
-      <guid isPermaLink="false">2102215701255844074</guid>
+Just randomly played this Australian show on Apple TV and it’s another banger https://t.co/Cp2vUitABa https://t.co/mpOYshnd0G</description>
+      <pubDate>Wed, 23 Sep 2026 05:18:37 +0000</pubDate>
+      <guid isPermaLink="false">2102628682301046875</guid>
     </item>
     <item>
-      <title>In addition to our type-safe TypeSafe @aisdk API (get it?), you can now use Jev over HTTP in AI Gateway https://t.co/u9OiIyILCE</title>
-      <link>https://x.com/rauchg/status/2102205684544852121</link>
+      <title>Software will never die again. You liked Google Reader? Cool, you can generate and deploy your own. Yours, forever.</title>
+      <link>https://x.com/rauchg/status/2102594015669756323</link>
       <description>作者：Guillermo Rauch
 账号：@rauchg
 简介：@vercel CEO
 
-In addition to our type-safe TypeSafe @aisdk API (get it?), you can now use Jev over HTTP in AI Gateway https://t.co/u9OiIyILCE</description>
-      <pubDate>Tue, 22 Sep 2026 01:17:46 +0000</pubDate>
-      <guid isPermaLink="false">2102205684544852121</guid>
+Software will never die again. You liked Google Reader? Cool, you can generate and deploy your own. Yours, forever.</description>
+      <pubDate>Wed, 23 Sep 2026 03:00:52 +0000</pubDate>
+      <guid isPermaLink="false">2102594015669756323</guid>
     </item>
     <item>
-      <title>I now type &quot;use big pictures and few words&quot; several times a day</title>
-      <link>https://x.com/trq212/status/2102186805034635576</link>
+      <title>@claudeai If you enjoyed this, sign up for free to my newsletter to get my best AI and product guides.  Join 110,000+ subscribers here: https://t.co/yz9xcsfrhF</title>
+      <link>https://x.com/petergyang/status/2102589061445939508</link>
+      <description>作者：Peter Yang
+账号：@petergyang
+简介：Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6
+
+@claudeai If you enjoyed this, sign up for free to my newsletter to get my best AI and product guides.
+
+Join 110,000+ subscribers here:
+https://t.co/yz9xcsfrhF</description>
+      <pubDate>Wed, 23 Sep 2026 02:41:11 +0000</pubDate>
+      <guid isPermaLink="false">2102589061445939508</guid>
+    </item>
+    <item>
+      <title>I talk about why Opus 5.5 is the most excited I've been about a Claude model in awhile here: https://t.co/PBxPzE43Ud</title>
+      <link>https://x.com/petergyang/status/2102577425838485916</link>
+      <description>作者：Peter Yang
+账号：@petergyang
+简介：Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6
+
+I talk about why Opus 5.5 is the most excited I've been about a Claude model in awhile here: https://t.co/PBxPzE43Ud</description>
+      <pubDate>Wed, 23 Sep 2026 01:54:56 +0000</pubDate>
+      <guid isPermaLink="false">2102577425838485916</guid>
+    </item>
+    <item>
+      <title>If you’re looking for ways to try Opus 5.5 and Claude Tag in Slack… https://t.co/PpwztYQx2o</title>
+      <link>https://x.com/_catwu/status/2102569951974584612</link>
+      <description>作者：Cat Wu
+账号：@_catwu
+简介：claude code + cowork @anthropicai, prev: @dagster, @scale_ai
+
+If you’re looking for ways to try Opus 5.5 and Claude Tag in Slack… https://t.co/PpwztYQx2o</description>
+      <pubDate>Wed, 23 Sep 2026 01:25:15 +0000</pubDate>
+      <guid isPermaLink="false">2102569951974584612</guid>
+    </item>
+    <item>
+      <title>@every https://t.co/OIFF8UYr2k</title>
+      <link>https://x.com/danshipper/status/2102557212581536207</link>
+      <description>作者：Dan Shipper
+账号：@danshipper
+简介：ceo @every | the only subscription you need to stay at the edge of AI
+
+@every https://t.co/OIFF8UYr2k</description>
+      <pubDate>Wed, 23 Sep 2026 00:34:37 +0000</pubDate>
+      <guid isPermaLink="false">2102557212581536207</guid>
+    </item>
+    <item>
+      <title>i added almost 10k new followers today!   if you're new around here, here are two things to start with:  1. my vibe check on opus 5.5 vs. sol-6 on @every: https://t.co/61XgBTikxH 2. after automation, my take on why AI automation creates more good work to do for human experts: https://t.co/Lb7SUCe2pO...</title>
+      <link>https://x.com/danshipper/status/2102556723244564715</link>
+      <description>作者：Dan Shipper
+账号：@danshipper
+简介：ceo @every | the only subscription you need to stay at the edge of AI
+
+i added almost 10k new followers today! 
+
+if you're new around here, here are two things to start with:
+
+1. my vibe check on opus 5.5 vs. sol-6 on @every: https://t.co/61XgBTikxH
+2. after automation, my take on why AI automation creates more good work to do for human experts: https://t.co/Lb7SUCe2pO
+
+if you like those two things you should subscribe to @every—there's more where that came from!</description>
+      <pubDate>Wed, 23 Sep 2026 00:32:41 +0000</pubDate>
+      <guid isPermaLink="false">2102556723244564715</guid>
+    </item>
+    <item>
+      <title>😚 https://t.co/XHmyhFqjxB</title>
+      <link>https://x.com/danshipper/status/2102555830080205130</link>
+      <description>作者：Dan Shipper
+账号：@danshipper
+简介：ceo @every | the only subscription you need to stay at the edge of AI
+
+😚 https://t.co/XHmyhFqjxB</description>
+      <pubDate>Wed, 23 Sep 2026 00:29:08 +0000</pubDate>
+      <guid isPermaLink="false">2102555830080205130</guid>
+    </item>
+    <item>
+      <title>if you want to make games, 3d generation is a great capability to help you imagine your game come to life  but you should figure out how to make a good, satisfying game loop first  (talking to myself here)</title>
+      <link>https://x.com/trq212/status/2102549030303867257</link>
       <description>作者：Thariq
 账号：@trq212
 简介：Claude Code @anthropicai. prev YC W20, @spc, @medialab
 
-I now type &quot;use big pictures and few words&quot; several times a day</description>
-      <pubDate>Tue, 22 Sep 2026 00:02:45 +0000</pubDate>
-      <guid isPermaLink="false">2102186805034635576</guid>
+if you want to make games, 3d generation is a great capability to help you imagine your game come to life
+
+but you should figure out how to make a good, satisfying game loop first
+
+(talking to myself here)</description>
+      <pubDate>Wed, 23 Sep 2026 00:02:06 +0000</pubDate>
+      <guid isPermaLink="false">2102549030303867257</guid>
     </item>
     <item>
-      <title>I have been using Codex as my primary &quot;agent&quot; for such a long time that I forget the average person has never used it..  Instinct and Muse are great especially for browser use on the phone. It shows what a great agent is like for the masses with ZERO setup.   But, Codex on Mac is simply undefeated i...</title>
-      <link>https://x.com/nikunj/status/2102186665863463199</link>
+      <title>the right way to use model capabilities is not to ship 10x more features to prod  it's to spend more time understanding your users, trying experiments, building prototypes, learning about things you don't understand so that you can ship things that actually work</title>
+      <link>https://x.com/trq212/status/2102548686303854790</link>
+      <description>作者：Thariq
+账号：@trq212
+简介：Claude Code @anthropicai. prev YC W20, @spc, @medialab
+
+the right way to use model capabilities is not to ship 10x more features to prod
+
+it's to spend more time understanding your users, trying experiments, building prototypes, learning about things you don't understand so that you can ship things that actually work</description>
+      <pubDate>Wed, 23 Sep 2026 00:00:44 +0000</pubDate>
+      <guid isPermaLink="false">2102548686303854790</guid>
+    </item>
+    <item>
+      <title>Capy (@capydotai) lets me drop PRs much much faster than I would with Codex or Claude Code alone https://t.co/s6xeWJahvJ</title>
+      <link>https://x.com/garrytan/status/2102544711647129902</link>
+      <description>作者：Garry Tan
+账号：@garrytan
+简介：President &amp; CEO @ycombinator —Founder @garryslist—Creator of GStack &amp; GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop
+
+Capy (@capydotai) lets me drop PRs much much faster than I would with Codex or Claude Code alone https://t.co/s6xeWJahvJ</description>
+      <pubDate>Tue, 22 Sep 2026 23:44:57 +0000</pubDate>
+      <guid isPermaLink="false">2102544711647129902</guid>
+    </item>
+    <item>
+      <title>Opus made an infographic https://t.co/w9fMWqB7HA</title>
+      <link>https://x.com/bcherny/status/2102543350436180277</link>
+      <description>作者：Boris Cherny
+账号：@bcherny
+简介：Claude Code @anthropicai
+
+Opus made an infographic https://t.co/w9fMWqB7HA</description>
+      <pubDate>Tue, 22 Sep 2026 23:39:32 +0000</pubDate>
+      <guid isPermaLink="false">2102543350436180277</guid>
+    </item>
+    <item>
+      <title>I used Opus 5.5 to formally verify the Claude Agent SDK using Lean. A couple short prompts = 16 PRs fixing various bugs and race conditions. Video attached.  TLA+ also works well. I sometimes combine Lean and TLA+ to look for issues around data flow, concurrency, and state mgmt.  I don't know either...</title>
+      <link>https://x.com/bcherny/status/2102543349102338309</link>
+      <description>作者：Boris Cherny
+账号：@bcherny
+简介：Claude Code @anthropicai
+
+I used Opus 5.5 to formally verify the Claude Agent SDK using Lean. A couple short prompts = 16 PRs fixing various bugs and race conditions. Video attached.
+
+TLA+ also works well. I sometimes combine Lean and TLA+ to look for issues around data flow, concurrency, and state mgmt.
+
+I don't know either language well, but Claude is excellent at both. This approach is super useful for formally modeling your code and finding bugs that a human probably wouldn't have spotted.
+
+Is formal verification the future of coding (or at least, bug finding)?</description>
+      <pubDate>Tue, 22 Sep 2026 23:39:32 +0000</pubDate>
+      <guid isPermaLink="false">2102543349102338309</guid>
+    </item>
+    <item>
+      <title>If you're working on something cool, GStack does actually tell you to apply to YC :-) https://t.co/G4jWbqwINt</title>
+      <link>https://x.com/garrytan/status/2102537390774759761</link>
+      <description>作者：Garry Tan
+账号：@garrytan
+简介：President &amp; CEO @ycombinator —Founder @garryslist—Creator of GStack &amp; GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop
+
+If you're working on something cool, GStack does actually tell you to apply to YC :-) https://t.co/G4jWbqwINt</description>
+      <pubDate>Tue, 22 Sep 2026 23:15:51 +0000</pubDate>
+      <guid isPermaLink="false">2102537390774759761</guid>
+    </item>
+    <item>
+      <title>The amount of SPVs organzied by even the “best” investors is simply mind boggling..  To the point that if you read headlines of a large fundraise, you can be reasonably sure now that a large amount of it came from SPVs even though the headlines say something else.   Combine that with tranched valuat...</title>
+      <link>https://x.com/nikunj/status/2102534909076349291</link>
       <description>作者：Nikunj Kothari
 账号：@nikunj
 简介：partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian &amp; others. love @shimoleejhaveri + 👦👧
 
-I have been using Codex as my primary &quot;agent&quot; for such a long time that I forget the average person has never used it..
+The amount of SPVs organzied by even the “best” investors is simply mind boggling..
 
-Instinct and Muse are great especially for browser use on the phone. It shows what a great agent is like for the masses with ZERO setup. 
+To the point that if you read headlines of a large fundraise, you can be reasonably sure now that a large amount of it came from SPVs even though the headlines say something else. 
 
-But, Codex on Mac is simply undefeated in all the work in can do with Computer Use (h/t @AriX and the Sky team). Like try doing a workflow that you do manually and give it Codex to one-shot. 
+Combine that with tranched valuations and revenue not being the same, all I’ll say don’t believe the headlines anymore. 
 
-I can't wait to see what their latest launch will be as they reportedly get ready to release their &quot;agent&quot; to the masses. My only ask would be to showcase the work and make it easy for folks to get started.
-
-Such a privileged time to be a customer for all these products - truly the golden age!</description>
-      <pubDate>Tue, 22 Sep 2026 00:02:12 +0000</pubDate>
-      <guid isPermaLink="false">2102186665863463199</guid>
+Proof is in the pudding and the pudding is not publicly visible anywhere.</description>
+      <pubDate>Tue, 22 Sep 2026 23:06:00 +0000</pubDate>
+      <guid isPermaLink="false">2102534909076349291</guid>
     </item>
     <item>
-      <title>ChatGPT Finances can help you spot charges you missed and get your money back.  From Ethan, product lead for ChatGPT Finances:  “I used points to book a hotel, and then they still billed me. I had no idea it happened but ChatGPT caught it, worked with customer service, and I ended up getting reimbur...</title>
-      <link>https://x.com/petergyang/status/2102186174911746151</link>
-      <description>作者：Peter Yang
-账号：@petergyang
-简介：Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6
-
-ChatGPT Finances can help you spot charges you missed and get your money back.
-
-From Ethan, product lead for ChatGPT Finances:
-
-“I used points to book a hotel, and then they still billed me. I had no idea it happened but ChatGPT caught it, worked with customer service, and I ended up getting reimbursed.”
-
-I then shared with Ethan that I had a similar experience where I asked ChatGPT to cancel a hotel booking for my parents, monitor the replies, and keep following up until we got the money back.
-
-📌 Watch the full episode here: https://t.co/xSJd1OwSGT</description>
-      <pubDate>Tue, 22 Sep 2026 00:00:15 +0000</pubDate>
-      <guid isPermaLink="false">2102186174911746151</guid>
-    </item>
-    <item>
-      <title>Nah. I no longer live in email or text, I live in the chat with my agent(s). https://t.co/dh3JdEgVPN</title>
-      <link>https://x.com/petergyang/status/2102181024507765167</link>
-      <description>作者：Peter Yang
-账号：@petergyang
-简介：Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6
-
-Nah. I no longer live in email or text, I live in the chat with my agent(s). https://t.co/dh3JdEgVPN</description>
-      <pubDate>Mon, 21 Sep 2026 23:39:47 +0000</pubDate>
-      <guid isPermaLink="false">2102181024507765167</guid>
-    </item>
-    <item>
-      <title>@latentspacepod @allenpark out now wherever fine podcasts are sold!   (email, apple podcasts, youtube)   https://t.co/AMwZCJ5IEK</title>
-      <link>https://x.com/swyx/status/2102160025666101658</link>
-      <description>作者：Swyx
-账号：@swyx
-简介：achieve ambition with intentionality, intensity, integrity &amp; insanity.
-
-affiliations:
-- @smol_ai
-- @dxtipshq
-- @cognition
-- @aidotengineer
-- @latentspacepod
-
-@latentspacepod @allenpark out now wherever fine podcasts are sold! 
-
-(email, apple podcasts, youtube) 
-
-https://t.co/AMwZCJ5IEK</description>
-      <pubDate>Mon, 21 Sep 2026 22:16:21 +0000</pubDate>
-      <guid isPermaLink="false">2102160025666101658</guid>
-    </item>
-    <item>
-      <title>Someone in my DMs asked for proof given my &quot;public&quot; Github doesn't have many green squares..   There is more to me than what meets the eye 👀 https://t.co/FhWBYwtonM https://t.co/0E0pPeHCeE</title>
-      <link>https://x.com/nikunj/status/2102136369191800888</link>
-      <description>作者：Nikunj Kothari
-账号：@nikunj
-简介：partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian &amp; others. love @shimoleejhaveri + 👦👧
-
-Someone in my DMs asked for proof given my &quot;public&quot; Github doesn't have many green squares.. 
-
-There is more to me than what meets the eye 👀 https://t.co/FhWBYwtonM https://t.co/0E0pPeHCeE</description>
-      <pubDate>Mon, 21 Sep 2026 20:42:20 +0000</pubDate>
-      <guid isPermaLink="false">2102136369191800888</guid>
-    </item>
-    <item>
-      <title>Game recognizing game https://t.co/CILOFbroWi</title>
-      <link>https://x.com/rauchg/status/2102126936592191695</link>
+      <title>We ran fresh Next.js evals. The tally: ① Opus 5.5    [𝟿𝟽%] ② GPT 6 Sol   [𝟿𝟽%] ③ Fable 5.1     [𝟿𝟽%] ④ Grok 4.7     [𝟿𝟺%]  Notably, Grok is 2x-7x cheaper https://t.co/BAUg14981G</title>
+      <link>https://x.com/rauchg/status/2102519097770885231</link>
       <description>作者：Guillermo Rauch
 账号：@rauchg
 简介：@vercel CEO
 
-Game recognizing game https://t.co/CILOFbroWi</description>
-      <pubDate>Mon, 21 Sep 2026 20:04:51 +0000</pubDate>
-      <guid isPermaLink="false">2102126936592191695</guid>
+We ran fresh Next.js evals. The tally:
+① Opus 5.5    [𝟿𝟽%]
+② GPT 6 Sol   [𝟿𝟽%]
+③ Fable 5.1     [𝟿𝟽%]
+④ Grok 4.7     [𝟿𝟺%]
+
+Notably, Grok is 2x-7x cheaper https://t.co/BAUg14981G</description>
+      <pubDate>Tue, 22 Sep 2026 22:03:10 +0000</pubDate>
+      <guid isPermaLink="false">2102519097770885231</guid>
     </item>
     <item>
-      <title>AI is reviving the American Dream. https://t.co/H7T1Yzdm07</title>
-      <link>https://x.com/amasad/status/2102120769232978174</link>
+      <title>argh i meant VOICE not video :(  sorry to dissapoint</title>
+      <link>https://x.com/sama/status/2102512794235207758</link>
+      <description>作者：Sam Altman
+账号：@sama
+简介：The mission of OpenAI is to ensure that AGI benefits all of humanity
+
+argh i meant VOICE not video :(
+
+sorry to dissapoint</description>
+      <pubDate>Tue, 22 Sep 2026 21:38:07 +0000</pubDate>
+      <guid isPermaLink="false">2102512794235207758</guid>
+    </item>
+    <item>
+      <title>Maybe our cutest launch so far. But still packing the biggest punch. https://t.co/LVYOxpH0Wi</title>
+      <link>https://x.com/thsottiaux/status/2102509507415048245</link>
+      <description>作者：Thibault Sottiaux
+账号：@thsottiaux
+简介：Codex &amp; ChatGPT @OpenAI
+
+Maybe our cutest launch so far. But still packing the biggest punch. https://t.co/LVYOxpH0Wi</description>
+      <pubDate>Tue, 22 Sep 2026 21:25:03 +0000</pubDate>
+      <guid isPermaLink="false">2102509507415048245</guid>
+    </item>
+    <item>
+      <title>Had ChatGPT sometimes crashing on me after updating to macOS 27 and... Astra found a ~14 year old bug in libuv. https://t.co/JE8GssiRXJ</title>
+      <link>https://x.com/steipete/status/2102501642176528743</link>
+      <description>作者：Peter Steinberger
+账号：@steipete
+简介：Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world.
+@OpenClaw🦞 + @OpenAI
+
+Had ChatGPT sometimes crashing on me after updating to macOS 27 and... Astra found a ~14 year old bug in libuv. https://t.co/JE8GssiRXJ</description>
+      <pubDate>Tue, 22 Sep 2026 20:53:48 +0000</pubDate>
+      <guid isPermaLink="false">2102501642176528743</guid>
+    </item>
+    <item>
+      <title>We need to teach the world to prompt and maximally use AI: to help all people see the way it can give you wings in all your pursuits   Then we need yearn to solve more problems for ourselves and for one another https://t.co/e7yOADOf6s</title>
+      <link>https://x.com/garrytan/status/2102501556348440983</link>
+      <description>作者：Garry Tan
+账号：@garrytan
+简介：President &amp; CEO @ycombinator —Founder @garryslist—Creator of GStack &amp; GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop
+
+We need to teach the world to prompt and maximally use AI: to help all people see the way it can give you wings in all your pursuits 
+
+Then we need yearn to solve more problems for ourselves and for one another https://t.co/e7yOADOf6s</description>
+      <pubDate>Tue, 22 Sep 2026 20:53:28 +0000</pubDate>
+      <guid isPermaLink="false">2102501556348440983</guid>
+    </item>
+    <item>
+      <title>Big milestone! https://t.co/2MfmmG5Way</title>
+      <link>https://x.com/joshwoodward/status/2102498448364954083</link>
+      <description>作者：Josh Woodward
+账号：@joshwoodward
+简介：VP, @Google @GoogleLabs @GeminiApp @GoogleAIStudio
+
+Big milestone! https://t.co/2MfmmG5Way</description>
+      <pubDate>Tue, 22 Sep 2026 20:41:07 +0000</pubDate>
+      <guid isPermaLink="false">2102498448364954083</guid>
+    </item>
+    <item>
+      <title>I have hosted over 50 Minus One fireside chats with lots of interesting and well known people over the years @spc.  The first one my 9 year old asked to attend was yesterday's with Dmitri of Waymo.  The evocative beauty of building things for the physical world is undeniable.</title>
+      <link>https://x.com/adityaag/status/2102498288658526614</link>
+      <description>作者：Aditya Agarwal
+账号：@adityaag
+简介：General Partner @SPC, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @Dropbox, Board @Flipkart | Optimist, Builder, Dad
+
+I have hosted over 50 Minus One fireside chats with lots of interesting and well known people over the years @spc.
+
+The first one my 9 year old asked to attend was yesterday's with Dmitri of Waymo.
+
+The evocative beauty of building things for the physical world is undeniable.</description>
+      <pubDate>Tue, 22 Sep 2026 20:40:29 +0000</pubDate>
+      <guid isPermaLink="false">2102498288658526614</guid>
+    </item>
+    <item>
+      <title>Your intelligence is fake. It’s artificial.  Mine? It’s super. Super Intelligence. Aka SI. https://t.co/oTWHfUUpDP</title>
+      <link>https://x.com/amasad/status/2102489320766800002</link>
       <description>作者：Amjad Masad
 账号：@amasad
 简介：ceo @replit. civilizationist
 
-AI is reviving the American Dream. https://t.co/H7T1Yzdm07</description>
-      <pubDate>Mon, 21 Sep 2026 19:40:21 +0000</pubDate>
-      <guid isPermaLink="false">2102120769232978174</guid>
-    </item>
-    <item>
-      <title>Because this “Meta uses OpenClaw” story is going around. They built their own agent, being inspired. Nat and his team did a great job. Kudos! https://t.co/ZumVBrDKCh</title>
-      <link>https://x.com/steipete/status/2102116206371315854</link>
-      <description>作者：Peter Steinberger
-账号：@steipete
-简介：Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world.
-@OpenClaw🦞 + @OpenAI
+Your intelligence is fake. It’s artificial.
 
-Because this “Meta uses OpenClaw” story is going around. They built their own agent, being inspired. Nat and his team did a great job. Kudos! https://t.co/ZumVBrDKCh</description>
-      <pubDate>Mon, 21 Sep 2026 19:22:13 +0000</pubDate>
-      <guid isPermaLink="false">2102116206371315854</guid>
+Mine? It’s super. Super Intelligence. Aka SI. https://t.co/oTWHfUUpDP</description>
+      <pubDate>Tue, 22 Sep 2026 20:04:51 +0000</pubDate>
+      <guid isPermaLink="false">2102489320766800002</guid>
     </item>
     <item>
-      <title>Example PR - here is https://t.co/0wdR9PPUB4 executing against a very ambitious bug fix wave on GBrain with very clear task delineation, automatic parallelization, and very clean Github PR and CI workflow. https://t.co/xURT9mkqvo</title>
-      <link>https://x.com/garrytan/status/2102096495847551011</link>
-      <description>作者：Garry Tan
-账号：@garrytan
-简介：President &amp; CEO @ycombinator —Founder @garryslist—Creator of GStack &amp; GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop
+      <title>workflows are a huge part of how I use Claude these days, I'm glad we have Fable-like intelligence that works with workflows from a cost perspective</title>
+      <link>https://x.com/trq212/status/2102477527688388752</link>
+      <description>作者：Thariq
+账号：@trq212
+简介：Claude Code @anthropicai. prev YC W20, @spc, @medialab
 
-Example PR - here is https://t.co/0wdR9PPUB4 executing against a very ambitious bug fix wave on GBrain with very clear task delineation, automatic parallelization, and very clean Github PR and CI workflow. https://t.co/xURT9mkqvo</description>
-      <pubDate>Mon, 21 Sep 2026 18:03:54 +0000</pubDate>
-      <guid isPermaLink="false">2102096495847551011</guid>
+workflows are a huge part of how I use Claude these days, I'm glad we have Fable-like intelligence that works with workflows from a cost perspective</description>
+      <pubDate>Tue, 22 Sep 2026 19:17:59 +0000</pubDate>
+      <guid isPermaLink="false">2102477527688388752</guid>
     </item>
     <item>
-      <title>Not really sure how @capydotai does it, but it really is able to track multi-step workflow and do large PRs faster than Codex or Claude Code on its own. My most favorite new agentic coding secret weapon in my arsenal the last week.</title>
-      <link>https://x.com/garrytan/status/2102095924893827501</link>
-      <description>作者：Garry Tan
-账号：@garrytan
-简介：President &amp; CEO @ycombinator —Founder @garryslist—Creator of GStack &amp; GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop
+      <title>What an insane day in AI. The frontier models just became substantially cheaper, with the Opus 5.5 price cuts, and now with GPT-6 Sol and Luna dropping token prices by 50%.  The rate at which the cost per task (on a like-for-like basis) drops in AI is unlike any other type of technology in history. ...</title>
+      <link>https://x.com/levie/status/2102477253070430322</link>
+      <description>作者：Aaron Levie
+账号：@levie
+简介：ceo @box - your business lives in content. unleash it with AI
 
-Not really sure how @capydotai does it, but it really is able to track multi-step workflow and do large PRs faster than Codex or Claude Code on its own. My most favorite new agentic coding secret weapon in my arsenal the last week.</description>
-      <pubDate>Mon, 21 Sep 2026 18:01:38 +0000</pubDate>
-      <guid isPermaLink="false">2102095924893827501</guid>
+What an insane day in AI. The frontier models just became substantially cheaper, with the Opus 5.5 price cuts, and now with GPT-6 Sol and Luna dropping token prices by 50%.
+
+The rate at which the cost per task (on a like-for-like basis) drops in AI is unlike any other type of technology in history. And every time the cost of AI drops, the use-cases you can deploy agents against dramatically increase. This is Jevons paradox applied to agents.
+
+These improvements will directly lead to broader diffusion of AI in the economy as we can use agents to process all of our data, scan our code for security issues, read through all log data to make decisions, have agent swarms in workflows, and much more. The cost of tokens is directly correlated to these use-cases being opened up at scale.</description>
+      <pubDate>Tue, 22 Sep 2026 19:16:53 +0000</pubDate>
+      <guid isPermaLink="false">2102477253070430322</guid>
     </item>
     <item>
-      <title>I just gave Grok 4.7 a pretty hard problem, involving reverse-engineering a running binary. Beautifully solved. And it's so fast!</title>
-      <link>https://x.com/rauchg/status/2102089968860721335</link>
+      <title>Claude Opus 5.5 is available today. What will you explore?</title>
+      <link>https://x.com/claudeai/status/2102471892099866883</link>
+      <description>作者：Claude
+账号：@claudeai
+简介：Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Talk to Claude on https://t.co/ZhTwG8d1e5 or download the app.
+
+Claude Opus 5.5 is available today. What will you explore?</description>
+      <pubDate>Tue, 22 Sep 2026 18:55:35 +0000</pubDate>
+      <guid isPermaLink="false">2102471892099866883</guid>
+    </item>
+    <item>
+      <title>An algorithmic drawing program created by @kevin_t_ngo. Every drawing is based on a different seed. https://t.co/3qZFPs9mGc</title>
+      <link>https://x.com/claudeai/status/2102471889092276516</link>
+      <description>作者：Claude
+账号：@claudeai
+简介：Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Talk to Claude on https://t.co/ZhTwG8d1e5 or download the app.
+
+An algorithmic drawing program created by @kevin_t_ngo. Every drawing is based on a different seed. https://t.co/3qZFPs9mGc</description>
+      <pubDate>Tue, 22 Sep 2026 18:55:35 +0000</pubDate>
+      <guid isPermaLink="false">2102471889092276516</guid>
+    </item>
+    <item>
+      <title>A toy brick-building app. Turn a photo or a description into a buildable model with custom instructions. https://t.co/zDFMIKuXLP</title>
+      <link>https://x.com/claudeai/status/2102471885061812714</link>
+      <description>作者：Claude
+账号：@claudeai
+简介：Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Talk to Claude on https://t.co/ZhTwG8d1e5 or download the app.
+
+A toy brick-building app. Turn a photo or a description into a buildable model with custom instructions. https://t.co/zDFMIKuXLP</description>
+      <pubDate>Tue, 22 Sep 2026 18:55:34 +0000</pubDate>
+      <guid isPermaLink="false">2102471885061812714</guid>
+    </item>
+    <item>
+      <title>Startups are naturally good at this; it is hard to keep a bigger company good at this and i think an underexplored space. https://t.co/Sr48wgC0lL</title>
+      <link>https://x.com/sama/status/2102469008079679640</link>
+      <description>作者：Sam Altman
+账号：@sama
+简介：The mission of OpenAI is to ensure that AGI benefits all of humanity
+
+Startups are naturally good at this; it is hard to keep a bigger company good at this and i think an underexplored space. https://t.co/Sr48wgC0lL</description>
+      <pubDate>Tue, 22 Sep 2026 18:44:08 +0000</pubDate>
+      <guid isPermaLink="false">2102469008079679640</guid>
+    </item>
+    <item>
+      <title>michelle embodies this as much as anyone  openai is so, so lucky to have benefited from everything she has done so far and i think people will be quite pleased to see what she + team have cooking next! https://t.co/AVZAtyk6Uc</title>
+      <link>https://x.com/sama/status/2102468713866055872</link>
+      <description>作者：Sam Altman
+账号：@sama
+简介：The mission of OpenAI is to ensure that AGI benefits all of humanity
+
+michelle embodies this as much as anyone
+
+openai is so, so lucky to have benefited from everything she has done so far and i think people will be quite pleased to see what she + team have cooking next! https://t.co/AVZAtyk6Uc</description>
+      <pubDate>Tue, 22 Sep 2026 18:42:58 +0000</pubDate>
+      <guid isPermaLink="false">2102468713866055872</guid>
+    </item>
+    <item>
+      <title>Prompt in Claude Tag  &quot;Recreate Market Street, San Francisco as it stood on April 17, 1906, the afternoon before the earthquake, in Blender.  Scope: the Ferry Building up Market to Fifth Street, including the Palace Hotel, the Call Building, the Chronicle Building, Lotta's Fountain and the Emporium....</title>
+      <link>https://x.com/alexalbert__/status/2102466524934271381</link>
+      <description>作者：Alex Albert
+账号：@alexalbert__
+简介：Research @AnthropicAI. Opinions are my own!
+
+Prompt in Claude Tag
+
+&quot;Recreate Market Street, San Francisco as it stood on April 17, 1906, the afternoon before the earthquake, in Blender.
+
+Scope: the Ferry Building up Market to Fifth Street, including the Palace Hotel, the Call Building, the Chronicle Building, Lotta's Fountain and the Emporium.
+
+Before modeling anything, build a source file from: the 1899-1905 Sanborn fire insurance maps (footprints, heights, materials, occupants), the Miles Brothers film &quot;A Trip Down Market Street&quot; (April 1906), period photographs from OpenSFHistory, the Library of Congress and the David Rumsey collection, and USGS topography. Record every building with footprint, height, facade material, occupant, and the source for each fact with a confidence level.
+
+Build everything in Blender Python. No downloaded meshes, textures or HDRIs. Write reusable generators (Victorian commercial facade, mansard roof, bay windows, awnings, painted signage, gas and electric street lamps, cable car, horse-drawn wagon, early automobile) and assemble the street from the source file, so every building traces back to data.
+
+Provide a 10 second video up the street.&quot;</description>
+      <pubDate>Tue, 22 Sep 2026 18:34:16 +0000</pubDate>
+      <guid isPermaLink="false">2102466524934271381</guid>
+    </item>
+    <item>
+      <title>I've been on a Blender kick with Opus 5.5. Its better 3D modeling and vision mean you can build an entire world from a single prompt.  Historically accurate San Francisco Market street in 1906, pre-earthquake https://t.co/aisvFLFGy3</title>
+      <link>https://x.com/alexalbert__/status/2102466523164274839</link>
+      <description>作者：Alex Albert
+账号：@alexalbert__
+简介：Research @AnthropicAI. Opinions are my own!
+
+I've been on a Blender kick with Opus 5.5. Its better 3D modeling and vision mean you can build an entire world from a single prompt.
+
+Historically accurate San Francisco Market street in 1906, pre-earthquake https://t.co/aisvFLFGy3</description>
+      <pubDate>Tue, 22 Sep 2026 18:34:15 +0000</pubDate>
+      <guid isPermaLink="false">2102466523164274839</guid>
+    </item>
+    <item>
+      <title>GPT-6 Sol and Luna are out. Not only are they a very significant improvement across the board, but also in writing and general &quot;you know when you try it&quot; quality.   We are also permanently reducing the API price by 50% making both of them viable for a ton of new usecases and making your usage go fur...</title>
+      <link>https://x.com/thsottiaux/status/2102463847714247142</link>
+      <description>作者：Thibault Sottiaux
+账号：@thsottiaux
+简介：Codex &amp; ChatGPT @OpenAI
+
+GPT-6 Sol and Luna are out. Not only are they a very significant improvement across the board, but also in writing and general &quot;you know when you try it&quot; quality. 
+
+We are also permanently reducing the API price by 50% making both of them viable for a ton of new usecases and making your usage go further too, even on the subscriptions.
+
+And one more thing. We are loading a banked reset into all accounts of our Plus, Pro and Business users. Let's go!
+
+https://t.co/00DRh1sRrO</description>
+      <pubDate>Tue, 22 Sep 2026 18:23:37 +0000</pubDate>
+      <guid isPermaLink="false">2102463847714247142</guid>
+    </item>
+    <item>
+      <title>need to make sure you've been updated to this (rolling out to everyone soon if you haven't!) https://t.co/fjCAQKazVs</title>
+      <link>https://x.com/alexalbert__/status/2102458350348935454</link>
+      <description>作者：Alex Albert
+账号：@alexalbert__
+简介：Research @AnthropicAI. Opinions are my own!
+
+need to make sure you've been updated to this (rolling out to everyone soon if you haven't!) https://t.co/fjCAQKazVs</description>
+      <pubDate>Tue, 22 Sep 2026 18:01:47 +0000</pubDate>
+      <guid isPermaLink="false">2102458350348935454</guid>
+    </item>
+    <item>
+      <title>Safety and alignment of &quot;models&quot; is the raging topic today.  But the original &quot;safety&quot; debate for AI/MachineLearning was actually in autonomous vehicles!  My first Waymo ride truly felt like a religious experience. It was mind-boggling that we could build technology that actually worked on real road...</title>
+      <link>https://x.com/adityaag/status/2102457464432284019</link>
+      <description>作者：Aditya Agarwal
+账号：@adityaag
+简介：General Partner @SPC, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @Dropbox, Board @Flipkart | Optimist, Builder, Dad
+
+Safety and alignment of &quot;models&quot; is the raging topic today.
+
+But the original &quot;safety&quot; debate for AI/MachineLearning was actually in autonomous vehicles!
+
+My first Waymo ride truly felt like a religious experience. It was mind-boggling that we could build technology that actually worked on real roads with all the challenges that entails.
+
+I thought the most interesting part of the talk yesterday was the extensive eval/testing infrastructure that Waymo has built out in order to build the confidence to release 2-ton robots traveling at 30mph through urban environments.
+
+It was awesome to host @dmitri_dolgov @spc yesterday.  
+
+I learnt a lot myself and I am excited to release the full video soon.</description>
+      <pubDate>Tue, 22 Sep 2026 17:58:15 +0000</pubDate>
+      <guid isPermaLink="false">2102457464432284019</guid>
+    </item>
+    <item>
+      <title>At Box, we've been testing Opus 5.5 on a variety of complex enterprise knowledge work tasks dealing with unstructured data with the Box Agent.    Overall, we saw frontier capability levels, with major performance improvements over Opus 5. 63% fewer tokens used, 42% less verbosity, and 30% faster vs....</title>
+      <link>https://x.com/levie/status/2102448415775051790</link>
+      <description>作者：Aaron Levie
+账号：@levie
+简介：ceo @box - your business lives in content. unleash it with AI
+
+At Box, we've been testing Opus 5.5 on a variety of complex enterprise knowledge work tasks dealing with unstructured data with the Box Agent.  
+
+Overall, we saw frontier capability levels, with major performance improvements over Opus 5. 63% fewer tokens used, 42% less verbosity, and 30% faster vs. Opus 5. And the model itself is cheaper, so this is a major win for any agentic computer use, coding, analytics, or data work that enterprises will be doing.
+
+Here are some examples of the task wins and performance gains across a variety of industry tests that we performed:
+
+• Financial services - due diligence (+39% task accuracy): A year of transaction records, with the job of finding every miscalculation in an acquisition target's pricing tool. Opus 5.5 scored a perfect result on every  attempt in half the words Opus 5 used, consuming 82% fewer tokens overall.
+
+• Technology - cloud cost analysis (+65% task accuracy): Work out what a company should actually change about its cloud spend. Opus 5.5 picked the right basis for the retention calculation and kept the source data's unit conventions straight all the way through, so the number at the end actually holds up. It took half the time Opus 5 took, with 70% fewer tokens.
+
+• Consumer products - client account analysis (+17% task accuracy): Set the onboarding targets for a client account, reading across the signed contract, a satisfaction tracker and a team metrics sheet. The contract never states a senior/junior split, so Opus 5.5 derived it from the 18-person roster and showed the rule it used; several clients had a perfect 10 on individual survey questions, so it averaged each client's responses instead of crowning the single 10. It finished this one in half the time, on 78% fewer tokens. 
+
+• Clinical diagnostics - data analysis (+15% task accuracy): Malaria rapid-test performance across a dry and a wet season: build the patient records out of two clinical PDFs, compute positive test rates by season and gender, and test whether parasite counts really differ between test-positive and test-negative patients. Opus 5.5 caught that the two groups' standard deviations differed more than 100-fold, re-ran it the right way, and found the dry-season difference didn't hold up after all. This accuracy gain came with a final answer that was half the length of Opus 5's, and also needed 78% fewer tokens end to end. 
+
+Customers will be able to build AI Agents with Opus 5.5 shortly in the Box AI Studio.</description>
+      <pubDate>Tue, 22 Sep 2026 17:22:18 +0000</pubDate>
+      <guid isPermaLink="false">2102448415775051790</guid>
+    </item>
+    <item>
+      <title>We have been focusing on efficiency and intelligence for all.   Very proud of the team. Only possible when you have incredible models at the top end of the capability that you can then use to make a big difference in everything else.</title>
+      <link>https://x.com/thsottiaux/status/2102440619616682120</link>
+      <description>作者：Thibault Sottiaux
+账号：@thsottiaux
+简介：Codex &amp; ChatGPT @OpenAI
+
+We have been focusing on efficiency and intelligence for all. 
+
+Very proud of the team. Only possible when you have incredible models at the top end of the capability that you can then use to make a big difference in everything else.</description>
+      <pubDate>Tue, 22 Sep 2026 16:51:19 +0000</pubDate>
+      <guid isPermaLink="false">2102440619616682120</guid>
+    </item>
+    <item>
+      <title>Opus 5.5 is a really good model. It's been my daily driver the last few weeks.  We had Opus 5.5 and Fable 5.1 each port HAProxy from C to Rust. Both passed nearly all of HAProxy's tests, but Opus 5.5 finished in 9.5 hours compared to Fable 5.1's 12 hours, and for 51% less cost. https://t.co/GJ9FaS3E...</title>
+      <link>https://x.com/bcherny/status/2102439069053747549</link>
+      <description>作者：Boris Cherny
+账号：@bcherny
+简介：Claude Code @anthropicai
+
+Opus 5.5 is a really good model. It's been my daily driver the last few weeks.
+
+We had Opus 5.5 and Fable 5.1 each port HAProxy from C to Rust. Both passed nearly all of HAProxy's tests, but Opus 5.5 finished in 9.5 hours compared to Fable 5.1's 12 hours, and for 51% less cost. https://t.co/GJ9FaS3Erx</description>
+      <pubDate>Tue, 22 Sep 2026 16:45:10 +0000</pubDate>
+      <guid isPermaLink="false">2102439069053747549</guid>
+    </item>
+    <item>
+      <title>Love the tastefulness with which anthropic ships.   Main reason I got excited about 'headless' for the web is that any given page could take whatever whimsical or unique shape you wanted. With AI, there's no excuse not to push the design frontier.  This is @nextjs at its finest: https://t.co/uXM96Ei...</title>
+      <link>https://x.com/rauchg/status/2102438365455167883</link>
       <description>作者：Guillermo Rauch
 账号：@rauchg
 简介：@vercel CEO
 
-I just gave Grok 4.7 a pretty hard problem, involving reverse-engineering a running binary. Beautifully solved. And it's so fast!</description>
-      <pubDate>Mon, 21 Sep 2026 17:37:58 +0000</pubDate>
-      <guid isPermaLink="false">2102089968860721335</guid>
-    </item>
-    <item>
-      <title>Proud to say that we did our homework. They found nothing critical. https://t.co/UT152Oggpj</title>
-      <link>https://x.com/steipete/status/2102049706830647467</link>
-      <description>作者：Peter Steinberger
-账号：@steipete
-简介：Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world.
-@OpenClaw🦞 + @OpenAI
+Love the tastefulness with which anthropic ships. 
 
-Proud to say that we did our homework. They found nothing critical. https://t.co/UT152Oggpj</description>
-      <pubDate>Mon, 21 Sep 2026 14:57:58 +0000</pubDate>
-      <guid isPermaLink="false">2102049706830647467</guid>
+Main reason I got excited about 'headless' for the web is that any given page could take whatever whimsical or unique shape you wanted. With AI, there's no excuse not to push the design frontier.
+
+This is @nextjs at its finest:
+https://t.co/uXM96EijiW</description>
+      <pubDate>Tue, 22 Sep 2026 16:42:22 +0000</pubDate>
+      <guid isPermaLink="false">2102438365455167883</guid>
     </item>
     <item>
-      <title>With a few exceptions, the companies boasting about tokenmaxxing have the worst product experiences..  It’s because good products are all about curation &amp;amp; gardening and not throwing the kitchen sink at agents expecting them to figure it out.   Less is more has never more apt.</title>
-      <link>https://x.com/nikunj/status/2102049065504739366</link>
+      <title>Claude Opus 5.5 is now the default model in Claude Code and the Claude app, including Cowork, for Pro, Max, and Team plans. I’ve been using Opus 5.5 as a daily driver and love its clear communication skills and ability to write in my style.  We’re defaulting to effort medium across products, which i...</title>
+      <link>https://x.com/_catwu/status/2102437713781944397</link>
+      <description>作者：Cat Wu
+账号：@_catwu
+简介：claude code + cowork @anthropicai, prev: @dagster, @scale_ai
+
+Claude Opus 5.5 is now the default model in Claude Code and the Claude app, including Cowork, for Pro, Max, and Team plans. I’ve been using Opus 5.5 as a daily driver and love its clear communication skills and ability to write in my style.
+
+We’re defaulting to effort medium across products, which is comparable to Fable 5.1 on intelligence but faster. Your rate limits will go 25% further on Opus 5.5 compared to Opus 5.
+
+Give Opus 5.5 an ambitious task and let us know what you think!</description>
+      <pubDate>Tue, 22 Sep 2026 16:39:47 +0000</pubDate>
+      <guid isPermaLink="false">2102437713781944397</guid>
+    </item>
+    <item>
+      <title>In the mad dash for productivity...we often forget that AI products should be delightful and FUN.  I have had so many magic moments of delight on Sentience.  Highly recommend trying it out. https://t.co/i8pKw19PKq</title>
+      <link>https://x.com/adityaag/status/2102421668509733058</link>
+      <description>作者：Aditya Agarwal
+账号：@adityaag
+简介：General Partner @SPC, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @Dropbox, Board @Flipkart | Optimist, Builder, Dad
+
+In the mad dash for productivity...we often forget that AI products should be delightful and FUN.
+
+I have had so many magic moments of delight on Sentience.
+
+Highly recommend trying it out. https://t.co/i8pKw19PKq</description>
+      <pubDate>Tue, 22 Sep 2026 15:36:01 +0000</pubDate>
+      <guid isPermaLink="false">2102421668509733058</guid>
+    </item>
+    <item>
+      <title>Now also on YouTube: https://t.co/U3O2vY7Z66</title>
+      <link>https://x.com/nikunj/status/2102409907278602622</link>
       <description>作者：Nikunj Kothari
 账号：@nikunj
 简介：partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian &amp; others. love @shimoleejhaveri + 👦👧
 
-With a few exceptions, the companies boasting about tokenmaxxing have the worst product experiences..
-
-It’s because good products are all about curation &amp;amp; gardening and not throwing the kitchen sink at agents expecting them to figure it out. 
-
-Less is more has never more apt.</description>
-      <pubDate>Mon, 21 Sep 2026 14:55:26 +0000</pubDate>
-      <guid isPermaLink="false">2102049065504739366</guid>
+Now also on YouTube: https://t.co/U3O2vY7Z66</description>
+      <pubDate>Tue, 22 Sep 2026 14:49:17 +0000</pubDate>
+      <guid isPermaLink="false">2102409907278602622</guid>
     </item>
     <item>
-      <title>The beauty of running a claw yourself: they cannot block you. https://t.co/WKSs0TwM8f</title>
-      <link>https://x.com/steipete/status/2102044040397238286</link>
-      <description>作者：Peter Steinberger
-账号：@steipete
-简介：Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world.
-@OpenClaw🦞 + @OpenAI
+      <title>A Walk In The Park (part III) feat @toddsaunders  00:00 Software should fit your business 00:16 Meet Todd, the councilman 03:01 From Google to flooring software 07:51 The $10M pivot 11:55 Life after the exit 17:35 Vertical vs. horizontal software 23:21 The college startup story 24:35 Cofounders and ...</title>
+      <link>https://x.com/nikunj/status/2102395699895677325</link>
+      <description>作者：Nikunj Kothari
+账号：@nikunj
+简介：partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian &amp; others. love @shimoleejhaveri + 👦👧
 
-The beauty of running a claw yourself: they cannot block you. https://t.co/WKSs0TwM8f</description>
-      <pubDate>Mon, 21 Sep 2026 14:35:27 +0000</pubDate>
-      <guid isPermaLink="false">2102044040397238286</guid>
-    </item>
-    <item>
-      <title>Claude in Chrome is generally available</title>
-      <link>https://claude.com/blog/claude-in-chrome-generally-available</link>
-      <description>作者：Claude Blog
+A Walk In The Park (part III) feat @toddsaunders
 
-Claude in Chrome is now generally available on every paid Claude plan. Claude can now also take actions autonomously in the browser, instead of needing approval for every one. A safety classifier validates each action before it’s performed to ensure it’s safe and matches your request. Many of the tools you use every day connect to Claude . But many others don’t, such as internal dashboards, legacy systems, and vendor portals. Claude in Chrome lets Claude access those. It can view the page you’re on and take actions like reading and typing text, clicking links, navigating between pages, and filling out forms, using your existing logins. We first announced Claude in Chrome as a pilot last year, so we could test it while also shoring up our defenses against prompt injection : malicious instructions hidden in websites, emails, or documents that try to trick an AI agent into acting against the user’s wishes. These defenses, described below, give us the confidence to make Claude in Chrome generally available. Safeguarding against prompt injection As we outlined when we announced the pilot, an AI agent that works in your browser is also vulnerable to prompt injection. So we’ve worked to improve our safeguards before releasing Claude in Chrome more widely. In a prompt injection attack, malicious actors hide instructions in web content such as a web page, an email, or a form field. You may never see them, but these instructions can redirect the agent to do something you never asked for. For example, if you’ve asked Claude to draft replies to your emails, a hidden instruction in one message could tell Claude to forward your other emails to the attacker instead. At launch, we described how we tested Claude’s defenses against these attacks and the safeguards we had in place at the time; we later released a more detailed description of our browser-use safeguards . Since then, we’ve improved how we train both the model and our probes , and added an additional set of classifiers that make it possible for Claude to safely take more autonomous actions in Chrome. In the next section, we discuss the results of our evaluations, which show the efficacy of these safeguards. Claude recognizes more attacks. We train Claude against a growing library of prompt injection attacks, sourced from our internal automated attackers, external red-teamers, and real-world monitoring. When a new attack succeeds against a current model, it’s added to the library, where it informs the training of future models and our deployed safeguards so they learn to recognize it. Since we first wrote about our prompt injection defenses for browser use in November 2025, we’ve made Claude substantially more resistant to these attacks. Probes screen web content before Claude acts on it. Web content reaches Claude through tool results. To take an action like reading a page or opening an email, the model makes a tool call; the tool result lets the model read the output (in this case, the content of the page or the email). We train probes to scan those results for potential prompt injections. When a probe detects a likely attack, Claude is warned to treat the content with suspicion and, if needed, to check with you before taking an action. We first deployed these probes with Claude Opus 4.5, and have since expanded the types of attacks they cover. Actions are verified before they run . In Claude in Chrome, Claude will now automatically approve actions it determines to be safe, using the same mechanism as auto mode in Claude Code. (You can switch this off in your settings if you’d prefer to continue to approve Claude’s actions manually.) A classifier reviews actions Claude is about to take, such as navigating to a new website or entering text into a page, and checks them against what you originally asked for. If the action doesn’t match your request, it’s blocked. Measuring Claude’s robustness against prompt injection We’ve tested these safeguards to ensure that Claude in Chrome is safe to use for browser-based work. Here, we report the results from our most recent evaluations. On our initial evaluation testing Claude Cowork’s resilience against prompt injection attacks (first developed when we released the Claude in Chrome pilot), no attack succeeded against Claude Fable 5, Claude Opus 5, or Claude Sonnet 5 in the Cowork harness , even without the probes and classifiers discussed above. Success rate of prompt injection attacks against Claude Opus 4.5, Sonnet 5, Opus 5, and Fable 5. Opus 4.5 was run with extended thinking, since it does not support our newer default of adaptive thinking. All other models were run with adaptive thinking at medium effort as the default. The results discussed in our November 2025 blog post were run without extended thinking enabled, but because thinking cannot be disabled for Fable 5, we report thinking-enabled results here. The grader model used in November is also no longer available, so we moved to a more capable grading pipeline combined with manual review of successful attacks, which produces fewer false positives. Because we saturated that evaluation (as evidenced by the 0% success rate), we decided to retire it. On our current evaluation , which uses stronger attacks sourced by professional red-teamers, attacks that reached the model succeeded against Opus 4.5 17.6% of the time and against Opus 5 3.8% of the time, before any additional safeguards. With the strongest safeguards available in November 2025, attacks against Opus 4.5 running with probes succeeded 16.7% of the time. Against every model from Opus 4.8 onwards, when running with probes and the safety classifier, no attacks succeeded against Claude Sonnet 5, Claude Opus 5, or Claude Mythos 5. We saw a 0.3% attack success rate against Fable 5. We have manually verified that all successful breaks are in low-severity scenarios and are working to mitigate them. No attacks succeeded against Claude Sonnet 5 or Opus 5 with probes plus the automatic approval safety classifiers, and 0.3% of attacks succeeded against Fable 5. Opus 4.5’s model behavior resulted in a lower number of attacks reaching the model, but it still had the highest percentage of successful attacks. Prompt injection remains a moving target. While this approach defends against current attacks, we also need to ensure our safeguards stay ahead of the evolving methods of attackers. With each model release, we continue to invest in developing more sophisticated automated systems for attack discovery, red-teaming, and building stronger classifiers. Getting started To start using Claude in Chrome, install it from the Chrome Web Store . On Enterprise plans, admins can manage it in Organization Settings and limit it to approved domains. See the admin setup guide . You’ll still need to use the Claude desktop app to work with files on your computer or with other applications. Claude in Chrome doesn’t run on other Chromium browsers or on mobile yet. ‍ ¹ Not all attacks reach—i.e., are seen by—the model. In some cases, the actions Claude takes result in it never encountering the malicious instructions.</description>
-      <pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
-      <guid>https://claude.com/blog/claude-in-chrome-generally-available</guid>
+00:00 Software should fit your business
+00:16 Meet Todd, the councilman
+03:01 From Google to flooring software
+07:51 The $10M pivot
+11:55 Life after the exit
+17:35 Vertical vs. horizontal software
+23:21 The college startup story
+24:35 Cofounders and the Dalton Mills name
+28:06 Why raise VC again?
+32:43 Who Todd wants to hear from
+
+shot on @iPhone, edited on @descript
+📍westfield, nj</description>
+      <pubDate>Tue, 22 Sep 2026 13:52:50 +0000</pubDate>
+      <guid isPermaLink="false">2102395699895677325</guid>
     </item>
   </channel>
 </rss>
