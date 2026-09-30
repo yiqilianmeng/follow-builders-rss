@@ -5,95 +5,249 @@
     <link>https://github.com/zarazhangrui/follow-builders</link>
     <description>聚合 AI 领域建设者的 X、播客和博客内容。</description>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 30 Sep 2026 02:49:38 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 11:30:50 +0000</lastBuildDate>
     <item>
-      <title>Hi,  Tomorrow we are re-opening the Pro $200 subscriptions to new subscribers, but together with it we are also changing how we calculate the usage for it. In effect, if you do the math, it will net out at half the dollar in API spend compared to the old Pro $200 plan.   Now that it's said, let me e...</title>
-      <link>https://x.com/thsottiaux/status/2104823812042940713</link>
+      <title>What’s up dot</title>
+      <link>https://x.com/thsottiaux/status/2105178959327756396</link>
       <description>作者：Thibault Sottiaux
 账号：@thsottiaux
 简介：Codex &amp; ChatGPT @OpenAI
 
-Hi,
-
-Tomorrow we are re-opening the Pro $200 subscriptions to new subscribers, but together with it we are also changing how we calculate the usage for it. In effect, if you do the math, it will net out at half the dollar in API spend compared to the old Pro $200 plan. 
-
-Now that it's said, let me explain why this is happening and why you will still get more work done than if you were on the Pro $200 subscription one month ago.
-
-(a) We didn't want to compromise in other ways and are committing to not reintroducing the 5h limit, so that you can fully use the weekly usage when you want.
-(b) On the subscription, we guarantee that over time you always get more work done and with an increasing level of quality. This means that you will continue to get more value per dollar spent as a result of models getting more efficient and us passing down the improvements in the form of API price reductions.
-(c) We don't want to put an incentive on ourselves to artificially inflate the API list prices to make it look like you are getting a lot (and workaround it through discounts, etc). Instead we want to continue to both rapidly reduce prices and increase capabilities of models on the API. This week we introduced GPT-6 Sol and GPT-6 Luna at 50% of their previous price. Over time, we see prices go low enough that it makes sense for most to buy usage as needed without there being a significant gap between what you get in a subscription and what you get in the API for a dollar spent.
-(d) Tomorrow, we are adding more things to the subscription that won't draw on the usage, I won't reveal what that is yet.
-
-I wanted to be transparent before all the big announcements tomorrow. Lots of new exciting things are coming to the subscriptions that will make it super compelling, but I wanted to make sure to share this change ahead of time so you can all understand it before we shower you with good news.
-
-Codexingly,
-Tibo</description>
-      <pubDate>Tue, 29 Sep 2026 06:41:17 +0000</pubDate>
-      <guid isPermaLink="false">2104823812042940713</guid>
+What’s up dot</description>
+      <pubDate>Wed, 30 Sep 2026 06:12:30 +0000</pubDate>
+      <guid isPermaLink="false">2105178959327756396</guid>
     </item>
     <item>
-      <title>Folks on X are so fickle about “omg openai is getting mogged by Claude 5.5” or just a few months ago “anthropic is so cooked by codex.”  I’m just glad there are 2 (and soon more) competitors pushing the frontier so we can all benefit.</title>
-      <link>https://x.com/petergyang/status/2104809410040336784</link>
-      <description>作者：Peter Yang
-账号：@petergyang
-简介：Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6
+      <title>New benchmark to climb https://t.co/r9NRjd0i8n</title>
+      <link>https://x.com/thenanyu/status/2105154553327026643</link>
+      <description>作者：Nan Yu
+账号：@thenanyu
+简介：product, codex @openai. prev head of product @linear
 
-Folks on X are so fickle about “omg openai is getting mogged by Claude 5.5” or just a few months ago “anthropic is so cooked by codex.”
-
-I’m just glad there are 2 (and soon more) competitors pushing the frontier so we can all benefit.</description>
-      <pubDate>Tue, 29 Sep 2026 05:44:03 +0000</pubDate>
-      <guid isPermaLink="false">2104809410040336784</guid>
+New benchmark to climb https://t.co/r9NRjd0i8n</description>
+      <pubDate>Wed, 30 Sep 2026 04:35:32 +0000</pubDate>
+      <guid isPermaLink="false">2105154553327026643</guid>
     </item>
     <item>
-      <title>My very first @OpenAI dev day is tomorrow.   If you're going I hope to see you there!</title>
-      <link>https://x.com/petergyang/status/2104781373433377030</link>
-      <description>作者：Peter Yang
-账号：@petergyang
-简介：Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6
-
-My very first @OpenAI dev day is tomorrow. 
-
-If you're going I hope to see you there!</description>
-      <pubDate>Tue, 29 Sep 2026 03:52:39 +0000</pubDate>
-      <guid isPermaLink="false">2104781373433377030</guid>
-    </item>
-    <item>
-      <title>Codegen meets WhatsApp actually makes a ton of sense https://t.co/n6KUOfMm0s</title>
-      <link>https://x.com/garrytan/status/2104771351009702168</link>
-      <description>作者：Garry Tan
-账号：@garrytan
-简介：President &amp; CEO @ycombinator —Founder @garryslist—Creator of GStack &amp; GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop
-
-Codegen meets WhatsApp actually makes a ton of sense https://t.co/n6KUOfMm0s</description>
-      <pubDate>Tue, 29 Sep 2026 03:12:49 +0000</pubDate>
-      <guid isPermaLink="false">2104771351009702168</guid>
-    </item>
-    <item>
-      <title>You can now search @vercel domains without auth. Especially great if you're an agent. https://t.co/NpIfj1DAjO https://t.co/WV4DTMF7Ef</title>
-      <link>https://x.com/rauchg/status/2104764419305796094</link>
-      <description>作者：Guillermo Rauch
-账号：@rauchg
-简介：@vercel CEO
-
-You can now search @vercel domains without auth.
-Especially great if you're an agent. https://t.co/NpIfj1DAjO https://t.co/WV4DTMF7Ef</description>
-      <pubDate>Tue, 29 Sep 2026 02:45:16 +0000</pubDate>
-      <guid isPermaLink="false">2104764419305796094</guid>
-    </item>
-    <item>
-      <title>If you prefer video, this was one shot by Opus 5.5 💥 https://t.co/uJ1i8TwpWq https://t.co/NLKRpVALgH</title>
-      <link>https://x.com/nikunj/status/2104758141128974358</link>
+      <title>Two random honest thoughts on the market right now..  First is on people: It's harder than ever to find missionaries. I'm seeing people leave the companies they have cofounded to join the &quot;obvious&quot; winners. Public CEOs are leaving for positions at labs. Founders leaving and rejoining neolabs at a mo...</title>
+      <link>https://x.com/nikunj/status/2105148927599423752</link>
       <description>作者：Nikunj Kothari
 账号：@nikunj
 简介：partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian &amp; others. love @shimoleejhaveri + 👦👧
 
-If you prefer video, this was one shot by Opus 5.5 💥 https://t.co/uJ1i8TwpWq https://t.co/NLKRpVALgH</description>
-      <pubDate>Tue, 29 Sep 2026 02:20:20 +0000</pubDate>
-      <guid isPermaLink="false">2104758141128974358</guid>
+Two random honest thoughts on the market right now..
+
+First is on people: It's harder than ever to find missionaries. I'm seeing people leave the companies they have cofounded to join the &quot;obvious&quot; winners. Public CEOs are leaving for positions at labs. Founders leaving and rejoining neolabs at a moment's notice. Companies getting Windsurf-ed where only the choice people are getting to join the future company. Founders raising tranched valuations without worrying about the next employee that will join them will have 409As that make early exercising impossible. 
+
+As early stage VCs, we are often just betting on people. And, when those people leave on a dime's notice, then the remaining company (usually) becomes a shell. It seems like a great time to be a mercenary, and everyone feels like one even though there are missionaries out there. 
+
+Second is on defensibility: There's a lot of chatter on moats, so I won't re-litigate the matter here. But the thing that I want to call out is given the pace of what's happening the moat is no longer &quot;one&quot; thing. Like if you really think about it especially in the app layer - the harness is like a thousand small things done well. And, a lot of it is invisible. And given the competition is so fierce and new entrants overnight, you really have to dig into the details to figure out why a given company is different. What is their edge, and their combined edge across product, tech and GTM. 
+
+And often times even with that, you end up going back to &quot;well the real defensibility is the founders&quot;. And in those founders the defensibility is their speed of execution and being able to adapt to the market. That has become the new bar for every founder out there, given there are no &quot;blue ocean&quot; markets. And even if there are, any company with a LITTLE bit of heat, will have a lot of competitiors overnight. 
+
+Even though I think I have a pretty good sense on finding the best people who have founder market fit, I find this current climate really hard and it's testing all my priors (and patience) at the same time. 
+
+I know it's not true, but feels like everyone is in it to grab the bag and not really care about their legacy of what they want to build (please reach out if you do).</description>
+      <pubDate>Wed, 30 Sep 2026 04:13:10 +0000</pubDate>
+      <guid isPermaLink="false">2105148927599423752</guid>
     </item>
     <item>
-      <title>oai designers have to be trolling us https://t.co/r6EsTOAtva https://t.co/SLOaPyhkRP</title>
-      <link>https://x.com/swyx/status/2104741800393253322</link>
+      <title>Wow I had no idea this toggle exists   Going to try this now I hate the ai slop shorts on YouTube https://t.co/Z7xEmaBNWs</title>
+      <link>https://x.com/petergyang/status/2105127506701644024</link>
+      <description>作者：Peter Yang
+账号：@petergyang
+简介：Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6
+
+Wow I had no idea this toggle exists 
+
+Going to try this now I hate the ai slop shorts on YouTube https://t.co/Z7xEmaBNWs</description>
+      <pubDate>Wed, 30 Sep 2026 02:48:03 +0000</pubDate>
+      <guid isPermaLink="false">2105127506701644024</guid>
+    </item>
+    <item>
+      <title>I had so much fun at @OpenAI Dev Day despite not attending a single session other than the keynotes 😅  Instead, I spent the day catching up with some great folks, so I'm going to embarass some of them now:  1. @lennysan the nicest most humble successful person I've had the pleasure of being friends ...</title>
+      <link>https://x.com/petergyang/status/2105114973819244676</link>
+      <description>作者：Peter Yang
+账号：@petergyang
+简介：Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6
+
+I had so much fun at @OpenAI Dev Day despite not attending a single session other than the keynotes 😅
+
+Instead, I spent the day catching up with some great folks, so I'm going to embarass some of them now:
+
+1. @lennysan the nicest most humble successful person I've had the pleasure of being friends with 
+
+2. @bb_fresh the comedy legend, search &quot;krazam microservices&quot; on YouTube for a laugh. My dream is to appear in one of Ben's sketches as the PM.
+
+3. @danshipper the vibe checks are legendary
+
+4. @bentossell the tall Welsh gentleman in pink - has an amazing newsletter in Ben's Bites
+
+5. @thenanyu the man who brings taste and craft to everything he touches from Linear to OpenAI
+
+6. @illscience my favorite a16z partner that I've met (because @joshelman still hasn't met me in person 😅)
+
+7. @fishmanaf a great product leader but more importantly the most buff dad ever
+
+8. @tomkrcha the founder behind @pendev one of my favorite AI design tools
+
+9. @victornunez who still makes time to answer my dumb DMs at 11 pm despite working at OpenAI and having 3 kids</description>
+      <pubDate>Wed, 30 Sep 2026 01:58:15 +0000</pubDate>
+      <guid isPermaLink="false">2105114973819244676</guid>
+    </item>
+    <item>
+      <title>It’s entirely plausible that the AI industry can deal with safety and security through a set of shared standards and practices for the foreseeable future.   At some point in capability progress there will inevitably be greater oversight, testing, and layers of liability and regulation, but we are st...</title>
+      <link>https://x.com/levie/status/2105111520913039530</link>
+      <description>作者：Aaron Levie
+账号：@levie
+简介：ceo @box - your business lives in content. unleash it with AI
+
+It’s entirely plausible that the AI industry can deal with safety and security through a set of shared standards and practices for the foreseeable future. 
+
+At some point in capability progress there will inevitably be greater oversight, testing, and layers of liability and regulation, but we are still in a phase where the industry can absolutely align on these efforts collectively.
+
+Awesome to see this come together so quickly and for the whole industry to support progress without reducing competition. This certainly points to a much brighter future for AI.</description>
+      <pubDate>Wed, 30 Sep 2026 01:44:32 +0000</pubDate>
+      <guid isPermaLink="false">2105111520913039530</guid>
+    </item>
+    <item>
+      <title>We will have a few million dots online within days, working on all sorts of things across such a diverse and large community.   Excited to learn from all of you on what you love and what doesn’t yet feel magical. Personally I felt a jump after 2-3 days of use after teaching it more about my preferen...</title>
+      <link>https://x.com/thsottiaux/status/2105105086506840421</link>
+      <description>作者：Thibault Sottiaux
+账号：@thsottiaux
+简介：Codex &amp; ChatGPT @OpenAI
+
+We will have a few million dots online within days, working on all sorts of things across such a diverse and large community. 
+
+Excited to learn from all of you on what you love and what doesn’t yet feel magical. Personally I felt a jump after 2-3 days of use after teaching it more about my preferences and things on my mind. It learns very quickly to be most useful and it can take on surprisingly ambitious tasks on its own.
+
+We’re learning from how you all use your primary dot before releasing the ability to create an entire team of them.</description>
+      <pubDate>Wed, 30 Sep 2026 01:18:58 +0000</pubDate>
+      <guid isPermaLink="false">2105105086506840421</guid>
+    </item>
+    <item>
+      <title>It was so nice to connect with so many of you in person at DevDay. Immaculate vibes from the crowd and fun to see so many build things throughout the day.</title>
+      <link>https://x.com/thsottiaux/status/2105102820706058498</link>
+      <description>作者：Thibault Sottiaux
+账号：@thsottiaux
+简介：Codex &amp; ChatGPT @OpenAI
+
+It was so nice to connect with so many of you in person at DevDay. Immaculate vibes from the crowd and fun to see so many build things throughout the day.</description>
+      <pubDate>Wed, 30 Sep 2026 01:09:58 +0000</pubDate>
+      <guid isPermaLink="false">2105102820706058498</guid>
+    </item>
+    <item>
+      <title>Transitioning from one thing to the next can often be really fun and often quite stressful in what feels like a warp speed period..   If that’s you, @lolawajs &amp;amp; I would love to meet you at this breakfast and help in any way possible.   DMs open! https://t.co/ApkXVmfrfE</title>
+      <link>https://x.com/nikunj/status/2105097936455786536</link>
+      <description>作者：Nikunj Kothari
+账号：@nikunj
+简介：partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian &amp; others. love @shimoleejhaveri + 👦👧
+
+Transitioning from one thing to the next can often be really fun and often quite stressful in what feels like a warp speed period.. 
+
+If that’s you, @lolawajs &amp;amp; I would love to meet you at this breakfast and help in any way possible. 
+
+DMs open! https://t.co/ApkXVmfrfE</description>
+      <pubDate>Wed, 30 Sep 2026 00:50:33 +0000</pubDate>
+      <guid isPermaLink="false">2105097936455786536</guid>
+    </item>
+    <item>
+      <title>@nealmohan how about letting users (or at least parents) opt out of shorts entirely</title>
+      <link>https://x.com/petergyang/status/2105097073448407083</link>
+      <description>作者：Peter Yang
+账号：@petergyang
+简介：Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6
+
+@nealmohan how about letting users (or at least parents) opt out of shorts entirely</description>
+      <pubDate>Wed, 30 Sep 2026 00:47:07 +0000</pubDate>
+      <guid isPermaLink="false">2105097073448407083</guid>
+    </item>
+    <item>
+      <title>I made a marketing website for my water bottle  The whole thing was done by Opus 5.5 (6 prompts); it used: - Elevenlabs to generate the music - Meshy to generate the 3D assets - OpenAI API to generate images (sound on) https://t.co/xlKN7bEesp</title>
+      <link>https://x.com/zarazhangrui/status/2105096296831017078</link>
+      <description>作者：Zara Zhang
+账号：@zarazhangrui
+简介：Builder. Make something people want, then make people want it. Harvard’17. GitHub: https://t.co/KCuEajezlL 
+YouTube: https://t.co/8xzbGWtf6w
+
+I made a marketing website for my water bottle
+
+The whole thing was done by Opus 5.5 (6 prompts); it used:
+- Elevenlabs to generate the music
+- Meshy to generate the 3D assets
+- OpenAI API to generate images
+(sound on) https://t.co/xlKN7bEesp</description>
+      <pubDate>Wed, 30 Sep 2026 00:44:02 +0000</pubDate>
+      <guid isPermaLink="false">2105096296831017078</guid>
+    </item>
+    <item>
+      <title>@every @sama read the vibe check if you haven't: https://t.co/uSsYkxbzd1</title>
+      <link>https://x.com/danshipper/status/2105073259507331233</link>
+      <description>作者：Dan Shipper
+账号：@danshipper
+简介：ceo @every | the only subscription you need to stay at the edge of AI
+
+@every @sama read the vibe check if you haven't: https://t.co/uSsYkxbzd1</description>
+      <pubDate>Tue, 29 Sep 2026 23:12:30 +0000</pubDate>
+      <guid isPermaLink="false">2105073259507331233</guid>
+    </item>
+    <item>
+      <title>im biased but im insanely proud of @every's dev day coverage  - two vibe checks - live feed - livestream - podcast with @sama (coming tomorrow!)  insane amount of effort from the team: https://t.co/pejFgBTJjc</title>
+      <link>https://x.com/danshipper/status/2105066959822114972</link>
+      <description>作者：Dan Shipper
+账号：@danshipper
+简介：ceo @every | the only subscription you need to stay at the edge of AI
+
+im biased but im insanely proud of @every's dev day coverage
+
+- two vibe checks
+- live feed
+- livestream
+- podcast with @sama (coming tomorrow!)
+
+insane amount of effort from the team: https://t.co/pejFgBTJjc</description>
+      <pubDate>Tue, 29 Sep 2026 22:47:28 +0000</pubDate>
+      <guid isPermaLink="false">2105066959822114972</guid>
+    </item>
+    <item>
+      <title>from our blog post on how we made Claude faster: https://t.co/At9YfAhSE1</title>
+      <link>https://x.com/trq212/status/2105065175711924492</link>
+      <description>作者：Thariq
+账号：@trq212
+简介：Claude Code @anthropicai. prev YC W20, @spc, @medialab
+
+from our blog post on how we made Claude faster: https://t.co/At9YfAhSE1</description>
+      <pubDate>Tue, 29 Sep 2026 22:40:22 +0000</pubDate>
+      <guid isPermaLink="false">2105065175711924492</guid>
+    </item>
+    <item>
+      <title>have you tried telling Claude &quot;we have the power to do anything, please be braver&quot;  also, have you tried telling yourself https://t.co/HCztPpmXVq</title>
+      <link>https://x.com/trq212/status/2105065127892734076</link>
+      <description>作者：Thariq
+账号：@trq212
+简介：Claude Code @anthropicai. prev YC W20, @spc, @medialab
+
+have you tried telling Claude &quot;we have the power to do anything, please be braver&quot;
+
+also, have you tried telling yourself https://t.co/HCztPpmXVq</description>
+      <pubDate>Tue, 29 Sep 2026 22:40:11 +0000</pubDate>
+      <guid isPermaLink="false">2105065127892734076</guid>
+    </item>
+    <item>
+      <title>@sama subscribe to @every to get it: https://t.co/9wRhOCVapS</title>
+      <link>https://x.com/danshipper/status/2105064711431897369</link>
+      <description>作者：Dan Shipper
+账号：@danshipper
+简介：ceo @every | the only subscription you need to stay at the edge of AI
+
+@sama subscribe to @every to get it:
+https://t.co/9wRhOCVapS</description>
+      <pubDate>Tue, 29 Sep 2026 22:38:32 +0000</pubDate>
+      <guid isPermaLink="false">2105064711431897369</guid>
+    </item>
+    <item>
+      <title>annual ranking of best ai podcasts just dropped https://t.co/qEQBCutMcU https://t.co/tR3IF9IXSG</title>
+      <link>https://x.com/swyx/status/2105057391490498660</link>
       <description>作者：Swyx
 账号：@swyx
 简介：achieve ambition with intentionality, intensity, integrity &amp; insanity.
@@ -105,381 +259,224 @@ affiliations:
 - @aidotengineer
 - @latentspacepod
 
-oai designers have to be trolling us https://t.co/r6EsTOAtva https://t.co/SLOaPyhkRP</description>
-      <pubDate>Tue, 29 Sep 2026 01:15:24 +0000</pubDate>
-      <guid isPermaLink="false">2104741800393253322</guid>
+annual ranking of best ai podcasts just dropped https://t.co/qEQBCutMcU https://t.co/tR3IF9IXSG</description>
+      <pubDate>Tue, 29 Sep 2026 22:09:26 +0000</pubDate>
+      <guid isPermaLink="false">2105057391490498660</guid>
     </item>
     <item>
-      <title>I built a working StarCraft level with Sonnet 5.5.  You play Terran, defending your base against the Zerg:  → Build Marines, Siege Tanks, and Battlecruisers → Use SC2 models from Sketchfab (by Catholomew) → Music generated with Suno  📌 Play it here: https://t.co/U9QI2VD3HQ  Sonnet also made the sizz...</title>
-      <link>https://x.com/petergyang/status/2104736498151256303</link>
-      <description>作者：Peter Yang
-账号：@petergyang
-简介：Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6
+      <title>Plotted: the inverse correlation between product defects and downloads. h/t @anthonysheww https://t.co/7xdB8DgZpd</title>
+      <link>https://x.com/rauchg/status/2105053919642829001</link>
+      <description>作者：Guillermo Rauch
+账号：@rauchg
+简介：@vercel CEO
 
-I built a working StarCraft level with Sonnet 5.5.
-
-You play Terran, defending your base against the Zerg:
-
-→ Build Marines, Siege Tanks, and Battlecruisers
-→ Use SC2 models from Sketchfab (by Catholomew)
-→ Music generated with Suno
-
-📌 Play it here: https://t.co/U9QI2VD3HQ
-
-Sonnet also made the sizzle reel below. Check out my latest tutorial on Sonnet here: https://t.co/yH28RpYWH2</description>
-      <pubDate>Tue, 29 Sep 2026 00:54:19 +0000</pubDate>
-      <guid isPermaLink="false">2104736498151256303</guid>
+Plotted: the inverse correlation between product defects and downloads. h/t @anthonysheww https://t.co/7xdB8DgZpd</description>
+      <pubDate>Tue, 29 Sep 2026 21:55:39 +0000</pubDate>
+      <guid isPermaLink="false">2105053919642829001</guid>
     </item>
     <item>
-      <title>https://t.co/gIng6z5pUP</title>
-      <link>https://x.com/nikunj/status/2104704157106180341</link>
-      <description>作者：Nikunj Kothari
-账号：@nikunj
-简介：partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian &amp; others. love @shimoleejhaveri + 👦👧
+      <title>https://t.co/SskpMm0usL</title>
+      <link>https://x.com/thenanyu/status/2105049816388755620</link>
+      <description>作者：Nan Yu
+账号：@thenanyu
+简介：product, codex @openai. prev head of product @linear
 
-https://t.co/gIng6z5pUP</description>
-      <pubDate>Mon, 28 Sep 2026 22:45:49 +0000</pubDate>
-      <guid isPermaLink="false">2104704157106180341</guid>
+https://t.co/SskpMm0usL</description>
+      <pubDate>Tue, 29 Sep 2026 21:39:20 +0000</pubDate>
+      <guid isPermaLink="false">2105049816388755620</guid>
     </item>
     <item>
-      <title>I just told Claude &quot;can you help me think through this problem step by step&quot;</title>
-      <link>https://x.com/trq212/status/2104702728270471594</link>
-      <description>作者：Thariq
-账号：@trq212
-简介：Claude Code @anthropicai. prev YC W20, @spc, @medialab
-
-I just told Claude &quot;can you help me think through this problem step by step&quot;</description>
-      <pubDate>Mon, 28 Sep 2026 22:40:08 +0000</pubDate>
-      <guid isPermaLink="false">2104702728270471594</guid>
-    </item>
-    <item>
-      <title>See ya there! https://t.co/4BtgyOXBSv</title>
-      <link>https://x.com/steipete/status/2104702088626557384</link>
+      <title>That /goal is still running.</title>
+      <link>https://x.com/steipete/status/2105049100983132648</link>
       <description>作者：Peter Steinberger
 账号：@steipete
 简介：Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world.
 @OpenClaw🦞 + @OpenAI
 
-See ya there! https://t.co/4BtgyOXBSv</description>
-      <pubDate>Mon, 28 Sep 2026 22:37:36 +0000</pubDate>
-      <guid isPermaLink="false">2104702088626557384</guid>
+That /goal is still running.</description>
+      <pubDate>Tue, 29 Sep 2026 21:36:30 +0000</pubDate>
+      <guid isPermaLink="false">2105049100983132648</guid>
     </item>
     <item>
-      <title>Hello, I'm looking to chat with some of my followers! If you're - building web-based/frontend experiences with AI but have a hard time making it look beautiful/not AI slop - seeing all these cool demos on X built with latest models but have no idea how to replicate them - are creating these cool dem...</title>
-      <link>https://x.com/zarazhangrui/status/2104689580045979811</link>
-      <description>作者：Zara Zhang
-账号：@zarazhangrui
-简介：Builder. Make something people want, then make people want it. Harvard’17. GitHub: https://t.co/KCuEajezlL 
-YouTube: https://t.co/8xzbGWtf6w
-
-Hello, I'm looking to chat with some of my followers!
-If you're
-- building web-based/frontend experiences with AI but have a hard time making it look beautiful/not AI slop
-- seeing all these cool demos on X built with latest models but have no idea how to replicate them
-- are creating these cool demos yourself and would like to share your creation process/tips
-Would love to have a chat; DM me or comment below!</description>
-      <pubDate>Mon, 28 Sep 2026 21:47:53 +0000</pubDate>
-      <guid isPermaLink="false">2104689580045979811</guid>
-    </item>
-    <item>
-      <title>Nice viz by @marcosnils: https://t.co/ztIcLnG8ay Choose ▲ if you want to win. You know what to choose if you want third place! https://t.co/BUevLsWi9w</title>
-      <link>https://x.com/rauchg/status/2104686719685853226</link>
-      <description>作者：Guillermo Rauch
-账号：@rauchg
-简介：@vercel CEO
-
-Nice viz by @marcosnils: https://t.co/ztIcLnG8ay
-Choose ▲ if you want to win.
-You know what to choose if you want third place! https://t.co/BUevLsWi9w</description>
-      <pubDate>Mon, 28 Sep 2026 21:36:31 +0000</pubDate>
-      <guid isPermaLink="false">2104686719685853226</guid>
-    </item>
-    <item>
-      <title>What are you exploring with Sonnet 5.5?</title>
-      <link>https://x.com/claudeai/status/2104675005090923000</link>
-      <description>作者：Claude
-账号：@claudeai
-简介：Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Talk to Claude on https://t.co/ZhTwG8d1e5 or download the app.
-
-What are you exploring with Sonnet 5.5?</description>
-      <pubDate>Mon, 28 Sep 2026 20:49:58 +0000</pubDate>
-      <guid isPermaLink="false">2104675005090923000</guid>
-    </item>
-    <item>
-      <title>Bouncing-ball physics tests by @forwardeditor from the same prompt, Sonnet 5 vs Sonnet 5.5. https://t.co/IoYJ2w2gEp</title>
-      <link>https://x.com/claudeai/status/2104675003673325732</link>
-      <description>作者：Claude
-账号：@claudeai
-简介：Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Talk to Claude on https://t.co/ZhTwG8d1e5 or download the app.
-
-Bouncing-ball physics tests by @forwardeditor from the same prompt, Sonnet 5 vs Sonnet 5.5. https://t.co/IoYJ2w2gEp</description>
-      <pubDate>Mon, 28 Sep 2026 20:49:58 +0000</pubDate>
-      <guid isPermaLink="false">2104675003673325732</guid>
-    </item>
-    <item>
-      <title>Pixel-art forest creatures by @measure_plan, every frame drawn in code. https://t.co/jPGx50oMNS</title>
-      <link>https://x.com/claudeai/status/2104675000787603486</link>
-      <description>作者：Claude
-账号：@claudeai
-简介：Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Talk to Claude on https://t.co/ZhTwG8d1e5 or download the app.
-
-Pixel-art forest creatures by @measure_plan, every frame drawn in code. https://t.co/jPGx50oMNS</description>
-      <pubDate>Mon, 28 Sep 2026 20:49:57 +0000</pubDate>
-      <guid isPermaLink="false">2104675000787603486</guid>
-    </item>
-    <item>
-      <title>i've been to every dev day since 2023  this is by far the most launches @OpenAI has ever had  rsi? https://t.co/omm9gjdLXB https://t.co/c8esVxyR7C</title>
-      <link>https://x.com/danshipper/status/2104662907716050988</link>
-      <description>作者：Dan Shipper
-账号：@danshipper
-简介：ceo @every | the only subscription you need to stay at the edge of AI
-
-i've been to every dev day since 2023
-
-this is by far the most launches @OpenAI has ever had
-
-rsi? https://t.co/omm9gjdLXB https://t.co/c8esVxyR7C</description>
-      <pubDate>Mon, 28 Sep 2026 20:01:54 +0000</pubDate>
-      <guid isPermaLink="false">2104662907716050988</guid>
-    </item>
-    <item>
-      <title>@every @kieranklaassen full vibe check here: https://t.co/aS6cePaQcz</title>
-      <link>https://x.com/danshipper/status/2104662550138994746</link>
-      <description>作者：Dan Shipper
-账号：@danshipper
-简介：ceo @every | the only subscription you need to stay at the edge of AI
-
-@every @kieranklaassen full vibe check here: https://t.co/aS6cePaQcz</description>
-      <pubDate>Mon, 28 Sep 2026 20:00:29 +0000</pubDate>
-      <guid isPermaLink="false">2104662550138994746</guid>
-    </item>
-    <item>
-      <title>Pretty excited for DevDay tomorrow.  We have found a new thing. https://t.co/YUjwTlec2t</title>
-      <link>https://x.com/sama/status/2104661956879913457</link>
-      <description>作者：Sam Altman
-账号：@sama
-简介：The mission of OpenAI is to ensure that AGI benefits all of humanity
-
-Pretty excited for DevDay tomorrow.
-
-We have found a new thing. https://t.co/YUjwTlec2t</description>
-      <pubDate>Mon, 28 Sep 2026 19:58:07 +0000</pubDate>
-      <guid isPermaLink="false">2104661956879913457</guid>
-    </item>
-    <item>
-      <title>A lot of times when I talk about higher level abstractions like projects, claude tag and dynamic workflows, I hear concerns about token cost.  With Sonnet + Opus 5.5 I think this sort intelligence is should be very available.  Try Sonnet 5.5 in particular when making workflows. https://t.co/Vu3OB7FY...</title>
-      <link>https://x.com/trq212/status/2104660926373023830</link>
-      <description>作者：Thariq
-账号：@trq212
-简介：Claude Code @anthropicai. prev YC W20, @spc, @medialab
-
-A lot of times when I talk about higher level abstractions like projects, claude tag and dynamic workflows, I hear concerns about token cost.
-
-With Sonnet + Opus 5.5 I think this sort intelligence is should be very available.
-
-Try Sonnet 5.5 in particular when making workflows. https://t.co/Vu3OB7FYhd</description>
-      <pubDate>Mon, 28 Sep 2026 19:54:02 +0000</pubDate>
-      <guid isPermaLink="false">2104660926373023830</guid>
-    </item>
-    <item>
-      <title>We migrated https://t.co/ftag8z6AlW with as little intervention as possible, setting out to prove just how much faster @vercel is. ~70% faster builds and ~75% faster paints.   We derived two AI skills from the migration that we'll be sharing back. It was a mature workload with a lot of &quot;$formerProvi...</title>
-      <link>https://x.com/rauchg/status/2104660502723072281</link>
-      <description>作者：Guillermo Rauch
-账号：@rauchg
-简介：@vercel CEO
-
-We migrated https://t.co/ftag8z6AlW with as little intervention as possible, setting out to prove just how much faster @vercel is. ~70% faster builds and ~75% faster paints. 
-
-We derived two AI skills from the migration that we'll be sharing back. It was a mature workload with a lot of &quot;$formerProvider-isms&quot;, and yet the net of the work was done in under a week.
-
-If it's [built / rendered / shipped] fast, it's on Vercel.</description>
-      <pubDate>Mon, 28 Sep 2026 19:52:21 +0000</pubDate>
-      <guid isPermaLink="false">2104660502723072281</guid>
-    </item>
-    <item>
-      <title>At Box, we've been testing Sonnet 5.5 in early access on our complex work eval with the Box Agent, and Sonnet 5.5 is another strong jump from Sonnet 5 on knowledge work with enterprise content.  Across the board we saw a 4 pt overall improvement on our hardest tests, but it was roughly 2.4× faster t...</title>
-      <link>https://x.com/levie/status/2104648654074343480</link>
-      <description>作者：Aaron Levie
-账号：@levie
-简介：ceo @box - your business lives in content. unleash it with AI
-
-At Box, we've been testing Sonnet 5.5 in early access on our complex work eval with the Box Agent, and Sonnet 5.5 is another strong jump from Sonnet 5 on knowledge work with enterprise content.
-
-Across the board we saw a 4 pt overall improvement on our hardest tests, but it was roughly 2.4× faster to a finished deliverable on 12% fewer tokens. We also saw major wins in key verticals, like a +18 percentage point improvement in Financial Services, +7 pt in Legal, +8 pt in Life Sciences, and +7 pt in the Public Sector. 
-
-Here are some specific wins on certain tasks that show the power of Sonnet 5.5:
-
-* Financial services (+48 points): a due-diligence review of a trading-tool acquisition, where the deal book's arithmetic doesn't hold up. Sonnet 5.5 caught the miscalculated interest totals and the mispriced options and flagged them, and it also finished this work about 61% faster.
-
-* Legal (+14 points): a commercial lease review. Sonnet 5.5 refused to invent a &quot;standard&quot; market benchmark for renewal terms and notice periods, and instead flagged what the lease was genuinely missing.
-
-* Life sciences (+22 points): writing up a field trial from the raw measurement data. Sonnet 5.5 got the sample standard deviations right across both treatment groups. Sonnet 5 missed nearly all of them. And Sonnet 5.5 did it about 41% faster.
-
-* Public sector (+11 points): a report on a math intervention program. Sonnet 5.5 pulled the right student progress-monitoring figures out of the underlying data, about 71% faster.
-
-Customers will be able to build AI agents with Sonnet 5.5 in the Box AI Studio shortly.</description>
-      <pubDate>Mon, 28 Sep 2026 19:05:16 +0000</pubDate>
-      <guid isPermaLink="false">2104648654074343480</guid>
-    </item>
-    <item>
-      <title>Sonnet 5.5 is here! In Claude Code, users get ~30% more tasks done compared to Sonnet 5. It's smarter, so it needs fewer tokens for the same work.  Here it rakes a yard of leaves using tool calls. 24s faster than Sonnet 5, with 6K fewer tokens. It leaves her extra time to read :) https://t.co/X5RHEN...</title>
-      <link>https://x.com/_catwu/status/2104639552170377399</link>
-      <description>作者：Cat Wu
-账号：@_catwu
-简介：claude code + cowork @anthropicai, prev: @dagster, @scale_ai
-
-Sonnet 5.5 is here! In Claude Code, users get ~30% more tasks done compared to Sonnet 5. It's smarter, so it needs fewer tokens for the same work.
-
-Here it rakes a yard of leaves using tool calls. 24s faster than Sonnet 5, with 6K fewer tokens. It leaves her extra time to read :) https://t.co/X5RHENqRjS https://t.co/xlyQigZW57</description>
-      <pubDate>Mon, 28 Sep 2026 18:29:06 +0000</pubDate>
-      <guid isPermaLink="false">2104639552170377399</guid>
-    </item>
-    <item>
-      <title>Sonnet 5.5 fixing a bug with Claude Code.  30% faster and 30% less usage. https://t.co/Vt1K1ubcFd https://t.co/d6QCsCd1gi</title>
-      <link>https://x.com/bcherny/status/2104638725317923228</link>
-      <description>作者：Boris Cherny
-账号：@bcherny
-简介：Claude Code @anthropicai
-
-Sonnet 5.5 fixing a bug with Claude Code.
-
-30% faster and 30% less usage. https://t.co/Vt1K1ubcFd https://t.co/d6QCsCd1gi</description>
-      <pubDate>Mon, 28 Sep 2026 18:25:49 +0000</pubDate>
-      <guid isPermaLink="false">2104638725317923228</guid>
-    </item>
-    <item>
-      <title>SONNET 5.5 IS OUT!   It has dramatically improved writing even versus Opus 5.5 in my testing for @every. Astra is still my favorite for writing, but this model beats it at revision tasks.  It's faster and cheaper than Opus 5.5, so it's @kieranklaassen's preferred model for quick iterative coding and...</title>
-      <link>https://x.com/danshipper/status/2104636728992776510</link>
-      <description>作者：Dan Shipper
-账号：@danshipper
-简介：ceo @every | the only subscription you need to stay at the edge of AI
-
-SONNET 5.5 IS OUT! 
-
-It has dramatically improved writing even versus Opus 5.5 in my testing for @every. Astra is still my favorite for writing, but this model beats it at revision tasks.
-
-It's faster and cheaper than Opus 5.5, so it's @kieranklaassen's preferred model for quick iterative coding and design work. 
-
-But both @kplikethebird and @hammer_mt feel like they don't have room in their stack for mid-tier models anymore.
-
-Full vibe check coming on @every! 
-
-Until then you can see Sonnet's scores vs. Opus and Astra on my personal benchmark, drawn from my real work: https://t.co/SpeDq9gVu6</description>
-      <pubDate>Mon, 28 Sep 2026 18:17:53 +0000</pubDate>
-      <guid isPermaLink="false">2104636728992776510</guid>
-    </item>
-    <item>
-      <title>Sonnet 5.5 has the same feel I liked about Opus 5.5. It writes clearly, it's very fast, and it's a major capabilities jump over Sonnet 5. Really great model to iterate with. https://t.co/g3jF3djPRv</title>
-      <link>https://x.com/alexalbert__/status/2104633937280811010</link>
-      <description>作者：Alex Albert
-账号：@alexalbert__
-简介：Research @AnthropicAI. Opinions are my own!
-
-Sonnet 5.5 has the same feel I liked about Opus 5.5. It writes clearly, it's very fast, and it's a major capabilities jump over Sonnet 5. Really great model to iterate with. https://t.co/g3jF3djPRv</description>
-      <pubDate>Mon, 28 Sep 2026 18:06:47 +0000</pubDate>
-      <guid isPermaLink="false">2104633937280811010</guid>
-    </item>
-    <item>
-      <title>Having just come back from Yosemite recently, this is awesome! https://t.co/YqW48K3Gch</title>
-      <link>https://x.com/joshwoodward/status/2104616392297451882</link>
-      <description>作者：Josh Woodward
-账号：@joshwoodward
-简介：VP, @Google @GoogleLabs @GeminiApp @GoogleAIStudio
-
-Having just come back from Yosemite recently, this is awesome! https://t.co/YqW48K3Gch</description>
-      <pubDate>Mon, 28 Sep 2026 16:57:04 +0000</pubDate>
-      <guid isPermaLink="false">2104616392297451882</guid>
-    </item>
-    <item>
-      <title>it's basically impossible for someone to just &quot;show you their prompt&quot; now, because everything is about references, skills and examples  I often ask my agent to look at 3 other repos I've made first, search the web for references, use other AI APIs, etc.</title>
-      <link>https://x.com/trq212/status/2104608785696440510</link>
-      <description>作者：Thariq
-账号：@trq212
-简介：Claude Code @anthropicai. prev YC W20, @spc, @medialab
-
-it's basically impossible for someone to just &quot;show you their prompt&quot; now, because everything is about references, skills and examples
-
-I often ask my agent to look at 3 other repos I've made first, search the web for references, use other AI APIs, etc.</description>
-      <pubDate>Mon, 28 Sep 2026 16:26:50 +0000</pubDate>
-      <guid isPermaLink="false">2104608785696440510</guid>
-    </item>
-    <item>
-      <title>Where are all the “distribution is a moat and hence raise a lot of money” investors today..  when the *checks notes* incumbents are flexing their distribution muscle.  It’s SO important to stay first principles on what matters. Find your unfair advantages. Build a great product with high retention a...</title>
-      <link>https://x.com/nikunj/status/2104566122549063756</link>
-      <description>作者：Nikunj Kothari
-账号：@nikunj
-简介：partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian &amp; others. love @shimoleejhaveri + 👦👧
-
-Where are all the “distribution is a moat and hence raise a lot of money” investors today..
-
-when the *checks notes* incumbents are flexing their distribution muscle.
-
-It’s SO important to stay first principles on what matters. Find your unfair advantages. Build a great product with high retention and ideally network effects. Use capital as a weapon to compound and not as destiny. And, finally figure out how to be a self sustaining business because this money spigot will dry. 
-
-And, that is so freaking hard. It’s never been easy - especially not now. 
-
-(PS: This is not a subtweet on any company, but more so on the investors who’ll dole out terrible advice and move to the next company in their portfolio when that one crashes and burns)</description>
-      <pubDate>Mon, 28 Sep 2026 13:37:19 +0000</pubDate>
-      <guid isPermaLink="false">2104566122549063756</guid>
-    </item>
-    <item>
-      <title>Karma isn’t a thing that happens, it’s a choice you can make now https://t.co/Hw1hhIwDtG</title>
-      <link>https://x.com/garrytan/status/2104559514699837634</link>
+      <title>Just merged a version of OpenClaw’s test-audit skill into GStack. Test bloat is a real problem.   Luckily intelligence is on tap these days! https://t.co/zJkdosDOv3</title>
+      <link>https://x.com/garrytan/status/2105049005147525231</link>
       <description>作者：Garry Tan
 账号：@garrytan
 简介：President &amp; CEO @ycombinator —Founder @garryslist—Creator of GStack &amp; GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop
 
-Karma isn’t a thing that happens, it’s a choice you can make now https://t.co/Hw1hhIwDtG</description>
-      <pubDate>Mon, 28 Sep 2026 13:11:03 +0000</pubDate>
-      <guid isPermaLink="false">2104559514699837634</guid>
+Just merged a version of OpenClaw’s test-audit skill into GStack. Test bloat is a real problem. 
+
+Luckily intelligence is on tap these days! https://t.co/zJkdosDOv3</description>
+      <pubDate>Tue, 29 Sep 2026 21:36:07 +0000</pubDate>
+      <guid isPermaLink="false">2105049005147525231</guid>
     </item>
     <item>
-      <title>try it in all cities with youbike in taiwan  docks, navigation, live turn-by-turn directions with voice https://t.co/YMBxkDIsfO</title>
-      <link>https://x.com/ryolu_/status/2104546903807660224</link>
-      <description>作者：Ryo Lu
-账号：@ryolu_
-简介：Designed @Cursor_ai, @NotionHQ, @Stripe, built startups. I make a world where anyone can make software. Aspiring k-pop idol.
+      <title>This is pretty amazing. https://t.co/6gPwPZAt4Q</title>
+      <link>https://x.com/steipete/status/2105048996549116268</link>
+      <description>作者：Peter Steinberger
+账号：@steipete
+简介：Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world.
+@OpenClaw🦞 + @OpenAI
 
-try it in all cities with youbike in taiwan
-
-docks, navigation, live turn-by-turn directions with voice
-https://t.co/YMBxkDIsfO</description>
-      <pubDate>Mon, 28 Sep 2026 12:20:57 +0000</pubDate>
-      <guid isPermaLink="false">2104546903807660224</guid>
+This is pretty amazing. https://t.co/6gPwPZAt4Q</description>
+      <pubDate>Tue, 29 Sep 2026 21:36:05 +0000</pubDate>
+      <guid isPermaLink="false">2105048996549116268</guid>
     </item>
     <item>
-      <title>what i’ve been doing: i love youbike 💛 https://t.co/PbT9PIvnYn</title>
-      <link>https://x.com/ryolu_/status/2104546417281020315</link>
-      <description>作者：Ryo Lu
-账号：@ryolu_
-简介：Designed @Cursor_ai, @NotionHQ, @Stripe, built startups. I make a world where anyone can make software. Aspiring k-pop idol.
+      <title>AI SDK has hit 30M weekly downloads.  One-shotted this video in fframes + https://t.co/3Z4NESzNKd + opus. I asked 𝚏𝚡 to look at https://t.co/dnlawxpWR6 and highlight the 5M/10M/20M/30M milestones.  Yes, this video was written in Rust and rendered on the GPU. h/t @neogoose_btw https://t.co/dS4UpwzbbN</title>
+      <link>https://x.com/rauchg/status/2105043144975011982</link>
+      <description>作者：Guillermo Rauch
+账号：@rauchg
+简介：@vercel CEO
 
-what i’ve been doing:
-i love youbike 💛 https://t.co/PbT9PIvnYn</description>
-      <pubDate>Mon, 28 Sep 2026 12:19:01 +0000</pubDate>
-      <guid isPermaLink="false">2104546417281020315</guid>
+AI SDK has hit 30M weekly downloads.
+
+One-shotted this video in fframes + https://t.co/3Z4NESzNKd + opus. I asked 𝚏𝚡 to look at https://t.co/dnlawxpWR6 and highlight the 5M/10M/20M/30M milestones.
+
+Yes, this video was written in Rust and rendered on the GPU. h/t @neogoose_btw https://t.co/dS4UpwzbbN</description>
+      <pubDate>Tue, 29 Sep 2026 21:12:50 +0000</pubDate>
+      <guid isPermaLink="false">2105043144975011982</guid>
     </item>
     <item>
-      <title>Taken by none other than the incredible @ah20im</title>
-      <link>https://x.com/thsottiaux/status/2104467346945675347</link>
-      <description>作者：Thibault Sottiaux
-账号：@thsottiaux
-简介：Codex &amp; ChatGPT @OpenAI
+      <title>You can just ship things (and wallow in cartographic filigree)</title>
+      <link>https://x.com/rauchg/status/2105012176952164777</link>
+      <description>作者：Guillermo Rauch
+账号：@rauchg
+简介：@vercel CEO
 
-Taken by none other than the incredible @ah20im</description>
-      <pubDate>Mon, 28 Sep 2026 07:04:49 +0000</pubDate>
-      <guid isPermaLink="false">2104467346945675347</guid>
+You can just ship things
+(and wallow in cartographic filigree)</description>
+      <pubDate>Tue, 29 Sep 2026 19:09:46 +0000</pubDate>
+      <guid isPermaLink="false">2105012176952164777</guid>
     </item>
     <item>
-      <title>Sunday vibes. See you at Fort Mason soon 🎮👩‍💻 https://t.co/dIBCN92aS0</title>
-      <link>https://x.com/thsottiaux/status/2104465709384491519</link>
-      <description>作者：Thibault Sottiaux
-账号：@thsottiaux
-简介：Codex &amp; ChatGPT @OpenAI
+      <title>for friends of @latentspacepod we are gonna be asking all your burning Dots, Sol 6.1, CUA, and Decisions API questions for @AriX and @nikunjhanda 🔜 at the gateway pavilion on a few mins, come by! https://t.co/BLVP5yihJn</title>
+      <link>https://x.com/swyx/status/2105000738745376769</link>
+      <description>作者：Swyx
+账号：@swyx
+简介：achieve ambition with intentionality, intensity, integrity &amp; insanity.
 
-Sunday vibes. See you at Fort Mason soon 🎮👩‍💻 https://t.co/dIBCN92aS0</description>
-      <pubDate>Mon, 28 Sep 2026 06:58:18 +0000</pubDate>
-      <guid isPermaLink="false">2104465709384491519</guid>
+affiliations:
+- @smol_ai
+- @dxtipshq
+- @cognition
+- @aidotengineer
+- @latentspacepod
+
+for friends of @latentspacepod we are gonna be asking all your burning Dots, Sol 6.1, CUA, and Decisions API questions for @AriX and @nikunjhanda 🔜 at the gateway pavilion on a few mins, come by! https://t.co/BLVP5yihJn</description>
+      <pubDate>Tue, 29 Sep 2026 18:24:19 +0000</pubDate>
+      <guid isPermaLink="false">2105000738745376769</guid>
+    </item>
+    <item>
+      <title>How to design and build a harness to reach frontier performance at a fraction of the cost! https://t.co/UXxvPNEsbP https://t.co/1CD6OE989g</title>
+      <link>https://x.com/amasad/status/2104996638817386820</link>
+      <description>作者：Amjad Masad
+账号：@amasad
+简介：ceo @replit. civilizationist
+
+How to design and build a harness to reach frontier performance at a fraction of the cost! https://t.co/UXxvPNEsbP https://t.co/1CD6OE989g</description>
+      <pubDate>Tue, 29 Sep 2026 18:08:02 +0000</pubDate>
+      <guid isPermaLink="false">2104996638817386820</guid>
+    </item>
+    <item>
+      <title>Dots are here!  A new way to use AI that works 24/7 for you; get more of your time and attention back to work at a higher level.  https://t.co/Kp4fPSGUTT</title>
+      <link>https://x.com/sama/status/2104995014208258235</link>
+      <description>作者：Sam Altman
+账号：@sama
+简介：The mission of OpenAI is to ensure that AGI benefits all of humanity
+
+Dots are here!
+
+A new way to use AI that works 24/7 for you; get more of your time and attention back to work at a higher level.
+
+https://t.co/Kp4fPSGUTT</description>
+      <pubDate>Tue, 29 Sep 2026 18:01:34 +0000</pubDate>
+      <guid isPermaLink="false">2104995014208258235</guid>
+    </item>
+    <item>
+      <title>Ultrafast is  so fast  I do not ever want to go back</title>
+      <link>https://x.com/sama/status/2104994601140711896</link>
+      <description>作者：Sam Altman
+账号：@sama
+简介：The mission of OpenAI is to ensure that AGI benefits all of humanity
+
+Ultrafast is
+
+so fast
+
+I do not ever want to go back</description>
+      <pubDate>Tue, 29 Sep 2026 17:59:56 +0000</pubDate>
+      <guid isPermaLink="false">2104994601140711896</guid>
+    </item>
+    <item>
+      <title>6.1 Sol at 1/5th of the price of Astra, and 95% cache read discount! Extremely capable model. https://t.co/T8kY85XTgB</title>
+      <link>https://x.com/sama/status/2104994395980533804</link>
+      <description>作者：Sam Altman
+账号：@sama
+简介：The mission of OpenAI is to ensure that AGI benefits all of humanity
+
+6.1 Sol at 1/5th of the price of Astra, and 95% cache read discount! Extremely capable model. https://t.co/T8kY85XTgB</description>
+      <pubDate>Tue, 29 Sep 2026 17:59:07 +0000</pubDate>
+      <guid isPermaLink="false">2104994395980533804</guid>
+    </item>
+    <item>
+      <title>i have the best reply guys  https://t.co/ZmdjBKsWaP https://t.co/Czzh8qJcno</title>
+      <link>https://x.com/swyx/status/2104984576703844750</link>
+      <description>作者：Swyx
+账号：@swyx
+简介：achieve ambition with intentionality, intensity, integrity &amp; insanity.
+
+affiliations:
+- @smol_ai
+- @dxtipshq
+- @cognition
+- @aidotengineer
+- @latentspacepod
+
+i have the best reply guys
+
+https://t.co/ZmdjBKsWaP https://t.co/Czzh8qJcno</description>
+      <pubDate>Tue, 29 Sep 2026 17:20:06 +0000</pubDate>
+      <guid isPermaLink="false">2104984576703844750</guid>
+    </item>
+    <item>
+      <title>See it here: https://t.co/mmgZgbCjFe</title>
+      <link>https://x.com/trq212/status/2104983042536460435</link>
+      <description>作者：Thariq
+账号：@trq212
+简介：Claude Code @anthropicai. prev YC W20, @spc, @medialab
+
+See it here: https://t.co/mmgZgbCjFe</description>
+      <pubDate>Tue, 29 Sep 2026 17:14:00 +0000</pubDate>
+      <guid isPermaLink="false">2104983042536460435</guid>
+    </item>
+    <item>
+      <title>If you’re a B2B founder and don’t want to spend egregious amounts of money on LinkedIn CPMs,   lots of alpha in just aggregating what’s trending on X and posting it on LinkedIn.   LinkedIn is consistently a week or two behind and they lap it up.   And for those who think it’s cringe, you live long e...</title>
+      <link>https://x.com/nikunj/status/2104949147812159672</link>
+      <description>作者：Nikunj Kothari
+账号：@nikunj
+简介：partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian &amp; others. love @shimoleejhaveri + 👦👧
+
+If you’re a B2B founder and don’t want to spend egregious amounts of money on LinkedIn CPMs, 
+
+lots of alpha in just aggregating what’s trending on X and posting it on LinkedIn. 
+
+LinkedIn is consistently a week or two behind and they lap it up. 
+
+And for those who think it’s cringe, you live long enough to start LinkedInfluencing. 
+
+It truly comes for us all 🤷‍♂️</description>
+      <pubDate>Tue, 29 Sep 2026 14:59:19 +0000</pubDate>
+      <guid isPermaLink="false">2104949147812159672</guid>
+    </item>
+    <item>
+      <title>Claude in Chrome is generally available</title>
+      <link>https://claude.com/blog/claude-in-chrome-generally-available</link>
+      <description>作者：Claude Blog
+
+Claude in Chrome is now generally available on every paid Claude plan. Claude can now also take actions autonomously in the browser, instead of needing approval for every one. A safety classifier validates each action before it’s performed to ensure it’s safe and matches your request. Many of the tools you use every day connect to Claude . But many others don’t, such as internal dashboards, legacy systems, and vendor portals. Claude in Chrome lets Claude access those. It can view the page you’re on and take actions like reading and typing text, clicking links, navigating between pages, and filling out forms, using your existing logins. We first announced Claude in Chrome as a pilot last year, so we could test it while also shoring up our defenses against prompt injection : malicious instructions hidden in websites, emails, or documents that try to trick an AI agent into acting against the user’s wishes. These defenses, described below, give us the confidence to make Claude in Chrome generally available. Safeguarding against prompt injection As we outlined when we announced the pilot, an AI agent that works in your browser is also vulnerable to prompt injection. So we’ve worked to improve our safeguards before releasing Claude in Chrome more widely. In a prompt injection attack, malicious actors hide instructions in web content such as a web page, an email, or a form field. You may never see them, but these instructions can redirect the agent to do something you never asked for. For example, if you’ve asked Claude to draft replies to your emails, a hidden instruction in one message could tell Claude to forward your other emails to the attacker instead. At launch, we described how we tested Claude’s defenses against these attacks and the safeguards we had in place at the time; we later released a more detailed description of our browser-use safeguards . Since then, we’ve improved how we train both the model and our probes , and added an additional set of classifiers that make it possible for Claude to safely take more autonomous actions in Chrome. In the next section, we discuss the results of our evaluations, which show the efficacy of these safeguards. Claude recognizes more attacks. We train Claude against a growing library of prompt injection attacks, sourced from our internal automated attackers, external red-teamers, and real-world monitoring. When a new attack succeeds against a current model, it’s added to the library, where it informs the training of future models and our deployed safeguards so they learn to recognize it. Since we first wrote about our prompt injection defenses for browser use in November 2025, we’ve made Claude substantially more resistant to these attacks. Probes screen web content before Claude acts on it. Web content reaches Claude through tool results. To take an action like reading a page or opening an email, the model makes a tool call; the tool result lets the model read the output (in this case, the content of the page or the email). We train probes to scan those results for potential prompt injections. When a probe detects a likely attack, Claude is warned to treat the content with suspicion and, if needed, to check with you before taking an action. We first deployed these probes with Claude Opus 4.5, and have since expanded the types of attacks they cover. Actions are verified before they run . In Claude in Chrome, Claude will now automatically approve actions it determines to be safe, using the same mechanism as auto mode in Claude Code. (You can switch this off in your settings if you’d prefer to continue to approve Claude’s actions manually.) A classifier reviews actions Claude is about to take, such as navigating to a new website or entering text into a page, and checks them against what you originally asked for. If the action doesn’t match your request, it’s blocked. Measuring Claude’s robustness against prompt injection We’ve tested these safeguards to ensure that Claude in Chrome is safe to use for browser-based work. Here, we report the results from our most recent evaluations. On our initial evaluation testing Claude Cowork’s resilience against prompt injection attacks (first developed when we released the Claude in Chrome pilot), no attack succeeded against Claude Fable 5, Claude Opus 5, or Claude Sonnet 5 in the Cowork harness , even without the probes and classifiers discussed above. Success rate of prompt injection attacks against Claude Opus 4.5, Sonnet 5, Opus 5, and Fable 5. Opus 4.5 was run with extended thinking, since it does not support our newer default of adaptive thinking. All other models were run with adaptive thinking at medium effort as the default. The results discussed in our November 2025 blog post were run without extended thinking enabled, but because thinking cannot be disabled for Fable 5, we report thinking-enabled results here. The grader model used in November is also no longer available, so we moved to a more capable grading pipeline combined with manual review of successful attacks, which produces fewer false positives. Because we saturated that evaluation (as evidenced by the 0% success rate), we decided to retire it. On our current evaluation , which uses stronger attacks sourced by professional red-teamers, attacks that reached the model succeeded against Opus 4.5 17.6% of the time and against Opus 5 3.8% of the time, before any additional safeguards. With the strongest safeguards available in November 2025, attacks against Opus 4.5 running with probes succeeded 16.7% of the time. Against every model from Opus 4.8 onwards, when running with probes and the safety classifier, no attacks succeeded against Claude Sonnet 5, Claude Opus 5, or Claude Mythos 5. We saw a 0.3% attack success rate against Fable 5. We have manually verified that all successful breaks are in low-severity scenarios and are working to mitigate them. No attacks succeeded against Claude Sonnet 5 or Opus 5 with probes plus the automatic approval safety classifiers, and 0.3% of attacks succeeded against Fable 5. Opus 4.5’s model behavior resulted in a lower number of attacks reaching the model, but it still had the highest percentage of successful attacks. Prompt injection remains a moving target. While this approach defends against current attacks, we also need to ensure our safeguards stay ahead of the evolving methods of attackers. With each model release, we continue to invest in developing more sophisticated automated systems for attack discovery, red-teaming, and building stronger classifiers. Getting started To start using Claude in Chrome, install it from the Chrome Web Store . On Enterprise plans, admins can manage it in Organization Settings and limit it to approved domains. See the admin setup guide . You’ll still need to use the Claude desktop app to work with files on your computer or with other applications. Claude in Chrome doesn’t run on other Chromium browsers or on mobile yet. ‍ ¹ Not all attacks reach—i.e., are seen by—the model. In some cases, the actions Claude takes result in it never encountering the malicious instructions.</description>
+      <pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
+      <guid>https://claude.com/blog/claude-in-chrome-generally-available</guid>
     </item>
   </channel>
 </rss>
