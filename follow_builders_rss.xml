@@ -5,285 +5,10 @@
     <link>https://github.com/zarazhangrui/follow-builders</link>
     <description>聚合 AI 领域建设者的 X、播客和博客内容。</description>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 21 Oct 2026 02:22:43 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 10:46:01 +0000</lastBuildDate>
     <item>
-      <title>Day 15/ Nevermind, we're still cooking... and reset. Enjoy. https://t.co/RZ9WhtI802</title>
-      <link>https://x.com/thsottiaux/status/2112432076767289678</link>
-      <description>作者：Thibault Sottiaux
-账号：@thsottiaux
-简介：Codex &amp; ChatGPT @OpenAI
-
-Day 15/ Nevermind, we're still cooking... and reset. Enjoy. https://t.co/RZ9WhtI802</description>
-      <pubDate>Tue, 20 Oct 2026 06:33:48 +0000</pubDate>
-      <guid isPermaLink="false">2112432076767289678</guid>
-    </item>
-    <item>
-      <title>Tenzing on Apple TV+ is a must watch..  The acting, the direction, the music.   I can’t believe this was all shot in real environments and with zero green screens.   Literal goosebumps.</title>
-      <link>https://x.com/nikunj/status/2112422877949751491</link>
-      <description>作者：Nikunj Kothari
-账号：@nikunj
-简介：partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian &amp; others. love @shimoleejhaveri + 👦👧
-
-Tenzing on Apple TV+ is a must watch..
-
-The acting, the direction, the music. 
-
-I can’t believe this was all shot in real environments and with zero green screens. 
-
-Literal goosebumps.</description>
-      <pubDate>Tue, 20 Oct 2026 05:57:15 +0000</pubDate>
-      <guid isPermaLink="false">2112422877949751491</guid>
-    </item>
-    <item>
-      <title>The big bitter lesson question in the applied AI layer is that as models get better and better, what is the best way to diffuse that intelligence into an enterprise.   Ironically, I’d argue that as models are getting more capable, and can handle longer running tasks and better tool use, the ability ...</title>
-      <link>https://x.com/levie/status/2112404676436222170</link>
-      <description>作者：Aaron Levie
-账号：@levie
-简介：ceo @box - your business lives in content. unleash it with AI
-
-The big bitter lesson question in the applied AI layer is that as models get better and better, what is the best way to diffuse that intelligence into an enterprise. 
-
-Ironically, I’d argue that as models are getting more capable, and can handle longer running tasks and better tool use, the ability to differentiate on a domain by domain basis goes up instead of down. 
-
-When models were quite limited in what they could do, ironically all you could be literally was a “wrapper” because you were effectively delivering tokens back to the user with a custom prompt or some limited RAG. 
-
-But in a world of agents using tools, tasks that run on for hours or days, workflows that kick off agents, agent swarms that need to be coordinated against a goal, data sources that are domain specific, model routing that requires domain-specific routing, implementation that requires real change management of the workflow instead of “just type into this chat box”, it’s very very possible that specialization of these systems goes up more. 
-
-Obviously this doesn’t apply to everything - the closer you are to the labs core use-cases the tougher this play gets, but I’d argue we’re going to see autonomous systems for a wide range of job functions that weren’t practical to build out before. We’ll see this in security, life sciences, healthcare, finance, manufacturing, and many other fields. Either way going to be a fun and wild couple of years.</description>
-      <pubDate>Tue, 20 Oct 2026 04:44:56 +0000</pubDate>
-      <guid isPermaLink="false">2112404676436222170</guid>
-    </item>
-    <item>
-      <title>See this in a theater! One of the most interesting things about this documentary was how much &amp;amp; when people laughed while watching it https://t.co/Q9kAdgyAoW</title>
-      <link>https://x.com/zarazhangrui/status/2112398939358138862</link>
-      <description>作者：Zara Zhang
-账号：@zarazhangrui
-简介：Builder. Make something people want, then make people want it. Harvard’17. GitHub: https://t.co/KCuEajezlL 
-YouTube: https://t.co/8xzbGWtf6w
-
-See this in a theater! One of the most interesting things about this documentary was how much &amp;amp; when people laughed while watching it https://t.co/Q9kAdgyAoW</description>
-      <pubDate>Tue, 20 Oct 2026 04:22:08 +0000</pubDate>
-      <guid isPermaLink="false">2112398939358138862</guid>
-    </item>
-    <item>
-      <title>This doesn't mean it's a good movie btw. I found it completely ridiculous</title>
-      <link>https://x.com/petergyang/status/2112398053185659282</link>
-      <description>作者：Peter Yang
-账号：@petergyang
-简介：Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6
-
-This doesn't mean it's a good movie btw. I found it completely ridiculous</description>
-      <pubDate>Tue, 20 Oct 2026 04:18:36 +0000</pubDate>
-      <guid isPermaLink="false">2112398053185659282</guid>
-    </item>
-    <item>
-      <title>Waiting for someone to sell me a  peptide factory built in a data center which is also a robotics neolab that is somehow collecting first party uniquely differentiated data..  And while we’re at it use the words tape out, memory/CPU shortage too.   Make it 50/500 on a memo 🤝</title>
-      <link>https://x.com/nikunj/status/2112368222809034980</link>
-      <description>作者：Nikunj Kothari
-账号：@nikunj
-简介：partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian &amp; others. love @shimoleejhaveri + 👦👧
-
-Waiting for someone to sell me a  peptide factory built in a data center which is also a robotics neolab that is somehow collecting first party uniquely differentiated data..
-
-And while we’re at it use the words tape out, memory/CPU shortage too. 
-
-Make it 50/500 on a memo 🤝</description>
-      <pubDate>Tue, 20 Oct 2026 02:20:04 +0000</pubDate>
-      <guid isPermaLink="false">2112368222809034980</guid>
-    </item>
-    <item>
-      <title>the ideographic &amp;gt; the nomothetic https://t.co/DT4n8LnA4C</title>
-      <link>https://x.com/danshipper/status/2112308324377203182</link>
-      <description>作者：Dan Shipper
-账号：@danshipper
-简介：ceo @every | the only subscription you need to stay at the edge of AI
-
-the ideographic &amp;gt; the nomothetic https://t.co/DT4n8LnA4C</description>
-      <pubDate>Mon, 19 Oct 2026 22:22:03 +0000</pubDate>
-      <guid isPermaLink="false">2112308324377203182</guid>
-    </item>
-    <item>
-      <title>This is super cool I love how visual it is.   Can't wait to try this @ekuyda! https://t.co/UMkHxW16BB</title>
-      <link>https://x.com/petergyang/status/2112292347505688990</link>
-      <description>作者：Peter Yang
-账号：@petergyang
-简介：Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6
-
-This is super cool I love how visual it is. 
-
-Can't wait to try this @ekuyda! https://t.co/UMkHxW16BB</description>
-      <pubDate>Mon, 19 Oct 2026 21:18:34 +0000</pubDate>
-      <guid isPermaLink="false">2112292347505688990</guid>
-    </item>
-    <item>
-      <title>Very interesting insight into why alot of Netflix original movies and TV shows are slop.   I still love a few of them (especially some of the Korean ones). https://t.co/FHES8Crisi</title>
-      <link>https://x.com/petergyang/status/2112280969382437076</link>
-      <description>作者：Peter Yang
-账号：@petergyang
-简介：Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6
-
-Very interesting insight into why alot of Netflix original movies and TV shows are slop. 
-
-I still love a few of them (especially some of the Korean ones). https://t.co/FHES8Crisi</description>
-      <pubDate>Mon, 19 Oct 2026 20:33:22 +0000</pubDate>
-      <guid isPermaLink="false">2112280969382437076</guid>
-    </item>
-    <item>
-      <title>Multiplayer agents as group chat seems quite inevitable and Wabi's built it https://t.co/ltccTzgMLo</title>
-      <link>https://x.com/garrytan/status/2112278352514162834</link>
-      <description>作者：Garry Tan
-账号：@garrytan
-简介：President &amp; CEO @ycombinator —Founder @garryslist—Creator of GStack &amp; GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop
-
-Multiplayer agents as group chat seems quite inevitable and Wabi's built it https://t.co/ltccTzgMLo</description>
-      <pubDate>Mon, 19 Oct 2026 20:22:58 +0000</pubDate>
-      <guid isPermaLink="false">2112278352514162834</guid>
-    </item>
-    <item>
-      <title>https://t.co/aEAsDgsa3u</title>
-      <link>https://x.com/adityaag/status/2112276233363030215</link>
-      <description>作者：Aditya Agarwal
-账号：@adityaag
-简介：General Partner @SPC, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @Dropbox, Board @Flipkart | Optimist, Builder, Dad
-
-https://t.co/aEAsDgsa3u</description>
-      <pubDate>Mon, 19 Oct 2026 20:14:32 +0000</pubDate>
-      <guid isPermaLink="false">2112276233363030215</guid>
-    </item>
-    <item>
-      <title>Early @PalantirTech. Cofounder of @anduriltech. GP at @foundersfund.  Last time @traestephens was at @spc was back in 2022.  The world looks a little different now.  Wednesday. RSVP below. https://t.co/6uZu9c7KKT</title>
-      <link>https://x.com/adityaag/status/2112276231731466420</link>
-      <description>作者：Aditya Agarwal
-账号：@adityaag
-简介：General Partner @SPC, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @Dropbox, Board @Flipkart | Optimist, Builder, Dad
-
-Early @PalantirTech. Cofounder of @anduriltech. GP at @foundersfund.
-
-Last time @traestephens was at @spc was back in 2022.
-
-The world looks a little different now.
-
-Wednesday. RSVP below. https://t.co/6uZu9c7KKT</description>
-      <pubDate>Mon, 19 Oct 2026 20:14:32 +0000</pubDate>
-      <guid isPermaLink="false">2112276231731466420</guid>
-    </item>
-    <item>
-      <title>a story in 3 parts https://t.co/dabv01DAY3</title>
-      <link>https://x.com/danshipper/status/2112272224782856514</link>
-      <description>作者：Dan Shipper
-账号：@danshipper
-简介：ceo @every | the only subscription you need to stay at the edge of AI
-
-a story in 3 parts https://t.co/dabv01DAY3</description>
-      <pubDate>Mon, 19 Oct 2026 19:58:37 +0000</pubDate>
-      <guid isPermaLink="false">2112272224782856514</guid>
-    </item>
-    <item>
-      <title>Day 15/ We're cooked https://t.co/ciJpOJlmOn</title>
-      <link>https://x.com/thsottiaux/status/2112268918681485431</link>
-      <description>作者：Thibault Sottiaux
-账号：@thsottiaux
-简介：Codex &amp; ChatGPT @OpenAI
-
-Day 15/ We're cooked https://t.co/ciJpOJlmOn</description>
-      <pubDate>Mon, 19 Oct 2026 19:45:28 +0000</pubDate>
-      <guid isPermaLink="false">2112268918681485431</guid>
-    </item>
-    <item>
-      <title>1,000 tokens per second btw https://t.co/BdATqYu71F</title>
-      <link>https://x.com/rauchg/status/2112256718281551955</link>
-      <description>作者：Guillermo Rauch
-账号：@rauchg
-简介：@vercel CEO
-
-1,000 tokens per second btw https://t.co/BdATqYu71F</description>
-      <pubDate>Mon, 19 Oct 2026 18:57:00 +0000</pubDate>
-      <guid isPermaLink="false">2112256718281551955</guid>
-    </item>
-    <item>
-      <title>We open sourced a *really fast* HTML artifact builder. It's powered by libfx, making the agent durable.  Building the low-level plumbing for v0 to survive server crashes, flaky LLMs, function limits was a huge pain.  Now it's easy, free, and OSS: https://t.co/aUP1vKeIsP.  PS: I built this floating c...</title>
-      <link>https://x.com/rauchg/status/2112247046082363821</link>
-      <description>作者：Guillermo Rauch
-账号：@rauchg
-简介：@vercel CEO
-
-We open sourced a *really fast* HTML artifact builder. It's powered by libfx, making the agent durable.
-
-Building the low-level plumbing for v0 to survive server crashes, flaky LLMs, function limits was a huge pain.
-
-Now it's easy, free, and OSS: https://t.co/aUP1vKeIsP.
-
-PS: I built this floating container in a few minutes… it's delightful, and it's just HTML!</description>
-      <pubDate>Mon, 19 Oct 2026 18:18:34 +0000</pubDate>
-      <guid isPermaLink="false">2112247046082363821</guid>
-    </item>
-    <item>
-      <title>so proud of Quinten + Ajay and team!   they've been pushing the boundaries of creativity and storytelling with AI for years now—and one of the breakout examples of it working in consumer  psyched to be a tiny investor :) https://t.co/8deaaWyuJ7</title>
-      <link>https://x.com/danshipper/status/2112230653924192274</link>
-      <description>作者：Dan Shipper
-账号：@danshipper
-简介：ceo @every | the only subscription you need to stay at the edge of AI
-
-so proud of Quinten + Ajay and team! 
-
-they've been pushing the boundaries of creativity and storytelling with AI for years now—and one of the breakout examples of it working in consumer
-
-psyched to be a tiny investor :) https://t.co/8deaaWyuJ7</description>
-      <pubDate>Mon, 19 Oct 2026 17:13:25 +0000</pubDate>
-      <guid isPermaLink="false">2112230653924192274</guid>
-    </item>
-    <item>
-      <title>A few weeks ago, I was ranting about multiplayer AI experiences and that's when @ekuyda shared an early preview of Wabi 2.0..  Truth be told, I was one of the early users of Wabi 1.0 and while the design was gorgeous, it frankly never &quot;stuck&quot; with me.  But, in moments of downloading this edition, I ...</title>
-      <link>https://x.com/nikunj/status/2112219327881761008</link>
-      <description>作者：Nikunj Kothari
-账号：@nikunj
-简介：partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian &amp; others. love @shimoleejhaveri + 👦👧
-
-A few weeks ago, I was ranting about multiplayer AI experiences and that's when @ekuyda shared an early preview of Wabi 2.0..
-
-Truth be told, I was one of the early users of Wabi 1.0 and while the design was gorgeous, it frankly never &quot;stuck&quot; with me.
-
-But, in moments of downloading this edition, I was immediately hooked. 
-
-It just gets the &quot;paradigm&quot; right imo. There are two types of personal agents today: 1) Singleplayer iMessage or Muse types - while useful it's hard to compartmentalize them when many things are going on 2) Build your own multiple chat Hermes agents - while that's useful and can share context, they live forever
-
-Wabi has this great paradigm of orchestrator (which is the main agent) and topic specific episodic chats that are for a single purpose. You can share these individual chats with folks (for example the school one with my wife). And these are generated proactively AND don't need to stay forever (which is important).
-
-For example, for my recent NY trip, it was generated based on a flight it saw, provided help where needed, and then after the trip was done, it was archived. Same with my 2025 taxes. 
-
-My only critique so far it's TOO proactive, the apps can be better and they need to dial both of those in, but this is a wonderful product that everyone should try!
-
-(I know it's shocking to see this in today's day and age, but this is neither paid, nor an investor, just a fan)</description>
-      <pubDate>Mon, 19 Oct 2026 16:28:25 +0000</pubDate>
-      <guid isPermaLink="false">2112219327881761008</guid>
-    </item>
-    <item>
-      <title>I think most people multi-tasking with agents could benefit from slowing down  most of the stuff you're doing wont really matter- what's your P0? what would it look like if you gave it your full attention?</title>
-      <link>https://x.com/trq212/status/2112219173288120531</link>
-      <description>作者：Thariq
-账号：@trq212
-简介：Claude Code @anthropicai. prev YC W20, @spc, @medialab
-
-I think most people multi-tasking with agents could benefit from slowing down
-
-most of the stuff you're doing wont really matter- what's your P0? what would it look like if you gave it your full attention?</description>
-      <pubDate>Mon, 19 Oct 2026 16:27:48 +0000</pubDate>
-      <guid isPermaLink="false">2112219173288120531</guid>
-    </item>
-    <item>
-      <title>More free AI https://t.co/9Jd42XA7rw</title>
-      <link>https://x.com/rauchg/status/2112194000639967590</link>
-      <description>作者：Guillermo Rauch
-账号：@rauchg
-简介：@vercel CEO
-
-More free AI https://t.co/9Jd42XA7rw</description>
-      <pubDate>Mon, 19 Oct 2026 14:47:47 +0000</pubDate>
-      <guid isPermaLink="false">2112194000639967590</guid>
-    </item>
-    <item>
-      <title>&quot;O Infallible one, why do the people not heed the sign we tap?&quot;  &quot;My dear Parth, each believes he is the first to wish for an end to chat. On X we are cursed with the eternal September of the Thoughtless Mind.&quot;  &quot;But O Govinda, they yearn for what lies beyond it, and cast their votes by the thousand...</title>
-      <link>https://x.com/swyx/status/2112182228977348963</link>
+      <title>opus is great for writing... when you dont happen to have any random no-no words in your prompt.  jfc, @CompleteSkeptic is right, give me prod, not god. i cant build an ai media org with this in the critical path. https://t.co/U8MOOmykJO https://t.co/ORcvXeH7xz</title>
+      <link>https://x.com/swyx/status/2112772374823407870</link>
       <description>作者：Swyx
 账号：@swyx
 简介：achieve ambition with intentionality, intensity, integrity &amp; insanity.
@@ -295,91 +20,453 @@ affiliations:
 - @aidotengineer
 - @latentspacepod
 
-&quot;O Infallible one, why do the people not heed the sign we tap?&quot;
+opus is great for writing... when you dont happen to have any random no-no words in your prompt.
 
-&quot;My dear Parth, each believes he is the first to wish for an end to chat. On X we are cursed with the eternal September of the Thoughtless Mind.&quot;
-
-&quot;But O Govinda, they yearn for what lies beyond it, and cast their votes by the thousands. Surely the people's wants must be made.&quot;
-
-*a wan smile* “O son of Kunti, observe what they applaud, and what they return to. They desire the end of chat as they desire the end of desire. They desire to leave X as they return in ever greater numbers. They will announce it many times. You shall learn, as they do not, that the chief desire of the people of X is not the truth, but the new.”</description>
-      <pubDate>Mon, 19 Oct 2026 14:01:00 +0000</pubDate>
-      <guid isPermaLink="false">2112182228977348963</guid>
+jfc, @CompleteSkeptic is right, give me prod, not god. i cant build an ai media org with this in the critical path. https://t.co/U8MOOmykJO https://t.co/ORcvXeH7xz</description>
+      <pubDate>Wed, 21 Oct 2026 05:06:02 +0000</pubDate>
+      <guid isPermaLink="false">2112772374823407870</guid>
     </item>
     <item>
-      <title>Why Every Traded Personal Agents for One Company Agent</title>
-      <link>https://www.youtube.com/playlist?list=PLuMcoKK9mKgHtW_o9h5sGO2vXrffKHwJL</link>
-      <description>播客：AI &amp; I by Every
+      <title>Pretty cool that we clearly have an emerging form factor for what AI might look like for the foreseeable future as autonomous systems dedicated to specific tasks or domains.  This is a huge leap past the LLM wrapper days because the new expectation is that you can finally farm out more sophisticated...</title>
+      <link>https://x.com/levie/status/2112769686798832013</link>
+      <description>作者：Aaron Levie
+账号：@levie
+简介：ceo @box - your business lives in content. unleash it with AI
 
-Speaker 1 | 00:00 - 00:12
-The hot thing right now is dots. They're persistent agents from OpenAI. I was there at Dev Day when they launched them. I interviewed Sam about them, and I've been using dots since before they came out. And now we're into week two of dots.
+Pretty cool that we clearly have an emerging form factor for what AI might look like for the foreseeable future as autonomous systems dedicated to specific tasks or domains.
 
-Speaker 1 | 00:12 - 00:46
-So how's it going? If you read my vibe check, you know that I thought they were a little bit rough to begin with, but that the idea of a persistent proactive agent was obviously the future. Even before DOTS launched, they'd become my main way of interacting with ChatGPT, and they're still that way after launch. I'm really excited about the little things they've been doing to make the experience less buggy and more complete, and I think it'll get even better over the next couple weeks. What's been really interesting, though, is seeing the team at Every.
+This is a huge leap past the LLM wrapper days because the new expectation is that you can finally farm out more sophisticated work to the agent to tackle for you. And you can reliably trust that work can get accomplished properly (still with a human in the loop) because of far better tool and computer use, and the general intelligence of the models improving. 
 
-Speaker 1 | 00:46 - 01:20
-We've got about 30 people seeing them start to adopt it and some of the use cases that have started to emerge. So in case you're looking for some use cases, I actually had my dot collect some use cases to talk to you about. So one thing that dots are really useful for is keeping up with school emails. So Kieran Klassen, who works at Every, says that it scans all of the school emails he gets from his kid's school and tells him what he needs to know. Another thing that DOTS are really good for is catching access requests or, like, little things, little messages you might have missed in Slack and making sure that you get them.
+1) The tool and computer use capability increases in the models mean that you can provide the agent with far more granular access to external data systems and other software to operate. This means, in effect, the agent begins to execute workflows similar to how a person would have in that same function. And where there isn’t existing software, the agent just builds it itself. This is a huge unlock. 
 
-Speaker 1 | 01:20 - 02:04
-So Ariel Shipper, our head of operations, heard Dot caught a few people asking for different accounts across the company and asked if she wanted it to just approve access. Dots are also really good for working when you're not at your computer or your hands are full. So our head of video, Randy Kunzman, was running around yesterday trying to get our launch video out for the Every Agent which launched, and he was doing work for that launch just on the phone with his dot, talking it through different video edits and different things he needed to get done. I also think this is something that came up in my interview with Sam, and I I feel this too. Dots are really good for filtering out all of the noise that you don't really want to see and only showing you stuff that really matters.
+2) Next, the actual capability of the models are improving in just about every vertical domain. The models can make far better judgment calls in legal, do deeper bio research, scan for security issues in code, understand supply chain processes, and more. Obviously in many of these spaces then models still have worse intuition than people, but that will only get better.
 
-Speaker 1 | 02:04 - 02:43
-So for example, I was doing a lot of model testing over the weekend, and normally, testing requires me to be in the every Slack, which once I'm in Slack, it's just like this rabbit hole of I'm just going down doing tons and tons and tons of work. And what was amazing about using my dot doing model testing was I was able to post the results of all the experiments I was running in Slack. And if someone responded, that my dot would tell me about the response, which would help me stay up to date on what the team was thinking without getting me sucked into the whole rabbit hole of everything going on in Slack. And that helped keep my weekend pretty clear and calm. And I think that's a huge, huge thing for dots.
+3) Finally, the harnesses and surrounding infra — sandboxes, file systems, data pipelines, etc. — allows for longer running agents, agents to be able to work on arbitrarily complex or long tasks, process data at enormous scale, and more. Few of these components worked well for AI even a year ago, but we now have many of the core primitives necessary for more autonomous systems.
 
-Speaker 1 | 02:43 - 03:05
-So what's the overall vibe? If you don't have a dot, I highly recommend you get one, especially if you're in the Chachapati ecosystem. If you're using Muse or Instinct or Grockbots, you should check it out. I think that they're pretty much at feature parity right now, but there's something really good about having something that's hooked into the entire rest of the ecosystem that you use for your work and your life. There are still rough edges, though.
+When combined with the right UX, implementation, and change management for the human oversight and coordination, it’s clear that these autonomous systems will become quite powerful in a wide variety of enterprise workflows. 
 
-Speaker 1 | 03:05 - 03:30
-The whole permission structure of DOTS is, like, completely a mystery to me and is extremely annoying. So for example, I often have to give multiple approvals to my DOT to do something basic, and even when I give it approval, it says it can't do it. So they really need to figure that stuff out to make the experience awesome. But I would expect in a year, this is the default way that you're interacting with all your AIs. You're probably not going to have it be a cute character.
+We’re starting to see them in IT automation, cyber operations, drug discovery, manufacturing, AI research, and more spaces. You can almost imagine one or more of these systems for every role in the economy. Quite a bit of opportunity ahead.</description>
+      <pubDate>Wed, 21 Oct 2026 04:55:21 +0000</pubDate>
+      <guid isPermaLink="false">2112769686798832013</guid>
+    </item>
+    <item>
+      <title>i tried to make codex make animated explainer videos but ngmi https://t.co/UT7xloxtXc</title>
+      <link>https://x.com/swyx/status/2112764130197451209</link>
+      <description>作者：Swyx
+账号：@swyx
+简介：achieve ambition with intentionality, intensity, integrity &amp; insanity.
 
-Speaker 1 | 03:30 - 03:47
-That would be my other, like, little hot take. Mine is named Boo. He's super cute. But my experience using Open Claws and other named agents like this is that as soon as something better comes along, you throw away the cute little character you develop. So my guess is I'll be using a persistent agent in in a year, but Boo will probably be dead.
+affiliations:
+- @smol_ai
+- @dxtipshq
+- @cognition
+- @aidotengineer
+- @latentspacepod
 
-Speaker 1 | 03:47 - 04:10
-RIP Boo. We've also actually been working on our own persistent agent that's not a personal agent. It's a company agent, and that's actually come from this whole journey we've been on starting with open clause inside of every... And everybody having a personal agent and realizing how valuable it was for the company to have a personal agent. So we built one for ourselves, and then we just released it to all of our subscribers.
+i tried to make codex make animated explainer videos but ngmi https://t.co/UT7xloxtXc</description>
+      <pubDate>Wed, 21 Oct 2026 04:33:16 +0000</pubDate>
+      <guid isPermaLink="false">2112764130197451209</guid>
+    </item>
+    <item>
+      <title>See you at @Cloudflare Connect tomorrow! Will be chatting with @dok2001 about agents https://t.co/P4oYlOZ80s</title>
+      <link>https://x.com/steipete/status/2112735411688857770</link>
+      <description>作者：Peter Steinberger
+账号：@steipete
+简介：Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world.
+@OpenClaw🦞 + @OpenAI
 
-Speaker 1 | 04:10 - 04:44
-So I brought Willie Williams on, our head of platform, who was instrumental in bringing the agent to life to talk about personal agents versus company agents, what it's like to build an agent at the frontier right now, and what that means for engineering teams going forward. I hope you enjoy. Willie, welcome to the show. Oh, thank for having me. For people who don't know, you are the head of platform.
+See you at @Cloudflare Connect tomorrow! Will be chatting with @dok2001 about agents https://t.co/P4oYlOZ80s</description>
+      <pubDate>Wed, 21 Oct 2026 02:39:09 +0000</pubDate>
+      <guid isPermaLink="false">2112735411688857770</guid>
+    </item>
+    <item>
+      <title>Day 16/  You can now cache for 12h in the API and for logged in users across Codex &amp;amp; Work we keep cache forever and you don’t have any penalty for coming back to an old conversation or resuming after a few hours and are now guaranteed to hit the cache. https://t.co/0HYeB01KVh</title>
+      <link>https://x.com/thsottiaux/status/2112712984644784534</link>
+      <description>作者：Thibault Sottiaux
+账号：@thsottiaux
+简介：Codex &amp; ChatGPT @OpenAI
 
-Speaker 1 | 04:44 - 05:17
-You are one of the driving forces behind the Every Agent, which we... Well, by the time this comes out, we'll have launched. Launching And I want to talk to you about the whole agent phenomenon. Because I think we're in this world right now where personal agents are the hot thing. And there's like a little bit of Groundhog's Day for me, I assume for you, because we went through our personal agent phase, like, nine months ago or eight months ago with the original Open Claw phase, and I feel like we learned a lot from that.
+Day 16/
 
-Speaker 1 | 05:17 - 05:45
-And then now I feel like there's this whole new era of people who are experiencing the same thing and maybe will learn the same lessons. We for us, we went from Open Claw, everyone in the company's got a personal agent to we have a company agent and we liked the company agent so much that we actually just made a company agent for other people to use. But I want to just talk about that and try to talk about it as honestly as we can because it's possible we're wrong. Yeah. But I do think we've learned some things that are important.
+You can now cache for 12h in the API and for logged in users across Codex &amp;amp; Work we keep cache forever and you don’t have any penalty for coming back to an old conversation or resuming after a few hours and are now guaranteed to hit the cache. https://t.co/0HYeB01KVh</description>
+      <pubDate>Wed, 21 Oct 2026 01:10:02 +0000</pubDate>
+      <guid isPermaLink="false">2112712984644784534</guid>
+    </item>
+    <item>
+      <title>GStack is now Capy aware and works great with their software factory feature Captains https://t.co/9WIBtPdmbd</title>
+      <link>https://x.com/garrytan/status/2112698243553579485</link>
+      <description>作者：Garry Tan
+账号：@garrytan
+简介：President &amp; CEO @ycombinator —Founder @garryslist—Creator of GStack &amp; GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop
 
-Speaker 1 | 05:45 - 05:53
-Maybe let's start with Open Claw because we actually disagreed and I think you ended up being right. Tell
+GStack is now Capy aware and works great with their software factory feature Captains https://t.co/9WIBtPdmbd</description>
+      <pubDate>Wed, 21 Oct 2026 00:11:27 +0000</pubDate>
+      <guid isPermaLink="false">2112698243553579485</guid>
+    </item>
+    <item>
+      <title>Fun day for the @FirstMarkCap family   * Series B announcement at @daytonaio  * Series A announcement at @BabaHQ  * Big launch of @GradiumAI’s new SOTA open source on-device voice AI model * and just this morning, @synthesiaIO and @RilletHQ officially taking over the NYC subway lol</title>
+      <link>https://x.com/mattturck/status/2112696155519775041</link>
+      <description>作者：Matt Turck
+账号：@mattturck
+简介：VC at @FirstMarkCap.  Host: MAD Podcast; Organizer: Data Driven NYC, Author: MAD Landscape.
 
-Speaker 2 | 05:53 - 05:53
-us
+Fun day for the @FirstMarkCap family 
 
-Speaker 1 | 05:53 - 05:57
-about the Open Claw situation and sort of your take and then talk about why I was wrong.
+* Series B announcement at @daytonaio 
+* Series A announcement at @BabaHQ 
+* Big launch of @GradiumAI’s new SOTA open source on-device voice AI model
+* and just this morning, @synthesiaIO and @RilletHQ officially taking over the NYC subway lol</description>
+      <pubDate>Wed, 21 Oct 2026 00:03:10 +0000</pubDate>
+      <guid isPermaLink="false">2112696155519775041</guid>
+    </item>
+    <item>
+      <title>Incredible things are happening on this planet..   Generational miss to not call this p(bloom) 🌳 https://t.co/cu2vEic1tw</title>
+      <link>https://x.com/nikunj/status/2112692719135117754</link>
+      <description>作者：Nikunj Kothari
+账号：@nikunj
+简介：partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian &amp; others. love @shimoleejhaveri + 👦👧
 
-Speaker 2 | 05:58 - 06:10
-Well, think the funniest thing was, actually at the time, it was called Claudius? Claudius? Claudius. It was like the earlier version before... Because it was Clawbot, right?
+Incredible things are happening on this planet.. 
 
-Speaker 2 | 06:10 - 06:15
-Oh. Right? And even before that Interesting. It's called multiple of Moltbot. No.
+Generational miss to not call this p(bloom) 🌳 https://t.co/cu2vEic1tw</description>
+      <pubDate>Tue, 20 Oct 2026 23:49:30 +0000</pubDate>
+      <guid isPermaLink="false">2112692719135117754</guid>
+    </item>
+    <item>
+      <title>📌 Check out Mercury Payroll here: https://t.co/xZhi3mhocl  Mercury is a fintech company, not an FDIC-insured bank. Banking services provided through Choice Financial Group and Column N.A., Members FDIC.  Mercury does not provide legal, tax, accounting, or investment advice and does not act as your e...</title>
+      <link>https://x.com/petergyang/status/2112683163633975713</link>
+      <description>作者：Peter Yang
+账号：@petergyang
+简介：Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6
 
-Speaker 2 | 06:15 - 06:15
-There was there
+📌 Check out Mercury Payroll here: https://t.co/xZhi3mhocl
 
-Speaker 1 | 06:15 - 06:16
-was the...
+Mercury is a fintech company, not an FDIC-insured bank. Banking services provided through Choice Financial Group and Column N.A., Members FDIC.
 
-Speaker 2 | 06:16 - 06:26
-We forget about the Yeah. The Molt Bot. Shout out to to Ash, actually, who was like... Who I think first messaged me about it. He was like...
+Mercury does not provide legal, tax, accounting, or investment advice and does not act as your employer, professional employer organization (PEO), employer of record (EOR), or plan fiduciary.
 
-Speaker 2 | 06:26 - 06:46
-Ash is one of our contributing writers and he was like, dude, this thing is awesome. And I remember because I I I knew, like, Peter's name from, like, the top token burners leaderboard, like Mhmm. He was up there and just, like, I was like, oh, man, this is all... These these folks are burning a lot of tokens, right? And they were just like, oh, yeah.
+AI-generated information may be incomplete or inaccurate and should not be relied upon as legal, tax, or accounting advice. You are responsible for reviewing and confirming information before submitting or approving payroll actions.</description>
+      <pubDate>Tue, 20 Oct 2026 23:11:32 +0000</pubDate>
+      <guid isPermaLink="false">2112683163633975713</guid>
+    </item>
+    <item>
+      <title>Putting myself on payroll was one of the more painful parts of running my one-person S-corp.  I'm partnering with @mercury on Mercury Payroll, which brings payroll into your Mercury account, with a team that handles state-tax registration paperwork and live-balance checks that flag potential shortfa...</title>
+      <link>https://x.com/petergyang/status/2112683151504159073</link>
+      <description>作者：Peter Yang
+账号：@petergyang
+简介：Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6
 
-Speaker 2 | 06:46 - 06:54
-They're making... He's doing this thing called Claude... Claudis. And I was like, oh, this is kind of a weird thing, you know, kind of follow the project. Mhmm.
+Putting myself on payroll was one of the more painful parts of running my one-person S-corp.
 
-Speaker 2 | 06:55 - 07:06
-And then Ash came back and was like, oh, yeah, dude. This is really cool. And so we started trying it and then I think...</description>
-      <pubDate>Wed, 07 Oct 2026 17:11:13 +0000</pubDate>
-      <guid>https://www.youtube.com/playlist?list=PLuMcoKK9mKgHtW_o9h5sGO2vXrffKHwJL</guid>
+I'm partnering with @mercury on Mercury Payroll, which brings payroll into your Mercury account, with a team that handles state-tax registration paperwork and live-balance checks that flag potential shortfalls before payday.
+
+Here's what would have made my setup easier.
+
+Paid partnership with Mercury</description>
+      <pubDate>Tue, 20 Oct 2026 23:11:29 +0000</pubDate>
+      <guid isPermaLink="false">2112683151504159073</guid>
+    </item>
+    <item>
+      <title>Sundar: &quot;We are so committed to being at the frontier. It’s in our DNA. We won’t do it any other way.&quot;  Come build with us! https://t.co/p66ngm6sUi</title>
+      <link>https://x.com/joshwoodward/status/2112679011839344651</link>
+      <description>作者：Josh Woodward
+账号：@joshwoodward
+简介：VP, @Google @GoogleLabs @GeminiApp @GoogleAIStudio
+
+Sundar: &quot;We are so committed to being at the frontier. It’s in our DNA. We won’t do it any other way.&quot;
+
+Come build with us! https://t.co/p66ngm6sUi</description>
+      <pubDate>Tue, 20 Oct 2026 22:55:02 +0000</pubDate>
+      <guid isPermaLink="false">2112679011839344651</guid>
+    </item>
+    <item>
+      <title>Sign up here: https://t.co/HF3sXiqKUU</title>
+      <link>https://x.com/joshwoodward/status/2112676778779238583</link>
+      <description>作者：Josh Woodward
+账号：@joshwoodward
+简介：VP, @Google @GoogleLabs @GeminiApp @GoogleAIStudio
+
+Sign up here: https://t.co/HF3sXiqKUU</description>
+      <pubDate>Tue, 20 Oct 2026 22:46:10 +0000</pubDate>
+      <guid isPermaLink="false">2112676778779238583</guid>
+    </item>
+    <item>
+      <title>We just crossed a big milestone for our @GeminiApp Trusted Tester community yesterday. TLDR: Lots of people want to try early stuff on Web, Android, and iOS! If you’ve signed up before, you’re fully in. If you want to sign up… 👇 https://t.co/SShYS6GnAd</title>
+      <link>https://x.com/joshwoodward/status/2112676777290248675</link>
+      <description>作者：Josh Woodward
+账号：@joshwoodward
+简介：VP, @Google @GoogleLabs @GeminiApp @GoogleAIStudio
+
+We just crossed a big milestone for our @GeminiApp Trusted Tester community yesterday. TLDR: Lots of people want to try early stuff on Web, Android, and iOS! If you’ve signed up before, you’re fully in. If you want to sign up… 👇 https://t.co/SShYS6GnAd</description>
+      <pubDate>Tue, 20 Oct 2026 22:46:09 +0000</pubDate>
+      <guid isPermaLink="false">2112676777290248675</guid>
+    </item>
+    <item>
+      <title>https://t.co/Tv89Jzgkp3</title>
+      <link>https://x.com/swyx/status/2112662180105699802</link>
+      <description>作者：Swyx
+账号：@swyx
+简介：achieve ambition with intentionality, intensity, integrity &amp; insanity.
+
+affiliations:
+- @smol_ai
+- @dxtipshq
+- @cognition
+- @aidotengineer
+- @latentspacepod
+
+https://t.co/Tv89Jzgkp3</description>
+      <pubDate>Tue, 20 Oct 2026 21:48:09 +0000</pubDate>
+      <guid isPermaLink="false">2112662180105699802</guid>
+    </item>
+    <item>
+      <title>Much like we did with @aisdk, we're bringing a truly open-source, runtime-agnostic solution to harness durability.  We're extending the durability infra that powers @eve and Workflows to all harnesses, like Pi and OpenCode. Local, Vercel, or DIY.  Fun fact: even Claude Code and Codex can be made dur...</title>
+      <link>https://x.com/rauchg/status/2112658577110520122</link>
+      <description>作者：Guillermo Rauch
+账号：@rauchg
+简介：@vercel CEO
+
+Much like we did with @aisdk, we're bringing a truly open-source, runtime-agnostic solution to harness durability.
+
+We're extending the durability infra that powers @eve and Workflows to all harnesses, like Pi and OpenCode. Local, Vercel, or DIY.
+
+Fun fact: even Claude Code and Codex can be made durable (and observable!) this way. The catch: they're not (currently) designed for embedding, which makes them less efficient, less portable, and brings an extra sandbox requirement compared to Pi or Fx.</description>
+      <pubDate>Tue, 20 Oct 2026 21:33:50 +0000</pubDate>
+      <guid isPermaLink="false">2112658577110520122</guid>
+    </item>
+    <item>
+      <title>I am very grateful Aleksander accepted our request to come take this on; the safety and security challenges in front of us as we confront superintelligence are immense, and he has an excellent set of skills to work on this. https://t.co/myODbyruRO</title>
+      <link>https://x.com/sama/status/2112652656602923366</link>
+      <description>作者：Sam Altman
+账号：@sama
+简介：The mission of OpenAI is to ensure that AGI benefits all of humanity
+
+I am very grateful Aleksander accepted our request to come take this on; the safety and security challenges in front of us as we confront superintelligence are immense, and he has an excellent set of skills to work on this. https://t.co/myODbyruRO</description>
+      <pubDate>Tue, 20 Oct 2026 21:10:19 +0000</pubDate>
+      <guid isPermaLink="false">2112652656602923366</guid>
+    </item>
+    <item>
+      <title>AI will be able to compute the perfect delta of what you understand and don't, helping you progressively learn any idea and unravel any mystery.  If you so desire, you'll reach the maximum of your capability and intelligence. The ultimate education. For free.</title>
+      <link>https://x.com/rauchg/status/2112638107749355867</link>
+      <description>作者：Guillermo Rauch
+账号：@rauchg
+简介：@vercel CEO
+
+AI will be able to compute the perfect delta of what you understand and don't, helping you progressively learn any idea and unravel any mystery.
+
+If you so desire, you'll reach the maximum of your capability and intelligence. The ultimate education. For free.</description>
+      <pubDate>Tue, 20 Oct 2026 20:12:30 +0000</pubDate>
+      <guid isPermaLink="false">2112638107749355867</guid>
+    </item>
+    <item>
+      <title>i had a bowl of pasta at lunch and man that was TERRIBLE idea but it tasted so good</title>
+      <link>https://x.com/danshipper/status/2112627161492312302</link>
+      <description>作者：Dan Shipper
+账号：@danshipper
+简介：ceo @every | the only subscription you need to stay at the edge of AI
+
+i had a bowl of pasta at lunch and man that was TERRIBLE idea but it tasted so good</description>
+      <pubDate>Tue, 20 Oct 2026 19:29:00 +0000</pubDate>
+      <guid isPermaLink="false">2112627161492312302</guid>
+    </item>
+    <item>
+      <title>Big news in *open source* voice AI: a suite of tiny text-to-speech, on-device SOTA models 🔥🔥🔥 https://t.co/VDc10vh3Ub</title>
+      <link>https://x.com/mattturck/status/2112623582098428015</link>
+      <description>作者：Matt Turck
+账号：@mattturck
+简介：VC at @FirstMarkCap.  Host: MAD Podcast; Organizer: Data Driven NYC, Author: MAD Landscape.
+
+Big news in *open source* voice AI: a suite of tiny text-to-speech, on-device SOTA models 🔥🔥🔥 https://t.co/VDc10vh3Ub</description>
+      <pubDate>Tue, 20 Oct 2026 19:14:47 +0000</pubDate>
+      <guid isPermaLink="false">2112623582098428015</guid>
+    </item>
+    <item>
+      <title>Greatest unlock for any startup founder or anyone who has to get in touch with the right people https://t.co/FWdMrZ8VzV</title>
+      <link>https://x.com/garrytan/status/2112611824432742493</link>
+      <description>作者：Garry Tan
+账号：@garrytan
+简介：President &amp; CEO @ycombinator —Founder @garryslist—Creator of GStack &amp; GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop
+
+Greatest unlock for any startup founder or anyone who has to get in touch with the right people https://t.co/FWdMrZ8VzV</description>
+      <pubDate>Tue, 20 Oct 2026 18:28:04 +0000</pubDate>
+      <guid isPermaLink="false">2112611824432742493</guid>
+    </item>
+    <item>
+      <title>I predict Fable 5.5 will come anywhere from 5 seconds from now to a few weeks from now.  And it'll be breathtaking. You heard it here first folks.</title>
+      <link>https://x.com/petergyang/status/2112607957586452724</link>
+      <description>作者：Peter Yang
+账号：@petergyang
+简介：Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6
+
+I predict Fable 5.5 will come anywhere from 5 seconds from now to a few weeks from now.
+
+And it'll be breathtaking. You heard it here first folks.</description>
+      <pubDate>Tue, 20 Oct 2026 18:12:42 +0000</pubDate>
+      <guid isPermaLink="false">2112607957586452724</guid>
+    </item>
+    <item>
+      <title>It would be 9x faster, but we were already on the 7.1-dev version of the ts compiler.</title>
+      <link>https://x.com/steipete/status/2112607156164059450</link>
+      <description>作者：Peter Steinberger
+账号：@steipete
+简介：Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world.
+@OpenClaw🦞 + @OpenAI
+
+It would be 9x faster, but we were already on the 7.1-dev version of the ts compiler.</description>
+      <pubDate>Tue, 20 Oct 2026 18:09:31 +0000</pubDate>
+      <guid isPermaLink="false">2112607156164059450</guid>
+    </item>
+    <item>
+      <title>What would happen if Dreambeans ☁️ dreamt up ☁️ your morning ☀️?  We brought together Google Labs’ very own Sahana R. (Product Manager), Brian R. (VP of Product), and his impossibly adorable floof Nala to dance with destiny in an exercise we’re calling “Dreambeans Roulette”!  Here’s the rundown: 1️⃣...</title>
+      <link>https://x.com/GoogleLabs/status/2112606263163203970</link>
+      <description>作者：Google Labs
+账号：@GoogleLabs
+简介：Google’s home for our latest AI tools and experiments.
+
+What would happen if Dreambeans ☁️ dreamt up ☁️ your morning ☀️?
+
+We brought together Google Labs’ very own Sahana R. (Product Manager), Brian R. (VP of Product), and his impossibly adorable floof Nala to dance with destiny in an exercise we’re calling “Dreambeans Roulette”!
+
+Here’s the rundown:
+1️⃣ Open Dreambeans
+2️⃣ Select a story
+3️⃣ Go out and do it!
+
+Discover where Dreambeans takes us in “Dreambeans Roulette: Part 1” and follow along in this three-part series!
+
+Dreambeans is available in the US, for users 18+. More regions coming soon. Learn more at https://t.co/jCdAzMHvOD</description>
+      <pubDate>Tue, 20 Oct 2026 18:05:58 +0000</pubDate>
+      <guid isPermaLink="false">2112606263163203970</guid>
+    </item>
+    <item>
+      <title>Astra did the planning, Sol 6.1 did the coding.  I found that the workflow of prompting Astra to run codex cli in worktrees works FAR better than relying on subagents.  A second agent oversaw the work to keep Astra on track. Kinda like /goal, but instead of the same agent reviewing a text file, a se...</title>
+      <link>https://x.com/steipete/status/2112605703219347503</link>
+      <description>作者：Peter Steinberger
+账号：@steipete
+简介：Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world.
+@OpenClaw🦞 + @OpenAI
+
+Astra did the planning, Sol 6.1 did the coding.
+
+I found that the workflow of prompting Astra to run codex cli in worktrees works FAR better than relying on subagents.
+
+A second agent oversaw the work to keep Astra on track. Kinda like /goal, but instead of the same agent reviewing a text file, a second agent that challenges. Wrote an OC-plugin for this &quot;smart goal&quot; feature.</description>
+      <pubDate>Tue, 20 Oct 2026 18:03:44 +0000</pubDate>
+      <guid isPermaLink="false">2112605703219347503</guid>
+    </item>
+    <item>
+      <title>There were reports of usage draining faster than anticipated for some users over the weekend. We've identified approximately 40,000 accounts that had an inconsistency on which usage limits where the actual usage that was applied did not correspond to their actual selected plan. We are reaching out i...</title>
+      <link>https://x.com/thsottiaux/status/2112592264686149749</link>
+      <description>作者：Thibault Sottiaux
+账号：@thsottiaux
+简介：Codex &amp; ChatGPT @OpenAI
+
+There were reports of usage draining faster than anticipated for some users over the weekend. We've identified approximately 40,000 accounts that had an inconsistency on which usage limits where the actual usage that was applied did not correspond to their actual selected plan. We are reaching out individually to all these users and have corrected the issue. If this affected you, we'll add credits to your account. Sorry we got this wrong.</description>
+      <pubDate>Tue, 20 Oct 2026 17:10:20 +0000</pubDate>
+      <guid isPermaLink="false">2112592264686149749</guid>
+    </item>
+    <item>
+      <title>Call me an old hat computer scientist but the parallels between  Inference time scaling ---&amp;gt; Subagents --&amp;gt; Agent Swarms  looks an awful lot like  CPU Threads --&amp;gt; Multi-core CPUs --&amp;gt; Multi-Node Distributed Systems  History rhymes well.</title>
+      <link>https://x.com/adityaag/status/2112579526379401408</link>
+      <description>作者：Aditya Agarwal
+账号：@adityaag
+简介：General Partner @SPC, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @Dropbox, Board @Flipkart | Optimist, Builder, Dad
+
+Call me an old hat computer scientist but the parallels between
+
+Inference time scaling ---&amp;gt; Subagents --&amp;gt; Agent Swarms
+
+looks an awful lot like
+
+CPU Threads --&amp;gt; Multi-core CPUs --&amp;gt; Multi-Node Distributed Systems
+
+History rhymes well.</description>
+      <pubDate>Tue, 20 Oct 2026 16:19:43 +0000</pubDate>
+      <guid isPermaLink="false">2112579526379401408</guid>
+    </item>
+    <item>
+      <title>Thrilled to double down at @daytonaio: @ivanburazin, @JukicVedran and team are building one of the iconic companies of the AI era.  We're grateful that they let us lead the Series B, after leading the Series A earlier this year. https://t.co/0cTtZhI1UG</title>
+      <link>https://x.com/mattturck/status/2112570721499042246</link>
+      <description>作者：Matt Turck
+账号：@mattturck
+简介：VC at @FirstMarkCap.  Host: MAD Podcast; Organizer: Data Driven NYC, Author: MAD Landscape.
+
+Thrilled to double down at @daytonaio: @ivanburazin, @JukicVedran and team are building one of the iconic companies of the AI era.  We're grateful that they let us lead the Series B, after leading the Series A earlier this year. https://t.co/0cTtZhI1UG</description>
+      <pubDate>Tue, 20 Oct 2026 15:44:44 +0000</pubDate>
+      <guid isPermaLink="false">2112570721499042246</guid>
+    </item>
+    <item>
+      <title>BOOK REVIEW: Will and Attention, Meghan O'Gieblyn author of God, Human, Animal Machine  I loved this book. O'Gieblyn writes with an addictive mix of clarity, rigor, literary references, and self-implicating honesty. I tore through it in a few days.  The book deals with her relapse into alcoholism, h...</title>
+      <link>https://x.com/danshipper/status/2112561443249786901</link>
+      <description>作者：Dan Shipper
+账号：@danshipper
+简介：ceo @every | the only subscription you need to stay at the edge of AI
+
+BOOK REVIEW: Will and Attention, Meghan O'Gieblyn author of God, Human, Animal Machine
+
+I loved this book. O'Gieblyn writes with an addictive mix of clarity, rigor, literary references, and self-implicating honesty. I tore through it in a few days.
+
+The book deals with her relapse into alcoholism, how the stories we tell about ourselves can both save us and, when they go stale, ruin us, whether we change from the outside in or the inside out, and how and whether we can trust our own desires.
+
+Underneath it's a story about pragmatism. Her initial recovery from alcoholism rested on a pragmatic philosophy: she treated the core tenets of sobriety—faith as &quot;something you do&quot; surrendering her will to a Higher Power that would keep her safe, and even the resolution not to drink—not as capital T truths, but truths she adopted because they worked.
+
+The problem she found is, for one, this creates a gap between your underlying desires and beliefs and your behavior. One that you hope will close eventually, but if it doesn’t can leave you feeling hollowed out and can keep your actual desires and beliefs unexamined. The other problem, of course, is once you start asking whether sobriety is “useful”, you open yourself to another version of the truth: That it might not be.
+
+One of the things I found so striking about this book is how honest she is, without glorifying drinking, about what alcohol gives to alcoholics. For her, it can bring the kind of unification of self that mystics and yogis seek in God and meditation. So at that point, it is easy for the alcoholic to ask, fairly, why alcohol is not “useful”?
+
+It should be clear that even if you’re not an alcoholic these are the kinds of mental gymnastics all of us do to justify and rationalize any number of behaviors or beliefs.
+
+As an admirer of pragmatism I found this to be quite an interesting and mind-expanding line of questioning.
+
+But I also found it interesting that, as far as I can tell, her turn away from pragmatism—away from truths held to because they “worked,” and back toward a vision of truth and goodness as inviolable and untouchable by experience—ultimately seems to rest on pragmatic grounds. Getting sober again, having faith, and treating the resolution not to drink as an unconditional taboo all, in the broadest sense possible, rest on what they do for her: they keep her desires from talking her back into ruin.</description>
+      <pubDate>Tue, 20 Oct 2026 15:07:52 +0000</pubDate>
+      <guid isPermaLink="false">2112561443249786901</guid>
+    </item>
+    <item>
+      <title>Asset seizure tax destroying California  You can bet they will keep trying to do it because it’s all the same goal: eat the Golden Goose  Better off just enjoying unlimited golden eggs but no, gotta eat that goose https://t.co/txJv5u5ZE6</title>
+      <link>https://x.com/garrytan/status/2112553922753864109</link>
+      <description>作者：Garry Tan
+账号：@garrytan
+简介：President &amp; CEO @ycombinator —Founder @garryslist—Creator of GStack &amp; GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop
+
+Asset seizure tax destroying California
+
+You can bet they will keep trying to do it because it’s all the same goal: eat the Golden Goose
+
+Better off just enjoying unlimited golden eggs but no, gotta eat that goose https://t.co/txJv5u5ZE6</description>
+      <pubDate>Tue, 20 Oct 2026 14:37:59 +0000</pubDate>
+      <guid isPermaLink="false">2112553922753864109</guid>
+    </item>
+    <item>
+      <title>right it needs to ask for approval but the approval policy is never so it can't ask for approval! and it doesn't know how I can change the approval policy  makes sense! https://t.co/n6MDve1Q1e</title>
+      <link>https://x.com/danshipper/status/2112550542837002419</link>
+      <description>作者：Dan Shipper
+账号：@danshipper
+简介：ceo @every | the only subscription you need to stay at the edge of AI
+
+right it needs to ask for approval but the approval policy is never so it can't ask for approval! and it doesn't know how I can change the approval policy
+
+makes sense! https://t.co/n6MDve1Q1e</description>
+      <pubDate>Tue, 20 Oct 2026 14:24:33 +0000</pubDate>
+      <guid isPermaLink="false">2112550542837002419</guid>
+    </item>
+    <item>
+      <title>If you’re a product builder in the earliest stages, the biggest advantage of having your own audience isn’t even the distribution.  It’s being able to  - Test different ideas/angles and see what resonate with people - Find your first 100 early adopters  Signals &amp;gt; distribution</title>
+      <link>https://x.com/zarazhangrui/status/2112530473994072225</link>
+      <description>作者：Zara Zhang
+账号：@zarazhangrui
+简介：Builder. Make something people want, then make people want it. Harvard’17. GitHub: https://t.co/KCuEajezlL 
+YouTube: https://t.co/8xzbGWtf6w
+
+If you’re a product builder in the earliest stages, the biggest advantage of having your own audience isn’t even the distribution.
+
+It’s being able to 
+- Test different ideas/angles and see what resonate with people
+- Find your first 100 early adopters
+
+Signals &amp;gt; distribution</description>
+      <pubDate>Tue, 20 Oct 2026 13:04:48 +0000</pubDate>
+      <guid isPermaLink="false">2112530473994072225</guid>
     </item>
   </channel>
 </rss>
