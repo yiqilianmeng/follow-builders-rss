@@ -5,271 +5,308 @@
     <link>https://github.com/zarazhangrui/follow-builders</link>
     <description>聚合 AI 领域建设者的 X、播客和博客内容。</description>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 02 Nov 2026 03:10:04 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 14:03:44 +0000</lastBuildDate>
     <item>
-      <title>btw @karpathy uses medium on opus 5.5 on his latest project (Hackertube launched today).  overall i think having strong opinions on effort levels is like the tabs vs spaces of our time. just tweak to taste. altho mine is definitely superior to yours. https://t.co/oSCPvlogKc https://t.co/3OIWb03BtY</title>
-      <link>https://x.com/swyx/status/2116773135668404286</link>
-      <description>作者：Swyx
-账号：@swyx
-简介：achieve ambition with intentionality, intensity, integrity &amp; insanity.
-
-affiliations:
-- @smol_ai
-- @cognition
-- @temporalio
-- @aidotengineer
-- @latentspacepod
-
-btw @karpathy uses medium on opus 5.5 on his latest project (Hackertube launched today).
-
-overall i think having strong opinions on effort levels is like the tabs vs spaces of our time. just tweak to taste. altho mine is definitely superior to yours. https://t.co/oSCPvlogKc https://t.co/3OIWb03BtY</description>
-      <pubDate>Sun, 01 Nov 2026 06:03:37 +0000</pubDate>
-      <guid isPermaLink="false">2116773135668404286</guid>
-    </item>
-    <item>
-      <title>Is it weird if I prefer listening to this over Spotify https://t.co/lH3wixKArx</title>
-      <link>https://x.com/petergyang/status/2116754343315841471</link>
-      <description>作者：Peter Yang
-账号：@petergyang
-简介：Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6
-
-Is it weird if I prefer listening to this over Spotify https://t.co/lH3wixKArx</description>
-      <pubDate>Sun, 01 Nov 2026 04:48:57 +0000</pubDate>
-      <guid isPermaLink="false">2116754343315841471</guid>
-    </item>
-    <item>
-      <title>Don't particularly care about the trick or treat part, just being able to dress up as whatever you want is the best</title>
-      <link>https://x.com/petergyang/status/2116733034926100841</link>
-      <description>作者：Peter Yang
-账号：@petergyang
-简介：Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6
-
-Don't particularly care about the trick or treat part, just being able to dress up as whatever you want is the best</description>
-      <pubDate>Sun, 01 Nov 2026 03:24:17 +0000</pubDate>
-      <guid isPermaLink="false">2116733034926100841</guid>
-    </item>
-    <item>
-      <title>Halloween is honestly the best holiday and should be held every quarter</title>
-      <link>https://x.com/petergyang/status/2116732887265656978</link>
-      <description>作者：Peter Yang
-账号：@petergyang
-简介：Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6
-
-Halloween is honestly the best holiday and should be held every quarter</description>
-      <pubDate>Sun, 01 Nov 2026 03:23:41 +0000</pubDate>
-      <guid isPermaLink="false">2116732887265656978</guid>
-    </item>
-    <item>
-      <title>This would go so hard in SF https://t.co/RgE7UIADws</title>
-      <link>https://x.com/rauchg/status/2116710688550994042</link>
-      <description>作者：Guillermo Rauch
-账号：@rauchg
-简介：@vercel CEO
-
-This would go so hard in SF https://t.co/RgE7UIADws</description>
-      <pubDate>Sun, 01 Nov 2026 01:55:29 +0000</pubDate>
-      <guid isPermaLink="false">2116710688550994042</guid>
-    </item>
-    <item>
-      <title>Banked 1/2</title>
-      <link>https://x.com/thsottiaux/status/2116692529970311254</link>
-      <description>作者：Thibault Sottiaux
-账号：@thsottiaux
-简介：Codex &amp; ChatGPT @OpenAI
-
-Banked 1/2</description>
-      <pubDate>Sun, 01 Nov 2026 00:43:20 +0000</pubDate>
-      <guid isPermaLink="false">2116692529970311254</guid>
-    </item>
-    <item>
-      <title>A classic that never goes out of style 🎃👻 https://t.co/4AiSR3Qg4L</title>
-      <link>https://x.com/mattturck/status/2116653171741470990</link>
-      <description>作者：Matt Turck
-账号：@mattturck
-简介：VC at @FirstMarkCap.  Host: MAD Podcast; Organizer: Data Driven NYC, Author: MAD Landscape.
-
-A classic that never goes out of style 🎃👻 https://t.co/4AiSR3Qg4L</description>
-      <pubDate>Sat, 31 Oct 2026 22:06:56 +0000</pubDate>
-      <guid isPermaLink="false">2116653171741470990</guid>
-    </item>
-    <item>
-      <title>This is one of the better litmus tests for whether you’re pushing your use of AI enough or not.   Up until maybe six months ago probably the best you could do with AI was pull off something you already would produce, but just doing it a little faster. But now we’re entering a point where the output ...</title>
-      <link>https://x.com/levie/status/2116652002830963114</link>
-      <description>作者：Aaron Levie
-账号：@levie
-简介：ceo @box - your business lives in content. unleash it with AI
-
-This is one of the better litmus tests for whether you’re pushing your use of AI enough or not. 
-
-Up until maybe six months ago probably the best you could do with AI was pull off something you already would produce, but just doing it a little faster. But now we’re entering a point where the output of working with AI can and should dramatically exceed what you would been able to do before, in a fraction of the time.
-
-The product prototype should not only be fully functional and interactive, but it should probably have meaningfully better features than it would have had before. The engineering architecture should be able to deliver performance gains that you wouldn’t have been able to go after otherwise. 
-
-The research for a project should consume every single fact on the subject across every dimension of analysis possible. The business process you implement with AI should operate entirely differently and learn from all its past failures in a way no human could. 
-
-We’re unquestionably entering a period where AI will be smarter than us on most axes. Perhaps not on every dimension that matters (intelligence is still very jagged), but at least on enough dimensions that when we combine it with what we’re good at, you get qualitatively different outcomes.
-
-So the simple test is: if you could have done what you’re doing before AI, you’re likely not pushing it enough.</description>
-      <pubDate>Sat, 31 Oct 2026 22:02:17 +0000</pubDate>
-      <guid isPermaLink="false">2116652002830963114</guid>
-    </item>
-    <item>
-      <title>join me all the way on the light side guys  low effort + critique loop &amp;gt; superultramaxhighwhatever  (for the throughput-constrained; see swyxio/skills/babysit-runs) https://t.co/TuAWCwUPR1</title>
-      <link>https://x.com/swyx/status/2116642586387730593</link>
-      <description>作者：Swyx
-账号：@swyx
-简介：achieve ambition with intentionality, intensity, integrity &amp; insanity.
-
-affiliations:
-- @smol_ai
-- @cognition
-- @temporalio
-- @aidotengineer
-- @latentspacepod
-
-join me all the way on the light side guys
-
-low effort + critique loop &amp;gt; superultramaxhighwhatever
-
-(for the throughput-constrained; see swyxio/skills/babysit-runs) https://t.co/TuAWCwUPR1</description>
-      <pubDate>Sat, 31 Oct 2026 21:24:52 +0000</pubDate>
-      <guid isPermaLink="false">2116642586387730593</guid>
-    </item>
-    <item>
-      <title>&gt; Why does the worst rise to the top in a society rife with broken politics?   “When the plan fails—and it always fails—coercion is needed. You need people willing to do what honest people refuse to do. The system doesn't promote the best; it selects those with no scruples. And to rally a majority a...</title>
-      <link>https://x.com/garrytan/status/2116640529232609515</link>
+      <title>Particle-1 is as good as much larger models for agentic retrieval but 1/23 the price  https://t.co/1CmqlXOx8D https://t.co/7s33EuSO0L</title>
+      <link>https://x.com/garrytan/status/2117137390016073977</link>
       <description>作者：Garry Tan
 账号：@garrytan
 简介：President &amp; CEO @ycombinator —Founder @garryslist—Creator of GStack &amp; GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop
 
-&gt; Why does the worst rise to the top in a society rife with broken politics? 
+Particle-1 is as good as much larger models for agentic retrieval but 1/23 the price
 
-“When the plan fails—and it always fails—coercion is needed. You need people willing to do what honest people refuse to do. The system doesn't promote the best; it selects those with no scruples. And to rally a majority around the plan, nothing works better than a common enemy: the rich, the foreigner, the dissenter.”</description>
-      <pubDate>Sat, 31 Oct 2026 21:16:42 +0000</pubDate>
-      <guid isPermaLink="false">2116640529232609515</guid>
+https://t.co/1CmqlXOx8D https://t.co/7s33EuSO0L</description>
+      <pubDate>Mon, 02 Nov 2026 06:11:02 +0000</pubDate>
+      <guid isPermaLink="false">2117137390016073977</guid>
     </item>
     <item>
-      <title>First snow is always special ❄️ https://t.co/FzWYVB4HUl</title>
-      <link>https://x.com/nikunj/status/2116624458198982668</link>
-      <description>作者：Nikunj Kothari
-账号：@nikunj
-简介：partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian &amp; others. love @shimoleejhaveri + 👦👧
+      <title>Increasingly this will be the new job description for a lot of roles, not just coding. We’re clearly moving from a world where agents help us do our work incrementally better or faster, to us helping agents do their work.  This turns everyone in one of these positions to that of a manager of a team ...</title>
+      <link>https://x.com/levie/status/2117134917847093491</link>
+      <description>作者：Aaron Levie
+账号：@levie
+简介：ceo @box - your business lives in content. unleash it with AI
 
-First snow is always special ❄️ https://t.co/FzWYVB4HUl</description>
-      <pubDate>Sat, 31 Oct 2026 20:12:50 +0000</pubDate>
-      <guid isPermaLink="false">2116624458198982668</guid>
+Increasingly this will be the new job description for a lot of roles, not just coding. We’re clearly moving from a world where agents help us do our work incrementally better or faster, to us helping agents do their work.
+
+This turns everyone in one of these positions to that of a manager of a team of agents, instead of an individual contributor with just some added leverage from AI. The biggest areas of impact will be information-heavy jobs, like coding, cybersecurity, legal work, biotech, engineering, and many other fields. 
+
+And as a result, in these jobs your leverage will begin to be decoupled from the normal ratio of hours spent working to output generated. For essentially the history of knowledge work the main variable you had to play with was hours of work done (assuming fixed level talent/coordination/strategy). 
+
+Now we’ve separated these variables because agents can parallelize work for us, to in theory execute as much as we need to pull off whatever goal we’re trying to accomplish. The people and organizations that discover this sooner, and orient their operations around it, will see compounding gains in their workflows.</description>
+      <pubDate>Mon, 02 Nov 2026 06:01:13 +0000</pubDate>
+      <guid isPermaLink="false">2117134917847093491</guid>
     </item>
     <item>
-      <title>Using Agents for Long-Horizon Financial Work — Aman Singh, Arca</title>
-      <link>https://www.youtube.com/@LatentSpacePod</link>
-      <description>播客：Latent Space
+      <title>What if your Linktree were an actual tree https://t.co/3ozuquLIIC https://t.co/WEzBKd6aaF</title>
+      <link>https://x.com/zarazhangrui/status/2117086544586780867</link>
+      <description>作者：Zara Zhang
+账号：@zarazhangrui
+简介：Builder.  Harvard’17. Instagram: https://t.co/aJqTEMrL2L GitHub: https://t.co/KCuEajezlL
 
-We're actually not a SaaS company. We are, um, we are the firm ourselves. Agents prompt people more than people prompt agents- Mm... and it is a proactive kind of, um, service that is running for them twenty-four seven.
-
-[on-hold music] We're here at the, uh, AI Engineer New York conference, twenty twenty-six. Um, and I'm here with Aman Singh, uh, from Arca.
-
-Um, and, uh, Arca's, uh, recently raised sixty-four million for an AI-native wealth management firm.
-
-Uh, so first of all, Aman, can you tell us a bit about your role at Arca and, um, the financial services you provide and, um, how you're using AI agents to run them? Yeah, for sure. Um, thanks for having me.
-
-Um, my role at Arca is I lead the AI platform team, so we're building the underlying sort of, um, harness and our capabilities to kind of run the business with AI, which is our ultimate goal.
-
-Um, in terms of the services that we provide to our clients, um, we-- This is a broad spectrum of financial services.
-
-So that includes, um, sort of financial advice, financial planning for, um, for their assets, um, and sort of, um, uh, tax planning and insurance and estate planning as, as people get wealthier.
-
-Um, maybe you are, um, someone who just sold a business, for example. Mm-hmm. Um, and there's lots of complexities with all the different partners, et cetera, right? So, uh, we can help you think through that.
-
-Um, we also have clients that are, you know, uh, really large technology executives that, uh- Mm... have, uh, are trying to figure out a real plan for retiring, retiring early, right? Mm-hmm.
-
-Um, and also sm-small families that, um, uh, that are trying to buy their first home, for example. Yeah. Um, yeah.
-
-So the, um, the clients that you have so far, are they, um, do you have to kind of talk them through using agents and, and why you're using agents and tell them a little bit about the technology behind it? Yeah.
-
-So, um, the role of AI at Arca is not to replace the advisor. It is to replace all of the work around the advisor. Mm. So our clients don't really interface with AI directly. Mm.
-
-All they experience is a level of service that has not been, been, um, been possible in this industry before- Mm... delivered through the empathy and care of a human advisor.
-
-Um, so we're building the machinery behind, um, every client- Mm... that's constantly thinking about, um, you know, um, what's, what is the market doing, and how does it impact Richard? Mm.
-
-You know, um, what are, what, what else is going on in your life? Like, what are you-- what are the s-the, the textures of your life that impact your finances?
-
-Um, and, uh, we're able to be way, way more proactive, way more responsive, um, and just deliver a better, um, kind of, uh, level of client service using AI that does all of the, the back office stuff. Okay.
-
-So let's get into the, some of the technical aspects of it. Wh-which models are you using to power your agents and, um, how do you decide which model is best for, for which action? Yeah.
-
-Um, so today we're using, uh, the Frontier, uh, models from, um, from, uh, the Frontier Labs, like Anthropic and, uh, and OpenAI. Mm. Um, Claude is kind of our primary, um, um, model, has been, but- Mm-hmm...
-
-um, we've gone through several iterations of models over the years. Um, we used to be in Gemini way back when- Mm...
-
-um, and then OpenAI and then, and then Anthropic, and what's guiding all of our decisions are, um, our benchmarks that we have internally for, um, all of the various, um, capabilities of our general harness, uh, that it has to express in, in running our business.
-
-Um, and so, uh, just recently, for example, um, despite the external benchmarks claiming, um, great things for Luna, it didn't really quite work out for us as, as well as we had expected. It was way too slow or, um...
-
-And it was costing a lot. Mm. And so, um, our internal benchmarks kind of guide our model decisions, and, uh, as a principle, we, we want to be, um, model-agnostic- Mm...
-
-um, and, and sort of not, um, uh, you know, um, take a dependency on, on a, a certain provider or a certain harness from one of these labs and kind of keep that, that optionality open for us. Okay.
-
-So, uh, you just mentioned, uh, harnesses, so you're using different harnesses depending on which model you're using? No. We have, uh, we have our, our own- Okay... uh, kind of built internally that is mo-model-agnostic.
-
-Okay. Um, so, um, you know, when, when your, when a financial advisor is doing something like a taxation report or something like that, how does the harness decide which model to use? Is that automated? Well, yes.
-
-So we have, um, certain tiers of models based on different complexities of, of tasks. Mm-hmm. So a task like assisting with a tax plan or doing a tax analysis would get our, like, heaviest tier of models. Right.
-
-Inside of that tier, it is a little bit flexible, so you could use, um, so like an Opus tier model or a Sonnet tier model, um, or a, a, a heavy GPT model. Mm.
-
-Um, but, um, based on, uh, there's a lot of, like, background activity that our agents are participating in, right? That is using the, a lower tier of model- Mm... um, based on the complexity of the task.
-
-So that's kind of how we, how we make decisions- Yeah... uh, on, on which model serves which task. Okay.
-
-So is it the, um, uh, the financial advisor that's actually making that decision while they're using the pro-product or- Not really. Mm. Um, they, they're, they're not aware of- Okay... uh, of that happening.
-
-We've abstracted this away- Okay... uh, from them entirely. They kind of just interact with our product, um, as they would. Mm. Um, and those decisions are made in-internally, uh, by us. Okay.
-
-So, um, in your presentation at, at the conference earlier today, you talked about a tax bill, uh, example.
-
-Uh, I just wondered if you could maybe walk us through, uh, an example of adjusting a client's, uh, portfolio, investment portfolio, um, you know, from identifying a need to maybe rebalance the portfolio to executing trades.
-
-Can you talk us through, you know, what, what parts of that process the agent does and, and what parts the human advisor does? Right. Um, so just like in the talk, this is a thing that will span ten days.
-
-Um, and so agents are ultimately, um, responsible for delivering that outcome. But there are, are, are certain parts that they do and certain parts that they do not. Mm.
-
-So in this example, um, when, uh, when the client emails us, uh, with this whole tax bill, th-there's a, there's a piece of the analysis of like, where is this client's money allocated today, and what is the most optimal way, um, to liquidate some of that to, to produce a hundred thousand dollars?
-
-Mm. That is best suited for agents. Right To take on as an analysis task Yeah So that they do exactly that Do they have certain limits though? That they can't, you know, they can't execute a trade at- Correct...
-
-X amount? Yeah. So the analysis part is fully automated, but, um, they're unable to actually execute, uh, any sort of money movement or liquidation automatically. Mm-hmm.
-
-We have a very deep integration with our custodian, uh, that actually gives us APIs to be able to do that. Mm.
-
-Um, but we have strict guardrails around human in the loop for things that would either move money or liquidate assets, or even directly communicate with our, with our end clients, uh- Mm...
-
-because there's a level of service that, that, uh, service, service, and quality that we expect. Um, so all of the like internal analysis will be done by agents, but the, the...
-
-They will also pull in the right person to be able to execute the trade when needed. Mm.
-
-And they'll pr- give a, give the person a plan that they, they're able to review and kind of like adjust, um, and yeah, go from there. Yeah.
-
-Yeah, so you mentioned that, um, uh, these processes tend to be, you know, 10 days or at least l- longer sort of, uh, running time than most sort of agent stuff...</description>
-      <pubDate>Sat, 31 Oct 2026 16:00:00 +0000</pubDate>
-      <guid>https://www.youtube.com/@LatentSpacePod</guid>
+What if your Linktree were an actual tree https://t.co/3ozuquLIIC https://t.co/WEzBKd6aaF</description>
+      <pubDate>Mon, 02 Nov 2026 02:49:00 +0000</pubDate>
+      <guid isPermaLink="false">2117086544586780867</guid>
     </item>
     <item>
-      <title>what do you mean you dressed up as cybersecurity awareness month for halloween  i hate sf https://t.co/TLitKBVgUu</title>
-      <link>https://x.com/nikunj/status/2116554844207198501</link>
-      <description>作者：Nikunj Kothari
-账号：@nikunj
-简介：partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian &amp; others. love @shimoleejhaveri + 👦👧
+      <title>Upcoming episodes of Behind the Craft:  1. Ashley Alexander  Ashley is VP of Product at @OpenAI. We had a heart-to-heart conversation about what it's like to care for parents through cancer and where ChatGPT and AI can help.  2. Nate Parrott  @nateparrott is the @AnthropicAI designer behind Claude D...</title>
+      <link>https://x.com/petergyang/status/2117059131349868790</link>
+      <description>作者：Peter Yang
+账号：@petergyang
+简介：Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6
 
-what do you mean you dressed up as cybersecurity awareness month for halloween
+Upcoming episodes of Behind the Craft:
 
-i hate sf https://t.co/TLitKBVgUu</description>
-      <pubDate>Sat, 31 Oct 2026 15:36:13 +0000</pubDate>
-      <guid isPermaLink="false">2116554844207198501</guid>
+1. Ashley Alexander
+
+Ashley is VP of Product at @OpenAI. We had a heart-to-heart conversation about what it's like to care for parents through cancer and where ChatGPT and AI can help.
+
+2. Nate Parrott
+
+@nateparrott is the @AnthropicAI designer behind Claude Design, Dashboard, Motion, and more. He was refreshingly honest about how to get Claude to avoid designing AI slop with a live walkthrough of a real example.
+
+3. Matt Pocock
+
+Matt's AI skills for working with coding agents have 300K+ (!) GitHub stars. He teaches an excellent course on engineering fundamentals, and I can't wait to learn from him how to build software factories the right way.
+
+4. Jacob Sansbury
+
+@jsnnsa, according to my friend and a16z partner @illscience, has built the most AI-pilled gaming company in the world with just 10 people and $32M/year in Claude spend. Excited to dig into all this with him.
+
+With all my interviews, I try to find people who are builders and practitioners who can talk about topics that I genuinely care about.
+
+📌 Subscribe to get all the episodes soon:
+https://t.co/NSTj7ijxE0
+
+Thanks for your support!</description>
+      <pubDate>Mon, 02 Nov 2026 01:00:04 +0000</pubDate>
+      <guid isPermaLink="false">2117059131349868790</guid>
     </item>
     <item>
-      <title>direct clip: https://t.co/fcuFuFRIpO</title>
-      <link>https://x.com/swyx/status/2116544052267205093</link>
+      <title>F1 is basically the perfect competition for our times. The celebration of extraordinary technology and extraordinary human ability. That’s what Vercel stands for! (also: winning) https://t.co/XkxVDnmWjE</title>
+      <link>https://x.com/rauchg/status/2117039740096847920</link>
+      <description>作者：Guillermo Rauch
+账号：@rauchg
+简介：@vercel CEO
+
+F1 is basically the perfect competition for our times. The celebration of extraordinary technology and extraordinary human ability. That’s what Vercel stands for! (also: winning) https://t.co/XkxVDnmWjE</description>
+      <pubDate>Sun, 01 Nov 2026 23:43:01 +0000</pubDate>
+      <guid isPermaLink="false">2117039740096847920</guid>
+    </item>
+    <item>
+      <title>Day 28/ Banked 2/2</title>
+      <link>https://x.com/thsottiaux/status/2117035794678546764</link>
+      <description>作者：Thibault Sottiaux
+账号：@thsottiaux
+简介：Codex &amp; ChatGPT @OpenAI
+
+Day 28/ Banked 2/2</description>
+      <pubDate>Sun, 01 Nov 2026 23:27:20 +0000</pubDate>
+      <guid isPermaLink="false">2117035794678546764</guid>
+    </item>
+    <item>
+      <title>argon cooks https://t.co/RmZ0FeQLpM</title>
+      <link>https://x.com/danshipper/status/2117014507083948453</link>
+      <description>作者：Dan Shipper
+账号：@danshipper
+简介：ceo @every | the only subscription you need to stay at the edge of AI
+
+argon cooks https://t.co/RmZ0FeQLpM</description>
+      <pubDate>Sun, 01 Nov 2026 22:02:45 +0000</pubDate>
+      <guid isPermaLink="false">2117014507083948453</guid>
+    </item>
+    <item>
+      <title>If you’re enjoying a subsidized AI subscription get ready to get rug pulled. https://t.co/XCjMc61pir</title>
+      <link>https://x.com/amasad/status/2117010858845089805</link>
+      <description>作者：Amjad Masad
+账号：@amasad
+简介：ceo @replit. civilizationist
+
+If you’re enjoying a subsidized AI subscription get ready to get rug pulled. https://t.co/XCjMc61pir</description>
+      <pubDate>Sun, 01 Nov 2026 21:48:15 +0000</pubDate>
+      <guid isPermaLink="false">2117010858845089805</guid>
+    </item>
+    <item>
+      <title>Own your intelligence.  Anyone that opposes this has something to sell you (perhaps your own intelligence back to you.)  Local models need to continue proliferating. The “absolute unit” massive models may be out of reach for now locally, so your best option is to, indeed, keep your options open. Own...</title>
+      <link>https://x.com/rauchg/status/2117000819623243925</link>
+      <description>作者：Guillermo Rauch
+账号：@rauchg
+简介：@vercel CEO
+
+Own your intelligence.
+
+Anyone that opposes this has something to sell you (perhaps your own intelligence back to you.)
+
+Local models need to continue proliferating. The “absolute unit” massive models may be out of reach for now locally, so your best option is to, indeed, keep your options open. Own your harness, data, connections, runtime: your agents. Embrace open source.</description>
+      <pubDate>Sun, 01 Nov 2026 21:08:22 +0000</pubDate>
+      <guid isPermaLink="false">2117000819623243925</guid>
+    </item>
+    <item>
+      <title>You can enable this on Replit with one toggle. If you enable the “feedback widget” on your site, users’ feedback become prompts for the agents to build. https://t.co/QLBwKenews</title>
+      <link>https://x.com/amasad/status/2116998155925360965</link>
+      <description>作者：Amjad Masad
+账号：@amasad
+简介：ceo @replit. civilizationist
+
+You can enable this on Replit with one toggle. If you enable the “feedback widget” on your site, users’ feedback become prompts for the agents to build. https://t.co/QLBwKenews</description>
+      <pubDate>Sun, 01 Nov 2026 20:57:46 +0000</pubDate>
+      <guid isPermaLink="false">2116998155925360965</guid>
+    </item>
+    <item>
+      <title>Working with Gemini on https://t.co/3Z4NESzNKd is hilarious 😂😂  Other than being SUPER EXCITED!, I've been testing it on two high complexity projects and it's doing great. https://t.co/Vb16Fbyats</title>
+      <link>https://x.com/rauchg/status/2116988333096370443</link>
+      <description>作者：Guillermo Rauch
+账号：@rauchg
+简介：@vercel CEO
+
+Working with Gemini on https://t.co/3Z4NESzNKd is hilarious 😂😂
+
+Other than being SUPER EXCITED!, I've been testing it on two high complexity projects and it's doing great. https://t.co/Vb16Fbyats</description>
+      <pubDate>Sun, 01 Nov 2026 20:18:45 +0000</pubDate>
+      <guid isPermaLink="false">2116988333096370443</guid>
+    </item>
+    <item>
+      <title>&quot;It really makes you question, why do you want a person in your product? Is your product something that needs a UI?&quot;  From @jacalulu (product director at @GoogleLabs):  &quot;Anything that involves me creating something. Anything where I want to learn something, there might be a reason for me to interact...</title>
+      <link>https://x.com/petergyang/status/2116987415319740756</link>
+      <description>作者：Peter Yang
+账号：@petergyang
+简介：Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6
+
+&quot;It really makes you question, why do you want a person in your product? Is your product something that needs a UI?&quot;
+
+From @jacalulu (product director at @GoogleLabs):
+
+&quot;Anything that involves me creating something. Anything where I want to learn something, there might be a reason for me to interact.
+
+Anytime I want to be entertained or consume something, I'm still the one using the product.
+
+But there are definitely products that I use today that I would be more than happy to not use, or at least not be the main person interacting with the interface.&quot;
+
+📌 Watch our full episode here: https://t.co/8hLt6x6atQ</description>
+      <pubDate>Sun, 01 Nov 2026 20:15:06 +0000</pubDate>
+      <guid isPermaLink="false">2116987415319740756</guid>
+    </item>
+    <item>
+      <title>this is anti competitive and not cool https://t.co/3hu26UpLkX</title>
+      <link>https://x.com/danshipper/status/2116978123044688304</link>
+      <description>作者：Dan Shipper
+账号：@danshipper
+简介：ceo @every | the only subscription you need to stay at the edge of AI
+
+this is anti competitive and not cool https://t.co/3hu26UpLkX</description>
+      <pubDate>Sun, 01 Nov 2026 19:38:10 +0000</pubDate>
+      <guid isPermaLink="false">2116978123044688304</guid>
+    </item>
+    <item>
+      <title>also had a little highlight intro video  I like how its all coming together! hoping to have a vertical slice sometime next week https://t.co/YAurDfYM5S</title>
+      <link>https://x.com/trq212/status/2116977363728867664</link>
+      <description>作者：Thariq
+账号：@trq212
+简介：playing WoW forever, formerly Claude Code @anthropicai
+
+also had a little highlight intro video
+
+I like how its all coming together! hoping to have a vertical slice sometime next week https://t.co/YAurDfYM5S</description>
+      <pubDate>Sun, 01 Nov 2026 19:35:09 +0000</pubDate>
+      <guid isPermaLink="false">2116977363728867664</guid>
+    </item>
+    <item>
+      <title>adding a new character: a taekwondo master that fights with fire  I also updated the art style from 3d models to use generated sprites https://t.co/4F60NS4TQy https://t.co/hLIVplRPrW</title>
+      <link>https://x.com/trq212/status/2116976789046350040</link>
+      <description>作者：Thariq
+账号：@trq212
+简介：playing WoW forever, formerly Claude Code @anthropicai
+
+adding a new character: a taekwondo master that fights with fire
+
+I also updated the art style from 3d models to use generated sprites https://t.co/4F60NS4TQy https://t.co/hLIVplRPrW</description>
+      <pubDate>Sun, 01 Nov 2026 19:32:52 +0000</pubDate>
+      <guid isPermaLink="false">2116976789046350040</guid>
+    </item>
+    <item>
+      <title>Weekend hack: HackerTube. I was annoyed with YouTube's recommendations so I had Claude filter down 43M comments over 20 years of HN to 6,454 videos that keep being recommended. *Significantly* better viewing experience, ~2 hours with Opus 5.5: https://t.co/JIhXN7OSh1  - Excellent recs without any lo...</title>
+      <link>https://x.com/karpathy/status/2116957135661945283</link>
+      <description>作者：Andrej Karpathy
+账号：@karpathy
+
+Weekend hack: HackerTube. I was annoyed with YouTube's recommendations so I had Claude filter down 43M comments over 20 years of HN to 6,454 videos that keep being recommended. *Significantly* better viewing experience, ~2 hours with Opus 5.5:
+https://t.co/JIhXN7OSh1
+
+- Excellent recs without any logins (state is kept in local browser session)
+- Thumbnail is a representative frame from middle of the video instead of the super duper A/B test hyper-optimized user uploads
+- Underlying data from the comment analysis as one zip file, point your Claude at it and ask for your own version
+- HackerTube Longs ✊
+
+A bit more on the process:
+I use Claude Code (desktop app for Mac), Opus 5.5 on Medium effort as my default. I only talk to Claude and have it do everything, the only &quot;manual work&quot; I helped with in tandem was in the browser (reminiscent of MenuGen): 1) I had to create some kind of API key from Google Cloud UI to query YouTube for video metadata, 2) I booted up a VPS box for serving and 3) I bought the domain name. Once the box was up I gave Claude the IP and told it update, secure, harden, deploy and optimize the code, and it did the whole thing.
+
+Many awesome projects that would have normally taken weeks/months even can now be few-shotted for breakfast. What else are we not thinking of.</description>
+      <pubDate>Sun, 01 Nov 2026 18:14:46 +0000</pubDate>
+      <guid isPermaLink="false">2116957135661945283</guid>
+    </item>
+    <item>
+      <title>I wish I could just use one AI tool but right now there are clear winners in each category below:  Browser/computer use = ChatGPT + Codex Design/video editing/&quot;taste&quot; = Claude 24/7 agents and scheduled jobs = Grok Bot  Also, Gemini is underrated for writing but need to test it more.</title>
+      <link>https://x.com/petergyang/status/2116946320674152810</link>
+      <description>作者：Peter Yang
+账号：@petergyang
+简介：Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6
+
+I wish I could just use one AI tool but right now there are clear winners in each category below:
+
+Browser/computer use = ChatGPT + Codex
+Design/video editing/&quot;taste&quot; = Claude
+24/7 agents and scheduled jobs = Grok Bot
+
+Also, Gemini is underrated for writing but need to test it more.</description>
+      <pubDate>Sun, 01 Nov 2026 17:31:48 +0000</pubDate>
+      <guid isPermaLink="false">2116946320674152810</guid>
+    </item>
+    <item>
+      <title>Practical robotics is nigh https://t.co/uFs7HoCLvs</title>
+      <link>https://x.com/garrytan/status/2116941191526895975</link>
+      <description>作者：Garry Tan
+账号：@garrytan
+简介：President &amp; CEO @ycombinator —Founder @garryslist—Creator of GStack &amp; GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop
+
+Practical robotics is nigh https://t.co/uFs7HoCLvs</description>
+      <pubDate>Sun, 01 Nov 2026 17:11:25 +0000</pubDate>
+      <guid isPermaLink="false">2116941191526895975</guid>
+    </item>
+    <item>
+      <title>My dog just patched that bug we couldn’t find for two weeks. Clever dog</title>
+      <link>https://x.com/thsottiaux/status/2116936205623611781</link>
+      <description>作者：Thibault Sottiaux
+账号：@thsottiaux
+简介：Codex &amp; ChatGPT @OpenAI
+
+My dog just patched that bug we couldn’t find for two weeks. Clever dog</description>
+      <pubDate>Sun, 01 Nov 2026 16:51:36 +0000</pubDate>
+      <guid isPermaLink="false">2116936205623611781</guid>
+    </item>
+    <item>
+      <title>My dog sent you the meeting notes from yesterday, did you see them?</title>
+      <link>https://x.com/thsottiaux/status/2116936031866077423</link>
+      <description>作者：Thibault Sottiaux
+账号：@thsottiaux
+简介：Codex &amp; ChatGPT @OpenAI
+
+My dog sent you the meeting notes from yesterday, did you see them?</description>
+      <pubDate>Sun, 01 Nov 2026 16:50:55 +0000</pubDate>
+      <guid isPermaLink="false">2116936031866077423</guid>
+    </item>
+    <item>
+      <title>YC is the YC for hard tech https://t.co/M9UWjjHuJo</title>
+      <link>https://x.com/garrytan/status/2116909591607099793</link>
+      <description>作者：Garry Tan
+账号：@garrytan
+简介：President &amp; CEO @ycombinator —Founder @garryslist—Creator of GStack &amp; GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop
+
+YC is the YC for hard tech https://t.co/M9UWjjHuJo</description>
+      <pubDate>Sun, 01 Nov 2026 15:05:51 +0000</pubDate>
+      <guid isPermaLink="false">2116909591607099793</guid>
+    </item>
+    <item>
+      <title>@karpathy https://t.co/ff9Go6a7Zd url</title>
+      <link>https://x.com/swyx/status/2116782055665402157</link>
       <description>作者：Swyx
 账号：@swyx
 简介：achieve ambition with intentionality, intensity, integrity &amp; insanity.
@@ -281,9 +318,88 @@ affiliations:
 - @aidotengineer
 - @latentspacepod
 
-direct clip: https://t.co/fcuFuFRIpO</description>
-      <pubDate>Sat, 31 Oct 2026 14:53:20 +0000</pubDate>
-      <guid isPermaLink="false">2116544052267205093</guid>
+@karpathy https://t.co/ff9Go6a7Zd url</description>
+      <pubDate>Sun, 01 Nov 2026 06:39:04 +0000</pubDate>
+      <guid isPermaLink="false">2116782055665402157</guid>
+    </item>
+    <item>
+      <title>Ep 95: Modal CEO on the Future of Inference, the Chaos of the GPU Market &amp;amp; Origins of the Sandbox Bet</title>
+      <link>https://www.youtube.com/@RedpointAI</link>
+      <description>播客：Unsupervised Learning
+
+Speaker 1 | 00:00 - 00:04
+How much of, like, an an organized marketplaces compute these days versus, like, the Wild West?
+
+Speaker 2 | 00:04 - 00:17
+I went to GTC last year. It was like an open air drug market, but, like, GPUs. Walking around, like, talking to people, trying to get GPUs, and meeting people in hotel lobbies, exchanging numbers. It's very far from an efficient market. I mean, some people are working on this.
+
+Speaker 2 | 00:17 - 00:29
+Compute comes in many different shapes or forms. I also feel like structurally, it will be a little bit, like, sort of unwieldy for a long time. Like, it's just not something you can, like, sort of buy and sell in an exchange because it's not like a fungible contract.
+
+Speaker 3 | 00:34 - 00:48
+Welcome to unsupervised learning. As you can probably tell from my voice, I am not Jacob. I am Patrick Chase, GP at Redpoint. So awesome to have Eric on unsupervised learning for the second time. He is the founder and CEO at Modal.
+
+Speaker 3 | 00:48 - 01:14
+I have learned so much from working with him over the last three years. He is one of my favorite people to jam on AI ideas with. He has an incredible ability to move seamlessly from the lowest altitude of developer shipping code to the highest altitude of where the market is going and building what is missing. We talk about the mobile journey over the last three years, the crazy technology they have built to make it all work, inference, sandboxes, and what's coming next. Hope you enjoy the episode.
+
+Speaker 3 | 01:15 - 01:28
+For you guys, there is obviously a ton of AI compute demand and lots of people going out and trying to reserve, you know, GPUs and CPUs. What's it like for you guys finding compute in in the market today?
+
+Speaker 2 | 01:29 - 01:49
+It's pretty rough. Mean, like, you know, not rough in the sense that like we can actually find compute. I think there's a little bit of a misconception that like we're sort of... We are certainly scarce, you know, in terms of compute in certain ways, but like there is capacity you can get. You just have to look a little bit further, accept higher prices, accept longer terms, etcetera.
+
+Speaker 2 | 01:49 - 02:10
+And and we do that a lot. I mean, probably do like two compute deals every week at this point, if not three. And and so we we keep to, you know, stacking up, you know, more and more compute. And and I really think that's the beauty of model is we can aggregate all this demand and and manage the capacity in aggregate much more efficiently. And and the value prop of model has always been like, don't think of my capacity.
+
+Speaker 2 | 02:10 - 02:18
+Like, we had a lot of that, like, annoying stuff to sort of the day to day knife fighting of of getting capacity and working... We work with 25 different clouds at this point and adding more all the time.
+
+Speaker 1 | 02:18 - 02:27
+How much of, like, an an organized marketplaces compute these days versus, like, the Wild West, like, random people that somehow have capacity and, you know, the late night text messages?
+
+Speaker 2 | 02:27 - 02:46
+It... It's it's a lot of late night WhatsApp groups and, like, it's pretty unorganized. Like, I mean, I went to GTC last year or so earlier this year in San Jose, the NVIDIA, big conference they're doing. And it was like an open air drug market, but, like, GPUs. Like, it's just like walking around, like, talking to people, trying to get GPUs.
+
+Speaker 2 | 02:46 - 03:04
+And it it... You know, meeting people in hotel lobbies and, you know, exchanging numbers and, you know... I mean, at some point, we... I think we got connected with someone who had GPUs because I think our VP of sales cousin was golfing with someone, and and we got connected. Like, there's many such cases.
+
+Speaker 2 | 03:04 - 03:16
+Like like, it's very far from an efficient market. I mean, some people are working on this, and I think over time, it'll get a little bit more efficient. But it... It's very heterogeneous. Like, compute comes in many sort of different shapes or forms.
+
+Speaker 2 | 03:16 - 03:29
+So I also feel like structurally, like, it will not... Like, it will be a little bit, like, sort of unwieldy for a long time. Like, it's just not something you can, like, sort of buy and sell on an exchange because it's not like a fungible contract. Yeah.
+
+Speaker 1 | 03:29 - 03:45
+Mean, the key differences being, like, I guess, the the kind of actual powered shell or size of the cluster and, like, the chips themselves or... Because that... You know, to your point, there's lot of people that have been trying to build, hey. You know, compute is this fungible single asset that you could build a marketplace around. What what are some of the kind of the key differences you observe?
+
+Speaker 2 | 03:46 - 04:09
+I I think a lot of this actually boils down to reliability. I I mean, first of all, it's like, you know, differences in like disk and networking, and of course CPU and memory and things like that. Like all these things vary and region or like location, like they're all over the world. Like we have GPUs in The US, of course, like all over The US, but we also have GPUs in like Indonesia, like, all over the year... All over Europe, etcetera.
+
+Speaker 2 | 04:09 - 04:34
+So so location is is one of those big factors. And then... But but also reliability. And and and that's another thing we do exceptionally well is, like, we aggregate all this capacity. And then when Neo Clouds die or, like, when they have failures, which they often have because some of these are, like, former crypto miners who haven't really thought about, you know, running a twenty four seven operation, we can just take it out of rotation or, like, when GPUs fall off the bus or whatever.
+
+Speaker 2 | 04:34 - 04:38
+Like, we... In many cases, we just file a ticket automatically. Someone goes and looks at it.
+
+Speaker 3 | 04:38 - 04:44
+Have you found the data providers, the companies that provide pricing for GPU and that sort of things, have you found them to be helpful?
+
+Speaker 2 | 04:45 - 05:05
+I I think moderately helpful. I I I think the pricing less so than just their ability to connect with a lot of providers. I I don't fully trust the pricing today, but I think these... Some of these providers are actually very good at, like, know, knowing all the neo clouds, and we work with them sometimes to get connections with with cloud providers. The pricing, I think, over time will get more accurate.
+
+Speaker 2 | 05:05 - 05:16
+Like, our internal pricing does not match what we see publicly when we buy capacity. But I think over time, hopefully, like, we will have more efficient, like, external indices. I I think that would actually be very useful.
+
+Speaker 1 | 05:16 - 05:52
+You've been on this, like, rocket ship journey these past years, and so lots of things we'd love to dig into for our listeners on the on the business side. Maybe starting... You know, I think one of the interesting things about the history of modal is, you know, for a while it felt like you, you know, publicly said, I think on on your first unsupervised learning episode that you were less focused, you know, on these LLM inference calls, specifically like a simple API, you know, call for for a model. And, you know, you kind of recently released a product there. Maybe talk a little bit about the journey and and kind of that initial reticence and what made you decide that like now is the right time to really, you know, double down on this.
+
+Speaker 2 | 05:53 - 06:12
+Yeah. So we started building this in in late twenty twenty one basically or early somewhere around that time. And and and and the initial product was this serverless function. And we thought it'd be really useful for a wide range of stuff around, like, data AI machine learning, broadly speaking. Kind of, like, looked at a lot of different use cases and...
+
+Speaker 2 | 06:12 - 06:18
+But then, like, ChatGPT came late twenty twenty two, and StableEfusion also came around the t...</description>
+      <pubDate>Wed, 28 Oct 2026 13:03:16 +0000</pubDate>
+      <guid>https://www.youtube.com/@RedpointAI</guid>
     </item>
   </channel>
 </rss>
