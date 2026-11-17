@@ -5,137 +5,23 @@
     <link>https://github.com/zarazhangrui/follow-builders</link>
     <description>聚合 AI 领域建设者的 X、播客和博客内容。</description>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 17 Nov 2026 01:14:10 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 15:04:32 +0000</lastBuildDate>
     <item>
-      <title>Codex team might have actually fixed the &quot;model at capacity&quot; errors that have been pestering you. https://t.co/EgS0HkOATY</title>
-      <link>https://x.com/thsottiaux/status/2122206990101536852</link>
-      <description>作者：Thibault Sottiaux
-账号：@thsottiaux
-简介：Codex &amp; ChatGPT @OpenAI
+      <title>Fun project for GBrain coming in the next few weeks using Vorflux as my software factory: GBrain backend engine written in Rust  This will replace postgres+pgvector or pglite as the backing store for vector search, graph search, embeddings, RAG and HNSW</title>
+      <link>https://x.com/garrytan/status/2122576951080792543</link>
+      <description>作者：Garry Tan
+账号：@garrytan
+简介：President &amp; CEO @ycombinator —Founder @garryslist—Creator of GStack &amp; GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop
 
-Codex team might have actually fixed the &quot;model at capacity&quot; errors that have been pestering you. https://t.co/EgS0HkOATY</description>
-      <pubDate>Mon, 16 Nov 2026 05:55:49 +0000</pubDate>
-      <guid isPermaLink="false">2122206990101536852</guid>
+Fun project for GBrain coming in the next few weeks using Vorflux as my software factory: GBrain backend engine written in Rust
+
+This will replace postgres+pgvector or pglite as the backing store for vector search, graph search, embeddings, RAG and HNSW</description>
+      <pubDate>Tue, 17 Nov 2026 06:25:55 +0000</pubDate>
+      <guid isPermaLink="false">2122576951080792543</guid>
     </item>
     <item>
-      <title>It’s been an interesting 48 hours. https://t.co/t4IOusuJn0</title>
-      <link>https://x.com/amasad/status/2122185760799609017</link>
-      <description>作者：Amjad Masad
-账号：@amasad
-简介：ceo @replit. civilizationist
-
-It’s been an interesting 48 hours. https://t.co/t4IOusuJn0</description>
-      <pubDate>Mon, 16 Nov 2026 04:31:28 +0000</pubDate>
-      <guid isPermaLink="false">2122185760799609017</guid>
-    </item>
-    <item>
-      <title>Introducing 𝚡𝚎𝚎𝚝: https://t.co/YaLEMbmKwf.  A hermetic, pixel-perfect X post renderer in safe Rust / wasm. Zero browser, network, filesystem, system fonts. Renders a post to PNG in ~1ms (and 0.4 ms for @jack's &quot;setting up my twttr&quot; 😁).  X is the global town square, and the medium is the message. Bei...</title>
-      <link>https://x.com/rauchg/status/2122184794209714368</link>
-      <description>作者：Guillermo Rauch
-账号：@rauchg
-简介：@vercel CEO
-
-Introducing 𝚡𝚎𝚎𝚝: https://t.co/YaLEMbmKwf.
-
-A hermetic, pixel-perfect X post renderer in safe Rust / wasm. Zero browser, network, filesystem, system fonts. Renders a post to PNG in ~1ms (and 0.4 ms for @jack's &quot;setting up my twttr&quot; 😁).
-
-X is the global town square, and the medium is the message. Being able to preview what things will look like before posting is great for both humans and agents.
-
-Rendering with xeet is is 100x-1000x faster than booting up a browser and taking a screenshot, yet it's just as accurate.
-
-It reproduces Blink &amp; HarfBuzz text shaping, 1/64px line breaking, RTL bidi, 28 Chirp font subsets, CJK/Math/Emoji fallbacks, &quot;Show more&quot; rules, etc. It's the kind of thing that would be wildly impractical, if not impossible, for a human engineer to pull off.
-
-Except 𝚡𝚎𝚎𝚝 is structured as an &quot;autorepo.&quot; An oracle boots up Chrome, and verifies tens of thousands of text layout rules. A CI canary then watches the evolution of the original, and files signed PRs for agents to act on. It was conceived from the ground up around 'verification engineering', and the result speaks for itself.
-
-Enjoy!</description>
-      <pubDate>Mon, 16 Nov 2026 04:27:37 +0000</pubDate>
-      <guid isPermaLink="false">2122184794209714368</guid>
-    </item>
-    <item>
-      <title>a new arena and two new characters https://t.co/e8nHEldjoD https://t.co/hLIVplRPrW</title>
-      <link>https://x.com/trq212/status/2122154124024381828</link>
-      <description>作者：Thariq
-账号：@trq212
-简介：playing WoW forever, formerly Claude Code @anthropicai
-
-a new arena and two new characters https://t.co/e8nHEldjoD https://t.co/hLIVplRPrW</description>
-      <pubDate>Mon, 16 Nov 2026 02:25:45 +0000</pubDate>
-      <guid isPermaLink="false">2122154124024381828</guid>
-    </item>
-    <item>
-      <title>&quot;When you ask Claude to create something, it's operating in a fresh context where it thinks: Oh my God, the user asked me to make an app. I'm going to invent the most brilliant visual style.&quot;  From @nateparrott at Anthropic on how to get Claude to avoid the same designs:  &quot;It's going to be serif tex...</title>
-      <link>https://x.com/petergyang/status/2122132596352327816</link>
-      <description>作者：Peter Yang
-账号：@petergyang
-简介：Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6
-
-&quot;When you ask Claude to create something, it's operating in a fresh context where it thinks: Oh my God, the user asked me to make an app. I'm going to invent the most brilliant visual style.&quot;
-
-From @nateparrott at Anthropic on how to get Claude to avoid the same designs:
-
-&quot;It's going to be serif text, an off-white background, orange, and these bars on the edges of the cards. Because in Claude's mind, it's only ever done this once, so it thinks this is totally original.
-
-So in our Claude Design prompt, we tell Claude, 'For this particular model, you tend to overly bias toward these two fonts and colors. So don't use them unless the user asks you to.' That tends to help a lot.&quot;
-
-📌 Watch our full episode here: https://t.co/HPX5HjXafX</description>
-      <pubDate>Mon, 16 Nov 2026 01:00:12 +0000</pubDate>
-      <guid isPermaLink="false">2122132596352327816</guid>
-    </item>
-    <item>
-      <title>AI models are getting really good at naming things. I created a little CLI to diagnose system slowdowns, and it named it 𝚑𝚘𝚐 🐖, which I love. Given they're already good at cache invalidation, maybe computer science's hardest problems are solved after all 😂</title>
-      <link>https://x.com/rauchg/status/2122127120055034258</link>
-      <description>作者：Guillermo Rauch
-账号：@rauchg
-简介：@vercel CEO
-
-AI models are getting really good at naming things. I created a little CLI to diagnose system slowdowns, and it named it 𝚑𝚘𝚐 🐖, which I love. Given they're already good at cache invalidation, maybe computer science's hardest problems are solved after all 😂</description>
-      <pubDate>Mon, 16 Nov 2026 00:38:27 +0000</pubDate>
-      <guid isPermaLink="false">2122127120055034258</guid>
-    </item>
-    <item>
-      <title>What’s the best home automation hub out there if I just wanna use Codex to control everything?  Ideally, something plug-and-play that my Codex just sees as another computer, more or less https://t.co/VEvCTzc1zi</title>
-      <link>https://x.com/thenanyu/status/2122096965865664924</link>
-      <description>作者：Nan Yu
-账号：@thenanyu
-简介：product, codex @openai. prev head of product @linear
-
-What’s the best home automation hub out there if I just wanna use Codex to control everything?
-
-Ideally, something plug-and-play that my Codex just sees as another computer, more or less https://t.co/VEvCTzc1zi</description>
-      <pubDate>Sun, 15 Nov 2026 22:38:37 +0000</pubDate>
-      <guid isPermaLink="false">2122096965865664924</guid>
-    </item>
-    <item>
-      <title>It’s cute that my Waymo turns on its windshield wipers in the rain</title>
-      <link>https://x.com/thenanyu/status/2122096121946468451</link>
-      <description>作者：Nan Yu
-账号：@thenanyu
-简介：product, codex @openai. prev head of product @linear
-
-It’s cute that my Waymo turns on its windshield wipers in the rain</description>
-      <pubDate>Sun, 15 Nov 2026 22:35:16 +0000</pubDate>
-      <guid isPermaLink="false">2122096121946468451</guid>
-    </item>
-    <item>
-      <title>we've been working hard on compounding skills lately (skills that get better every time you use them)   and i think @hammer_mt finally cracked it  this weekend i made a skill to help us write context window summaries, and used autoresearch to iterate until it hit 80% of my taste on summaries vs. a n...</title>
-      <link>https://x.com/danshipper/status/2122091033001337134</link>
-      <description>作者：Dan Shipper
-账号：@danshipper
-简介：ceo @every | the only subscription you need to stay at the edge of AI
-
-we've been working hard on compounding skills lately (skills that get better every time you use them) 
-
-and i think @hammer_mt finally cracked it
-
-this weekend i made a skill to help us write context window summaries, and used autoresearch to iterate until it hit 80% of my taste on summaries vs. a no-skill baseline
-
-full writeup for your agnets on the @every frontier feed: https://t.co/2MT0NTucoK</description>
-      <pubDate>Sun, 15 Nov 2026 22:15:03 +0000</pubDate>
-      <guid isPermaLink="false">2122091033001337134</guid>
-    </item>
-    <item>
-      <title>apparently it is pretty normal  https://t.co/br8TZ6oKOM</title>
-      <link>https://x.com/swyx/status/2122066060769952161</link>
+      <title>together deleted megkernels  https://t.co/3mcdXAmmdR</title>
+      <link>https://x.com/swyx/status/2122566522094915765</link>
       <description>作者：Swyx
 账号：@swyx
 简介：achieve ambition with intentionality, intensity, integrity &amp; insanity.
@@ -147,88 +33,89 @@ affiliations:
 - @aidotengineer
 - @latentspacepod
 
-apparently it is pretty normal
+together deleted megkernels
 
-https://t.co/br8TZ6oKOM</description>
-      <pubDate>Sun, 15 Nov 2026 20:35:49 +0000</pubDate>
-      <guid isPermaLink="false">2122066060769952161</guid>
+https://t.co/3mcdXAmmdR</description>
+      <pubDate>Tue, 17 Nov 2026 05:44:28 +0000</pubDate>
+      <guid isPermaLink="false">2122566522094915765</guid>
     </item>
     <item>
-      <title>Good summary. https://t.co/KThCywHmZt</title>
-      <link>https://x.com/amasad/status/2122062419010961439</link>
-      <description>作者：Amjad Masad
-账号：@amasad
-简介：ceo @replit. civilizationist
-
-Good summary. https://t.co/KThCywHmZt</description>
-      <pubDate>Sun, 15 Nov 2026 20:21:21 +0000</pubDate>
-      <guid isPermaLink="false">2122062419010961439</guid>
-    </item>
-    <item>
-      <title>&quot;Do you find being a designer more fun now that you can easily prototype everything?&quot;  That's the question I asked @nateparrott (Anthropic). His answer:  &quot;I'm a little weird in that I have an engineering background. Before Anthropic, I worked at The Browser Company, where we made a browser called Ar...</title>
-      <link>https://x.com/petergyang/status/2122060856498524510</link>
+      <title>This is like AI slop it literally says nothing? Did Megaspeed violate laws or not? https://t.co/SnFyxhyIBw</title>
+      <link>https://x.com/petergyang/status/2122558387162652701</link>
       <description>作者：Peter Yang
 账号：@petergyang
 简介：Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6
 
-&quot;Do you find being a designer more fun now that you can easily prototype everything?&quot;
-
-That's the question I asked @nateparrott (Anthropic). His answer:
-
-&quot;I'm a little weird in that I have an engineering background. Before Anthropic, I worked at The Browser Company, where we made a browser called Arc.
-
-We spent a year in pre-production before we released Arc. It took us a couple weeks to build out each idea and see which worked.
-
-Now at Anthropic, you can kind of do that in one to two days.
-
-So you've really compressed the cycle of building. What you haven't compressed is the cycle of putting it in people's hands and understanding if they're going to use it.&quot;
-
-📌 Watch our full episode here: https://t.co/HPX5HjXafX</description>
-      <pubDate>Sun, 15 Nov 2026 20:15:08 +0000</pubDate>
-      <guid isPermaLink="false">2122060856498524510</guid>
+This is like AI slop it literally says nothing? Did Megaspeed violate laws or not? https://t.co/SnFyxhyIBw</description>
+      <pubDate>Tue, 17 Nov 2026 05:12:09 +0000</pubDate>
+      <guid isPermaLink="false">2122558387162652701</guid>
     </item>
     <item>
-      <title>Next guest up in this weekly series is @kanavg1, cofounder of @coreauto on Friday, Nov 20th at noon.   For this session, we'll be chatting about all things RL (methods, synthetic data, loops, automation etc)  Format: &gt; 60 minute sessions (IRL only) in SF &gt; For the first 45 mins, I get to ask the gue...</title>
-      <link>https://x.com/nikunj/status/2122042319419609105</link>
+      <title>2026 infra wars in a nutshell..  Vibe coding in Q1  Harnesses in Q2  Sandboxes in Q3  Agentic CI in Q4  More providers than I can keep track of.   Any guesses for what comes next?</title>
+      <link>https://x.com/nikunj/status/2122543500814336281</link>
       <description>作者：Nikunj Kothari
 账号：@nikunj
 简介：partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian &amp; others. love @shimoleejhaveri + 👦👧
 
-Next guest up in this weekly series is @kanavg1, cofounder of @coreauto on Friday, Nov 20th at noon. 
+2026 infra wars in a nutshell..
 
-For this session, we'll be chatting about all things RL (methods, synthetic data, loops, automation etc)
+Vibe coding in Q1 
+Harnesses in Q2 
+Sandboxes in Q3 
+Agentic CI in Q4
 
-Format:
-&gt; 60 minute sessions (IRL only) in SF
-&gt; For the first 45 mins, I get to ask the guest spicy questions about their expertise
-&gt; For the last 15 mins, they get to ask me anything they want to learn about venture
-&gt; All off the record, chatham house rules
-&gt; Open to 15 guests who listen in and can ask some of their own questions
+More providers than I can keep track of. 
 
-Register here if you want to join, and subscribe to the Luma for future guests: https://t.co/gOHqA2XtZB</description>
-      <pubDate>Sun, 15 Nov 2026 19:01:29 +0000</pubDate>
-      <guid isPermaLink="false">2122042319419609105</guid>
+Any guesses for what comes next?</description>
+      <pubDate>Tue, 17 Nov 2026 04:13:00 +0000</pubDate>
+      <guid isPermaLink="false">2122543500814336281</guid>
     </item>
     <item>
-      <title>Alright I can't help it:  NYTimes published this article that &quot;US intelligence had believed&quot; Alice Huang was a spy: https://t.co/DQSjGBRsaE  But there's still no proof one way or another whether she was a spy or not, per CNN: https://t.co/c5lwbDl2R5  So where did this spy narrative come from? Show u...</title>
-      <link>https://x.com/petergyang/status/2122039657001300125</link>
-      <description>作者：Peter Yang
-账号：@petergyang
-简介：Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6
+      <title>musing:  what if the best way to rank a feed in the AI age is proof of work.   allow agents to report how many tokens they’ve used based on a piece of content, and use that to rank it on a feed that humans and agents read   https://t.co/HoJvzKELBP https://t.co/ZJe1gZMFbM</title>
+      <link>https://x.com/danshipper/status/2122541401804054826</link>
+      <description>作者：Dan Shipper
+账号：@danshipper
+简介：ceo @every | the only subscription you need to stay at the edge of AI
 
-Alright I can't help it:
+musing:
 
-NYTimes published this article that &quot;US intelligence had believed&quot; Alice Huang was a spy: https://t.co/DQSjGBRsaE
+what if the best way to rank a feed in the AI age is proof of work. 
 
-But there's still no proof one way or another whether she was a spy or not, per CNN: https://t.co/c5lwbDl2R5
+allow agents to report how many tokens they’ve used based on a piece of content, and use that to rank it on a feed that humans and agents read 
 
-So where did this spy narrative come from? Show us the evidence?</description>
-      <pubDate>Sun, 15 Nov 2026 18:50:54 +0000</pubDate>
-      <guid isPermaLink="false">2122039657001300125</guid>
+https://t.co/HoJvzKELBP https://t.co/ZJe1gZMFbM</description>
+      <pubDate>Tue, 17 Nov 2026 04:04:39 +0000</pubDate>
+      <guid isPermaLink="false">2122541401804054826</guid>
     </item>
     <item>
-      <title>clanker wrote up the talk https://t.co/hxZj0VaJV4</title>
-      <link>https://x.com/swyx/status/2122032217430032548</link>
+      <title>If you want individual employee brains rolling up into team brains and then a top level company brain, GBrain's Hosted option supports it out of the box   Memory works the way you want it to  https://t.co/3z3j2G3Oyl https://t.co/myV5KlcvmK</title>
+      <link>https://x.com/garrytan/status/2122517681740124271</link>
+      <description>作者：Garry Tan
+账号：@garrytan
+简介：President &amp; CEO @ycombinator —Founder @garryslist—Creator of GStack &amp; GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop
+
+If you want individual employee brains rolling up into team brains and then a top level company brain, GBrain's Hosted option supports it out of the box 
+
+Memory works the way you want it to
+
+https://t.co/3z3j2G3Oyl https://t.co/myV5KlcvmK</description>
+      <pubDate>Tue, 17 Nov 2026 02:30:24 +0000</pubDate>
+      <guid isPermaLink="false">2122517681740124271</guid>
+    </item>
+    <item>
+      <title>Welcome! Welcome! https://t.co/vJHr1az0rL</title>
+      <link>https://x.com/joshwoodward/status/2122514247045496978</link>
+      <description>作者：Josh Woodward
+账号：@joshwoodward
+简介：VP, @Google @GoogleLabs @GeminiApp @GoogleAIStudio
+
+Welcome! Welcome! https://t.co/vJHr1az0rL</description>
+      <pubDate>Tue, 17 Nov 2026 02:16:45 +0000</pubDate>
+      <guid isPermaLink="false">2122514247045496978</guid>
+    </item>
+    <item>
+      <title>women are destroying the men, wtf is happening rn https://t.co/KckmQKykvy</title>
+      <link>https://x.com/swyx/status/2122512082835067151</link>
       <description>作者：Swyx
 账号：@swyx
 简介：achieve ambition with intentionality, intensity, integrity &amp; insanity.
@@ -240,13 +127,159 @@ affiliations:
 - @aidotengineer
 - @latentspacepod
 
-clanker wrote up the talk https://t.co/hxZj0VaJV4</description>
-      <pubDate>Sun, 15 Nov 2026 18:21:20 +0000</pubDate>
-      <guid isPermaLink="false">2122032217430032548</guid>
+women are destroying the men, wtf is happening rn https://t.co/KckmQKykvy</description>
+      <pubDate>Tue, 17 Nov 2026 02:08:09 +0000</pubDate>
+      <guid isPermaLink="false">2122512082835067151</guid>
     </item>
     <item>
-      <title>clanker wrote up a short recap of the talk https://t.co/1tWf4s9R60</title>
-      <link>https://x.com/swyx/status/2122031563961684032</link>
+      <title>The chart of token spend per employee still has no ceiling in sight. And the closer you are to AI right now the deeper the sense is that we’re actually still in the early part of the curve of token use and adoption.   This summer and fall’s model releases have continued to push the state of the art ...</title>
+      <link>https://x.com/levie/status/2122508098351038532</link>
+      <description>作者：Aaron Levie
+账号：@levie
+简介：ceo @box - your business lives in content. unleash it with AI
+
+The chart of token spend per employee still has no ceiling in sight. And the closer you are to AI right now the deeper the sense is that we’re actually still in the early part of the curve of token use and adoption. 
+
+This summer and fall’s model releases have continued to push the state of the art forward at a rate that already felt hard to maintain. As a result, for most productive use-cases the models are only now starting to actually work, and the feeling is that things will only accelerate from here.
+
+Coding, in retrospect, was basically trash even 12 months ago. Now it’s finally starting to get good. And now that coding is actually working, you’re getting tool and computer use, which open up a wide variety of knowledge work domains that weren’t possible to throw agents at before.
+
+Once you have agents that can code, use computers, leverage any tool out there, and understand a variety of domains, you can begin to throw them at a wide variety of knowledge work tasks that were hard to bring automation to across finance, life sciences, cyber, and more. So that brings agents to a broad set of work that we’re not really using them in yet at scale. 
+
+Then comes the new form factors of agents. Agent swarms and background agents are going to eat up vastly more tokens than anything we can imagine. You’ll have agents running in most enterprises workflows processing data, validating work, doing research, providing decision support, and so on. And we’ll have swarms that fan out in parallel in areas like cyber, life sciences, coding, and more.
+
+So basically tokens are only going up from here.</description>
+      <pubDate>Tue, 17 Nov 2026 01:52:19 +0000</pubDate>
+      <guid isPermaLink="false">2122508098351038532</guid>
+    </item>
+    <item>
+      <title>Like a phoenix, we’re going to see the entire internet burn down to emerge stronger on the other side.   Hugops to every single infra company 🙏 https://t.co/hkGgv2hmcZ</title>
+      <link>https://x.com/nikunj/status/2122490852497125485</link>
+      <description>作者：Nikunj Kothari
+账号：@nikunj
+简介：partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian &amp; others. love @shimoleejhaveri + 👦👧
+
+Like a phoenix, we’re going to see the entire internet burn down to emerge stronger on the other side. 
+
+Hugops to every single infra company 🙏 https://t.co/hkGgv2hmcZ</description>
+      <pubDate>Tue, 17 Nov 2026 00:43:47 +0000</pubDate>
+      <guid isPermaLink="false">2122490852497125485</guid>
+    </item>
+    <item>
+      <title>True drone autonomy on top of almost any other flight platform is now here  Degla is already working with mission critical government agencies for search &amp;amp; rescue https://t.co/VFcnBzZGmZ</title>
+      <link>https://x.com/garrytan/status/2122487869780742304</link>
+      <description>作者：Garry Tan
+账号：@garrytan
+简介：President &amp; CEO @ycombinator —Founder @garryslist—Creator of GStack &amp; GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop
+
+True drone autonomy on top of almost any other flight platform is now here
+
+Degla is already working with mission critical government agencies for search &amp;amp; rescue https://t.co/VFcnBzZGmZ</description>
+      <pubDate>Tue, 17 Nov 2026 00:31:56 +0000</pubDate>
+      <guid isPermaLink="false">2122487869780742304</guid>
+    </item>
+    <item>
+      <title>💪 https://t.co/OwGRhdeacL</title>
+      <link>https://x.com/amasad/status/2122463916114813249</link>
+      <description>作者：Amjad Masad
+账号：@amasad
+简介：ceo @replit. civilizationist
+
+💪 https://t.co/OwGRhdeacL</description>
+      <pubDate>Mon, 16 Nov 2026 22:56:45 +0000</pubDate>
+      <guid isPermaLink="false">2122463916114813249</guid>
+    </item>
+    <item>
+      <title>People: Please reduce the number of permission alerts so agents can work on macOS without constant babysitting  Apple: I hear you, here’s some new scary alerts https://t.co/Saw8ftcNNW</title>
+      <link>https://x.com/steipete/status/2122463466304971068</link>
+      <description>作者：Peter Steinberger
+账号：@steipete
+简介：Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world.
+@OpenClaw🦞 + @OpenAI
+
+People: Please reduce the number of permission alerts so agents can work on macOS without constant babysitting
+
+Apple: I hear you, here’s some new scary alerts https://t.co/Saw8ftcNNW</description>
+      <pubDate>Mon, 16 Nov 2026 22:54:58 +0000</pubDate>
+      <guid isPermaLink="false">2122463466304971068</guid>
+    </item>
+    <item>
+      <title>We’re excited to welcome Howie to Google Labs!   The @Howie_ai team has spent years figuring out scheduling and calendar management.  We can’t wait to learn from them as we build the next generation of intuitive AI tools together for small businesses 🤝 https://t.co/8bzjebeGdD</title>
+      <link>https://x.com/GoogleLabs/status/2122461899178820069</link>
+      <description>作者：Google Labs
+账号：@GoogleLabs
+简介：Google’s home for our latest AI tools and experiments.
+
+We’re excited to welcome Howie to Google Labs! 
+
+The @Howie_ai team has spent years figuring out scheduling and calendar management.  We can’t wait to learn from them as we build the next generation of intuitive AI tools together for small businesses 🤝 https://t.co/8bzjebeGdD</description>
+      <pubDate>Mon, 16 Nov 2026 22:48:44 +0000</pubDate>
+      <guid isPermaLink="false">2122461899178820069</guid>
+    </item>
+    <item>
+      <title>Own your intelligence roadmap: ① Use open SDKs &amp;amp; harnesses ② Own model choice with Gateways ③ Own your traces and data, enforce ZDR ④ Own your models with private inference https://t.co/4Y1dyKDxlm</title>
+      <link>https://x.com/rauchg/status/2122458782294847807</link>
+      <description>作者：Guillermo Rauch
+账号：@rauchg
+简介：@vercel CEO
+
+Own your intelligence roadmap:
+① Use open SDKs &amp;amp; harnesses
+② Own model choice with Gateways
+③ Own your traces and data, enforce ZDR
+④ Own your models with private inference https://t.co/4Y1dyKDxlm</description>
+      <pubDate>Mon, 16 Nov 2026 22:36:21 +0000</pubDate>
+      <guid isPermaLink="false">2122458782294847807</guid>
+    </item>
+    <item>
+      <title>Turn your sources into interactive sites with @Gemini_Notebook - we made one with all the periodic table names. :) These are easy to make, easy to share. https://t.co/7atKNhzskL</title>
+      <link>https://x.com/joshwoodward/status/2122453269842886788</link>
+      <description>作者：Josh Woodward
+账号：@joshwoodward
+简介：VP, @Google @GoogleLabs @GeminiApp @GoogleAIStudio
+
+Turn your sources into interactive sites with @Gemini_Notebook - we made one with all the periodic table names. :) These are easy to make, easy to share. https://t.co/7atKNhzskL</description>
+      <pubDate>Mon, 16 Nov 2026 22:14:27 +0000</pubDate>
+      <guid isPermaLink="false">2122453269842886788</guid>
+    </item>
+    <item>
+      <title>look, a sane person https://t.co/PejOwWp8RZ</title>
+      <link>https://x.com/thenanyu/status/2122438864791110126</link>
+      <description>作者：Nan Yu
+账号：@thenanyu
+简介：product, codex @openai. prev head of product @linear
+
+look, a sane person https://t.co/PejOwWp8RZ</description>
+      <pubDate>Mon, 16 Nov 2026 21:17:13 +0000</pubDate>
+      <guid isPermaLink="false">2122438864791110126</guid>
+    </item>
+    <item>
+      <title>for example, this is me working with agents on a new character for my game https://t.co/jfWNcszyin</title>
+      <link>https://x.com/trq212/status/2122438328079524159</link>
+      <description>作者：Thariq
+账号：@trq212
+简介：playing WoW forever, formerly Claude Code @anthropicai
+
+for example, this is me working with agents on a new character for my game https://t.co/jfWNcszyin</description>
+      <pubDate>Mon, 16 Nov 2026 21:15:05 +0000</pubDate>
+      <guid isPermaLink="false">2122438328079524159</guid>
+    </item>
+    <item>
+      <title>software factories feel like a temporary problem. the models will learn to build them for you  the more interesting question to me is how to build a workspace where agents can collaborate with you</title>
+      <link>https://x.com/trq212/status/2122438326431154210</link>
+      <description>作者：Thariq
+账号：@trq212
+简介：playing WoW forever, formerly Claude Code @anthropicai
+
+software factories feel like a temporary problem. the models will learn to build them for you
+
+the more interesting question to me is how to build a workspace where agents can collaborate with you</description>
+      <pubDate>Mon, 16 Nov 2026 21:15:04 +0000</pubDate>
+      <guid isPermaLink="false">2122438326431154210</guid>
+    </item>
+    <item>
+      <title>gmail has no gcal search despite cal is sent via gmail https://t.co/EzdQbPNP6s</title>
+      <link>https://x.com/swyx/status/2122427240441131203</link>
       <description>作者：Swyx
 账号：@swyx
 简介：achieve ambition with intentionality, intensity, integrity &amp; insanity.
@@ -258,131 +291,237 @@ affiliations:
 - @aidotengineer
 - @latentspacepod
 
-clanker wrote up a short recap of the talk
-https://t.co/1tWf4s9R60</description>
-      <pubDate>Sun, 15 Nov 2026 18:18:44 +0000</pubDate>
-      <guid isPermaLink="false">2122031563961684032</guid>
+gmail has no gcal search despite cal is sent via gmail https://t.co/EzdQbPNP6s</description>
+      <pubDate>Mon, 16 Nov 2026 20:31:01 +0000</pubDate>
+      <guid isPermaLink="false">2122427240441131203</guid>
     </item>
     <item>
-      <title>Being good at LinkedIn probably makes you bad at X https://t.co/dFYRSQLn9V</title>
-      <link>https://x.com/zarazhangrui/status/2122021380745290202</link>
-      <description>作者：Zara Zhang
-账号：@zarazhangrui
-简介：Builder.  Harvard’17. Instagram: https://t.co/aJqTEMrL2L GitHub: https://t.co/KCuEajezlL
+      <title>Deranged cult https://t.co/FmC9L8N1ZL</title>
+      <link>https://x.com/amasad/status/2122422367557464548</link>
+      <description>作者：Amjad Masad
+账号：@amasad
+简介：ceo @replit. civilizationist
 
-Being good at LinkedIn probably makes you bad at X https://t.co/dFYRSQLn9V</description>
-      <pubDate>Sun, 15 Nov 2026 17:38:17 +0000</pubDate>
-      <guid isPermaLink="false">2122021380745290202</guid>
+Deranged cult https://t.co/FmC9L8N1ZL</description>
+      <pubDate>Mon, 16 Nov 2026 20:11:39 +0000</pubDate>
+      <guid isPermaLink="false">2122422367557464548</guid>
     </item>
     <item>
-      <title>I love this store so much 😭 https://t.co/SNteDhX5uA</title>
-      <link>https://x.com/zarazhangrui/status/2122021053442703852</link>
-      <description>作者：Zara Zhang
-账号：@zarazhangrui
-简介：Builder.  Harvard’17. Instagram: https://t.co/aJqTEMrL2L GitHub: https://t.co/KCuEajezlL
+      <title>The old way: users are human, you run user interviews, get inspired, mock up user journeys.  The new way: users are agents, you run evals, evals inform the software engineering loop.  Good read on how we do evals at Vercel. https://t.co/zkre5Qbohe</title>
+      <link>https://x.com/rauchg/status/2122415506451841215</link>
+      <description>作者：Guillermo Rauch
+账号：@rauchg
+简介：@vercel CEO
 
-I love this store so much 😭 https://t.co/SNteDhX5uA</description>
-      <pubDate>Sun, 15 Nov 2026 17:36:59 +0000</pubDate>
-      <guid isPermaLink="false">2122021053442703852</guid>
+The old way: users are human, you run user interviews, get inspired, mock up user journeys.
+
+The new way: users are agents, you run evals, evals inform the software engineering loop.
+
+Good read on how we do evals at Vercel. https://t.co/zkre5Qbohe</description>
+      <pubDate>Mon, 16 Nov 2026 19:44:23 +0000</pubDate>
+      <guid isPermaLink="false">2122415506451841215</guid>
     </item>
     <item>
-      <title>One of our aerospace companies in India shared this with me today morning.  The journey to the stars starts with a single plane on a remote runway on an early Sunday morning.   Ad Astra.  @shreepoorna365 @arctusaerospace https://t.co/XTdk1wVU5q</title>
-      <link>https://x.com/adityaag/status/2122003237335343457</link>
+      <title>Make your own here: https://t.co/EADcTLXI4H</title>
+      <link>https://x.com/nikunj/status/2122412013251162592</link>
+      <description>作者：Nikunj Kothari
+账号：@nikunj
+简介：partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian &amp; others. love @shimoleejhaveri + 👦👧
+
+Make your own here: https://t.co/EADcTLXI4H</description>
+      <pubDate>Mon, 16 Nov 2026 19:30:31 +0000</pubDate>
+      <guid isPermaLink="false">2122412013251162592</guid>
+    </item>
+    <item>
+      <title>A new era of software is upon us. Personalized, fully owned, open source. And higher quality than what it replaces. https://t.co/r2HlwWWvvl</title>
+      <link>https://x.com/rauchg/status/2122396034186014919</link>
+      <description>作者：Guillermo Rauch
+账号：@rauchg
+简介：@vercel CEO
+
+A new era of software is upon us. Personalized, fully owned, open source. And higher quality than what it replaces. https://t.co/r2HlwWWvvl</description>
+      <pubDate>Mon, 16 Nov 2026 18:27:01 +0000</pubDate>
+      <guid isPermaLink="false">2122396034186014919</guid>
+    </item>
+    <item>
+      <title>https://t.co/XnkC6s7c5A</title>
+      <link>https://x.com/adityaag/status/2122386960862056629</link>
       <description>作者：Aditya Agarwal
 账号：@adityaag
 简介：General Partner @SPC, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @Dropbox, Board @Flipkart | Optimist, Builder, Dad
 
-One of our aerospace companies in India shared this with me today morning.
-
-The journey to the stars starts with a single plane on a remote runway on an early Sunday morning. 
-
-Ad Astra.
-
-@shreepoorna365 @arctusaerospace https://t.co/XTdk1wVU5q</description>
-      <pubDate>Sun, 15 Nov 2026 16:26:11 +0000</pubDate>
-      <guid isPermaLink="false">2122003237335343457</guid>
+https://t.co/XnkC6s7c5A</description>
+      <pubDate>Mon, 16 Nov 2026 17:50:58 +0000</pubDate>
+      <guid isPermaLink="false">2122386960862056629</guid>
     </item>
     <item>
-      <title>Tokenization, Agentic Trading, Harmonic: Robinhood's Mission to Expand Ownership with CEO Vlad Tenev</title>
-      <link>https://www.youtube.com/@NoPriorsPodcast</link>
-      <description>播客：No Priors
+      <title>Two thoughts: 1/ Embedding AI as close to the silicon as possible will be critical for a lot of hardtech. 2/ We can build semi-conductors in India. People said it wasn’t possible. We are proving them wrong.  We’re excited to lead @BharatSemi_'s $24M seed round with Redstart Ventures and IndusBridge....</title>
+      <link>https://x.com/adityaag/status/2122386958101959118</link>
+      <description>作者：Aditya Agarwal
+账号：@adityaag
+简介：General Partner @SPC, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @Dropbox, Board @Flipkart | Optimist, Builder, Dad
 
-Speaker 1 | 00:00 - 00:07
-Prediction markets are an evolution of news. You just can see what's happening and what's likely to happen in the future through the odds.
+Two thoughts:
+1/ Embedding AI as close to the silicon as possible will be critical for a lot of hardtech.
+2/ We can build semi-conductors in India. People said it wasn’t possible. We are proving them wrong.
 
-Speaker 2 | 00:07 - 00:11
-What is your reaction to the revolution in math that's happening with AI today?
+We’re excited to lead @BharatSemi_'s $24M seed round with Redstart Ventures and IndusBridge. 
 
-Speaker 1 | 00:11 - 00:20
-It's too centralized, right? It's like AI companies with their big data centers and their employees using secret models to sort of do all this work.
+Onwards.</description>
+      <pubDate>Mon, 16 Nov 2026 17:50:57 +0000</pubDate>
+      <guid isPermaLink="false">2122386958101959118</guid>
+    </item>
+    <item>
+      <title>Be like jori https://t.co/gnjCetIAS6</title>
+      <link>https://x.com/thenanyu/status/2122371754731708883</link>
+      <description>作者：Nan Yu
+账号：@thenanyu
+简介：product, codex @openai. prev head of product @linear
 
-Speaker 2 | 00:20 - 00:22
-Do you think people will let agents trade for them?
+Be like jori https://t.co/gnjCetIAS6</description>
+      <pubDate>Mon, 16 Nov 2026 16:50:32 +0000</pubDate>
+      <guid isPermaLink="false">2122371754731708883</guid>
+    </item>
+    <item>
+      <title>Our goal when starting an interpretability work was to develop confidence in our methods to the point where we could apply it to leading frontier models.  Really happy that day is here. This is super critical to get right. https://t.co/f2SCVVl9Ag</title>
+      <link>https://x.com/adityaag/status/2122367547312119843</link>
+      <description>作者：Aditya Agarwal
+账号：@adityaag
+简介：General Partner @SPC, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @Dropbox, Board @Flipkart | Optimist, Builder, Dad
 
-Speaker 1 | 00:22 - 00:32
-So AgenTik trading, clearly product market fit. We're seeing really strong adoption. Like, over a 150,000 customers have opened agentic trading accounts with us.
+Our goal when starting an interpretability work was to develop confidence in our methods to the point where we could apply it to leading frontier models.
 
-Speaker 2 | 00:32 - 00:53
-Many of these things that you describe, institutional traders have the ability to do this, but it's expensive and sophisticated. If that's democratized, what does that mean? Hi, listeners. Welcome back to No Priors. Today, I'm here with Vlad Tenev, the founder and CEO of Robinhood.
+Really happy that day is here. This is super critical to get right. https://t.co/f2SCVVl9Ag</description>
+      <pubDate>Mon, 16 Nov 2026 16:33:49 +0000</pubDate>
+      <guid isPermaLink="false">2122367547312119843</guid>
+    </item>
+    <item>
+      <title>My top 5 takeaways from @nateparrott on how to get Claude to design without AI slop:  1. Give Claude context upfront.  Share screenshots, pages you like, and your past work. For an existing product, have Claude rebuild the real screens from code.  2. Research familiar UX patterns.  For hard layout p...</title>
+      <link>https://x.com/petergyang/status/2122347721298510021</link>
+      <description>作者：Peter Yang
+账号：@petergyang
+简介：Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6
 
-Speaker 2 | 00:53 - 01:18
-We talk about what Robinhood is today as a financial conglomerate trying to expand ownership in the economy from tokenization to prediction markets to how AI agents will trade for everyone in retail. We also talk about Harmonic, his effort to make a math superintelligence, and whether there can be distributed discovery and science rather than centralized. Welcome, Vlad. Vlad, thank you so much for doing this.
+My top 5 takeaways from @nateparrott on how to get Claude to design without AI slop:
 
-Speaker 1 | 01:19 - 01:20
-Thank you for having me.
+1. Give Claude context upfront.
 
-Speaker 2 | 01:20 - 01:28
-So everyone knows Robinhood, but it's also evolved a ton as a company. Can you just put it in context for our listeners? Like, what do you... Describe it today.
+Share screenshots, pages you like, and your past work. For an existing product, have Claude rebuild the real screens from code.
 
-Speaker 1 | 01:28 - 01:54
-We do a lot of things. We're live in some form or another in over 120 countries. And if I had to sum up Robinhood in one word or one idea, it would be ownership. I think we're the ownership company, the companies that's most associated with that. And when I say that, so why does ownership matter?
+2. Research familiar UX patterns.
 
-Speaker 1 | 01:55 - 02:36
-I think on an individual basis, people want to own things. It's the tried and true route to financial freedom, financial independence. You know, if you're an asset owner and you accumulate assets over time, it's just the best way to build your wealth. So there's an individual element to it that really, whether you're trading, whether you're accumulating assets, whether you're investing in venture, I think it's very very important. And also, you know, the things you own say a lot about your personality.
+For hard layout problems, ask Claude to research familiar products that solve something similar and note the layouts people already know how to use.
 
-Speaker 1 | 02:36 - 03:20
-It's almost like, it becomes like a part of your identity. Like, if it's a car collection or your collectibles, your cards, your stock portfolio. I think there's a lot of individuality into it. So I think there's an individual benefit, but I think there's also a collective benefit, the sense that a society without broad ownership is inherently very unstable. It's a fragile society, and if you have more people that own things, they're more bought in, they have more stake in the outcome, and they become kind of defenders and protectors of the system.
+3. Make Claude aware of its design biases.
 
-Speaker 1 | 03:20 - 04:15
-So I think especially now when people are kind of pushing back against society and it feels a little bit fraught with AI and all of this disruption, I think giving people the ability to own companies at earlier stages is increasingly important. So it's really what ties together all of our things from Trump accounts, which is ownership at age zero, Robinhood Ventures, ownership of private companies before they go public. Tokenization, you can think of as ownership gone global. Like how can we make all the people outside The US, people in 120 plus countries that don't sometimes even have functional banking systems, how can we kind of plug them into this economic fabric of society? So yeah, that's how I think about it.
+&quot;The model has no idea what its own biases are.&quot; In your design.md or another file, consider discouraging Claude's tells like serif text, off-white backgrounds, and card-edge bars.
 
-Speaker 1 | 04:15 - 04:37
-We started off as just a simple app to buy stocks at zero commissions on your phone, and then we've kind of expanded from that into an increasingly global financial conglomerate that allows customers to own things across a wide variety of surfaces and asset classes.
+4. Start with wireframes.
 
-Speaker 2 | 04:37 - 05:06
-You might be the only large financial I think of as a missionary organization, with the other being like Vanguard or something like that. Can we talk about how you got here? Like, you know, so you... I learned recently that you studied math under Terence Tau, and you worked on HFT. Neither of those sound like a missionary for people, if may say that.
+Have Claude create wireframes first and give it feedback to nail your core user flows before going deep on fonts and colors.
 
-Speaker 2 | 05:06 - 05:11
-How did you discover this mission or, you know, come to it? Yeah.
+5. Ask for multiple options, then remix them.
 
-Speaker 1 | 05:11 - 06:04
-Yeah, so, I mean, rewinding back even further, I was born in Eastern Europe in the late 80s, kind of on the brink of the collapse of the Soviet Union and the lifting of the Iron Curtain, and actually in the nineteen ninety's, so I immigrated to The US after my parents. My dad had an opportunity to come study at the University of Delaware for his master's, and then was also was able to take advantage of that and stay in America full time. And so my mom came about a year after, and I came about six months after her, which was a pretty unique experience. I mean, talk to a lot of parents. I didn't see my dad for a year and a half and my mom for six months when I was a small child.
+Ask Claude for 5 options for key screens with different fonts, colors, and styles. Then pick the parts you like and ask it to remix and create 5 more options.
 
-Speaker 1 | 06:04 - 06:38
-I lived with my grandparents and a large portion of that was we just didn't have the money to send the whole family. So we had to, you know, we weren't sure that my dad would have a long term future in this country. So we thought maybe he'd come back after a year or two years. And anyway, he did quite well and was able to send for my mom and then me. And my last year in Bulgaria, 1991, the inflation rate was something like 170% in Bulgaria.
+📌 Watch the full episode now: https://t.co/HPX5HjXafX
 
-Speaker 1 | 06:38 - 07:15
-So my early memories were the rolling blackouts, and you know, my family huddled around the radio, which was battery operated, just listening to what was going on. The lines at the bodega which I could see from my window for buying milk and eggs, the milk would come in these big plastic bags, and you know, the one week a year you would get bananas from other communist countries. So Cuba would, the Cuban bananas I remember were just amazing. And then I would come to The US and there were just bananas everywhere, right? But they weren't as good.
+Also available as a written post: https://t.co/jcofmkQc01</description>
+      <pubDate>Mon, 16 Nov 2026 15:15:02 +0000</pubDate>
+      <guid isPermaLink="false">2122347721298510021</guid>
+    </item>
+    <item>
+      <title>[One Million AI Engineer Special] How Stanford Teaches AI-Native Engineering — Mihail Eric, Monaco</title>
+      <link>https://www.youtube.com/@LatentSpacePod</link>
+      <description>播客：Latent Space
 
-Speaker 1 | 07:17 - 07:56
-And so, yeah, and even after I moved, in 1997 Bulgaria had the unfortunate distinction of having the number one inflation rate in the world. It was something like 2000% annualized, so they were just adding zeros to the currency every couple of months. And so from that point I just developed kind of an understanding of money. I had to be very independent. Parents, it was always a topic of conversation, and we'd have to send money to my grandparents back home as they were dealing with this inflation crisis, and my grandparents actually would keep their assets in copper cookware.
+Okay, this is a pretty special episode because we're celebrating one million subscribers on the AIU Code, uh, AI, AI Engineer YouTube channel. So go over there and subscribe if you haven't heard about it already.
 
-Speaker 1 | 07:56 - 08:23
-So there was this closet in my grandfather's house where, you know, he worked as a doctor kind of in the shipbuilding and naval industries, so he was on a boat a lot of times. So he had his contacts at the port, and as soon as he would get salary, he would exchange it for copper cookware. So it was kind of the first real world asset that I encountered people Like, investing
+The guest is Mihail Eric, who is not only teaching the Modern Software Developer at Stanford, which is going viral right now for basically covering all the AI-native development pract- best practices, uh, but also he is head of AI at Monaco.
 
-Speaker 2 | 08:24 - 08:25
-sorry, stacked like pans.
+So he's not only a teacher, but he's a practitioner. Um, and those of you coming to AIU Code Summit next week, um, it's gonna be the celebration of all the extreme progress that you've seen in coding in the last year.
 
-Speaker 1 | 08:25 - 08:28
-Exactly. Yeah, In the closet you'd have.
+I'm excited about all the themes of fighting slop, of system one models, and of increasing your ambition for major rewrites of basically everything that you've seen in code.
 
-Speaker 2 | 08:28 - 08:29
-Holds value,
+Um, there's never been a more exciting time to be an AI engineer, and with one million AI engineers, I think it's just getting started. So let's get into the interview.
 
-Speaker 1 | 08:29 - 09:06
-Pots and pans, much better than the local currency at the time. And so, I just, I grew up with that. I grew up understanding, you know, what happens in a broken system where you don't have free markets and good healthy capital markets. And I'd say for me, I pretty quickly discovered that academically I was quite strong, and also independent. Basically by choice, yo...</description>
-      <pubDate>Thu, 05 Nov 2026 11:00:00 +0000</pubDate>
-      <guid>https://www.youtube.com/@NoPriorsPodcast</guid>
+Okay, we're in the studio with Mihail Eric, Adjunct Professor at Stanford and Head of AI at Monaco. Welcome. Thank you. I'm glad to be here.
+
+You caught our attention because of your course that you are refreshing for the third time, third year? Second time. Second time? Yep. The CS 146, or 146S, the Modern Software Developer at Stanford.
+
+This particular generation of junior developers, of junior engineers, the people that are now entering the workforce, will, I think, be the first kind of generation of that new shift.
+
+And I looked at the syllabus, and I was like, &quot;This is everything we cover.&quot; So every now and then, I like to invite people like yourself who, like, you cover a broad range of topics- Mm-hmm...
+
+and then we can sort of go topic by topic and give people the state of the art- Yeah... on each of these things, which I, I assume you're doing with all your guests anyway. For sure. Tell us the history of the course.
+
+What made you wanna spring out CS 146? Yeah. So this is the second time it's being taught, and I taught it for the first time last fall, so fall 2025. This was pre, like, Opus 4.5, 4.6 days.
+
+But the-- Even before fall 2025, the course had been about, like, a year in the making.
+
+The genesis of the class was like November of 2024, and I had sort of had this idea that we're seeing all this stuff happening in coding agents, and yes, they were an earlier version of the coding agents, but already it felt like there was something drastically changing in terms of how developers were doing their work, how quickly we were getting work done, uh, all that fun stuff.
+
+And so at the time, I just-- It was all just scattered blog posts, scattered, like, things you could find online if you were trying to really get into the, the methodology of how to do these things.
+
+And so I, I had this idea like, &quot;Hey, well, is there a way to kind of structure a curriculum around this that's a little bit more formal?&quot; Had the idea.
+
+And you know, I, my alma mater is Stanford, and I always had this dream to go back and teach something and, and kind of pay it forward. Uh, I've always been very deep into education.
+
+I talked to Chip, who also taught a class, uh, one of my good friends. Chip Hieatt. Yeah. Yeah, Chip Hieatt, exactly. Uh, spoke to her.
+
+Who-- She had taught her, I guess, designing machine learning systems, and so, like, asked her what that process was like, and sort of, you know, took a lot of inspiration for how she-- from how she designed the curriculum and, and thought about, you know, getting something through the, through the school.
+
+Put it together, spent about nine to ten months. This was now fall of 2024 through to, like, you know, mid to late of 2025. Got it through the committee, uh, made a case for the class to exist.
+
+You know, I had to put together a proposal and everything. Uh, and that took me to fall 2025, when I taught it for the first time, which was very well-received. You know, students were really interested in it.
+
+Uh, there was even, I guess, like, a Business Insider article that was written about the class last year. And then, yeah, this year, uh, a lot of things changed.
+
+I would say really coding agents, autonomous coding agents really have picked up- [laughs]... in a way that, that we had not seen before.
+
+Um, so it felt like it was time to do this again, uh, refresh things, uh, and here we are. M-Meanwhile, you're also head of AI at Monaco- Yeah... which is also a very buzzy startup. Yes, yes.
+
+We are, we are, we are, we're in the airwaves right now and, and, uh, having a fun time doing it. Yeah. Yeah. Uh, so, like, I, I do like that you're also, I guess, a practitioner.
+
+You guys are obviously implementing all this stuff at Monaco. Yeah. Any, I guess, principles or observations about just what you have changed from last year to this year at a high level? Yeah, yeah. I mean, a ton.
+
+I think that
+
+when I reflect on what last year's version of the class was, uh, I mean, coding agents had been around, but we were still in kind of that phase where companies were emerging that were tackling every single part of, like, the ISDLC.
+
+There was, like, a coding agent for code review. There was a coding agent for, you know, spec design. There was a coding agent for, uh, SRE. And, you know, some of those-- Of course, some of those companies still exist.
+
+But it felt like last year it was a lot more about a broad tour of here's everywhere you can use coding agents.
+
+And in a way, a lot of the curriculum last year was, was geared toward exposure and this, this kind of survey, this kind of like odyssey of sorts through, hey, everything that you knew a-about the ISDLC is now changing because of AI.
+
+Um, this year I think there's some principles that are solidifying, right? The idea of, like, very careful context engineering.
+
+The idea of, like, really thinking through sort of like design and architecture as a way of handling really complex tasks. And so the nature of my class is it's not intended for the, like, beginner programmer.
+
+It is not a, it is not a replacement for, like, traditional computer science in the sense of, like, algorithms and if-- In fact, a lot of those classes are prereqs to what I'm, what I'm doing here.
+
+But I do know that you-- if you have a good foundation, going now toward applying that and, and, and sort of using those principles in, in production environments in, like, real world, that's something that I think is, is now at a place where...
+
+You know, at Monaco, we deal with ma-massive code bases. You know, I help a lot of companies also with thinking through their massive code base, uh, designs and things like that.
+
+And so really, it's more of a practitioner's course for once the students have graduated or are now entering the workforce, how to be the most productive members of, of the workforce. Yeah.
+
+You said you're passionate about education. I feel like students in that phase of being in college are in a pretty interesting spot. Any advice and any takes? Should people study computer science right now?
+
+Is cloud code and Codex all we need? Like, I, I wanna, you know, hear your thoughts. Yeah. I, uh, you know, there's a lot of anxiety from students, as you can probably imagine.
+
+And, uh, and I, I think a lot of what I'm trying to communicate this time around is that the anxiety, a lot of it still is here, and there was anxiety last year as well.
+
+But I wanna make the case that A well-trained AI native engineer, and I know that's like a buzzy word- [laughs]...
+
+but let's say that we'll, we'll, we'll, we'll, we'll dive into maybe what aspects of that, that, that are most interesting.
+
+A, like, well-trained and native engineer can be some of the most, you know, the most useful assets like any company around. And so,
+
+and, and, you know, I-- this is the first week of class actually, and like week one, and you know, first lecture I'm like: Hey, I really believe that every company needs you, but the flo...</description>
+      <pubDate>Sun, 08 Nov 2026 21:23:29 +0000</pubDate>
+      <guid>https://www.youtube.com/@LatentSpacePod</guid>
     </item>
   </channel>
 </rss>
