@@ -5,7 +5,7 @@
     <link>https://github.com/zarazhangrui/follow-builders</link>
     <description>聚合 AI 领域建设者的 X、播客和博客内容。</description>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 17 Nov 2026 15:04:32 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 00:08:36 +0000</lastBuildDate>
     <item>
       <title>Fun project for GBrain coming in the next few weeks using Vorflux as my software factory: GBrain backend engine written in Rust  This will replace postgres+pgvector or pglite as the backing store for vector search, graph search, embeddings, RAG and HNSW</title>
       <link>https://x.com/garrytan/status/2122576951080792543</link>
