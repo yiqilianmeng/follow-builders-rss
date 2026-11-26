@@ -5,577 +5,686 @@
     <link>https://github.com/zarazhangrui/follow-builders</link>
     <description>聚合 AI 领域建设者的 X、播客和博客内容。</description>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 26 Nov 2026 01:16:24 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 15:57:26 +0000</lastBuildDate>
     <item>
-      <title>literally if you turn your brain off you are just choosing not to listen at this point https://t.co/1bR6AwZlSf</title>
-      <link>https://x.com/swyx/status/2125448165197570547</link>
-      <description>作者：Swyx
-账号：@swyx
-简介：achieve ambition with intentionality, intensity, integrity &amp; insanity.
-
-affiliations:
-- @smol_ai
-- @cognition
-- @temporalio
-- @aidotengineer
-- @latentspacepod
-
-literally if you turn your brain off you are just choosing not to listen at this point https://t.co/1bR6AwZlSf</description>
-      <pubDate>Wed, 25 Nov 2026 04:35:06 +0000</pubDate>
-      <guid isPermaLink="false">2125448165197570547</guid>
-    </item>
-    <item>
-      <title>hey is silicon valley okay because wtf https://t.co/XM7o4KRgQt https://t.co/Rk9n9G5peG</title>
-      <link>https://x.com/swyx/status/2125444028527468699</link>
-      <description>作者：Swyx
-账号：@swyx
-简介：achieve ambition with intentionality, intensity, integrity &amp; insanity.
-
-affiliations:
-- @smol_ai
-- @cognition
-- @temporalio
-- @aidotengineer
-- @latentspacepod
-
-hey is silicon valley okay because wtf https://t.co/XM7o4KRgQt https://t.co/Rk9n9G5peG</description>
-      <pubDate>Wed, 25 Nov 2026 04:18:39 +0000</pubDate>
-      <guid isPermaLink="false">2125444028527468699</guid>
-    </item>
-    <item>
-      <title>This wouldn’t have sounded possible a year ago, but it’s becoming much more reasonable now that you can get 10X output gains based on the latest in AI model and harness progress. The result is that teams within the same company are driving very different levels of output based on how they’ve adopted...</title>
-      <link>https://x.com/levie/status/2125442246543814686</link>
+      <title>Coding gives you a window into what the future will look like for a large amount of knowledge work.   The first step for most jobs is that we go from doing most of the research, typing, and value creation manually (even if it’s using digital tools) to soon coordinating the work that agents are doing...</title>
+      <link>https://x.com/levie/status/2125837181398950233</link>
       <description>作者：Aaron Levie
 账号：@levie
 简介：ceo @box - your business lives in content. unleash it with AI
 
-This wouldn’t have sounded possible a year ago, but it’s becoming much more reasonable now that you can get 10X output gains based on the latest in AI model and harness progress. The result is that teams within the same company are driving very different levels of output based on how they’ve adopted AI.
+Coding gives you a window into what the future will look like for a large amount of knowledge work. 
 
-This is a different phenomenon from other tech. Typically in the economy you think of technology adoption rates on a per firm basis, because the company generally adopts a relatively standardized approach to doing the new tech thing. Like “that company has gone digital or adopted the cloud”. So generally the uplift across teams is more or less the same across teams. 
+The first step for most jobs is that we go from doing most of the research, typing, and value creation manually (even if it’s using digital tools) to soon coordinating the work that agents are doing. 
 
-AI is starting to look quite different. Even within the same company you can have a 10X delta between the lowest and highest adopters of AI and the impact they’re seeing. The teams that are able to actually figure out how to redesign their processes to best deploy agents in their workflows can see up to an order of magnitude jump in productivity depending on the job function.
+Next, as this step itself becomes redundant or slows down what agents are capable of, we will be giving agents goals to optimize against and they’ll go off on and increasingly solve larger problems for us. 
 
-Right now this is heavily concentrated in coding, but more work will become coding adjacent so we can expect similar results elsewhere too. This is going to definitely lead to some wild dynamics within companies.</description>
-      <pubDate>Wed, 25 Nov 2026 04:11:35 +0000</pubDate>
-      <guid isPermaLink="false">2125442246543814686</guid>
+This may at first blush look like something whose impact gets stuck with coding, but actually a large percentage of knowledge work may eventually just converge with this form factor due to the massive productivity gains that can be generated. Agents will use computers, leverage our existing tools or write new ones, and write code on the fly to solve larger swaths of knowledge work. 
+
+So even if a task today doesn’t seem to be “coding” directly, the task may eventually fold into being coding adjacent. Manufacturing, architecture, life sciences, material sciences, cyber, and on and on.
+ 
+One big hurdle in the way ultimately will be that much of this work remains non-verifiable, so humans will be even more in the loop than they are in coding. But the part that they can hand off will just get bigger and bigger over time as the models are more capable.
+
+So in short, pay attention to coding and you’ll get a sense for where work is going.</description>
+      <pubDate>Thu, 26 Nov 2026 06:20:54 +0000</pubDate>
+      <guid isPermaLink="false">2125837181398950233</guid>
     </item>
     <item>
-      <title>@antigravity If you enjoyed this, sign up for free to my newsletter to get my best AI and product guides.  Join 110,000+ subscribers here: https://t.co/yz9xcsfrhF</title>
-      <link>https://x.com/petergyang/status/2125436963645952307</link>
+      <title>https://t.co/4WLHL6jgR4</title>
+      <link>https://x.com/adityaag/status/2125817213890478282</link>
+      <description>作者：Aditya Agarwal
+账号：@adityaag
+简介：General Partner @SPC, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @Dropbox, Board @Flipkart | Optimist, Builder, Dad
+
+https://t.co/4WLHL6jgR4</description>
+      <pubDate>Thu, 26 Nov 2026 05:01:34 +0000</pubDate>
+      <guid isPermaLink="false">2125817213890478282</guid>
+    </item>
+    <item>
+      <title>Is the new blade runner any good</title>
+      <link>https://x.com/petergyang/status/2125800904628781428</link>
       <description>作者：Peter Yang
 账号：@petergyang
 简介：Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6
 
-@antigravity If you enjoyed this, sign up for free to my newsletter to get my best AI and product guides.
-
-Join 110,000+ subscribers here:
-https://t.co/yz9xcsfrhF</description>
-      <pubDate>Wed, 25 Nov 2026 03:50:35 +0000</pubDate>
-      <guid isPermaLink="false">2125436963645952307</guid>
+Is the new blade runner any good</description>
+      <pubDate>Thu, 26 Nov 2026 03:56:45 +0000</pubDate>
+      <guid isPermaLink="false">2125800904628781428</guid>
     </item>
     <item>
-      <title>also useful here from John:  - local-cloud envs &amp;amp; sandboxes - session vs conversation store - user approval inbox - stream listeners - artifacts for everyone - all configurations of dashboard   https://t.co/Udf0Ex5Znn</title>
-      <link>https://x.com/swyx/status/2125431392226148670</link>
-      <description>作者：Swyx
-账号：@swyx
-简介：achieve ambition with intentionality, intensity, integrity &amp; insanity.
+      <title>We made a billing mistake at launch of GPT-6.2 that incorrectly discounted GPT-6.2 Astra and Sol usage for most users.   We’ve fixed this now, so the same work will use more of your plan’s usage allowance. Comparing to last week, you will reach your limits 40% faster on GPT-6.2 Astra and 25% faster ...</title>
+      <link>https://x.com/thsottiaux/status/2125784147889393806</link>
+      <description>作者：Thibault Sottiaux
+账号：@thsottiaux
+简介：Codex &amp; ChatGPT @OpenAI
 
-affiliations:
-- @smol_ai
-- @cognition
-- @temporalio
-- @aidotengineer
-- @latentspacepod
+We made a billing mistake at launch of GPT-6.2 that incorrectly discounted GPT-6.2 Astra and Sol usage for most users. 
 
-also useful here from John:
+We’ve fixed this now, so the same work will use more of your plan’s usage allowance. Comparing to last week, you will reach your limits 40% faster on GPT-6.2 Astra and 25% faster on Sol. You should still see these go further in usage compared to 6 Astra and 6.1 Sol. Other models weren’t affected, and we won’t charge you for the difference on past usage.
 
-- local-cloud envs &amp;amp; sandboxes
-- session vs conversation store
-- user approval inbox
-- stream listeners
-- artifacts for everyone
-- all configurations of dashboard 
-
-https://t.co/Udf0Ex5Znn</description>
-      <pubDate>Wed, 25 Nov 2026 03:28:27 +0000</pubDate>
-      <guid isPermaLink="false">2125431392226148670</guid>
+As a small token to apologize for the mistake, we’ll be adding one banked reset for everyone on Go, Plus, Pro, and Business.</description>
+      <pubDate>Thu, 26 Nov 2026 02:50:10 +0000</pubDate>
+      <guid isPermaLink="false">2125784147889393806</guid>
     </item>
     <item>
-      <title>MOAR DOT SUPREMACY https://t.co/m3UZ4uDEDv</title>
-      <link>https://x.com/thenanyu/status/2125427566647640288</link>
+      <title>I asked Claude to populate a Civilization-style game map with real data from the US. Opus 5.5 downloaded and parse a ton of public data and 7 hours and 45K lines of code later... it works :)  - 31 real data sources including Census, BEA, BLS, EIA, NOAA, USGS, DoD, NPS, FAA, FEMA, CDC... - Real eleva...</title>
+      <link>https://x.com/karpathy/status/2125779541952246039</link>
+      <description>作者：Andrej Karpathy
+账号：@karpathy
+
+I asked Claude to populate a Civilization-style game map with real data from the US. Opus 5.5 downloaded and parse a ton of public data and 7 hours and 45K lines of code later... it works :)
+
+- 31 real data sources including Census, BEA, BLS, EIA, NOAA, USGS, DoD, NPS, FAA, FEMA, CDC...
+- Real elevation, land cover, GDP, jobs, power plants, mines, ports, airports, bases, parks, universities, freight flows, disasters; all reconciled onto one 25 km hex grid.
+- The data is converted into Civilization language, e.g. Gold yield is GDP. A city's districts are its real industry specializations: San Jose gets a Campus, Detroit is &quot;Motor city&quot;. Its citizens are its real workforce: 1 in 4 San Jose workers are engineers, coders or scientists, against 1 in 14 nationally. Wonders are chosen by published rules, such as national parks by visitor numbers and universities by R&amp;D spending, etc etc.
+- 19 lenses (income, degrees, faith, disasters…), a City View for 524 metros, and nine advisors plus an Explorer. The Explorer turns any column for any of 3,100+ counties into a table and scatter plot, linked to the map.
+- Claude decided to skip a few states and territories sry
+- Built using Claude Code desktop app, Opus 5.5 on medium and turning on ultracode.
+
+It's deployed here: https://t.co/QMhmafXMj5 and the &quot;?&quot; has the source link too. I don't exactly know where I was going with this but it's really fun to browse and play with. Possibly it can be expanded or built into a game. I only have half of my weekly Claude quote left though so someone else will have to take over :D. Claude also made a trailer:</description>
+      <pubDate>Thu, 26 Nov 2026 02:31:52 +0000</pubDate>
+      <guid isPermaLink="false">2125779541952246039</guid>
+    </item>
+    <item>
+      <title>Alright building a cozy little desktop app to help me become a (less terrible) chef https://t.co/te07ee2eq4 https://t.co/ERxcMFJZcp</title>
+      <link>https://x.com/petergyang/status/2125769667096838548</link>
+      <description>作者：Peter Yang
+账号：@petergyang
+简介：Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6
+
+Alright building a cozy little desktop app to help me become a (less terrible) chef https://t.co/te07ee2eq4 https://t.co/ERxcMFJZcp</description>
+      <pubDate>Thu, 26 Nov 2026 01:52:38 +0000</pubDate>
+      <guid isPermaLink="false">2125769667096838548</guid>
+    </item>
+    <item>
+      <title>It seems like the one of the biggest challenges of AI products is just letting humans keep up with whatever the AI is doing.  That ending of Her where the AIs found humans too slow and collectively left us doesn't seem too far from reality.</title>
+      <link>https://x.com/petergyang/status/2125750286539272695</link>
+      <description>作者：Peter Yang
+账号：@petergyang
+简介：Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6
+
+It seems like the one of the biggest challenges of AI products is just letting humans keep up with whatever the AI is doing.
+
+That ending of Her where the AIs found humans too slow and collectively left us doesn't seem too far from reality.</description>
+      <pubDate>Thu, 26 Nov 2026 00:35:37 +0000</pubDate>
+      <guid isPermaLink="false">2125750286539272695</guid>
+    </item>
+    <item>
+      <title>just like me fr https://t.co/8lTxaWoUvw</title>
+      <link>https://x.com/trq212/status/2125750153609163075</link>
+      <description>作者：Thariq
+账号：@trq212
+简介：at your service @openai, formerly Claude Code @anthropicai
+
+just like me fr https://t.co/8lTxaWoUvw</description>
+      <pubDate>Thu, 26 Nov 2026 00:35:05 +0000</pubDate>
+      <guid isPermaLink="false">2125750153609163075</guid>
+    </item>
+    <item>
+      <title>📈 @GeminiApp on a roll right now! People are putting it to work to finish all kinds of tasks. Share some of your favorites!</title>
+      <link>https://x.com/joshwoodward/status/2125740026915152382</link>
+      <description>作者：Josh Woodward
+账号：@joshwoodward
+简介：VP, @Google @GoogleLabs @GeminiApp @GoogleAIStudio
+
+📈 @GeminiApp on a roll right now! People are putting it to work to finish all kinds of tasks. Share some of your favorites!</description>
+      <pubDate>Wed, 25 Nov 2026 23:54:51 +0000</pubDate>
+      <guid isPermaLink="false">2125740026915152382</guid>
+    </item>
+    <item>
+      <title>you love to see it https://t.co/oqGDBzc19K</title>
+      <link>https://x.com/danshipper/status/2125725124535927221</link>
+      <description>作者：Dan Shipper
+账号：@danshipper
+简介：ceo @every | the only subscription you need to stay at the edge of AI
+
+you love to see it https://t.co/oqGDBzc19K</description>
+      <pubDate>Wed, 25 Nov 2026 22:55:38 +0000</pubDate>
+      <guid isPermaLink="false">2125725124535927221</guid>
+    </item>
+    <item>
+      <title>Whenever someone says “chat isn’t the right interface for AI” I know they’re gonna follow it up with a bunch of hand-waving.</title>
+      <link>https://x.com/thenanyu/status/2125718932741120476</link>
       <description>作者：Nan Yu
 账号：@thenanyu
-简介：product, codex @openai. prev head of product @linear
+简介：codex @openai. prev @linear
 
-MOAR DOT SUPREMACY
-https://t.co/m3UZ4uDEDv</description>
-      <pubDate>Wed, 25 Nov 2026 03:13:15 +0000</pubDate>
-      <guid isPermaLink="false">2125427566647640288</guid>
+Whenever someone says “chat isn’t the right interface for AI” I know they’re gonna follow it up with a bunch of hand-waving.</description>
+      <pubDate>Wed, 25 Nov 2026 22:31:02 +0000</pubDate>
+      <guid isPermaLink="false">2125718932741120476</guid>
     </item>
     <item>
-      <title>Open sourced the bg effect builder: https://t.co/1kXz8ojcCK (🔉) https://t.co/k5GSmXawpm https://t.co/4KO6zJjq5n</title>
-      <link>https://x.com/rauchg/status/2125426206183239770</link>
+      <title>This is my new favorite coffee shop in SF..   &amp;gt; coffee &amp;gt; music &amp;gt; lighting &amp;gt; seating &amp;gt; baristas &amp;gt; outlets  All A+  Who’s going to rainbolt this? https://t.co/Gi5eRg9ZjY</title>
+      <link>https://x.com/nikunj/status/2125709379303588068</link>
+      <description>作者：Nikunj Kothari
+账号：@nikunj
+简介：partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian &amp; others. love @shimoleejhaveri + 👦👧
+
+This is my new favorite coffee shop in SF.. 
+
+&amp;gt; coffee
+&amp;gt; music
+&amp;gt; lighting
+&amp;gt; seating
+&amp;gt; baristas
+&amp;gt; outlets
+
+All A+
+
+Who’s going to rainbolt this? https://t.co/Gi5eRg9ZjY</description>
+      <pubDate>Wed, 25 Nov 2026 21:53:04 +0000</pubDate>
+      <guid isPermaLink="false">2125709379303588068</guid>
+    </item>
+    <item>
+      <title>if you want to improve how you operate at work there’s no better time than now!!  have been floored by how @bran_don_gell has used his dot to to become an even better leader @every https://t.co/3I887vO3o4</title>
+      <link>https://x.com/danshipper/status/2125687688066199721</link>
+      <description>作者：Dan Shipper
+账号：@danshipper
+简介：ceo @every | the only subscription you need to stay at the edge of AI
+
+if you want to improve how you operate at work there’s no better time than now!!
+
+have been floored by how @bran_don_gell has used his dot to to become an even better leader @every https://t.co/3I887vO3o4</description>
+      <pubDate>Wed, 25 Nov 2026 20:26:52 +0000</pubDate>
+      <guid isPermaLink="false">2125687688066199721</guid>
+    </item>
+    <item>
+      <title>https://t.co/42SQgiRdwM https://t.co/sNnB3rjAC6</title>
+      <link>https://x.com/thenanyu/status/2125685928819884378</link>
+      <description>作者：Nan Yu
+账号：@thenanyu
+简介：codex @openai. prev @linear
+
+https://t.co/42SQgiRdwM https://t.co/sNnB3rjAC6</description>
+      <pubDate>Wed, 25 Nov 2026 20:19:53 +0000</pubDate>
+      <guid isPermaLink="false">2125685928819884378</guid>
+    </item>
+    <item>
+      <title>We made workflows 10x faster again. Generally speaking, workflows were plenty fast already!  For harness durability (@eve, libfx, pi, opencode…), this is a big deal, as it crushes latency in between turns.  Upgrade to 𝚠𝚘𝚛𝚔𝚏𝚕𝚘𝚠@𝚕𝚊𝚝𝚎𝚜𝚝. No code changes. https://t.co/GmvGi7Ryh9</title>
+      <link>https://x.com/rauchg/status/2125685667833520237</link>
       <description>作者：Guillermo Rauch
 账号：@rauchg
 简介：@vercel CEO
 
-Open sourced the bg effect builder:
-https://t.co/1kXz8ojcCK (🔉) https://t.co/k5GSmXawpm https://t.co/4KO6zJjq5n</description>
-      <pubDate>Wed, 25 Nov 2026 03:07:50 +0000</pubDate>
-      <guid isPermaLink="false">2125426206183239770</guid>
+We made workflows 10x faster again. Generally speaking, workflows were plenty fast already!
+
+For harness durability (@eve, libfx, pi, opencode…), this is a big deal, as it crushes latency in between turns.
+
+Upgrade to 𝚠𝚘𝚛𝚔𝚏𝚕𝚘𝚠@𝚕𝚊𝚝𝚎𝚜𝚝. No code changes. https://t.co/GmvGi7Ryh9</description>
+      <pubDate>Wed, 25 Nov 2026 20:18:51 +0000</pubDate>
+      <guid isPermaLink="false">2125685667833520237</guid>
     </item>
     <item>
-      <title>What a year this has been! Time to reflect and do a blog post over the holidays.  OC is in a great place, we found a niche in prosumer and enterprise adoption. The multiplayer team feature is best in class.  Shipping reliable and free open source is also really really hard, and waking up to countles...</title>
-      <link>https://x.com/steipete/status/2125422797304549672</link>
+      <title>I want the apple that’s willing to ship the iPod shuffle again</title>
+      <link>https://x.com/thenanyu/status/2125684998250590396</link>
+      <description>作者：Nan Yu
+账号：@thenanyu
+简介：codex @openai. prev @linear
+
+I want the apple that’s willing to ship the iPod shuffle again</description>
+      <pubDate>Wed, 25 Nov 2026 20:16:11 +0000</pubDate>
+      <guid isPermaLink="false">2125684998250590396</guid>
+    </item>
+    <item>
+      <title>probably a good time to come clean and say I'm level 5 in WoW</title>
+      <link>https://x.com/trq212/status/2125680562677653743</link>
+      <description>作者：Thariq
+账号：@trq212
+简介：at your service @openai, formerly Claude Code @anthropicai
+
+probably a good time to come clean and say I'm level 5 in WoW</description>
+      <pubDate>Wed, 25 Nov 2026 19:58:34 +0000</pubDate>
+      <guid isPermaLink="false">2125680562677653743</guid>
+    </item>
+    <item>
+      <title>I've joined OpenAI!  I'm very proud of my time at Anthropic, and I'll continue to root for my former colleagues. Both companies have important roles to play in the future.  There is a tremendous amount of work ahead of us to bring AI to the world, and it will demand the very best of all of us. I fel...</title>
+      <link>https://x.com/trq212/status/2125675533761671405</link>
+      <description>作者：Thariq
+账号：@trq212
+简介：at your service @openai, formerly Claude Code @anthropicai
+
+I've joined OpenAI!
+
+I'm very proud of my time at Anthropic, and I'll continue to root for my former colleagues. Both companies have important roles to play in the future.
+
+There is a tremendous amount of work ahead of us to bring AI to the world, and it will demand the very best of all of us. I felt that I could personally contribute the most to this effort at OpenAI.
+
+I believe this is one of the great strengths of Silicon Valley, the flow of ideas and people.
+
+I'm excited to join a team I've long admired, building incredible AI products for over a billion people, and to work alongside friends like @_catwu, @thsottiaux, @ajambrosino, @sharifshameem, @jxnlco and many others to push the frontier forward.
+
+More than anything, I hope to make your experience of using AI just a little bit better.
+
+I am once again at your service.
+
+Thariq</description>
+      <pubDate>Wed, 25 Nov 2026 19:38:35 +0000</pubDate>
+      <guid isPermaLink="false">2125675533761671405</guid>
+    </item>
+    <item>
+      <title>Large scale software migration is now viable provided you can verify the results.  This is exceptionally important given the aging software systems running critical infrastructure. https://t.co/SOg7AEmMGT https://t.co/TaZ5gbzuFa</title>
+      <link>https://x.com/amasad/status/2125664998454366305</link>
+      <description>作者：Amjad Masad
+账号：@amasad
+简介：ceo @replit. civilizationist
+
+Large scale software migration is now viable provided you can verify the results.
+
+This is exceptionally important given the aging software systems running critical infrastructure. https://t.co/SOg7AEmMGT https://t.co/TaZ5gbzuFa</description>
+      <pubDate>Wed, 25 Nov 2026 18:56:43 +0000</pubDate>
+      <guid isPermaLink="false">2125664998454366305</guid>
+    </item>
+    <item>
+      <title>huh, so Google finally built an MCP and is now forbidding clis like gog unless you pay them more? classy https://t.co/TnaqUMbpG9</title>
+      <link>https://x.com/steipete/status/2125654555262431248</link>
       <description>作者：Peter Steinberger
 账号：@steipete
 简介：Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world.
 @OpenClaw🦞 + @OpenAI
 
-What a year this has been! Time to reflect and do a blog post over the holidays.
-
-OC is in a great place, we found a niche in prosumer and enterprise adoption. The multiplayer team feature is best in class.
-
-Shipping reliable and free open source is also really really hard, and waking up to countless user complaints every day is an emotional challenge. I’m glad the team is taking over most of the work these days.
-
-We mostly been focussing on the boring part of ensuring things are fast, reliable and secure, with the exception of the new memory system and soon OpenClaw ID. 
-
-To many more years!</description>
-      <pubDate>Wed, 25 Nov 2026 02:54:17 +0000</pubDate>
-      <guid isPermaLink="false">2125422797304549672</guid>
+huh, so Google finally built an MCP and is now forbidding clis like gog unless you pay them more? classy https://t.co/TnaqUMbpG9</description>
+      <pubDate>Wed, 25 Nov 2026 18:15:13 +0000</pubDate>
+      <guid isPermaLink="false">2125654555262431248</guid>
     </item>
     <item>
-      <title>3B local Muse 🤯 https://t.co/psL7dzZOiu</title>
-      <link>https://x.com/amasad/status/2125414100692041797</link>
-      <description>作者：Amjad Masad
-账号：@amasad
-简介：ceo @replit. civilizationist
-
-3B local Muse 🤯 https://t.co/psL7dzZOiu</description>
-      <pubDate>Wed, 25 Nov 2026 02:19:44 +0000</pubDate>
-      <guid isPermaLink="false">2125414100692041797</guid>
-    </item>
-    <item>
-      <title>The man did change https://t.co/Ptoa5sdBZF</title>
-      <link>https://x.com/mattturck/status/2125395139581657558</link>
+      <title>I probably shouldn't be tweeting about those things, but putting Jensen in therapy is the most hilarious thing - rich and powerful guy succumbs to temptation, it's the oldest story in the book from times immemorial, not a mental health problem, lol</title>
+      <link>https://x.com/mattturck/status/2125652799648399603</link>
       <description>作者：Matt Turck
 账号：@mattturck
 简介：VC at @FirstMarkCap.  Host: MAD Podcast; Organizer: Data Driven NYC, Author: MAD Landscape.
 
-The man did change https://t.co/Ptoa5sdBZF</description>
-      <pubDate>Wed, 25 Nov 2026 01:04:23 +0000</pubDate>
-      <guid isPermaLink="false">2125395139581657558</guid>
+I probably shouldn't be tweeting about those things, but putting Jensen in therapy is the most hilarious thing - rich and powerful guy succumbs to temptation, it's the oldest story in the book from times immemorial, not a mental health problem, lol</description>
+      <pubDate>Wed, 25 Nov 2026 18:08:14 +0000</pubDate>
+      <guid isPermaLink="false">2125652799648399603</guid>
     </item>
     <item>
-      <title>DOT SUPREMACY https://t.co/tpmPV5Gmfr</title>
-      <link>https://x.com/thenanyu/status/2125388928647880795</link>
-      <description>作者：Nan Yu
-账号：@thenanyu
-简介：product, codex @openai. prev head of product @linear
+      <title>As AI gets smarter, implementation details blur away: permissions, code diffs, commands, tool calls…  The harness itself blurs away. It's a high-performance vehicle for code and command execution, and a durable storage engine.  All of fx still fits in 6mb: subagents, MCP, skills, sessions, durabilit...</title>
+      <link>https://x.com/rauchg/status/2125650675665432995</link>
+      <description>作者：Guillermo Rauch
+账号：@rauchg
+简介：@vercel CEO
 
-DOT SUPREMACY https://t.co/tpmPV5Gmfr</description>
-      <pubDate>Wed, 25 Nov 2026 00:39:43 +0000</pubDate>
-      <guid isPermaLink="false">2125388928647880795</guid>
+As AI gets smarter, implementation details blur away: permissions, code diffs, commands, tool calls…
+
+The harness itself blurs away. It's a high-performance vehicle for code and command execution, and a durable storage engine.
+
+All of fx still fits in 6mb: subagents, MCP, skills, sessions, durability, ACP, TUI, network transport…</description>
+      <pubDate>Wed, 25 Nov 2026 17:59:48 +0000</pubDate>
+      <guid isPermaLink="false">2125650675665432995</guid>
     </item>
     <item>
-      <title>my first prompt when we get early access to a new model https://t.co/StoFkQ5Loh</title>
-      <link>https://x.com/danshipper/status/2125380245461045492</link>
+      <title>I'm surprised to see that my Frontend Slides skill has kept growing (now at 32k stars on GitHub) organically even though I haven't talked about it for months.   I thought the growing capabilities of the coding agents would make the skill obsolete.   Why are people still using it?? Why are you unhapp...</title>
+      <link>https://x.com/zarazhangrui/status/2125649866902868355</link>
+      <description>作者：Zara Zhang
+账号：@zarazhangrui
+简介：Builder.  Harvard’17. Instagram: https://t.co/aJqTEMrL2L YouTube: https://t.co/8xzbGWtf6w GitHub: https://t.co/KCuEajezlL
+
+I'm surprised to see that my Frontend Slides skill has kept growing (now at 32k stars on GitHub) organically even though I haven't talked about it for months. 
+
+I thought the growing capabilities of the coding agents would make the skill obsolete. 
+
+Why are people still using it?? Why are you unhappy with the slides produced by Claude/Codex as is?</description>
+      <pubDate>Wed, 25 Nov 2026 17:56:35 +0000</pubDate>
+      <guid isPermaLink="false">2125649866902868355</guid>
+    </item>
+    <item>
+      <title>Gemini does local voices and local accents, just added 66 more, def check out 🇺🇸 🇬🇧 🇮🇳 🇮🇩 🇰🇷 🇧🇷 https://t.co/h4FJ6t5F5M</title>
+      <link>https://x.com/joshwoodward/status/2125641468421546107</link>
+      <description>作者：Josh Woodward
+账号：@joshwoodward
+简介：VP, @Google @GoogleLabs @GeminiApp @GoogleAIStudio
+
+Gemini does local voices and local accents, just added 66 more, def check out 🇺🇸 🇬🇧 🇮🇳 🇮🇩 🇰🇷 🇧🇷 https://t.co/h4FJ6t5F5M</description>
+      <pubDate>Wed, 25 Nov 2026 17:23:13 +0000</pubDate>
+      <guid isPermaLink="false">2125641468421546107</guid>
+    </item>
+    <item>
+      <title>name is 實實 shíshí means truth also a pun on 寶寶</title>
+      <link>https://x.com/ryolu_/status/2125640785588871579</link>
+      <description>作者：Ryo Lu
+账号：@ryolu_
+简介：Designed @Cursor_ai, @NotionHQ, @Stripe, built startups. I make a world where anyone can make software. Aspiring k-pop idol.
+
+name is 實實 shíshí
+means truth
+also a pun on 寶寶</description>
+      <pubDate>Wed, 25 Nov 2026 17:20:30 +0000</pubDate>
+      <guid isPermaLink="false">2125640785588871579</guid>
+    </item>
+    <item>
+      <title>I don't think I'd heard the word &quot;hyperstitioning&quot; before, but it's a good one. https://t.co/0I1yz7jivU</title>
+      <link>https://x.com/sama/status/2125639418849714280</link>
+      <description>作者：Sam Altman
+账号：@sama
+简介：The mission of OpenAI is to ensure that AGI benefits all of humanity
+
+I don't think I'd heard the word &quot;hyperstitioning&quot; before, but it's a good one. https://t.co/0I1yz7jivU</description>
+      <pubDate>Wed, 25 Nov 2026 17:15:04 +0000</pubDate>
+      <guid isPermaLink="false">2125639418849714280</guid>
+    </item>
+    <item>
+      <title>We’re now testing Private Inference, our latest offering as part of OpenAI Private Intelligence, with a small group of customers.  Stronger privacy protections will make frontier AI useful for a lot more work, and business privacy is important for a healthy ecosystem. Reach out to @shekar4x if inter...</title>
+      <link>https://x.com/sama/status/2125638790593274259</link>
+      <description>作者：Sam Altman
+账号：@sama
+简介：The mission of OpenAI is to ensure that AGI benefits all of humanity
+
+We’re now testing Private Inference, our latest offering as part of OpenAI Private Intelligence, with a small group of customers.
+
+Stronger privacy protections will make frontier AI useful for a lot more work, and business privacy is important for a healthy ecosystem. Reach out to @shekar4x if interested!
+
+(Also, ZDR with Private Safety Processing enables automated safety reviews without giving OpenAI personnel access to the underlying content.)</description>
+      <pubDate>Wed, 25 Nov 2026 17:12:34 +0000</pubDate>
+      <guid isPermaLink="false">2125638790593274259</guid>
+    </item>
+    <item>
+      <title>really hurtful to be a new media founder when old media is dying this quickly.  like; its not a &quot;haha they suck this is a skill issue&quot; thing, it's a &quot;we need to figure out what they couldn't with 31 years of experience&quot; https://t.co/ampl4QdDGU https://t.co/Gi9jyxD3Pi</title>
+      <link>https://x.com/swyx/status/2125638081848250634</link>
+      <description>作者：Swyx
+账号：@swyx
+简介：achieve ambition with intentionality, intensity, integrity &amp; insanity.
+
+affiliations:
+- @smol_ai
+- @cognition
+- @temporalio
+- @aidotengineer
+- @latentspacepod
+
+really hurtful to be a new media founder when old media is dying this quickly.
+
+like; its not a &quot;haha they suck this is a skill issue&quot; thing, it's a &quot;we need to figure out what they couldn't with 31 years of experience&quot; https://t.co/ampl4QdDGU https://t.co/Gi9jyxD3Pi</description>
+      <pubDate>Wed, 25 Nov 2026 17:09:45 +0000</pubDate>
+      <guid isPermaLink="false">2125638081848250634</guid>
+    </item>
+    <item>
+      <title>https://t.co/3De8PLFcOb</title>
+      <link>https://x.com/danshipper/status/2125635204018540754</link>
       <description>作者：Dan Shipper
 账号：@danshipper
 简介：ceo @every | the only subscription you need to stay at the edge of AI
 
-my first prompt when we get early access to a new model https://t.co/StoFkQ5Loh</description>
-      <pubDate>Wed, 25 Nov 2026 00:05:12 +0000</pubDate>
-      <guid isPermaLink="false">2125380245461045492</guid>
+https://t.co/3De8PLFcOb</description>
+      <pubDate>Wed, 25 Nov 2026 16:58:19 +0000</pubDate>
+      <guid isPermaLink="false">2125635204018540754</guid>
     </item>
     <item>
-      <title>https://t.co/AfzmuDKgnK https://t.co/WwlmvVKgV3</title>
-      <link>https://x.com/danshipper/status/2125379920461533255</link>
-      <description>作者：Dan Shipper
-账号：@danshipper
-简介：ceo @every | the only subscription you need to stay at the edge of AI
-
-https://t.co/AfzmuDKgnK https://t.co/WwlmvVKgV3</description>
-      <pubDate>Wed, 25 Nov 2026 00:03:55 +0000</pubDate>
-      <guid isPermaLink="false">2125379920461533255</guid>
-    </item>
-    <item>
-      <title>2026 pitches in a nutshell..  App companies: He who owns the workflow controls the universe.  Harness companies: He who puts the intelligence to work controls the universe.  Inference companies: He who serves the intelligence controls the universe.  Model companies: He who builds the intelligence co...</title>
-      <link>https://x.com/nikunj/status/2125376105024758112</link>
-      <description>作者：Nikunj Kothari
-账号：@nikunj
-简介：partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian &amp; others. love @shimoleejhaveri + 👦👧
-
-2026 pitches in a nutshell..
-
-App companies: He who owns the workflow controls the universe.
-
-Harness companies: He who puts the intelligence to work controls the universe.
-
-Inference companies: He who serves the intelligence controls the universe.
-
-Model companies: He who builds the intelligence controls the universe.
-
-Data companies: He who feeds the intelligence controls the universe.
-
-Infra companies: He who keeps the intelligence running controls the universe.
-
-Chip companies: He who controls the sand controls the universe.
-
-Energy companies: He who controls the electrons controls the universe.</description>
-      <pubDate>Tue, 24 Nov 2026 23:48:45 +0000</pubDate>
-      <guid isPermaLink="false">2125376105024758112</guid>
-    </item>
-    <item>
-      <title>read the rest: https://t.co/qask0BIPKD</title>
-      <link>https://x.com/danshipper/status/2125370917719343278</link>
-      <description>作者：Dan Shipper
-账号：@danshipper
-简介：ceo @every | the only subscription you need to stay at the edge of AI
-
-read the rest: https://t.co/qask0BIPKD</description>
-      <pubDate>Tue, 24 Nov 2026 23:28:08 +0000</pubDate>
-      <guid isPermaLink="false">2125370917719343278</guid>
-    </item>
-    <item>
-      <title>the predictions around the Jensen saga were a great demo of how little correlation there is between confidence and being right.  it’s wild how many prominent VCs, analysts and experts spoke with complete confidence about how things would play out .  some flip-flopped on their predictions within days...</title>
-      <link>https://x.com/realmadhuguru/status/2125355549202194801</link>
+      <title>AI native teams will eventually force the surrounding organization to become AI native too.  Take software development. coding velocity is way up thanks to AI, while actual shipped products and business impact are unchanged in most companies. That’s cos the surrounding system of experimentation tool...</title>
+      <link>https://x.com/realmadhuguru/status/2125630707640783322</link>
       <description>作者：Madhu Guru
 账号：@realmadhuguru
 简介：Sr Director, AI at Meta; Prev: Google - Led Gemini, Veo, Nano Banana.
 
-the predictions around the Jensen saga were a great demo of how little correlation there is between confidence and being right.
+AI native teams will eventually force the surrounding organization to become AI native too.
 
-it’s wild how many prominent VCs, analysts and experts spoke with complete confidence about how things would play out .
+Take software development. coding velocity is way up thanks to AI, while actual shipped products and business impact are unchanged in most companies. That’s cos the surrounding system of experimentation tooling, evaluation, launch processes, and gtm are outdated.
 
-some flip-flopped on their predictions within days - each time with the same confidence!
+It’s like sticking a Ferrari engine in a sedan and racing it on Indian roads. The engine can rev faster but the car speed is limited by its system and environment.
 
-our info ecosystem asymmetrically rewards certainty, speed and brashness… “I don’t know,
-let’s see how this plays out” just doesn’t get eyeballs.
+AI native companies were built ground up for this new way of building and shipping. They’re also able to shed suboptimal processes faster.
 
-worth remembering with ALL “expert” commentary you consume - people often have far less certainty than their tone suggests. they just form a view, stake out a position and say it loudly.
+Market forces will quickly force all companies to adapt or perish.
 
-take everything with a sack of salt.
-
-this news cycle was also a good way to calibrate on the people who are consistently loud and wrong.</description>
-      <pubDate>Tue, 24 Nov 2026 22:27:04 +0000</pubDate>
-      <guid isPermaLink="false">2125355549202194801</guid>
+If you’re solving this for your company: map out your product lifecycle and rebuild it ground up - tooling, team structure, gtm, everything.</description>
+      <pubDate>Wed, 25 Nov 2026 16:40:27 +0000</pubDate>
+      <guid isPermaLink="false">2125630707640783322</guid>
     </item>
     <item>
-      <title>America can build the best frontier models and still lose the global AI race. Which is why Jensen’s return matters far beyond Nvidia.  Governments around the world want sovereign AI: models they can run on their own soil, on their own infrastructure, under their own control.  If American companies w...</title>
-      <link>https://x.com/amasad/status/2125353849057853876</link>
-      <description>作者：Amjad Masad
-账号：@amasad
-简介：ceo @replit. civilizationist
+      <title>as seen on anthropic blog! https://t.co/aEYhHKC4I4</title>
+      <link>https://x.com/swyx/status/2125627500487393285</link>
+      <description>作者：Swyx
+账号：@swyx
+简介：achieve ambition with intentionality, intensity, integrity &amp; insanity.
 
-America can build the best frontier models and still lose the global AI race. Which is why Jensen’s return matters far beyond Nvidia.
+affiliations:
+- @smol_ai
+- @cognition
+- @temporalio
+- @aidotengineer
+- @latentspacepod
 
-Governments around the world want sovereign AI: models they can run on their own soil, on their own infrastructure, under their own control.
-
-If American companies won’t meet that demand, Chinese companies will. Countries will start with Chinese models, then adopt Chinese infrastructure and chips. Having the smartest model won’t mean much if most of the world runs on someone else’s stack.
-
-We’ve seen a version of this play out with Huawei. China understood that supplying the world’s telecom infrastructure creates lasting strategic influence. Once a country builds its networks around your equipment, it also builds technical expertise, supplier relationships, and future investment around it. Replacing that equipment becomes expensive and disruptive (the US government is now trying to finance replacement operations but it’s been difficult).
-
-That’s why Jensen’s backing of the American open-model ecosystem is so important. Open models give startups the freedom to compete and give countries a reason to build on American technology.
-
-We need both frontier leadership and global adoption. Open models are essential to getting both. https://t.co/f34FKKbljl</description>
-      <pubDate>Tue, 24 Nov 2026 22:20:19 +0000</pubDate>
-      <guid isPermaLink="false">2125353849057853876</guid>
+as seen on anthropic blog! https://t.co/aEYhHKC4I4</description>
+      <pubDate>Wed, 25 Nov 2026 16:27:43 +0000</pubDate>
+      <guid isPermaLink="false">2125627500487393285</guid>
     </item>
     <item>
-      <title>Humans are visual animals https://t.co/FMPH90RaTq</title>
-      <link>https://x.com/zarazhangrui/status/2125339516496200100</link>
-      <description>作者：Zara Zhang
-账号：@zarazhangrui
-简介：Builder.  Harvard’17. Instagram: https://t.co/aJqTEMrL2L YouTube: https://t.co/8xzbGWtf6w GitHub: https://t.co/KCuEajezlL
+      <title>&quot;Cost per task is a misleading metric; the scarce resource is human attention, not token cost.&quot;  beware the pareto frontier charts that make you believe you can reduce every model to 2 numbers; it can hide some AWFUL reliability issues👏 https://t.co/ICtqiXhE4f https://t.co/6LJLlCP8tr</title>
+      <link>https://x.com/swyx/status/2125627281230205435</link>
+      <description>作者：Swyx
+账号：@swyx
+简介：achieve ambition with intentionality, intensity, integrity &amp; insanity.
 
-Humans are visual animals https://t.co/FMPH90RaTq</description>
-      <pubDate>Tue, 24 Nov 2026 21:23:22 +0000</pubDate>
-      <guid isPermaLink="false">2125339516496200100</guid>
+affiliations:
+- @smol_ai
+- @cognition
+- @temporalio
+- @aidotengineer
+- @latentspacepod
+
+&quot;Cost per task is a misleading metric; the scarce resource is human attention, not token cost.&quot;
+
+beware the pareto frontier charts that make you believe you can reduce every model to 2 numbers; it can hide some AWFUL reliability issues👏 https://t.co/ICtqiXhE4f https://t.co/6LJLlCP8tr</description>
+      <pubDate>Wed, 25 Nov 2026 16:26:50 +0000</pubDate>
+      <guid isPermaLink="false">2125627281230205435</guid>
     </item>
     <item>
-      <title>Good stuff https://t.co/tqfvBrVMo7</title>
-      <link>https://x.com/rauchg/status/2125330925324300725</link>
-      <description>作者：Guillermo Rauch
-账号：@rauchg
-简介：@vercel CEO
+      <title>cursor kitty 🧢 my new roommate https://t.co/2Anw18I8iS</title>
+      <link>https://x.com/ryolu_/status/2125626627182985331</link>
+      <description>作者：Ryo Lu
+账号：@ryolu_
+简介：Designed @Cursor_ai, @NotionHQ, @Stripe, built startups. I make a world where anyone can make software. Aspiring k-pop idol.
 
-Good stuff https://t.co/tqfvBrVMo7</description>
-      <pubDate>Tue, 24 Nov 2026 20:49:13 +0000</pubDate>
-      <guid isPermaLink="false">2125330925324300725</guid>
+cursor kitty 🧢
+my new roommate https://t.co/2Anw18I8iS</description>
+      <pubDate>Wed, 25 Nov 2026 16:24:14 +0000</pubDate>
+      <guid isPermaLink="false">2125626627182985331</guid>
     </item>
     <item>
-      <title>The main reason https://t.co/3Z4NESzNKd is a CLI (in this day and age!) is that it's a thin wrapper around 𝚕𝚒𝚋𝚏𝚡.  The goal is to produce the smallest and most intelligent coding agent kernel, that's embeddable on any surface:  browsers, servers, mobile, desktop, OS, ADEs… https://t.co/L51jXUhdBY ht...</title>
-      <link>https://x.com/rauchg/status/2125320020666565096</link>
-      <description>作者：Guillermo Rauch
-账号：@rauchg
-简介：@vercel CEO
+      <title>People using Gemini to achieve the impossible: the elusive Inbox Zero https://t.co/cjF505i0bf</title>
+      <link>https://x.com/joshwoodward/status/2125618295844004197</link>
+      <description>作者：Josh Woodward
+账号：@joshwoodward
+简介：VP, @Google @GoogleLabs @GeminiApp @GoogleAIStudio
 
-The main reason https://t.co/3Z4NESzNKd is a CLI (in this day and age!) is that it's a thin wrapper around 𝚕𝚒𝚋𝚏𝚡.
-
-The goal is to produce the smallest and most intelligent coding agent kernel, that's embeddable on any surface:  browsers, servers, mobile, desktop, OS, ADEs… https://t.co/L51jXUhdBY https://t.co/ksrRsLFHu3</description>
-      <pubDate>Tue, 24 Nov 2026 20:05:54 +0000</pubDate>
-      <guid isPermaLink="false">2125320020666565096</guid>
+People using Gemini to achieve the impossible: the elusive Inbox Zero https://t.co/cjF505i0bf</description>
+      <pubDate>Wed, 25 Nov 2026 15:51:08 +0000</pubDate>
+      <guid isPermaLink="false">2125618295844004197</guid>
     </item>
     <item>
-      <title>Sign up for ChatGPT Business: https://t.co/2WH7P7Yx7L</title>
-      <link>https://x.com/thsottiaux/status/2125299467691987445</link>
-      <description>作者：Thibault Sottiaux
-账号：@thsottiaux
-简介：Codex &amp; ChatGPT @OpenAI
+      <title>What are you exploring with Fable 5.2?</title>
+      <link>https://x.com/claudeai/status/2125616074242552180</link>
+      <description>作者：Claude
+账号：@claudeai
+简介：Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Talk to Claude on https://t.co/ZhTwG8d1e5 or download the app.
 
-Sign up for ChatGPT Business: https://t.co/2WH7P7Yx7L</description>
-      <pubDate>Tue, 24 Nov 2026 18:44:13 +0000</pubDate>
-      <guid isPermaLink="false">2125299467691987445</guid>
+What are you exploring with Fable 5.2?</description>
+      <pubDate>Wed, 25 Nov 2026 15:42:18 +0000</pubDate>
+      <guid isPermaLink="false">2125616074242552180</guid>
     </item>
     <item>
-      <title>https://t.co/SY2X7f40c5</title>
-      <link>https://x.com/thsottiaux/status/2125299436964479474</link>
-      <description>作者：Thibault Sottiaux
-账号：@thsottiaux
-简介：Codex &amp; ChatGPT @OpenAI
+      <title>A robot arm plays 62 moves of checkers, correcting for its own 7mm sag. https://t.co/dmt34q9Mjf</title>
+      <link>https://x.com/claudeai/status/2125616072543944854</link>
+      <description>作者：Claude
+账号：@claudeai
+简介：Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Talk to Claude on https://t.co/ZhTwG8d1e5 or download the app.
 
-https://t.co/SY2X7f40c5</description>
-      <pubDate>Tue, 24 Nov 2026 18:44:06 +0000</pubDate>
-      <guid isPermaLink="false">2125299436964479474</guid>
+A robot arm plays 62 moves of checkers, correcting for its own 7mm sag.
+https://t.co/dmt34q9Mjf</description>
+      <pubDate>Wed, 25 Nov 2026 15:42:18 +0000</pubDate>
+      <guid isPermaLink="false">2125616072543944854</guid>
     </item>
     <item>
-      <title>To all the ChatGPT Business teams out there. We have two small things for you, a banked reset and fast mode at no extra charge through Dec 31. Have fun!</title>
-      <link>https://x.com/thsottiaux/status/2125299248782778588</link>
-      <description>作者：Thibault Sottiaux
-账号：@thsottiaux
-简介：Codex &amp; ChatGPT @OpenAI
+      <title>Origami, folded step by step in code. https://t.co/7n4GQIeEfB</title>
+      <link>https://x.com/claudeai/status/2125616070652555573</link>
+      <description>作者：Claude
+账号：@claudeai
+简介：Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Talk to Claude on https://t.co/ZhTwG8d1e5 or download the app.
 
-To all the ChatGPT Business teams out there. We have two small things for you, a banked reset and fast mode at no extra charge through Dec 31. Have fun!</description>
-      <pubDate>Tue, 24 Nov 2026 18:43:21 +0000</pubDate>
-      <guid isPermaLink="false">2125299248782778588</guid>
+Origami, folded step by step in code.
+https://t.co/7n4GQIeEfB</description>
+      <pubDate>Wed, 25 Nov 2026 15:42:17 +0000</pubDate>
+      <guid isPermaLink="false">2125616070652555573</guid>
     </item>
     <item>
-      <title>Really excited about this one. MCP servers can now ship with their own skills, so Claude Code knows how to use them out of the box. https://t.co/Z0TQVOfGTz</title>
-      <link>https://x.com/bcherny/status/2125292098165612585</link>
-      <description>作者：Boris Cherny
-账号：@bcherny
-简介：Claude @anthropicai
-
-Really excited about this one. MCP servers can now ship with their own skills, so Claude Code knows how to use them out of the box. https://t.co/Z0TQVOfGTz</description>
-      <pubDate>Tue, 24 Nov 2026 18:14:56 +0000</pubDate>
-      <guid isPermaLink="false">2125292098165612585</guid>
-    </item>
-    <item>
-      <title>Unlike say electricity, token demand grows in step functions as we find ways to put more compute to use on behalf of a single user.  auto-complete -&gt; chat -&gt; agent -&gt; long-running autonomous agents -&gt; swarms  Each harness innovation unlocks an order of magnitude more potential token consumption.  Bu...</title>
-      <link>https://x.com/amasad/status/2125287538911072753</link>
-      <description>作者：Amjad Masad
-账号：@amasad
-简介：ceo @replit. civilizationist
-
-Unlike say electricity, token demand grows in step functions as we find ways to put more compute to use on behalf of a single user.
-
-auto-complete -&gt; chat -&gt; agent -&gt; long-running autonomous agents -&gt; swarms
-
-Each harness innovation unlocks an order of magnitude more potential token consumption.
-
-But then there’s a lag between these new tools and users figuring out what to do with them.</description>
-      <pubDate>Tue, 24 Nov 2026 17:56:49 +0000</pubDate>
-      <guid isPermaLink="false">2125287538911072753</guid>
-    </item>
-    <item>
-      <title>“Look at Anthropic below IPO price, they’ve been at it for almost SIX years now and they are BARELY a trillion dollar company” https://t.co/0qdZTTN9Qq</title>
-      <link>https://x.com/mattturck/status/2125275072802029631</link>
-      <description>作者：Matt Turck
-账号：@mattturck
-简介：VC at @FirstMarkCap.  Host: MAD Podcast; Organizer: Data Driven NYC, Author: MAD Landscape.
-
-“Look at Anthropic below IPO price, they’ve been at it for almost SIX years now and they are BARELY a trillion dollar company” https://t.co/0qdZTTN9Qq</description>
-      <pubDate>Tue, 24 Nov 2026 17:07:17 +0000</pubDate>
-      <guid isPermaLink="false">2125275072802029631</guid>
-    </item>
-    <item>
-      <title>One of my favorite movies is Ratatouille, and this is a quote I think of a LOT..  “Not everyone can become a great artist, but a great artist can come from anywhere.”  A good reminder to remember that generational talent can’t be typecast. The exceptional, by definition, defy the pattern.   That is ...</title>
-      <link>https://x.com/nikunj/status/2125270251491520702</link>
+      <title>Next guest up in our weekly series is @jeff_weinstein, product extraordinaire at @stripe on Wednesday, Dec 2nd at noon.   For this session, we'll be chatting about all money.. agent payments, commerce, company formation, taxes and more.   Same format as always: &gt; 60 minute sessions (IRL only) in SF ...</title>
+      <link>https://x.com/nikunj/status/2125612280377442805</link>
       <description>作者：Nikunj Kothari
 账号：@nikunj
 简介：partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian &amp; others. love @shimoleejhaveri + 👦👧
 
-One of my favorite movies is Ratatouille, and this is a quote I think of a LOT..
+Next guest up in our weekly series is @jeff_weinstein, product extraordinaire at @stripe on Wednesday, Dec 2nd at noon. 
 
-“Not everyone can become a great artist, but a great artist can come from anywhere.”
+For this session, we'll be chatting about all money.. agent payments, commerce, company formation, taxes and more. 
 
-A good reminder to remember that generational talent can’t be typecast. The exceptional, by definition, defy the pattern. 
+Same format as always:
+&gt; 60 minute sessions (IRL only) in SF
+&gt; For the first 45 mins, I get to ask the guest spicy questions about their expertise
+&gt; For the last 15 mins, they get to ask me anything they want to learn about venture
+&gt; All off the record, chatham house rules
+&gt; Open to 15 guests who listen in and can ask some of their own questions
 
-That is true for all folks (founders, operators and also investors).</description>
-      <pubDate>Tue, 24 Nov 2026 16:48:08 +0000</pubDate>
-      <guid isPermaLink="false">2125270251491520702</guid>
+Register here if you want to join, and subscribe to the Luma for future guests: https://t.co/KEQo9GNri8</description>
+      <pubDate>Wed, 25 Nov 2026 15:27:14 +0000</pubDate>
+      <guid isPermaLink="false">2125612280377442805</guid>
     </item>
     <item>
-      <title>YC is the YC for hard tech https://t.co/NWlfp6U19R</title>
-      <link>https://x.com/garrytan/status/2125258221946630432</link>
+      <title>Median growth is 10x   Look at this stat and tell me AI is not helping new startups grow faster than they ever have https://t.co/mGKQCNe7ZA https://t.co/eayH5wmVgl</title>
+      <link>https://x.com/garrytan/status/2125592156027101584</link>
       <description>作者：Garry Tan
 账号：@garrytan
 简介：President &amp; CEO @ycombinator —Founder @garryslist—Creator of GStack &amp; GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop
 
-YC is the YC for hard tech https://t.co/NWlfp6U19R</description>
-      <pubDate>Tue, 24 Nov 2026 16:00:20 +0000</pubDate>
-      <guid isPermaLink="false">2125258221946630432</guid>
+Median growth is 10x 
+
+Look at this stat and tell me AI is not helping new startups grow faster than they ever have https://t.co/mGKQCNe7ZA https://t.co/eayH5wmVgl</description>
+      <pubDate>Wed, 25 Nov 2026 14:07:16 +0000</pubDate>
+      <guid isPermaLink="false">2125592156027101584</guid>
     </item>
     <item>
-      <title>The clarity of a product’s positioning is inversely proportional to the number of words it takes to explain what it is in plain language</title>
-      <link>https://x.com/zarazhangrui/status/2125256097925865639</link>
+      <title>I think this clip of Nick Bostrom is quite under-appreciated   He inverts “if anyone builds it everyone dies” to “if nobody builds it everyone dies” and posits superintelligence as poised to extend lives to 1200 to 1400 years https://t.co/SYv676pPVQ https://t.co/LX0ggeaiOr</title>
+      <link>https://x.com/garrytan/status/2125580632814412155</link>
+      <description>作者：Garry Tan
+账号：@garrytan
+简介：President &amp; CEO @ycombinator —Founder @garryslist—Creator of GStack &amp; GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop
+
+I think this clip of Nick Bostrom is quite under-appreciated 
+
+He inverts “if anyone builds it everyone dies” to “if nobody builds it everyone dies” and posits superintelligence as poised to extend lives to 1200 to 1400 years https://t.co/SYv676pPVQ https://t.co/LX0ggeaiOr</description>
+      <pubDate>Wed, 25 Nov 2026 13:21:28 +0000</pubDate>
+      <guid isPermaLink="false">2125580632814412155</guid>
+    </item>
+    <item>
+      <title>𝚕𝚜𝚡: Finder in the terminal.  One-shotted with fx and Gemini Neon + DeepSeek subagents⁰.  I instructed fx to use the Kitty graphics protocol¹ and build inline and interactive modes. It implemented CLI Quick Look of its own volition 😁  ⁰ DS actually did all the heavy lifting. This was very cheap! I j...</title>
+      <link>https://x.com/rauchg/status/2125482861033824410</link>
+      <description>作者：Guillermo Rauch
+账号：@rauchg
+简介：@vercel CEO
+
+𝚕𝚜𝚡: Finder in the terminal.
+
+One-shotted with fx and Gemini Neon + DeepSeek subagents⁰.
+
+I instructed fx to use the Kitty graphics protocol¹ and build inline and interactive modes. It implemented CLI Quick Look of its own volition 😁
+
+⁰ DS actually did all the heavy lifting. This was very cheap! I just told it to use DS 1017 fast subagents.
+¹ This allows a CLI to essentially render anything! A full OS, if you will. I will.</description>
+      <pubDate>Wed, 25 Nov 2026 06:52:58 +0000</pubDate>
+      <guid isPermaLink="false">2125482861033824410</guid>
+    </item>
+    <item>
+      <title>Agreed; I made many tools for myself but I ended up using most of them for just a couple weeks and then stopped...  Making high-retention software is a difficult craft in general; it's hard even if you're building for yourself https://t.co/Dt5rn6RTqC</title>
+      <link>https://x.com/zarazhangrui/status/2125478799387275571</link>
       <description>作者：Zara Zhang
 账号：@zarazhangrui
 简介：Builder.  Harvard’17. Instagram: https://t.co/aJqTEMrL2L YouTube: https://t.co/8xzbGWtf6w GitHub: https://t.co/KCuEajezlL
 
-The clarity of a product’s positioning is inversely proportional to the number of words it takes to explain what it is in plain language</description>
-      <pubDate>Tue, 24 Nov 2026 15:51:53 +0000</pubDate>
-      <guid isPermaLink="false">2125256097925865639</guid>
+Agreed; I made many tools for myself but I ended up using most of them for just a couple weeks and then stopped...
+
+Making high-retention software is a difficult craft in general; it's hard even if you're building for yourself https://t.co/Dt5rn6RTqC</description>
+      <pubDate>Wed, 25 Nov 2026 06:36:49 +0000</pubDate>
+      <guid isPermaLink="false">2125478799387275571</guid>
     </item>
     <item>
-      <title>Second, society hit a limit in its ability to absorb the tech socially. There are natural brakes on how much a knowledge work process or business process can change: people don’t like their cheese moved. https://t.co/q7VI5RNow1</title>
-      <link>https://x.com/garrytan/status/2125247972158193792</link>
-      <description>作者：Garry Tan
-账号：@garrytan
-简介：President &amp; CEO @ycombinator —Founder @garryslist—Creator of GStack &amp; GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop
+      <title>OpenAI’s Noam Brown: Why Game Theory Didn’t Lead to General Intelligence (Live at No Limit Finals)</title>
+      <link>https://www.youtube.com/watch?v=tRaFbDFBl_A</link>
+      <description>播客：Training Data
 
-Second, society hit a limit in its ability to absorb the tech socially. There are natural brakes on how much a knowledge work process or business process can change: people don’t like their cheese moved. https://t.co/q7VI5RNow1</description>
-      <pubDate>Tue, 24 Nov 2026 15:19:36 +0000</pubDate>
-      <guid isPermaLink="false">2125247972158193792</guid>
-    </item>
-    <item>
-      <title>First, the models have reached beyond what some customers even need. Though I suspect there is still a step function in agency and taste available even if the models can do the tasks today. https://t.co/7a26JGS13f</title>
-      <link>https://x.com/garrytan/status/2125247943540142577</link>
-      <description>作者：Garry Tan
-账号：@garrytan
-简介：President &amp; CEO @ycombinator —Founder @garryslist—Creator of GStack &amp; GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop
+Speaker 1 | 00:00 - 00:22
+Please join me in a round of applause for Noam and Alfred. Hey, Noam. Thank you for coming. It's been a rainy day, and this is this is actually all because of you, because you started studying poker for a while. You and I talked a little bit about your research before you went to OpenAI.
 
-First, the models have reached beyond what some customers even need. Though I suspect there is still a step function in agency and taste available even if the models can do the tasks today. https://t.co/7a26JGS13f</description>
-      <pubDate>Tue, 24 Nov 2026 15:19:29 +0000</pubDate>
-      <guid isPermaLink="false">2125247943540142577</guid>
-    </item>
-    <item>
-      <title>Also follow @adhidesign, the designer behind Antigravity and @_mohansolo, the new &quot;reset guy&quot; for Gemini :)</title>
-      <link>https://x.com/petergyang/status/2125246828082057462</link>
-      <description>作者：Peter Yang
-账号：@petergyang
-简介：Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6
+Speaker 1 | 00:22 - 00:35
+You went from studying poker to studying game theory and diplomacy to now reasoning. Like, what... Tell us about... A little bit about your path. Why did you decide to study poker of all all things?
 
-Also follow @adhidesign, the designer behind Antigravity and @_mohansolo, the new &quot;reset guy&quot; for Gemini :)</description>
-      <pubDate>Tue, 24 Nov 2026 15:15:03 +0000</pubDate>
-      <guid isPermaLink="false">2125246828082057462</guid>
-    </item>
-    <item>
-      <title>I've been using Gemini 4 Neon and @antigravity all weekend and made a free video course on how you can get the most out of this combo.  Some takeaways:  1. Orchestrator and /swarm are very useful for planning and building with multiple agents. At one point, I had 42 agents running at once.  2. /gril...</title>
-      <link>https://x.com/petergyang/status/2125246815884984398</link>
-      <description>作者：Peter Yang
-账号：@petergyang
-简介：Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6
+Speaker 2 | 00:35 - 00:44
+Yeah. So first of it's great to be here. It's really exciting to see all these people working, like, able to do so much in an hour. I'm I'm... I think it's really incredible.
 
-I've been using Gemini 4 Neon and @antigravity all weekend and made a free video course on how you can get the most out of this combo.
+Speaker 2 | 00:46 - 01:04
+My journey, I started... I finished undergrad. I wasn't really sure what I wanted to do, and I figured I wanted to do research. And I wasn't really sure in what. And when I was looking at grad schools, there was this professor that was looking for people to work on AI to play poker, and I thought this is great.
 
-Some takeaways:
+Speaker 2 | 01:04 - 01:26
+I have a lot of interest in game theory. I have a lot of interest in computer science, economics, and I had played poker a lot in high school and college, and I loved the game. And I thought it was always really fascinating that there was this perfect strategy to poker that nobody... And nobody knew what it was. But if you could find it, you could just make unlimited money.
 
-1. Orchestrator and /swarm are very useful for planning and building with multiple agents. At one point, I had 42 agents running at once.
+Speaker 2 | 01:26 - 01:37
+So I started working on that basically as soon as I started grad school in 2012 and worked on it continuously through my whole PhD. And it's actually pretty unusual to to work on something.
 
-2. /grill-me is a great built-in skill that gets Antigravity to ask clarifying questions to help you flesh out the plan first.
+Speaker 1 | 01:37 - 01:39
+Money during that time too?
 
-3. Remote control is better than Claude Code's because every thread is active by default. I show you how to add Antigravity to your phone home screen to run this in the video.
+Speaker 2 | 01:39 - 02:04
+I never used it to play online poker, but there is a fun fact. There was the precursor to this, I guess, the MIT PokerBots competition, which ran for several years. And as a poor grad student, I wanted to enter this competition because there was 10,000 in prize money. And I wasn't at MIT, so I got one of my MIT friends to collaborate collaborate with me, and we submitted the poker bot. We won two years in a row, 2014 and 2015.
 
-📌 Watch my full 17-minute Antigravity course here: https://t.co/lmfSTiVBsm</description>
-      <pubDate>Tue, 24 Nov 2026 15:15:00 +0000</pubDate>
-      <guid isPermaLink="false">2125246815884984398</guid>
-    </item>
-    <item>
-      <title>Ep 98: China Expert on Jensen’s Return</title>
-      <link>https://www.youtube.com/watch?v=gkd5eOQGASU</link>
-      <description>播客：Unsupervised Learning
+Speaker 2 | 02:04 - 02:11
+And after that, I kinda felt bad about, you know, beating up all these people that don't really know how big poker bots, so I stopped doing it after that.
 
-Speaker 1 | 00:00 - 00:34
-It's been a wild past few weeks in AI world with Jensen Huang out and now back in at NVIDIA. And there's been so many twists and turns to this story. I really wanted to dig into it on the podcast, an emergency episode with a good friend of the pod and personal friend Jordan Schneider from China Talk. Jordan is the perfect person to talk about the geopolitical angles of what happened here, what was behind Jensen getting fired in the first place, and who was behind that, and then what was behind this reinstatement and its implications for the broader ecosystem. Jordan's always a ton of fun to talk to and uses as an excuse to jam on all things happening in The US China relationships and where AI sits and all that.
+Speaker 1 | 02:12 - 02:19
+Did you... So if you had sixty minutes to go build a poker bot today, given all that you know, how would you start? It's a
 
-Speaker 1 | 00:34 - 00:45
-I think folks will really enjoy hearing Jordan's perspective. Without further ado, here's the emergency pod. Jordan, what number emergency pod is this for you in the last week and a half?
+Speaker 2 | 02:19 - 02:38
+great question. I'm actually curious to talk to the contestants in here, what strategies they took. The the approaches that we took were very GTO based. And so we would have the agents running, but we basically have the model training, playing self... Do it through self play using CFR.
 
-Speaker 2 | 00:45 - 01:01
-So I've been doing China talk for the past ten years. And I asked Claude, like, what have been the other streaks of emergency shows where, like, over the course of a handful of weeks, I've done multiple. COVID, I did nine. Okay. So, like, reasonable.
+Speaker 2 | 02:39 - 03:17
+Later on, it turned into these more neural net based self play approaches, but everything was focused on self play to converge to GTO. And the problem there is that it takes a long time to train. The coding part you can do without modern LMs, I think you could make the code to run that in an hour, but the training process itself could take many hours. I think you could make a pretty low fidelity GTO bot in an hour. I think if you did k means clustering to reduce the abstraction size to, like, a pretty small, size and then did self play for, like, let's say, thirty minutes, you could actually probably get a a half decent poker bot.
 
-Speaker 2 | 01:01 - 01:07
-Right? Russia invades Ukraine got five, I think. This is now the fifth.
+Speaker 2 | 03:19 - 03:52
+That said, the format, because it's multiplayer and because you're not doing, like, an instant runoff kind of tournament where you're always going to, like, eliminate the weakest competitors, but you're actually playing against all the competitors, I could see an exploitation based approach actually being the better one for this kind of tournament structure. So I think in this setup, I would probably go for an exploitation based approach and try to find the... You know, try to observe the weaknesses of the opponents and then exploit that, especially in a multi a multi handed... Multiplayer situation.
 
-Speaker 1 | 01:07 - 01:10
-Okay. So we're still behind COVID, though.
+Speaker 1 | 03:52 - 04:05
+You're gonna have to submit your own code next year. We're gonna have to have you compete, but you can't win. So I think you make more... You make enough at OpenAI, hopefully. Because the prize money is only a $100,000.
 
-Speaker 2 | 01:10 - 01:27
-Yes. We're still behind COVID. We haven't quite gotten to global pandemic with Jensen Huang coming back from the dead. I mean, like, it's kind of giving me a little bit, like, Napoleon back from Elba hundred day vibes. I mean, is this, like, Trump, Florian, Balogun?
+Speaker 1 | 04:05 - 04:07
+Hopefully, they pay you a little bit more than that.
 
-Speaker 2 | 01:27 - 01:39
-He makes a call. It, like, doesn't end up turning out so well. I think the verdict is still out. This does not feel like a steady state for me. The Democrats are gonna be so unbelievably all over this.
+Speaker 2 | 04:07 - 04:28
+The other thing I'd be curious to see is how well the LLMs do playing in in this tournament. So not not just using it to make a poker bot, but if you play the poker bots against, let's say, GPT six Astra, how Astra would do. Because we've been tracking the performance of... Like, I've been tracking the performance of the... Of these different general purpose LLMs over time.
 
-Speaker 2 | 01:39 - 01:57
-And by the way, like, AI is not a popular thing. Right? So you just have a lot of really uncomfortable streams, which are going to continue to be going. I don't think we can go back to, you know, October 31, with the... With this sort of prejunction era.
+Speaker 2 | 04:28 - 04:37
+And with Astra, like, with... As recent models have developed, they've actually gotten quite good. And Astra, I would say, is actually, like, able to make money playing online poker at this point.
 
-Speaker 2 | 01:57 - 02:32
-And and the main thing is that the only reason the board could feel comfortable doing this is Trump must have told them, okay. We're gonna do some combination of a settlement and pardons for NVIDIA selling onto companies that sold into China and, you know, the PLA. Literally literally the PLA. Like, that was reporting that came out of the Wall Street Journal and the New York Times was there was, like, some segment of Alibaba, which was, like, specifically focused on doing military research that, like, Mega Speed had this partnership with. And, like, that's where the chips went.
+Speaker 1 | 04:37 - 05:02
+Yeah. So maybe back up a step because you you obviously went from poker to diplomacy to reasoning, and now these can do a lot more than just play poker and do it extremely well. Take us through your journey of, like, how you, like, let... Took your learnings from poker to diplomacy, game theory around diplomacy to then... Into reasoning.
 
-Speaker 2 | 02:33 - 02:56
-And, you know, NVIDIA's gonna have to pay a $25,000,000 fine, and then there's gonna be some sort of settlement. And then the Democrats are gonna be screaming about this for three years. And and, like, half the Republican party too because that is an enormous scandal to just, like, sell off critical technology, which was illegal to be sold off at the time. Right? This is not the Malaysia stuff.
+Speaker 1 | 05:02 - 05:04
+I think that's a really interesting path.
 
-Speaker 2 | 02:56 - 03:05
-This is chips that were banned to go into China, going into China, and NVIDIA basically saying, I don't care. Whatever. Like, we'll we'll we'll help make the connections. We'll help make this happen. And both...
+Speaker 2 | 05:04 - 05:20
+Yeah. The original motivation for working on poker was that there had been a lot of progress on Go and Go and chess, you know, perfect information games. And the problem is that if you only have a technique that works on a very narrow domain, then it's actually not that useful. Right? Because you you want something that's general purpose.
 
-Speaker 2 | 03:05 - 03:14
-And by... Oh, and by the way, I was sleeping with the person who was doing this. So, like, I don't know. It's a fucking mess. So I I don't see how the genie gets back in the bottle.
+Speaker 2 | 05:20 - 05:53
+And so the motivation for working on poker was that we can figure out new things about what techniques actually work on these... In these other domains and and eventually make this more general purpose AI that can, for example, play both Go and poker. And after we made the poker bots, I think we did actually learn quite a bit, but the truth is that they weren't that good for chess or Go. And so I wanted to, like, try something more ambitious, something that would expand the the scope of of of games that these techniques would be able to play. And at the time, it was around 2019, g p d z...
 
-Speaker 1 | 03:14 - 03:19
-What actually happened here? You've said he's like... You know, you said NVIDIA has broken the law. Obviously, it seems like
+Speaker 2 | 05:53 - 06:08
+G p d two had come out, and it started to look like there would be rapid progress in language models. And I thought, like... I I honestly, like, our our... The original thing that I was discussing with my teammates was, oh, we we wanna wanna... We wanna make an AI that could play both Go and poker.
 
-Speaker 2 | 03:19 - 03:30
-The fact pattern is... And and I would appreciate your contributing to the context here. So NVIDIA, why do they want to have more clients than just the hyperscalers?
+Speaker 2 | 06:08 - 06:42
+But considering how rapid progress in AI was in 2019, we thought that wouldn't be ambitious enough. And so we wanted to target the game that we thought would be the hardest to make an AI for, which we felt was diplomacy because it is a natural language game that involves negotiations with other players, because it's not just purely adversarial, it's also cooperative, you have to form alliances. In 2019, it was unthinkable that you could have an AI play this game well. And we thought, like, that's that's the perfect thing to aim for. Poker took decades for people to work on.
 
-Speaker 1 | 03:30 - 03:34
-Because you don't want a business that depends on a few players who are also trying to build competitors to you.
+Speaker 2 | 06:42 - 07:01
+If if we have to spend, like, five years making an AI that could finally play diplomacy, that's that's great. So we took it on, and and we learned a lot along the way. And and one of the things that I took away is that, actually, the the game theory approach doesn't actually work that well in diplomacy. Like, I originally came
 
-Speaker 2 | 03:34 - 03:48
-Okay. And so who else is out there? Chinese hyperscalers. And, you know, Tencent, Alibaba, ByteDance. They have the money, but they don't have the chips because Huawei isn't quite up to task today.
-
-Speaker 2 | 03:48 - 04:31
-So Jensen recognized this very early that figuring out a way to continue to sell to China was important to sort of diversify his, you know, his customer base, keep demand high, and, you know, not lose not not lose access to, you know, the only other market that really mattered aside from the Frontier Labs and hyperscalers. So he has been pushing incredibly hard over the past four years now to keep that channel open. And, you know, the the... What the Chinese companies want is they want access to the chips remotely, and they also want access to chips at home. And there's some sort of, like, distinction...
-
-Speaker 2 | 04:31 - 04:59
-There's some there's some, like... You know, there there... There's, like, differences of opinion within the Chinese state on to what extent they should be allowed to use these NVIDIA chips, but, like, all the companies want them. And, you know, there's great reports out by CSAT, which is a a think tank based in Washington, about all of the procurement orders that the Chinese military has put out specifically for accessing NVIDIA chips. Because even they don't wanna train their models on, on Huawei.
-
-Speaker 2 | 04:59 - 05:23
-So, this sort of demand signal has been incredibly clear. And, the, sort of willful looking of the... Looking the other way that has gone on over the past four years, both from a smuggling... You know, from a smuggling perspective has been, you know, frankly disgusting. So, you know, Jensen has been going on television for years saying smuggling doesn't exist.
-
-Speaker 2 | 05:23 - 05:53
-Like, these things are so heavy. How could anyone possibly ever how could anyone possibly ever smuggle these server racks? And then all of a sudden, Super Micro, you know, one of his main customers to whom he'd sold billions of dollars in chips, you know, this guy he was hugging, like, two days before the indictment came out where it turned out that, like, c suite, executives were using, hair dryers to take labels off of the of the of the server racks in order to eve... Ease... More easily transport them into China.
-
-Speaker 2 | 05:53 - 05:57
-So this is a real thing that's been going on, and NVIDIA's basically been pretending that it hasn't happened.
-
-Speaker 1 | 05:57 - 06:00
-It felt that there was, like, split opinions on this even within the administration. Right?
-
-Speaker 2 | 06:00 - 06:21
-Well, I think there were split opinions as... There were absolutely split opinions as to whether or not it was oak... It was the correct choice to restrict sales into China. But you have not been able to... At no point over all the arguments over the past four years have Blackwell chips been able to be legally imported into China.
-
-Speaker 2 | 06:21 - 06:48
-And that's what's been happening. And Jensen's basically done nothing about it. And the the sort of analogy you can look at is the the is the is the banks in the financial system and how they've had to respond to North Korea or Iran or Hamas transiting in in foreign dollars through the banking system. And for a while, you know, Standard Charter, HSBC, Wells Fargo, basically, like, didn't give a shit. And they're like, ah, it's good business.
-
-Speaker 2 | 06:48 - 07:10
-Whatever. It's fine. And then the treasury department over the course of the Bush and Obama administration said, like, no. You have to do this, and we're gonna fine you to the tunes of tens of billions of dollars because you can't just be willfully ignorant. And when we see these transactions and emails that they're just, like, thinking it's fine that, no.
-
-Speak...</description>
-      <pubDate>Tue, 24 Nov 2026 13:05:03 +0000</pubDate>
-      <guid>https://www.youtube.com/watch?v=gkd5eOQGASU</guid>
-    </item>
-    <item>
-      <title>you have to be bad at it for a while https://t.co/s5ECrbQ3sG</title>
-      <link>https://x.com/trq212/status/2125156290494353663</link>
-      <description>作者：Thariq
-账号：@trq212
-简介：at your service, formerly Claude Code @anthropicai
-
-you have to be bad at it for a while https://t.co/s5ECrbQ3sG</description>
-      <pubDate>Tue, 24 Nov 2026 09:15:17 +0000</pubDate>
-      <guid isPermaLink="false">2125156290494353663</guid>
+Speaker 1 | 07:01 - 07:12
+in Say say say more about that because I I thought that game theory was developed to actually be a much better negotiator in a repeat g...</description>
+      <pubDate>Tue, 24 Nov 2026 10:00:00 +0000</pubDate>
+      <guid>https://www.youtube.com/watch?v=tRaFbDFBl_A</guid>
     </item>
   </channel>
 </rss>
